@@ -1,0 +1,7614 @@
+# 词库名称: 古文文生僻词库汇总版
+# 词库分类: 其它
+# 词库描述: 本词库汇集先秦至明清公共古代文献生僻字词，共 8406 条。覆盖诸子百家（庄、荀、韩非、墨子、孙武、鬼谷）、左传国语战国策、三礼孝经、诗经楚辞全篇目与离骚名句、说文尔雅训诂、二十四史；兼收天文历法（二十八宿、天干地支）、地理山川（九州五岳、古地名）、职官科举、器物服饰、动植物药材、建筑宫室、饮食烹饪、乐律棋艺、书画技法、医学本草、佛道典籍、后宫礼俗及唐诗宋词名句，并辑录觳觫、彳亍等生僻动作词与品格词。
+# 词条样例: 一去三十年、一尘不染、一怒而诸侯惧、一日为师、一旦不能有、一片孤城万仞山
+# 解析词数: 7607
+# 解析异常: 0
+
+阿修罗	a xiu luo	520
+暧暧远人村	ai ai yuan ren cun	3664
+叆叇	ai dai	6111
+哀公	ai gong	5821
+哀公问	ai gong wen	5820
+艾官	ai guan	1728
+艾蒿	ai hao	1726
+哀姜	ai jiang	5818
+艾灸	ai jiu	1727
+哀牢	ai lao	5816
+艾镰	ai lian	1725
+爱莲说	ai lian shuo	2810
+哀民生之多艰	ai min sheng zhi duo jian	5817
+爱民治国	ai min zhi guo	2811
+爱上层楼	ai shang ceng lou	2814
+爱士	ai shi	2812
+哀吾生之须臾	ai wu sheng zhi xu yu	5819
+艾叶	ai ye	1729
+爱以身为天下	ai yi shen wei tian xia	2813
+哀一逝而异乡	ai yi shi er yi xiang	5823
+哀郢	ai ying	5814
+哀者胜矣	ai zhe sheng yi	5815
+哀众芳之芜秽	ai zhong fang zhi wu hui	5822
+按察使	an cha shi	4126
+安抚使	an fu shi	5074
+安歌	an ge	5073
+安居而天下熄	an ju er tian xia xi	5077
+安可以为善	an ke yi wei shan	5078
+按摩	an mo	4125
+安平太	an ping tai	5076
+安其居	an qi ju	5079
+安死	an si	5072
+安息	an xi	5075
+安溪铁观音	an xi tie guan yin	5071
+按音	an yin	4124
+岸芷汀兰	an zhi ting lan	4789
+鞌之战	an zhi zhan	367
+鞍之战	an zhi zhan	366
+懊悔	ao hui	4265
+懊恼	ao nao	4266
+懊丧	ao sang	4267
+灞岸	ba an	2895
+八百里分麾下炙	ba bai li fen hui xia zhi	6625
+八段锦	ba duan jin	6627
+八分书	ba fen shu	6630
+拔贡	ba gong	4148
+八观	ba guan	6624
+拔罐	ba guan	4149
+八角门	ba jiao men	6623
+把酒临风	ba jiu lin feng	4178
+把酒问青天	ba jiu wen qing tian	4177
+灞陵	ba ling	2893
+罢免	ba mian	1952
+灞桥	ba qiao	2894
+巴乌	ba wu	4729
+八仙	ba xian	6632
+八仙桌	ba xian zhuo	6631
+霸形	ba xing	416
+霸言	ba yan	415
+八音	ba yin	6622
+八珍	ba zhen	6626
+八柱	ba zhu	6628
+八子	ba zi	6629
+白璧无瑕	bai bi wu xia	2504
+败兵先战而后求胜	bai bing xian zhan er hou qiu sheng	1103
+白茶	bai cha	2501
+白道	bai dao	2498
+百废具兴	bai fei ju xing	2481
+百官志	bai guan zhi	2486
+捭阖	bai he	4109
+白虎	bai hu	2500
+白华	bai hua	2513
+百家争鸣	bai jia zheng ming	2485
+柏酒	bai jiu	3415
+白驹	bai ju	2492
+白驹过隙	bai ju guo xi	2491
+白居易	bai ju yi	2512
+百里奚	bai li xi	2479
+百里奚举于市	bai li xi ju yu shi	2478
+白露	bai lu	2497
+白露横江	bai lu heng jiang	2493
+白露为霜	bai lu wei shuang	2496
+白露未晞	bai lu wei xi	2494
+白露未已	bai lu wei yi	2495
+白毛浮绿水	bai mao fu lv shui	2506
+百媚千娇	bai mei qian jiao	2488
+百媚生	bai mei sheng	2487
+白描	bai miao	2510
+百年多病独登台	bai nian duo bing du deng tai	2482
+百年之后	bai nian zhi hou	2483
+白朴	bai pu	2507
+白起王翦列传	bai qi wang jian lie zhuan	2499
+白日依山尽	bai ri yi shan jin	2509
+白沙在涅	bai sha zai nie	2505
+白芍	bai shao	2503
+百岁	bai sui	2484
+白兔记	bai tu ji	2514
+白心	bai xin	2511
+百姓皆谓我自然	bai xing jie wei wo zi ran	2489
+百姓皆注其耳目	bai xing jie zhu qi er mu	2490
+拜月亭	bai yue ting	4144
+白云一片去悠悠	bai yun yi pian qu you you	2515
+百战不殆	bai zhan bu dai	2480
+白芷	bai zhi	2502
+柏舟	bai zhou	3416
+白术	bai zhu	2508
+板儿	ban er	3447
+版法	ban fa	2805
+板胡	ban hu	3445
+半斤八两	ban jin ba liang	6202
+半两	ban liang	6204
+绊马索	ban ma suo	2014
+阪泉	ban quan	536
+颁朔	ban shuo	327
+板瓦	ban wa	3446
+半夏	ban xia	6203
+榜眼	bang yan	3316
+梆子	bang zi	3363
+宝钗	bao chai	5032
+宝蟾	bao chan	5033
+保此道者不欲盈	bao ci dao zhe bu yu ying	6743
+报得三春晖	bao de san chun hui	4166
+报更	bao geng	4164
+宝官	bao guan	5036
+抱憾	bao han	4158
+保和殿	bao he dian	6744
+宝绘堂记	bao hui tang ji	5034
+宝马雕车香满路	bao ma diao che xiang man lu	5031
+抱明月而长终	bao ming yue er chang zhong	4157
+抱琴	bao qin	4156
+鲍叔牙	bao shu ya	151
+宝塔	bao ta	5037
+豹胎	bao tai	1127
+褒斜	bao xie	1337
+宝玉	bao yu	5035
+鲍鱼	bao yu	150
+鸨羽	bao yu	122
+报怨以德	bao yuan yi de	4165
+保长	bao zhang	6742
+包子	bao zi	6263
+卑鄙	bei bi	6193
+贝币	bei bi	1124
+北定中原	bei ding zhong yuan	6255
+北斗	bei dou	6253
+北斗七星	bei dou qi xing	6252
+北方玄武	bei fang xuan wu	6251
+北风	bei feng	6247
+邶风	bei feng	803
+卑躬屈膝	bei gong qu xi	6194
+北海虽赊	bei hai sui she	6250
+悲回风	bei hui feng	4309
+杯珓	bei jiao	3454
+北门	bei men	6248
+北冥	bei ming	6257
+备内	bei nei	5551
+杯盘狼籍	bei pan lang ji	3453
+北齐书	bei qi shu	6246
+北山	bei shan	6254
+背绳墨以追曲兮	bei sheng mo yi zhui qu xi	1834
+北史	bei shi	6256
+孛星	bei xing	5146
+背伊阙	bei yi que	1835
+北渚	bei zhu	6249
+本草从新	ben cao cong xin	3518
+本草纲目	ben cao gang mu	3516
+本草求真	ben cao qiu zhen	3517
+本草衍义	ben cao yan yi	3515
+贲卦	ben gua	1093
+本纪	ben ji	3520
+本经阴符	ben jing yin fu	3519
+奔丧	ben sang	5232
+本生	ben sheng	3521
+蚌埠	beng bu	1427
+彼岸	bi an	4482
+狴犴	bi an	2763
+彼岸花	bi an hua	4481
+裨补阙漏	bi bu que lou	1343
+笔触	bi chu	2139
+笔法	bi fa	2141
+笔锋	bi feng	2137
+閟宫	bi gong	579
+敝笱	bi gou	3984
+必固强之	bi gu qiang zhi	4401
+必固兴之	bi gu xing zhi	4403
+必固与之	bi gu yu zhi	4404
+必固张之	bi gu zhang zhi	4402
+比卦	bi gua	3204
+璧珪	bi gui	2614
+彼何人斯	bi he ren si	4483
+碧痕	bi hen	2333
+薜户	bi hu	1469
+壁画	bi hua	5584
+避讳	bi hui	811
+必敬必戒	bi jing bi jie	4400
+笔力	bi li	2145
+筚篥	bi li	2123
+薜荔	bi li	1468
+觱篥	bi li	1275
+饆饠	bi luo	278
+碧螺春	bi luo chun	2332
+毕命	bi ming	3203
+闭其门	bi qi men	572
+笔情	bi qing	2143
+笔势	bi shi	2144
+逼视	bi shi	850
+碧瓦	bi wa	2334
+赑屃	bi xi	1059
+陛下	bi xia	492
+必先苦其心志	bi xian ku qi xin zhi	4405
+笔意	bi yi	2142
+必以情	bi yi qing	4408
+必以身后之	bi yi shen hou zhi	4406
+必以言下之	bi yi yan xia zhi	4407
+庇佑	bi you	4655
+必有得天时者矣	bi you de tian shi zhe yi	4398
+必有我师焉	bi you wo shi yan	4397
+必有凶年	bi you xiong nian	4399
+比于赤子	bi yu chi zi	3205
+闭月羞花	bi yue xiu hua	571
+敝则新	bi ze xin	3985
+臂张弩	bi zhang nu	1787
+笔致	bi zhi	2140
+笔走龙蛇	bi zou long she	2138
+辩才无碍	bian cai wu ai	929
+遍插茱萸少一人	bian cha zhu yu shao yi ren	844
+贬斥	bian chi	1097
+便得一山	bian de yi shan	6757
+笾豆	bian dou	2128
+便扶向路	bian fu xiang lu	6756
+变卦	bian gua	6080
+辨奸论	bian jian lun	932
+变脸	bian lian	6079
+编年体	bian nian ti	1976
+编磬	bian qing	1975
+扁鹊仓公列传	bian que cang gong lie zhuan	4209
+便舍船	bian she chuan	6754
+砭石	bian shi	2345
+辩士	bian shi	930
+便欣然忘食	bian xin ran wang shi	6755
+编修	bian xiu	1977
+便要还家	bian yao huan jia	6753
+贬谪	bian zhe	1096
+辩者不善	bian zhe bu shan	928
+辨证论治	bian zheng lun zhi	931
+邲之战	bian zhi zhan	804
+编钟	bian zhong	1974
+贬逐	bian zhu	1095
+表记	biao ji	1362
+摽有梅	biao you mei	4074
+别驾	bie jia	6335
+别类	bie lei	6336
+豳风	bin feng	1128
+宾客	bin ke	4994
+鬓如霜	bin ru shuang	188
+宾天	bin tian	4995
+殡天	bin tian	3219
+膑刑	bin xing	1788
+宾之初筵	bin zhi chu yan	4996
+宾至如归	bin zhi ru gui	4993
+宾主尽东南之美	bin zhu jin dong nan zhi mei	4997
+兵部	bing bu	6549
+兵不厌诈	bing bu yan zha	6557
+丙辰	bing chen	7320
+兵法	bing fa	6553
+兵革非不坚利也	bing ge fei bu jian li ye	6548
+秉公执法	bing gong zhi fa	2255
+冰寒于水	bing han yu shui	6450
+兵甲已足	bing jia yi zu	6552
+槟榔	bing lang	3313
+秉耒	bing lei	2253
+冰裂纹	bing lie wen	6448
+病入膏肓	bing ru gao huang	2533
+秉穑	bing se	2254
+丙申	bing shen	7321
+兵势	bing shi	6556
+兵守	bing shou	6555
+丙午	bing wu	7325
+兵无所容其刃	bing wu suo rong qi ren	6554
+冰弦	bing xian	6449
+丙戌	bing xu	7322
+冰雪聪明	bing xue cong ming	6447
+病也	bing ye	2534
+并怡然自乐	bing yi ran zi le	4675
+丙寅	bing yin	7323
+兵者不祥之器	bing zhe bu xiang zhi qi	6551
+兵者诡道也	bing zhe gui dao ye	6550
+并州	bing zhou	4676
+丙子	bing zi	7324
+饽饽	bo bo	256
+博古架	bo gu jia	6171
+剥卦	bo gua	6300
+薄荷	bo he	1476
+波澜不惊	bo lan bu jing	3081
+拨浪鼓	bo lang gu	4142
+伯乐相马	bo le xiang ma	6853
+菠萝	bo luo	1556
+薄暮	bo mu	1478
+薄暮冥冥	bo mu ming ming	1477
+般若	bo re	1739
+勃三尺微命	bo san chi wei ming	6271
+博士	bo shi	6170
+波斯	bo si	3082
+馎饦	bo tuo	252
+伯兮	bo xi	6852
+博学而笃志	bo xue er du zhi	6169
+伯牙	bo ya	6850
+伯夷列传	bo yi lie zhuan	6851
+擘张弩	bo zhang nu	4070
+博者不知	bo zhe bu zhi	6167
+博志	bo zhi	6168
+搏之不得名曰微	bo zhi bu de ming yue wei	4085
+不爱其资	bu ai qi zi	7389
+布币	bu bi	4722
+不蔽风日	bu bi feng ri	7359
+簿曹	bu cao	2094
+不成器	bu cheng qi	7404
+不成人之恶	bu cheng ren zhi e	7405
+步踟蹰于山隅	bu chi chu yu shan yu	3238
+不耻下问	bu chi xia wen	7369
+不出户知天下	bu chu hu zhi tian xia	7439
+布袋戏	bu dai xi	4719
+不道早已	bu dao zao yi	7347
+不得已而用之	bu de yi er yong zhi	7411
+不得志	bu de zhi	7410
+不动如山	bu dong ru shan	7438
+不阿权贵	bu e quan gui	7346
+不飞则已	bu fei ze yi	7343
+不复出焉	bu fu chu yan	7420
+不复得路	bu fu de lu	7419
+不扶而直	bu fu er zhi	7401
+不敢毁伤	bu gan hui shang	7397
+不敢进寸而退尺	bu gan jin cun er tui chi	7395
+不敢为天下先	bu gan wei tian xia xian	7399
+不敢言而敢怒	bu gan yan er gan nu	7396
+不敢以取强	bu gan yi qu qiang	7398
+不苟	bu gou	7361
+不贵难得之货	bu gui nan de zhi huo	7353
+不贵其师	bu gui qi shi	7354
+步蘅薄而流芳	bu heng bo er liu fang	3239
+不讳	bu hui	7355
+不惑	bu huo	7408
+不惑之年	bu huo zhi nian	7407
+不霁何虹	bu ji he hong	7344
+不汲汲于富贵	bu ji ji yu fu gui	7390
+不积跬步	bu ji kui bu	7373
+不积小流	bu ji xiao liu	7374
+不见而明	bu jian er ming	7358
+不教胡马度阴山	bu jiao hu ma du yin shan	7400
+不尽长江滚滚来	bu jin chang jiang gun gun lai	7413
+不近人情	bu jin ren qing	7349
+卜居	bu ju	6166
+布局	bu ju	4723
+不绝如缕	bu jue ru lv	7370
+不堪盈手赠	bu kan ying shou zeng	7421
+不可不畏	bu ke bu wei	7436
+不可长保	bu ke chang bao	7428
+不可得而贵	bu ke de er gui	7430
+不可得而害	bu ke de er hai	7433
+不可得而贱	bu ke de er jian	7431
+不可得而利	bu ke de er li	7434
+不可得而疏	bu ke de er shu	7432
+不可为也	bu ke wei ye	7435
+不可执也	bu ke zhi ye	7429
+不窥牖见天道	bu kui you jian tian dao	7372
+不蔓不枝	bu man bu zhi	7360
+不鸣则已	bu ming ze yi	7342
+不慕荣利	bu mu rong li	7406
+不能十步	bu neng shi bu	7367
+不戚戚于贫贱	bu qi qi yu pin jian	7402
+不侵	bu qin	7441
+不求甚解	bu qiu shen jie	7391
+部曲	bu qu	783
+不如其已	bu ru qi yi	7417
+不如退而结网	bu ru tui er jie wang	7415
+不如坐进此道	bu ru zuo jin ci dao	7416
+不善人者善人之资	bu shan ren zhe shan ren zhi zi	7424
+不善人之所保	bu shan ren zhi suo bao	7425
+不善者吾亦善之	bu shan zhe wu yi shan zhi	7423
+捕蛇者说	bu she zhe shuo	4113
+不舍昼夜	bu she zhou ye	7362
+不胜受恩感激	bu sheng shou en gan ji	7368
+卜筮	bu shi	6165
+布施	bu shi	4720
+不失其所者久	bu shi qi suo zhe jiu	7418
+部首	bu shou	782
+不思量	bu si liang	7409
+不为而成	bu wei er cheng	7453
+不畏强御	bu wei qiang yu	7388
+不为瓦全	bu wei wa quan	7454
+卜问	bu wen	6164
+不吾知其亦已兮	bu wu zhi qi yi yi xi	7427
+不降	bu xiang	7345
+不笑不足以为道	bu xiao bu zu yi wei dao	7371
+不信者吾亦信之	bu xin zhe wu yi xin zhi	7440
+不言而善应	bu yan er shan ying	7356
+不言之教	bu yan zhi jiao	7357
+步摇	bu yao	3240
+不以兵强天下	bu yi bing qiang tian xia	7446
+不义而富且贵	bu yi er fu qie gui	7452
+不以己悲	bu yi ji bei	7445
+不亦君子乎	bu yi jun zi hu	7450
+不亦乐乎	bu yi le hu	7451
+不以物喜	bu yi wu xi	7443
+不宜异同	bu yi yi tong	7414
+不亦远乎	bu yi yuan hu	7448
+不亦说乎	bu yi yue hu	7449
+不以智治国国之福	bu yi zhi zhi guo guo zhi fu	7444
+不亦重乎	bu yi zhong hu	7447
+不应有恨	bu ying you hen	7412
+不逾矩	bu yu ju	7348
+不欲琭琭如玉	bu yu lu lu ru yu	7392
+步余马于兰皋兮	bu yu ma yu lan gao xi	3241
+不欲以静	bu yu yi jing	7393
+不曰以求得	bu yue yi qiu de	7394
+不战而屈人之兵	bu zhan er qu ren zhi bing	7403
+不召而自来	bu zhao er zi lai	7437
+布政使	bu zheng shi	4721
+步骘	bu zhi	3237
+不知常妄作凶	bu zhi chang wang zuo xiong	7382
+不知乘月几人归	bu zhi cheng yue ji ren gui	7385
+不知道	bu zhi dao	7375
+不知东方之既白	bu zhi dong fang zhi ji bai	7387
+不知江月待何人	bu zhi jiang yue dai he ren	7380
+不知老之将至	bu zhi lao zhi jiang zhi	7378
+不知老之将至云尔	bu zhi lao zhi jiang zhi yun er	7377
+不知其尽也	bu zhi qi jin ye	7384
+不知所言	bu zhi suo yan	7381
+不知天上宫阙	bu zhi tian shang gong que	7383
+不知为不知	bu zhi wei bu zhi	7386
+不知西东	bu zhi xi dong	7376
+不知知	bu zhi zhi	7379
+不周山	bu zhou shan	7426
+不坠青云之志	bu zhui qing yun zhi zhi	7422
+不自伐故有功	bu zi fa gu you gong	7366
+不自见故明	bu zi jian gu ming	7363
+不自矜故长	bu zi jin gu chang	7364
+不自是故彰	bu zi shi gu zhang	7365
+不足为外人道也	bu zu wei wai ren dao ye	7352
+不足以取天下	bu zu yi qu tian xia	7351
+不足者补之	bu zu zhe bu zhi	7350
+不作瓦全	bu zuo wa quan	7442
+彩彻区明	cai che qu ming	4494
+采蘩	cai fan	734
+采葛	cai ge	737
+菜羹	cai geng	1559
+彩绘	cai hui	4493
+财货有余	cai huo you yu	1109
+采菊东篱下	cai ju dong li xia	739
+采苓	cai ling	740
+采绿	cai lv	742
+采女	cai nv	745
+采蘋	cai pin	735
+采芑	cai qi	741
+采樵	cai qiao	744
+才人	cai ren	4204
+财神	cai shen	1110
+采菽	cai shu	738
+才通人	cai tong ren	4203
+采湍濑之玄芝	cai tuan lai zhi xuan zhi	743
+采薇	cai wei	736
+蔡文姬	cai wen ji	1488
+才下眉头	cai xia mei tou	4205
+蔡襄	cai xiang	1486
+裁衣尺	cai yi chi	1345
+材与不材	cai yu bu cai	3472
+蔡泽	cai ze	1487
+蔡仲之命	cai zhong zhi ming	1489
+参患	can huan	6112
+参井鬼	can jing gui	6116
+参军	can jun	6115
+苍璧	cang bi	1680
+藏锋	cang feng	1465
+仓颉	cang jie	6966
+苍龙	cang long	1678
+仓甚虚	cang shen xu	6967
+苍颜白发	cang yan bai fa	1679
+苍术	cang zhu	1681
+曹操	cao cao	3643
+曹冲	cao chong	3647
+草虫	cao chong	1605
+曹风	cao feng	3636
+曹刿论战	cao gui lun zhan	3646
+曹国舅	cao guo jiu	3645
+曹洪	cao hong	3641
+操耒	cao lei	4071
+草笠	cao li	1607
+草庐之中	cao lu zhi zhong	1610
+草木之生也柔脆	cao mu zhi sheng ye rou cui	1609
+曹丕	cao pi	3649
+漕平	cao ping	2909
+曹仁	cao ren	3648
+草色入帘青	cao se ru lian qing	1606
+草盛豆苗稀	cao sheng dou miao xi	1608
+操守	cao shou	4072
+草书	cao shu	1612
+曹爽	cao shuang	3640
+草屋八九间	cao wu ba jiu jian	1611
+曹相国世家	cao xiang guo shi jia	3639
+曹雪芹	cao xue qin	3637
+漕运使	cao yun shi	2908
+曹彰	cao zhang	3644
+曹真	cao zhen	3638
+曹植	cao zhi	3642
+侧锋	ce feng	6763
+侧目而视	ce mu er shi	6764
+策士	ce shi	2124
+参差荇菜	cen ci xing cai	6113
+岑参	cen shen	4796
+曾不吝情去留	ceng bu lin qing qu liu	3634
+嶒崚	ceng leng	4768
+层峦耸翠	ceng luan song cui	4864
+曾益其所不能	ceng yi qi suo bu neng	3630
+茶百戏	cha bai xi	1629
+侘傺	cha chi	6768
+茶匙	cha chi	1636
+茶道	cha dao	1624
+茶垫	cha dian	1635
+茶壶	cha hu	1634
+茶夹	cha jia	1633
+察今	cha jin	4978
+茶巾	cha jin	1632
+茶漏	cha lou	1630
+察纳雅言	cha na ya yan	4977
+茶盘	cha pan	1627
+茶树菇	cha shu gu	1631
+茶碗	cha wan	1626
+茶筅	cha xian	1625
+茶则	cha ze	1637
+茶盏	cha zhan	1628
+茶针	cha zhen	1623
+柴胡	chai hu	3400
+虿盆	chai pen	1429
+柴桑	chai sang	3401
+谗谄	chan chan	1163
+禅定	chan ding	2267
+产后	chan hou	7026
+忏悔	chan hui	4394
+谄媚	chan mei	1183
+繟然而善谋	chan ran er shan mou	2054
+襜帷暂驻	chan wei zan zhu	1329
+巉岩	chan yan	4765
+谗言	chan yan	1164
+襜褕	chan yu	1328
+谄谀	chan yu	1182
+蝉噪	chan zao	1402
+禅宗	chan zong	2268
+长安	chang an	590
+常德不离	chang de bu li	4696
+常德不忒	chang de bu tei	4697
+常德乃足	chang de nai zu	4695
+常棣	chang di	4692
+长笛	chang di	583
+长而不宰	chang er bu zai	582
+长发	chang fa	593
+长庚	chang geng	588
+阊阖	chang he	544
+长寄心于君王	chang ji xin yu jun wang	589
+常建	chang jian	4698
+长顑颔亦何伤	chang kan han yi he shang	580
+长乐	chang le	598
+怅盘桓而不能去	chang pan huan er bu neng qu	4363
+菖蒲	chang pu	1560
+长桥卧波	chang qiao wo bo	587
+常善救物	chang shan jiu wu	4700
+怅神宵而蔽光	chang shen xiao er bi guang	4362
+长生不老	chang sheng bu lao	586
+长生殿	chang sheng dian	584
+长生久视之道	chang sheng jiu shi zhi dao	585
+长使	chang shi	596
+长逝	chang shi	581
+长使英雄泪满襟	chang shi ying xiong lei man jin	595
+长太息以掩涕兮	chang tai xi yi yan ti xi	591
+常武	chang wu	4691
+常无欲可名于小	chang wu yu ke ming yu xiao	4694
+长信宫	chang xin gong	594
+常有司杀者杀	chang you si sha zhe sha	4693
+怅犹豫而狐疑	chang you yu er hu yi	4364
+常于几成而败之	chang yu ji cheng er bai zhi	4701
+长余佩之陆离	chang yu pei zhi lu li	597
+常与善人	chang yu shan ren	4702
+常在	chang zai	4699
+常知稽式	chang zhi ji shi	4690
+长之育之	chang zhi yu zhi	599
+常著文章自娱	chang zhu wen zhang zi yu	4689
+超长吟以永慕兮	chao chang yin yi yong mu xi	1028
+晁错论	chao cuo lun	3697
+超度	chao du	1031
+朝而往	chao er wang	3550
+嘲风	chao feng	5745
+朝服	chao fu	3554
+巢湖	chao hu	4755
+超迁	chao qian	1029
+超然台记	chao ran tai ji	1030
+朝三而暮四	chao san er mu si	3557
+朝甚除	chao shen chu	3552
+朝圣	chao sheng	3556
+抄手游廊	chao shou you lang	4179
+朝饮	chao yin	3545
+朝饮木兰之坠露兮	chao yin mu lan zhi zhui lu xi	3544
+朝饔	chao yong	3546
+车殆马烦	che dai ma fan	975
+车攻	che gong	976
+车裂	che lie	974
+车邻	che lin	972
+车辇	che nian	973
+车弩	che nu	977
+车前	che qian	978
+臣本布衣	chen ben bu yi	1784
+沉璧	chen bi	3116
+陈丞相世家	chen cheng xiang shi jia	505
+臣道	chen dao	1782
+晨风	chen feng	3677
+陈风	chen feng	497
+臣工	chen gong	1786
+陈交接之大纲	chen jiao jie zhi da gang	503
+尘满面	chen man mian	4883
+瞋目	chen mu	2396
+陈杞世家	chen qi shi jia	501
+陈涉世家	chen she shi jia	499
+嗔视	chen shi	5750
+瞋视	chen shi	2395
+陈书	chen shu	504
+谶纬	chen wei	1147
+臣闻河洛之神	chen wen he luo zhi shen	1781
+陈武	chen wu	500
+辰星	chen xing	927
+晨兴理荒秽	chen xing li huang hui	3678
+臣药	chen yao	1783
+谶语	chen yu	1146
+沉鱼落雁	chen yu luo yan	3115
+臣愿闻之	chen yuan wen zhi	1785
+陈轸	chen zhen	498
+陈子昂	chen zi ang	502
+秤锤	cheng chui	2238
+城春草木深	cheng chun cao mu shen	5613
+城非不高也	cheng fei bu gao ye	5608
+成皋	cheng gao	4252
+成公	cheng gong	4255
+城郭	cheng guo	5611
+瞠乎其后	cheng hu qi hou	2394
+城隍	cheng huang	5609
+成吉思汗	cheng ji si han	4254
+乘马	cheng ma	7176
+程门立雪	cheng men li xue	2209
+瞠目结舌	cheng mu jie she	2393
+程普	cheng pu	2210
+城濮之战	cheng pu zhi zhan	5612
+诚全而归之	cheng quan er gui zhi	1226
+城阙辅三秦	cheng que fu san qin	5610
+瞠视	cheng shi	2392
+成实宗	cheng shi zong	4253
+乘天地之正	cheng tian di zhi zheng	7177
+秤砣	cheng tuo	2239
+城下之盟	cheng xia zhi meng	5615
+丞相	cheng xiang	7293
+成相	cheng xiang	4251
+程昱	cheng yu	2211
+城垣	cheng yuan	5614
+称之曰能	cheng zhi yue neng	2215
+尺八	chi ba	4870
+赤壁赋	chi bi fu	1052
+赤壁怀古	chi bi huai gu	1053
+驰骋畋猎	chi cheng tian lie	230
+驰骋天下之至坚	chi cheng tian xia zhi zhi jian	231
+彳亍	chi chu	4485
+踟蹰	chi chu	1003
+赤胆忠心	chi dan zhong xin	1050
+赤道	chi dao	1049
+尺牍	chi du	4868
+褫夺	chi duo	1335
+斥鴳	chi e	3941
+持而保之	chi er bao zhi	4134
+持而盈之	chi er ying zhi	4133
+池非不深也	chi fei bu shen ye	3134
+赤奋若	chi fen ruo	1051
+持服	chi fu	4137
+尺蠖	chi huo	4867
+驰椒丘且焉止息	chi jiao qiu qie yan zhi xi	232
+持戒	chi jie	4138
+侈乐	chi le	6776
+持满	chi man	4135
+魑魅	chi mei	171
+侈靡	chi mi	6775
+螭首	chi shou	1392
+持枢	chi shu	4136
+墀头	chi tou	5601
+螭吻	chi wen	1393
+鸱吻	chi wen	119
+鸱枭	chi xiao	118
+鸱鸮	chi xiao	117
+笞刑	chi xing	2136
+蚩尤	chi you	1424
+尺有所短	chi you suo duan	4869
+池鱼思故渊	chi yu si gu yuan	3133
+褫职	chi zhi	1334
+重光	chong guang	708
+充军	chong jun	6663
+冲气以为和	chong qi yi wei he	6446
+宠辱若惊	chong ru ruo jing	5027
+宠辱偕忘	chong ru xie wang	5028
+重生	chong sheng	705
+宠为下	chong wei xia	5029
+重阳	chong yang	703
+重阳糕	chong yang gao	702
+充依	chong yi	6664
+踌躇满志	chou chu man zhi	1004
+绸缪	chou mou	1985
+丑奴儿	chou nu er	7334
+抽思	chou si	4154
+酬酢	chou zuo	763
+矗不知其几千万落	chu bu zhi qi ji qian wan luo	2385
+楚材晋用	chu cai jin yong	3326
+楚策	chu ce	3325
+出车	chu che	6399
+处处闻啼鸟	chu chu wen ti niao	5556
+处处志之	chu chu zhi zhi	5557
+楚茨	chu ci	3324
+处方	chu fang	5555
+除服	chu fu	483
+储光羲	chu guang xi	6688
+锄禾日当午	chu he ri dang wu	617
+处涸辙以犹欢	chu he zhe yi you huan	5552
+初极狭	chu ji xia	6338
+出家	chu jia	6404
+处江湖之远则忧其君	chu jiang hu zhi yuan ze you qi jun	5553
+楚剧	chu ju	3328
+初刻拍案惊奇	chu ke pai an jing qi	6339
+樗里子甘茂列传	chu li zi gan mao lie zhuan	3311
+黜落	chu luo	42
+黜免	chu mian	43
+出其不意	chu qi bu yi	6408
+出其东门	chu qi dong men	6407
+处其实不居其华	chu qi shi bu ju qi hua	5559
+处前而民不害	chu qian er min bu hai	5558
+刍荛	chu rao	6381
+楚人一炬	chu ren yi ju	3330
+滁人游也	chu ren you ye	2925
+出塞	chu sai	6405
+畜生	chu sheng	2542
+出生入死	chu sheng ru si	6400
+出师表	chu shi biao	6402
+楚世家	chu shi jia	3331
+出师未捷身先死	chu shi wei jie shen xian si	6403
+处暑	chu shu	5554
+褚遂良	chu sui liang	1336
+除夕	chu xi	484
+楚语	chu yu	3323
+出淤泥而不染	chu yu ni er bu ran	6401
+楚元王世家	chu yuan wang shi jia	3329
+出则无敌国外患者	chu ze wu di guo wai huan zhe	6406
+黜陟	chu zhi	41
+楚庄王	chu zhuang wang	3327
+揣而锐之	chuai er rui zhi	4090
+揣篇	chuai pian	4091
+揣情摩意	chuai qing mo yi	4092
+传不习乎	chuan bu xi hu	6862
+传符	chuan fu	6859
+传国玺	chuan guo xi	6861
+川后静波	chuan hou jing bo	4761
+川剧	chuan ju	4762
+传胪	chuan lu	6858
+传奇	chuan qi	6860
+川芎	chuan xiong	4758
+川壅而溃	chuan yong er kui	4760
+川泽纡其骇瞩	chuan ze yu qi hai zhu	4759
+窗含西岭千秋雪	chuang han xi ling qian qiu xue	2188
+床弩	chuang nu	4653
+床前明月光	chuang qian ming yue guang	4654
+垂钓	chui diao	5619
+垂花门	chui hua men	5620
+垂髫	chui tiao	5618
+垂头丧气	chui tou sang qi	5621
+莼菜	chun cai	1568
+唇齿相依	chun chi xiang yi	5802
+唇齿之邦	chun chi zhi bang	5803
+春分	chun fen	3787
+春风不度玉门关	chun feng bu du yu men guan	3773
+春风吹又生	chun feng chui you sheng	3772
+莼羹	chun geng	1569
+蓴羹	chun geng	1492
+春官宗伯	chun guan zong bo	3785
+春光融融	chun guang rong rong	3788
+唇红齿白	chun hong chi bai	5804
+鹑火	chun huo	100
+春江潮水连海平	chun jiang chao shui lian hai ping	3782
+春江花月夜	chun jiang hua yue ye	3781
+春节	chun jie	3774
+莼鲈	chun lu	1567
+莼鲈之思	chun lu zhi si	1566
+春眠不觉晓	chun mian bu jue xiao	3778
+唇枪舌剑	chun qiang she jian	5805
+春秋	chun qiu	3776
+春秋战国	chun qiu zhan guo	3775
+春社	chun she	3777
+春申君	chun shen jun	3780
+春申君列传	chun shen jun lie zhuan	3779
+鹑首	chun shou	99
+莼丝	chun si	1570
+春望	chun wang	3783
+唇亡齿寒	chun wang chi han	5806
+鹑尾	chun wei	101
+春晓	chun xiao	3784
+春夜喜雨	chun ye xi yu	3786
+绰约多姿	chuo yue duo zi	1991
+绰注	chuo zhu	1992
+糍粑	ci ba	2078
+此非曹孟德之诗乎	ci fei cao meng de zhi shi hu	3242
+此非孟德之困于周郎者乎	ci fei meng de zhi kun yu zhou lang zhe hu	3243
+此非以贱为本邪	ci fei yi jian wei ben xie	3244
+慈故能勇	ci gu neng yong	4277
+辞官	ci guan	935
+慈航	ci hang	4275
+赐进士出身	ci jin shi chu shen	1060
+刺客列传	ci ke lie zhuan	6326
+此乐何极	ci le he ji	3250
+此两者或利或害	ci liang zhe huo li huo hai	3254
+辞楼下殿	ci lou xia dian	934
+慈母手中线	ci mu shou zhong xian	4276
+词牌	ci pai	1232
+刺配	ci pei	6325
+此情无计可消除	ci qing wu ji ke xiao chu	3246
+辞去	ci qu	936
+此人一一为具言所闻	ci ren yi yi wei ju yan suo wen	3248
+此三者不可致诘	ci san zhe bu ke zhi jie	3256
+此三者以为文不足	ci san zhe yi wei wen bu zu	3255
+刺史	ci shi	6327
+辞世	ci shi	937
+此事古难全	ci shi gu nan quan	3249
+此时相望不相闻	ci shi xiang wang bu xiang wen	3245
+此则岳阳楼之大观也	ci ze yue yang lou zhi da guan ye	3247
+此之谓大丈夫	ci zhi wei da zhang fu	3251
+此中人语云	ci zhong ren yu yun	3253
+此中有真意	ci zhong you zhen yi	3252
+琮璧	cong bi	2652
+聪慧	cong hui	1843
+从口入	cong kou ru	6969
+丛林	cong lin	7317
+从南湘之二妃	cong nan xiang zhi er fei	6970
+从善如流	cong shan ru liu	6968
+从事	cong shi	6971
+粗粝	cu li	2087
+促织	cu zhi	6752
+窜贬	cuan bian	2186
+篡夺	cuan duo	2098
+窜梁鸿于海曲	cuan liang hong yu hai qu	2187
+篡弑	cuan shi	2097
+巑岏	cuan wan	4763
+篡位	cuan wei	2099
+窜逐	cuan zhu	2185
+萃卦	cui gua	1551
+崔颢	cui hao	4779
+崔嵬	cui wei	4781
+崔巍	cui wei	4780
+皴擦	cun ca	2460
+寸关尺	cun guan chi	4972
+寸积铢累	cun ji zhu lei	4970
+寸量铢称	cun liang zhu cheng	4969
+皴染	cun ran	2459
+寸有所长	cun you suo chang	4971
+村中闻有此人	cun zhong wen you ci ren	3471
+嵯峨	cuo e	4769
+错法	cuo fa	616
+挫其锐	cuo qi rui	4121
+大白若辱	da bai ruo ru	5439
+大辩若讷	da bian ruo ne	5422
+大车	da che	5424
+大成若缺	da cheng ruo que	5458
+大畜	da chu	5440
+大椿	da chun	5446
+大道泛兮	da dao fan xi	5419
+大道废	da dao fei	5420
+大道甚夷	da dao shen yi	5418
+大东	da dong	5486
+大而无当	da er wu dang	5429
+大方无隅	da fang wu yu	5456
+大风	da feng	5413
+大诰	da gao	5426
+大公无私	da gong wu si	5478
+大鼓	da gu	5412
+大过	da guo	5421
+大国不过欲兼畜人	da guo bu guo yu jian chu ren	5470
+大国者下流	da guo zhe xia liu	5469
+大寒	da han	5462
+大红袍	da hong pao	5431
+大荒落	da huang luo	5428
+大火	da huo	5443
+大江东去	da jiang dong qu	5445
+打醮	da jiao	4202
+大军之后	da jun zhi hou	5477
+大匡	da kuang	5476
+大乐	da le	5482
+大理寺	da li si	5442
+大梁	da liang	5448
+打量	da liang	4201
+大吕	da lv	5472
+大梦初醒	da meng chu xing	5447
+大明	da ming	5455
+大明宫	da ming gong	5453
+大明历	da ming li	5454
+大辟	da pi	5423
+大器晚成	da qi wan cheng	5471
+大乔	da qiao	5481
+大巧若拙	da qiao ruo zhuo	5459
+大秦	da qin	5433
+大取	da qu	5474
+达人知命	da ren zhi ming	923
+大射	da she	5461
+达生	da sheng	922
+大事	da shi	5480
+大暑	da shu	5452
+大叔于田	da shu yu tian	5475
+大司命	da si ming	5473
+大田	da tian	5441
+大宛	da wan	5464
+大宛列传	da wan lie zhuan	5463
+大夏	da xia	5467
+大象无形	da xiang wu xing	5425
+大小多少	da xiao duo shao	5460
+大学	da xue	5466
+大雪	da xue	5415
+大雅	da ya	5417
+大衍历	da yan li	5427
+大义凛然	da yi lin ran	5484
+大义灭亲	da yi mie qin	5483
+大音希声	da yin xi sheng	5414
+答应	da ying	2125
+大盈若冲	da ying ruo chong	5438
+大有	da you	5449
+大禹	da yu	5436
+大雩	da yu	5416
+达郁	da yu	921
+大禹谟	da yu mo	5434
+大禹治水	da yu zhi shui	5435
+大渊献	da yuan xian	5444
+大曰逝	da yue shi	5451
+大月氏	da yue shi	5450
+大招	da zhao	5457
+大者宜为下	da zhe yi wei xia	5430
+大直若屈	da zhi ruo qu	5437
+大中正	da zhong zheng	5485
+大传	da zhuan	5479
+大篆	da zhuan	5432
+大壮	da zhuang	5468
+大宗师	da zong shi	5465
+带方	dai fang	4704
+戴金翠之首饰	dai jin cui zhi shou shi	4216
+带利剑	dai li jian	4705
+玳瑁	dai mao	2666
+戴叔伦	dai shu lun	4217
+岱舆	dai yu	4792
+黛玉	dai yu	44
+带月荷锄归	dai yue he chu gui	4703
+待制	dai zhi	4472
+待字	dai zi	4471
+丹陛	dan bi	7237
+丹墀	dan chi	7238
+丹唇外朗	dan chun wai lang	7239
+单刀会	dan dao hui	6192
+儋耳	dan er	6681
+淡乎其无味	dan hu qi wu wei	2997
+丹剂	dan ji	7240
+但见长江送流水	dan jian chang jiang song liu shui	6842
+殚精竭虑	dan jing jie lv	3220
+淡墨	dan mo	2996
+箪瓢	dan piao	2108
+箪瓢屡空	dan piao lv kong	2107
+旦日	dan ri	3845
+但使龙城飞将在	dan shi long cheng fei jiang zai	6844
+但使愿无违	dan shi yuan wu wei	6845
+箪食壶浆	dan si hu jiang	2106
+箪食瓢饮	dan si piao yin	2105
+胆胃大肠	dan wei da chang	1836
+澹兮其若海	dan xi qi ruo hai	2900
+单阏	dan yan	6191
+惮殃	dan yang	4290
+但愿人长久	dan yuan ren chang jiu	6843
+当春乃发生	dang chun nai fa sheng	4509
+当归	dang gui	4510
+当其无	dang qi wu	4511
+当染	dang ran	4508
+当赏	dang shang	4507
+当世之事	dang shi zhi shi	4512
+刀币	dao bi	6391
+道常无名朴	dao chang wu ming pu	836
+道常无为而无不为	dao chang wu wei er wu bu wei	837
+道德经	dao de jing	834
+道德天尊	dao de tian zun	835
+道法自然	dao fa zi ran	832
+道观	dao guan	827
+蹈海而死	dao hai er si	996
+到黄昏点点滴滴	dao huang hun dian dian di di	6332
+道教	dao jiao	833
+悼良会之永绝兮	dao liang hui zhi yong jue xi	4308
+道路以目	dao lu yi mu	826
+道乃久	dao nai jiu	842
+叨陪鲤对	dao pei li dui	6064
+道生一	dao sheng yi	830
+道生之	dao sheng zhi	829
+道狭草木长	dao xia cao mu zhang	831
+导引	dao yin	4963
+道隐无名	dao yin wu ming	822
+盗贼多有	dao zei duo you	2445
+盗贼无有	dao zei wu you	2444
+道者万物之奥	dao zhe wan wu zhi ao	828
+盗跖	dao zhi	2443
+道之出口	dao zhi chu kou	840
+道之华	dao zhi hua	839
+道之为物	dao zhi wei wu	841
+道之尊	dao zhi zun	838
+道阻且长	dao zu qie chang	823
+道阻且跻	dao zu qie ji	824
+道阻且右	dao zu qie you	825
+德才兼备	de cai jian bei	4423
+德充符	de chong fu	4426
+德畜之	de chu zhi	4422
+得道成仙	de dao cheng xian	4448
+得道多助失道寡助	de dao duo zhu shi dao gua zhu	4449
+得道者多助	de dao zhe duo zhu	4447
+德妃	de fei	4424
+得其船	de qi chuan	4455
+德善	de shan	4425
+得胜头回	de sheng tou hui	4450
+得天人之旧馆	de tian ren zhi jiu guan	4454
+得无异乎	de wu yi hu	4451
+德信	de xin	4427
+得意忘言	de yi wang yan	4452
+得鱼忘筌	de yu wang quan	4446
+得与亡孰病	de yu wang shu bing	4458
+德者同于德	de zhe tong yu de	4421
+得志	de zhi	4453
+德之贵	de zhi gui	4428
+得之若惊	de zhi ruo jing	4456
+得之心而寓之酒也	de zhi xin er yu zhi jiu ye	4457
+邓艾	deng ai	810
+戥秤	deng cheng	4218
+磴道	deng dao	2327
+登高	deng gao	2518
+登高作赋	deng gao zuo fu	2517
+登鹳雀楼	deng guan que lou	2516
+灯火阑珊处	deng huo lan shan chu	2883
+蹬技	deng ji	988
+灯架	deng jia	2884
+登科	deng ke	2519
+登乐游原	deng le you yuan	2522
+瞪视	deng shi	2391
+登斯楼也	deng si lou ye	2520
+登幽州台歌	deng you zhou tai ge	2521
+磴栈	deng zhan	2328
+等终军之弱冠	deng zhong jun zhi ruo guan	2127
+戥子	deng zi	4219
+涤除玄览	di chu xuan lan	3005
+地大	di da	5643
+地得一以宁	di de yi yi ning	5640
+地法天	di fa tian	5636
+地官司徒	di guan si tu	5642
+地黄	di huang	5632
+帝阍	di hun	4706
+帝纪	di ji	4708
+鸐鸡	di ji	137
+地接衡庐	di jie heng lu	5639
+帝喾	di ku	4709
+地利不如人和	di li bu ru ren he	5648
+地理志	di li zhi	5634
+敌楼	di lou	3994
+低绮户	di qi hu	6838
+低声下气	di sheng xia qi	6841
+谛视	di shi	1162
+地势极而南溟深	di shi ji er nan ming shen	5647
+地坛	di tan	5644
+低头认罪	di tou ren zui	6839
+低头思故乡	di tou si gu xiang	6840
+地图	di tu	5645
+地无以宁将恐废	di wu yi ning jiang kong fei	5637
+抵巇	di xi	4155
+帝辛	di xin	4707
+地形	di xing	5641
+帝乙	di yi	4710
+地狱	di yu	5635
+地员	di yuan	5646
+地藏	di zang	5633
+地支	di zhi	5638
+弟子职	di zi zhi	4562
+点茶	dian cha	2865
+滇池	dian chi	2924
+滇红	dian hong	2923
+佃客	dian ke	6846
+典客	dian ke	6490
+典谟	dian mo	6489
+电母	dian mu	2554
+点染	dian ran	2866
+殿试	dian shi	3212
+典韦	dian wei	6488
+簟纹	dian wen	2096
+凋敝	diao bi	6433
+雕敝	diao bi	435
+凋残	diao can	6432
+雕残	diao can	433
+貂蝉	diao chan	1126
+雕梁画栋	diao liang hua dong	434
+凋零	diao ling	6430
+雕甍	diao meng	431
+吊屈原赋	diao qu yuan fu	6009
+调任	diao ren	1184
+钓叟	diao sou	662
+凋谢	diao xie	6431
+雕琢复朴	diao zhuo fu pu	432
+蹀踱	die duo	1001
+蝶恋花	die lian hua	1398
+蹀躞	die xie	1000
+鼎铛	ding cheng	33
+鼎铛玉石	ding cheng yu shi	32
+丁丑	ding chou	7573
+定法	ding fa	5047
+定分	ding fen	5049
+丁奉	ding feng	7570
+定公	ding gong	5050
+鼎卦	ding gua	34
+丁亥	ding hai	7572
+丁艰	ding jian	7566
+丁卯	ding mao	7571
+定式	ding shi	5048
+鼎食	ding shi	31
+丁巳	ding si	7569
+钉头磷磷	ding tou lin lin	665
+顶碗	ding wan	343
+丁未	ding wei	7567
+丁香	ding xiang	7564
+丁忧	ding you	7568
+丁酉	ding you	7565
+冬不拉	dong bu la	6459
+东厂	dong chang	7315
+冻顶乌龙	dong ding wu long	6439
+东方苍龙	dong fang cang long	7305
+东方未明	dong fang wei ming	7306
+东方之日	dong fang zhi ri	7307
+东风夜放花千树	dong feng ye fang hua qian shu	7296
+冬官考工记	dong guan kao gong ji	6458
+董狐	dong hu	1524
+东华门	dong hua men	7316
+东皇太一	dong huang tai yi	7302
+东君	dong jun	7314
+东门之墠	dong men zhi chan	7301
+东门之池	dong men zhi chi	7298
+东门之枌	dong men zhi fen	7299
+东门之杨	dong men zhi yang	7300
+东坡	dong po	7310
+董其昌	dong qi chang	1525
+动如雷震	dong ru lei zhen	6278
+动如脱兔	dong ru tuo tu	6279
+东山	dong shan	7309
+动善时	dong shan shi	6280
+东施效颦	dong shi xiao pin	7304
+洞天	dong tian	3061
+洞庭	dong ting	3060
+洞庭碧螺春	dong ting bi luo chun	3059
+东望武昌	dong wang wu chang	7303
+动无常则	dong wu chang ze	6277
+董袭	dong xi	1523
+洞箫	dong xiao	3058
+东隅已逝	dong yu yi shi	7297
+东岳大帝	dong yue da di	7308
+董允	dong yun	1526
+冬至	dong zhi	6457
+动之于死地	dong zhi yu si di	6281
+东周	dong zhou	7313
+东周策	dong zhou ce	7311
+东周列国志	dong zhou lie guo zhi	7312
+动朱唇以徐言	dong zhu chun yi xu yan	6276
+斗柄	dou bing	3950
+斗茶	dou cha	3947
+窦娥冤	dou e yuan	2184
+豆羹	dou geng	1137
+斗拱	dou gong	3952
+豆官	dou guan	1139
+斗建	dou jian	3953
+斗笠	dou li	3948
+斗牛女虚	dou niu nv xu	3949
+都人士	dou ren shi	779
+豆沙	dou sha	1138
+斗枢	dou shu	3951
+都塔尔	dou ta er	777
+都察院	du cha yuan	776
+毒虫不螫	du chong bu shi	3206
+独怆然而涕下	du chuang ran er ti xia	2769
+度地	du di	4622
+独钓寒江雪	du diao han jiang xue	2764
+都督阎公之雅望	du du yan gong zhi ya wang	774
+杜甫	du fu	3466
+独夫之心	du fu zhi xin	2771
+杜衡	du heng	3465
+独活	du huo	2768
+杜鹃	du juan	3464
+独立而不改	du li er bu gai	2767
+读孟尝君传	du meng chang jun chuan	1193
+杜牧	du mu	3467
+独上兰舟	du shang lan zhou	2773
+独行其道	du xing qi dao	2765
+毒烟	du yan	3207
+睹一丽人	du yi li ren	2398
+督邮	du you	2402
+都匀毛尖	du yun mao jian	778
+独在异乡为异客	du zai yi xiang wei yi ke	2772
+都指挥使	du zhi hui shi	775
+杜仲	du zhong	3468
+独自怎生得黑	du zi zen sheng de hei	2766
+独尊儒术	du zun ru shu	2770
+断肠人在天涯	duan chang ren zai tian ya	3936
+断代史	duan dai shi	3938
+短褐穿结	duan he chuan jie	2354
+断机杼	duan ji zhu	3937
+锻炼	duan lian	606
+短松冈	duan song gang	2355
+段太尉逸事状	duan tai wei yi shi zhuang	3218
+端午	duan wu	2159
+端详	duan xiang	2156
+锻狱	duan yu	605
+段玉裁	duan yu cai	3217
+端庄	duan zhuang	2158
+端庄典雅	duan zhuang dian ya	2157
+兑卦	dui gua	6646
+对弈	dui yi	4968
+顿挫	dun cuo	328
+沌沌兮	dun dun xi	3114
+遯卦	dun gua	813
+敦兮其若朴	dun xi qi ruo pu	3979
+敦牂	dun zang	3978
+多宝格	duo bao ge	5496
+多藏必厚亡	duo cang bi hou wang	5492
+杕杜	duo du	3470
+多方	duo fang	5494
+夺官	duo guan	5249
+多会于此	duo hui yu ci	5500
+垛口	duo kou	5617
+夺情	duo qing	5248
+多情应笑我	duo qing ying xiao wo	5495
+多士	duo shi	5497
+多易必多难	duo yi bi duo nan	5493
+多于机上之工女	duo yu ji shang zhi gong nv	5501
+多于九土之城郭	duo yu jiu tu zhi cheng guo	5506
+多于南亩之农夫	duo yu nan mu zhi nong fu	5505
+多于市人之言语	duo yu shi ren zhi yan yu	5502
+多于在庾之粟粒	duo yu zai yu zhi su li	5503
+多于周身之帛缕	duo yu zhou shen zhi bo lv	5504
+多则惑	duo ze huo	5499
+多助之至	duo zhu zhi zhi	5498
+鹅鹅鹅	e e e	104
+俄而	e er	6751
+蛾儿雪柳黄金缕	e er xue liu huang jin lv	1416
+饿鬼	e gui	254
+峨眉	e mei	4786
+蛾眉	e mei	1415
+阿弥陀佛	e mi tuo fo	519
+婀娜多姿	e nuo duo zi	5178
+阿房	e pang	518
+阿房出	e pang chu	517
+阿房宫赋	e pang gong fu	516
+饿其体肤	e qi ti fu	255
+恶手	e shou	4328
+恶言相加	e yan xiang jia	4327
+阿谀	e yu	515
+阿谀奉承	e yu feng cheng	514
+恶语伤人	e yu shang ren	4325
+恶语中伤	e yu zhong shang	4326
+恩贡	en gong	4332
+恩施玉露	en shi yu lu	4333
+而不敢为	er bu gan wei	1895
+而不责于人	er bu ze yu ren	1891
+而不知其所止	er bu zhi qi suo zhi	1893
+而不知人之乐	er bu zhi ren zhi le	1894
+而不知太守之乐其乐也	er bu zhi tai shou zhi le qi le ye	1892
+二川溶溶	er chuan rong rong	7102
+耳得之而为声	er de zhi er wei sheng	1852
+而飞	er fei	1856
+而攻坚强者莫之能胜	er gong jian qiang zhe mo zhi neng sheng	1871
+而贵食母	er gui shi mu	1857
+洱海	er hai	3053
+而后人哀之	er hou ren ai zhi	1880
+而后喻	er hou yu	1878
+而后作	er hou zuo	1879
+二胡	er hu	7097
+二黄	er huang	7095
+而或长烟一空	er huo chang yan yi kong	1872
+二甲	er jia	7098
+而今安在哉	er jin an zai zai	1886
+而今识尽愁滋味	er jin shi jin chou zi wei	1885
+二刻拍案惊奇	er ke pai an jing qi	7110
+而况于人乎	er kuang yu ren hu	1883
+尔来二十有一年	er lai er shi you yi nian	4886
+而乐亦无穷也	er le yi wu qiong ye	1889
+而立	er li	1860
+而立之年	er li zhi nian	1859
+而乱之首	er luan zhi shou	1888
+而美之者	er mei zhi zhe	1858
+而民弥贫	er min mi pin	1867
+尔乃税驾乎蘅皋	er nai shui jia hu heng gao	4888
+尔乃众灵杂遝	er nai zhong ling za ta	4889
+二难并	er nan bing	7096
+而年又最高	er nian you zui gao	1876
+儿女共沾巾	er nv gong zhan jin	6675
+而气候不齐	er qi hou bu qi	1866
+而穷	er qiong	1861
+而人好径	er ren hao jing	1887
+而神明自得	er shen ming zi de	1862
+二生三	er sheng san	7099
+二十八宿	er shi ba xiu	7108
+二十六史	er shi liu shi	7107
+二十年目睹之怪现状	er shi nian mu du zhi guai xian zhuang	7104
+二十四节气	er shi si jie qi	7105
+二十四史	er shi si shi	7106
+二十五史	er shi wu shi	7109
+耳顺	er shun	1851
+耳顺之年	er shun zhi nian	1850
+二桃杀三士	er tao sha san shi	7100
+而王公以为称	er wang gong yi wei cheng	1864
+而王居其一焉	er wang ju qi yi yan	1863
+而望幸焉	er wang xing yan	1869
+而未尝往也	er wei chang wang ye	1868
+而为奇者	er wei qi zhe	1890
+而我独若遗	er wo du ruo yi	1874
+而我独顽且鄙	er wo du wan qie bi	1873
+而无车马喧	er wu che ma xuan	1870
+而吾与子之所共适	er wu yu zi zhi suo gong shi	1877
+而泻出于两峰之间者	er xie chu yu liang feng zhi jian zhe	1865
+尔雅	er ya	4884
+珥瑶碧之华琚	er yao bi zhi hua ju	2660
+而以身轻天下	er yi shen qing tian xia	1884
+尔有觌于彼者乎	er you di yu bi zhe hu	4887
+而又何羡乎	er you he xian hu	1881
+尔虞我诈	er yu wo zha	4885
+而愚之始	er yu zhi shi	1875
+二曰俭	er yue jian	7101
+二子乘舟	er zi cheng zhou	7103
+而卒莫消长也	er zu mo xiao zhang ye	1882
+发菜	fa cai	6093
+发愤忘食	fa fen wang shi	6098
+法禁	fa jin	3085
+伐柯	fa ke	6883
+发聩	fa kui	6094
+法令滋彰	fa ling zi zhang	3087
+发聋振聩	fa long zhen kui	6095
+伐木	fa mu	6884
+发配	fa pei	6092
+发然后禁	fa ran hou jin	6097
+发矢	fa shi	6096
+伐檀	fa tan	6882
+发于声	fa yu sheng	6099
+法正	fa zheng	3086
+燔柴	fan chai	2829
+范雎	fan ju	1646
+范雎蔡泽列传	fan ju cai ze lie zhuan	1645
+范蠡	fan li	1647
+反离骚	fan li sao	6101
+樊郦滕灌列传	fan li teng guan lie zhuan	3312
+幡然改图	fan ran gai tu	4686
+翻然悔悟	fan ran hui wu	1909
+幡然醒悟	fan ran xing wu	4685
+饭疏食饮水	fan shu shi yin shui	263
+泛音	fan yin	3084
+反应	fan ying	6102
+反者道之动	fan zhe dao zhi dong	6100
+范仲淹	fan zhong yan	1648
+芳草鲜美	fang cao xian mei	1684
+芳菲菲其弥章	fang fei fei qi mi zhang	1683
+防风	fang feng	529
+访风景于崇阿	fang feng jing yu chong a	1238
+仿佛若有光	fang fu ruo you guang	6892
+仿佛兮若轻云之蔽月	fang fu xi ruo qing yun zhi bi yue	6893
+芳官	fang guan	1687
+放鹤亭记	fang he ting ji	4047
+方壶	fang hu	3925
+坊记	fang ji	5631
+方剂	fang ji	3926
+放箭	fang jian	4050
+访落	fang luo	1239
+防民之口	fang min zhi kou	530
+方其破荆州	fang qi po jing zhou	3927
+放翁	fang weng	4049
+放下屠刀	fang xia tu dao	4051
+方言	fang yan	3923
+防有鹊巢	fang you que chao	531
+防御使	fang yu shi	532
+芳与泽其杂糅兮	fang yu ze qi za rou xi	1688
+芳泽无加	fang ze wu jia	1686
+方宅十余亩	fang zhai shi yu mu	3924
+方丈	fang zhang	3928
+芳芷	fang zhi	1685
+放逐	fang zhu	4048
+飞白	fei bai	289
+诽谤	fei bang	1192
+非道也哉	fei dao ye zai	374
+非分之想	fei fen zhi xiang	384
+飞阁流丹	fei ge liu dan	286
+非攻	fei gong	379
+非乎	fei hu	390
+非君子之器	fei jun zi zhi qi	382
+非乐	fei le	389
+蜚蠊	fei lian	1407
+飞廉	fei lian	294
+飞流直下三千尺	fei liu zhi xia san qian chi	292
+飞甍	fei meng	290
+非命	fei ming	381
+飞鸟相与还	fei niao xiang yu huan	285
+妃嫔	fei pin	5208
+妃嫔媵嫱	fei pin ying qiang	5207
+非其鬼不神	fei qi gui bu shen	385
+非其神不伤人	fei qi shen bu shang ren	386
+飞箝	fei qian	288
+飞箝之术	fei qian zhi shu	287
+废寝忘食	fei qin wang shi	4623
+非秦也	fei qin ye	376
+飞升	fei sheng	295
+费誓	fei shi	1082
+非十二子	fei shi er zi	383
+非世俗之所服	fei shi su zhi suo fu	392
+淝水之战	fei shui zhi zhan	2998
+非丝非竹	fei si fei zhu	391
+非天下也	fei tian xia ye	380
+非无圣主	fei wu sheng zhu	378
+非相	fei xiang	377
+非谢家之宝树	fei xie jia zhi bao shu	375
+飞檐	fei yan	293
+飞燕	fei yan	291
+费祎	fei yi	1083
+非以明民	fei yi ming min	388
+非余心之所急	fei yu xin zhi suo ji	387
+奋不顾身	fen bu gu shen	5235
+分茶	fen cha	6388
+分寸	fen cun	6390
+焚椒兰也	fen jiao lan ye	2848
+汾沮洳	fen ju ru	3122
+粉米	fen mi	2089
+粪砲	fen pao	2084
+焚书坑儒	fen shu keng ru	2849
+分野	fen ye	6387
+分职	fen zhi	6389
+风伯	feng bo	309
+奉常	feng chang	5238
+奉晨昏于万里	feng chen hun yu wan li	5236
+奉承	feng cheng	5237
+酆都	feng du	770
+蜂房水涡	feng fang shui wo	1412
+丰卦	feng gua	7257
+风寒暑湿燥火	feng han shu shi zao huo	307
+凤凰	feng huang	6418
+凤凰单丛	feng huang dan cong	6417
+峰回路转	feng hui lu zhuan	4785
+烽火连三月	feng huo lian san yue	2850
+丰乐亭记	feng le ting ji	7258
+风林火山	feng lin huo shan	305
+风铃	feng ling	303
+丰隆	feng long	7255
+俸禄	feng lu	6713
+冯梦龙	feng meng long	6452
+凤鸣	feng ming	6413
+奉命于危难之间	feng ming yu wei nan zhi jian	5240
+丰年	feng nian	7256
+枫桥夜泊	feng qiao ye bo	3424
+风情万种	feng qing wan zhong	306
+封禅	feng shan	4958
+封神演义	feng shen yan yi	4959
+凤首箜篌	feng shou kong hou	6415
+风霜高洁	feng shuang gao jie	299
+封肃	feng su	4957
+凤髓	feng sui	6414
+冯唐易老	feng tang yi lao	6456
+封豨	feng xi	4956
+凤箫声动	feng xiao sheng dong	6416
+冯谖	feng xuan	6451
+奉宣室以何年	feng xuan shi yi he nian	5239
+冯延巳	feng yan si	6453
+风烟望五津	feng yan wang wu jin	304
+冯夷	feng yi	6455
+冯夷鸣鼓	feng yi ming gu	6454
+风雨	feng yu	302
+风雨凄凄	feng yu qi qi	300
+风雨兴焉	feng yu xing yan	301
+风姿绰约	feng zi chuo yue	308
+佛教	fo jiao	6804
+佛龛	fo kan	6802
+佛郎机	fo lang ji	6803
+佛塔	fo ta	6805
+否卦	fou gua	5950
+夫兵者不祥之器	fu bing zhe bu xiang zhi qi	5283
+府兵制	fu bing zhi	4627
+俯察品类之盛	fu cha pin lei zhi sheng	6719
+夫差	fu chai	5270
+浮长川而忘返	fu chang chuan er wang fan	3023
+符谶	fu chen	2129
+浮沉迟数	fu chen chi shu	3025
+祓除	fu chu	2304
+夫慈以战则胜	fu ci yi zhan ze sheng	5269
+夫代大匠斫者	fu dai da jiang zhuo zhe	5285
+夫代司杀者杀	fu dai si sha zhe sha	5286
+复道行空	fu dao heng kong	5538
+复得返自然	fu de fan zi ran	5540
+赋得古原草送别	fu de gu yuan cao song bie	1064
+福地	fu di	2264
+俯雕甍	fu diao meng	6718
+副贡	fu gong	6299
+复卦	fu gua	5548
+浮光跃金	fu guang yue jin	3027
+簠簋	fu gui	2095
+富贵不能淫	fu gui bu neng yin	4984
+富贵而骄	fu gui er jiao	4983
+复归其明	fu gui qi ming	5541
+复归于朴	fu gui yu pu	5542
+复归于无极	fu gui yu wu ji	5544
+复归于无物	fu gui yu wu wu	5543
+复归于婴儿	fu gui yu ying er	5545
+富国	fu guo	4985
+夫何故	fu he gu	5284
+夫环而攻之	fu huan er gong zhi	5266
+苻坚	fu jian	1649
+夫将不欲	fu jiang bu yu	5271
+符节	fu jie	2131
+傅靳蒯成列传	fu jin kuai cheng lie zhuan	6689
+夫乐杀人者	fu le sha ren zhe	5288
+负耒	fu lei	1117
+夫礼者	fu li zhe	5265
+夫两不相伤	fu liang bu xiang shang	5290
+夫两者各得所欲	fu liang zhe ge de suo yu	5289
+拂菻	fu lin	4153
+茯苓	fu ling	1639
+抚凌云而自惜	fu ling yun er zi xi	4172
+符箓	fu lu	2132
+福禄寿	fu lu shou	2263
+复命曰常	fu ming yue chang	5547
+父命之	fu ming zhi	2809
+夫莫之命而常自然	fu mo zhi ming er chang zi ran	5264
+鵩鸟赋	fu niao fu	140
+伏弩	fu nu	6887
+赋篇	fu pian	1063
+复前行	fu qian xing	5549
+伏清白以死直兮	fu qing bai yi si zhi xi	6886
+夫轻诺必寡信	fu qing nuo bi gua xin	5263
+芙蕖	fu qu	1711
+负屈	fu qu	1118
+服阕	fu que	3575
+服阙	fu que	3574
+芙蓉	fu rong	1712
+符瑞志	fu rui zhi	2133
+扶桑	fu sang	4180
+服丧	fu sang	3579
+傅山	fu shan	6691
+附生	fu sheng	513
+浮生六记	fu sheng liu ji	3024
+府试	fu shi	4626
+俯首称臣	fu shou cheng chen	6716
+复守其母	fu shou qi mu	5546
+俯首帖耳	fu shou tie er	6717
+夫孰异道而相安	fu shu yi dao er xiang an	5272
+傅说举于版筑之间	fu shuo ju yu ban zhu zhi jian	6690
+负耜	fu si	1116
+赴汤蹈火	fu tang dao huo	1048
+甫田	fu tian	2578
+服田力穑	fu tian li se	3577
+幞头	fu tou	4687
+浮屠	fu tu	3026
+夫唯病病	fu wei bing bing	5274
+夫唯不可识	fu wei bu ke shi	5280
+夫唯不厌	fu wei bu yan	5281
+夫唯不盈	fu wei bu ying	5279
+夫唯不争	fu wei bu zheng	5282
+夫唯大	fu wei da	5277
+夫唯道善贷且成	fu wei dao shan dai qie cheng	5273
+夫唯啬	fu wei se	5278
+夫唯无以生为者	fu wei wu yi sheng wei zhe	5276
+夫唯无知	fu wei wu zhi	5275
+服问	fu wen	3576
+服文彩	fu wen cai	3578
+夫物或行或随	fu wu huo xing huo sui	5268
+夫物芸芸	fu wu yun yun	5267
+伏羲	fu xi	6885
+祓禊	fu xi	2305
+负屃	fu xi	1119
+福兮祸之所伏	fu xi huo zhi suo fu	2265
+负薪	fu xin	1115
+负薪挂角	fu xin gua jiao	1114
+腐刑	fu xing	1801
+复行数十步	fu xing shu shi bu	5539
+覆压三百余里	fu ya san bai yu li	1309
+符言	fu yan	2130
+扶摇	fu yao	4182
+扶摇可接	fu yao ke jie	4181
+凫鹥	fu yi	6412
+芣苢	fu yi	1709
+夫亦将知止	fu yi jiang zhi zhi	5287
+蜉蝣	fu you	1409
+俯则末察	fu ze mo cha	6720
+复众人之所过	fu zhong ren zhi suo guo	5550
+符咒	fu zhou	2134
+赋芧	fu zhu	1062
+改过自新	gai guo zi xin	4055
+盖将自其变者而观之	gai jiang zi qi bian zhe er guan zhi	2448
+改任	gai ren	4058
+盖天	gai tian	2449
+盖碗	gai wan	2447
+盖闻善摄生者	gai wen shan she sheng zhe	2446
+改邪归正	gai xie gui zheng	4054
+改元	gai yuan	4057
+改正朔	gai zheng shuo	4056
+干贝	gan bei	4683
+感激	gan ji	4281
+感极而悲者矣	gan ji er bei zhe yi	4282
+感交甫之弃言兮	gan jiao fu zhi qi yan xi	4286
+敢竭鄙怀	gan jie bi huai	3983
+橄榄	gan lan	3296
+甘茂	gan mao	2600
+肝脑涂地	gan nao tu di	1839
+甘宁	gan ning	2603
+甘其食	gan qi shi	2604
+甘泉	gan quan	2601
+干湿	gan shi	4684
+甘誓	gan shi	2598
+感时花溅泪	gan shi hua jian lei	4283
+感宋玉对楚王神女之事	gan song yu dui chu wang shen nv zhi shi	4285
+甘棠	gan tang	2602
+感应章	gan ying zhang	4284
+甘蔗	gan zhe	2599
+纲举目张	gang ju mu zhang	2037
+刚正不阿	gang zheng bu e	6342
+刚正清廉	gang zheng qing lian	6341
+刚直不阿	gang zhi bu e	6340
+高处不胜寒	gao chu bu sheng han	205
+高低冥迷	gao di ming mi	208
+膏方	gao fang	1793
+高风峻节	gao feng jun jie	190
+高风亮节	gao feng liang jie	191
+告归	gao gui	5906
+膏火	gao huo	1791
+高甲戏	gao jia xi	199
+高纠	gao jiu	197
+告老还乡	gao lao huan xiang	5904
+膏粱	gao liang	1790
+告庙	gao miao	5907
+槁木死灰	gao mu si hui	3315
+高朋满座	gao peng man zuo	201
+高腔	gao qiang	195
+高跷	gao qiao	193
+羔裘	gao qiu	1932
+高僧传	gao seng zhuan	206
+高山流水	gao shan liu shui	202
+高尚士也	gao shang shi ye	203
+高适	gao shi	192
+告朔	gao shuo	5905
+高谈阔论	gao tan kuo lun	194
+告先帝之灵	gao xian di zhi ling	5908
+槁项黄馘	gao xiang huang guo	3314
+羔羊	gao yang	1933
+皋陶谟	gao yao mo	2469
+高以下为基	gao yi xia wei ji	209
+膏腴	gao yu	1789
+高余冠之岌岌兮	gao yu guan zhi ji ji xi	207
+膏泽	gao ze	1792
+高者抑之	gao zhe yi zhi	196
+高枕无忧	gao zhen wu you	200
+高宗肜日	gao zong rong ri	204
+高祖本纪	gao zu ben ji	198
+各抱地势	ge bao di shi	6016
+革除	ge chu	369
+各复归其根	ge fu gui qi gen	6017
+革卦	ge gua	371
+舸舰弥津	ge jian mi jin	1737
+葛屦	ge ju	1533
+葛藟	ge lei	1531
+隔离天日	ge li tian ri	463
+格律诗	ge lv shi	3393
+葛覃	ge qin	1529
+各倾陆海云尔	ge qing lu hai yun er	6019
+隔扇	ge shan	464
+葛生	ge sheng	1532
+歌台暖响	ge tai nuan xiang	3275
+葛藤	ge teng	1530
+葛天氏之民欤	ge tian shi zhi min yu	1534
+各兴心而嫉妒	ge xing xin er ji du	6018
+歌窈窕之章	ge yao tiao zhi zhang	3273
+歌曰	ge yue	3274
+歌仔戏	ge zai xi	3276
+革职	ge zhi	370
+艮卦	gen gua	1736
+羹不糁	geng bu shen	1928
+庚辰	geng chen	4628
+更吹落	geng chui luo	3651
+庚丁	geng ding	4635
+耕读	geng du	1853
+更法	geng fa	3650
+羹饭	geng fan	1921
+羹沸	geng fei	1925
+羹臛	geng huo	1923
+耿介	geng jie	1849
+羹藜	geng li	1922
+羹墙	geng qiang	1927
+庚桑楚	geng sang chu	4630
+縆瑟	geng se	2055
+更上一层楼	geng shang yi ceng lou	3652
+庚申	geng shen	4629
+羹汤	geng tang	1926
+庚午	geng wu	4634
+庚戌	geng xu	4631
+庚寅	geng yin	4632
+羹炙	geng zhi	1924
+耕柱	geng zhu	1854
+庚子	geng zi	4633
+工笔	gong bi	4754
+工笔画	gong bi hua	4753
+工部	gong bu	4752
+功曹	gong cao	6284
+宫车过也	gong che guo ye	5010
+功成而不处	gong cheng er bu chu	6286
+功成而不有	gong cheng er bu you	6285
+功成事遂	gong cheng shi sui	6287
+觥筹	gong chou	1278
+觥筹交错	gong chou jiao cuo	1277
+公道杯	gong dao bei	6614
+功德	gong de	6288
+公而忘私	gong er wang si	6616
+躬逢胜饯	gong feng sheng jian	979
+蚣蝮	gong fu	1425
+躬耕	gong geng	981
+躬耕于南阳	gong geng yu nan yang	980
+共工	gong gong	6570
+贡举	gong ju	1113
+公刘	gong liu	6620
+公孟	gong meng	6617
+功名	gong ming	6290
+公乃全	gong nai quan	6621
+弓弩	gong nu	4567
+攻其不备	gong qi bu bei	4052
+攻亲戚之所畔	gong qin qi zhi suo pan	4053
+弓如霹雳弦惊	gong ru pi li xian jing	4568
+觥觞	gong shang	1276
+宫商角徵羽	gong shang jue zhi yu	5011
+贡生	gong sheng	1111
+贡士	gong shi	1112
+公食大夫礼	gong shi dai fu li	6613
+公输	gong shu	6615
+恭疏短引	gong shu duan yin	4330
+功遂身退	gong sui shen tui	6283
+公孙衍	gong sun yan	6618
+宫刑	gong xing	5012
+供养	gong yang	6767
+功在不舍	gong zai bu she	6289
+公制	gong zhi	6619
+宫中府中	gong zhong fu zhong	5013
+狗恶酒酸	gou e jiu suan	2777
+狗吠深巷中	gou fei shen xiang zhong	2778
+苟非吾之所有	gou fei wu zhi suo you	1663
+姤卦	gou gua	5191
+勾践	gou jian	6264
+句芒	gou mang	6065
+彀弩	gou nu	4521
+枸杞	gou qi	3417
+钩箝之辞	gou qian zhi ci	648
+苟全性命	gou quan xing ming	1664
+构陷	gou xian	3442
+钩心斗角	gou xin dou jiao	649
+苟余情其信芳	gou yu qing qi xin fang	1665
+苟余情其信姱以练要兮	gou yu qing qi xin kua yi lian yao xi	1666
+故不可得而亲	gu bu ke de er qin	4043
+故从事于道者同于道	gu cong shi yu dao zhe tong yu dao	4040
+故大国以下小国	gu da guo yi xia xiao guo	4027
+故大制不割	gu da zhi bu ge	4028
+故道大	gu dao da	3997
+故道生之	gu dao sheng zhi	3996
+古道西风瘦马	gu dao xi feng shou ma	6066
+故德交归焉	gu de jiao gui yan	4020
+谷得一以盈	gu de yi yi ying	1145
+鼓凳	gu deng	30
+孤帆远影碧空尽	gu fan yuan ying bi kong jin	5116
+孤愤	gu fen	5115
+谷风	gu feng	1141
+故宫	gu gong	4023
+罛罟	gu gu	1954
+蛊卦	gu gua	1422
+故贵以贱为本	gu gui yi jian wei ben	3999
+故贵以身为天下	gu gui yi shen wei tian xia	3998
+固国不以山溪之险	gu guo bu yi shan xi zhi xian	5696
+故国神游	gu guo shen you	4032
+故混而为一	gu hun er wei yi	4011
+故或下以取	gu huo xia yi qu	4019
+故坚强者死之徒	gu jian qiang zhe si zhi tu	4030
+故建言有之	gu jian yan you zhi	4022
+故君子有不战	gu jun zi you bu zhan	4034
+顾恺之	gu kai zhi	336
+故抗兵相若	gu kang bing xiang ruo	4018
+古来征战几人回	gu lai zheng zhan ji ren hui	6069
+故垒西边	gu lei xi bian	4029
+骨立	gu li	210
+故立天子	gu li tian zi	4007
+故令有所属	gu ling you suo shu	4039
+顾眄	gu mian	330
+顾命	gu ming	337
+钴鉧潭记	gu mu tan ji	645
+钴鉧潭西小丘记	gu mu tan xi xiao qiu ji	646
+故能蔽而新成	gu neng bi er xin cheng	4002
+故能成器长	gu neng cheng qi chang	4003
+故能成其大	gu neng cheng qi da	4004
+故能为百谷王	gu neng wei bai gu wang	4005
+顾盼	gu pan	333
+顾盼生辉	gu pan sheng hui	331
+顾盼生姿	gu pan sheng zi	332
+故飘风不终朝	gu piao feng bu zhong chao	3995
+固前圣之所厚	gu qian sheng zhi suo hou	5697
+故强为之容	gu qiang wei zhi rong	4021
+故去彼取此	gu qu bi qu ci	4035
+故人西辞黄鹤楼	gu ren xi ci huang he lou	4041
+古人有言	gu ren you yan	6071
+骨弱筋柔而握固	gu ruo jin rou er wo gu	211
+故善人者不善人之师	gu shan ren zhe bu shan ren zhi shi	4033
+谷神不死	gu shen bu si	1143
+故圣人云	gu sheng ren yun	4031
+故失道而后德	gu shi dao er hou de	4024
+固时俗之工巧兮	gu shi su zhi gong qiao xi	5695
+故似不肖	gu si bu xiao	4036
+姑苏	gu su	5196
+姑苏城外寒山寺	gu su cheng wai han shan si	5195
+古体诗	gu ti shi	6070
+故天将降大任于是人也	gu tian jiang jiang da ren yu shi ren ye	4025
+故天下莫能与之争	gu tian xia mo neng yu zhi zheng	4026
+罟网	gu wang	1953
+顾望怀愁	gu wang huai chou	335
+故为天下贵	gu wei tian xia gui	4042
+故物或损之而益	gu wu huo sun zhi er yi	4010
+故无弃人	gu wu qi ren	4016
+故无弃物	gu wu qi wu	4015
+谷无以盈将恐竭	gu wu yi ying jiang kong jie	1144
+故无尤	gu wu you	4017
+古稀	gu xi	6068
+姑洗	gu xi	5197
+古稀之年	gu xi zhi nian	6067
+骨像应图	gu xiang ying tu	212
+故以身观身	gu yi shen guan shen	4037
+固一世之雄也	gu yi shi zhi xiong ye	5698
+故以智治国国之贼	gu yi zhi zhi guo guo zhi zei	4038
+顾雍	gu yong	329
+故有道者不处	gu you dao zhe bu chu	4012
+故有之以为利	gu you zhi yi wei li	4013
+谷雨	gu yu	1142
+古乐	gu yue	6072
+故曰	gu yue	4014
+瞽者	gu zhe	2387
+古之善为道者	gu zhi shan wei dao zhe	6075
+古之善为士者	gu zhi shan wei shi zhe	6076
+古之所谓曲则全者	gu zhi suo wei qu ze quan zhe	6073
+古之所以贵此道者何	gu zhi suo yi gui ci dao zhe he	6074
+故致誉无誉	gu zhi yu wu yu	4000
+故知足不辱	gu zhi zu bu ru	4009
+故知足之足常足矣	gu zhi zu zhi zu chang zu yi	4008
+鼓钟	gu zhong	29
+故终无难矣	gu zhong wu nan yi	4006
+孤舟蓑笠翁	gu zhou suo li weng	5114
+顾渚紫笋	gu zhu zi sun	334
+故自号曰醉翁也	gu zi hao yue zui weng ye	4001
+卦辞	gua ci	6155
+挂冠	gua guan	4132
+挂落	gua luo	4131
+刮目相看	gua mu xiang kan	6333
+刮痧	gua sha	6334
+卦象	gua xiang	6156
+卦爻	gua yao	6157
+寡助之至	gua zhu zhi zhi	4976
+乖巧	guai qiao	7178
+贯薜荔之落蕊	guan bi li zhi luo rui	1094
+管蔡世家	guan cai shi jia	2109
+观察使	guan cha shi	1302
+官场现形记	guan chang xian xing ji	5057
+关防	guan fang	6564
+鳏夫	guan fu	143
+观卦	guan gua	1303
+鳏寡	guan gua	142
+关关雎鸠	guan guan ju jiu	6569
+关汉卿	guan han qing	6566
+冠婚丧祭	guan hun sang ji	6461
+关雎	guan ju	6563
+官帽椅	guan mao yi	5055
+关平	guan ping	6567
+观棋烂柯	guan qi lan ke	1301
+鹳雀	guan que	88
+关山难越	guan shan nan yue	6568
+灌汤包	guan tang bao	2896
+管弦呕哑	guan xian ou ya	2111
+管晏列传	guan yan lie zhuan	2110
+冠义	guan yi	6462
+管夷吾举于士	guan yi wu ju yu shi	2113
+观音	guan yin	1300
+关羽	guan yu	6565
+官箴	guan zhen	5053
+官秩	guan zhi	5054
+官职	guan zhi	5052
+管仲	guan zhong	2115
+管仲论	guan zhong lun	2114
+官子	guan zi	5056
+管子	guan zi	2112
+广德若不足	guang de ruo bu zu	4666
+光而不耀	guang er bu yao	6649
+光禄寺	guang lu si	6650
+广莫之野	guang mo zhi ye	4662
+光润玉颜	guang run yu yan	6652
+光武中兴	guang wu zhong xing	6653
+光先帝遗德	guang xian di yi de	6654
+广雅	guang ya	4660
+广扬名章	guang yang ming zhang	4665
+广要道章	guang yao dao zhang	4661
+广益	guang yi	4664
+广韵	guang yun	4659
+光照临川之笔	guang zhao lin chuan zhi bi	6651
+广至德章	guang zhi de zhang	4663
+圭璧	gui bi	5650
+珪璧	gui bi	2657
+圭表	gui biao	5649
+龟卜	gui bu	4
+龟策列传	gui ce lie zhuan	2
+癸丑	gui chou	2528
+圭撮	gui cuo	5652
+贵大患若身	gui da huan ruo shen	1088
+贵当	gui dang	1086
+桂殿兰宫	gui dian lan gong	3388
+贵妃	gui fei	1087
+桧风	gui feng	3370
+桂馥	gui fu	3386
+龟符	gui fu	3
+归根曰静	gui gen yue jing	4517
+归耕	gui geng	4514
+贵公	gui gong	1090
+鬼谷子	gui gu zi	186
+癸亥	gui hai	2527
+姽婳	gui hua	5189
+归经	gui jing	4515
+闺阃	gui kun	557
+鬼脸钱	gui lian qian	187
+癸卯	gui mao	2526
+归妹	gui mei	4518
+鬼门关	gui men guan	185
+贵人	gui ren	1091
+龟蛇	gui she	1
+贵生	gui sheng	1085
+癸巳	gui si	2525
+归天	gui tian	4519
+归田	gui tian	4516
+癸未	gui wei	2524
+桂醑	gui xu	3387
+皈依	gui yi	2470
+贵义	gui yi	1092
+归隐	gui yin	4513
+贵因	gui yin	1089
+癸酉	gui you	2523
+桂圆	gui yuan	3391
+归园田居	gui yuan tian ju	4520
+圭璋	gui zhang	5651
+珪璋	gui zhang	2658
+桂棹	gui zhao	3390
+桂棹兮兰桨	gui zhao xi lan jiang	3389
+贵直	gui zhi	1084
+瑰姿艳逸	gui zi yan yi	2628
+滚拂	gun fu	2918
+衮服	gun fu	1361
+滚木	gun mu	2917
+滚木擂石	gun mu lei shi	2916
+磙子	gun zi	2330
+国别体	guo bie ti	5693
+果而不得已	guo er bu de yi	3432
+国而忘家	guo er wang jia	5686
+果而勿伐	guo er wu fa	3431
+果而勿骄	guo er wu jiao	3428
+果而勿矜	guo er wu jin	3429
+果而勿强	guo er wu qiang	3430
+国风	guo feng	5682
+果脯	guo fu	3427
+国恒亡	guo heng wang	5689
+国讳	guo hui	5684
+郭嘉	guo jia	781
+国家昏乱	guo jia hun luan	5691
+国家滋昏	guo jia zi hun	5690
+过客止	guo ke zhi	915
+过理	guo li	913
+蜾蠃	guo luo	1403
+过南冈	guo nan gang	916
+国破山河在	guo po shan he zai	5687
+国色天香	guo se tian xiang	5685
+国殇	guo shang	5688
+过所	guo suo	914
+郭攸之	guo you zhi	780
+国语	guo yu	5683
+国之利器不可以示人	guo zhi li qi bu ke yi shi ren	5694
+国子监	guo zi jian	5692
+哈密瓜	ha mi gua	5810
+海错	hai cuo	3012
+海带	hai dai	3017
+醢醢	hai hai	746
+还济洛川	hai ji luo chuan	906
+海内存知己	hai nei cun zhi ji	3020
+还寝梦佳期	hai qin meng jia qi	907
+海上明月共潮生	hai shang ming yue gong chao sheng	3022
+海上生明月	hai shang sheng ming yue	3021
+海参	hai shen	3019
+海市蜃楼	hai shi shen lou	3018
+海棠	hai tang	3016
+海棠门	hai tang men	3015
+孩提	hai ti	5103
+醢刑	hai xing	747
+海盐腔	hai yan qiang	3014
+海蜇	hai zhe	3013
+韩策	han ce	351
+韩长孺列传	han chang ru lie zhuan	349
+旱船	han chuan	3838
+含辞未吐	han ci wei tu	5945
+菡萏	han dan	1555
+邯郸	han dan	806
+邯郸学步	han dan xue bu	805
+韩当	han dang	354
+含德之厚	han de zhi hou	5948
+汗滴禾下土	han di he xia tu	3151
+韩非子	han fei zi	348
+汉宫秋	han gong qiu	3156
+函谷	han gu	6396
+函谷举	han gu ju	6395
+汉广	han guang	3155
+含恨	han hen	5947
+憾恨	han hen	4268
+寒具	han ju	4982
+汉剧	han ju	3158
+汉隶	han li	3152
+翰林学士	han lin xue shi	1912
+翰林院	han lin yuan	1911
+寒露	han lu	4981
+旱麓	han lu	3837
+翰墨	han mo	1913
+酣觞赋诗	han shang fu shi	767
+寒食	han shi	4980
+韩世家	han shi jia	358
+汉室之隆	han shi zhi long	3157
+汉书	han shu	3159
+韩魏之经营	han wei zhi jing ying	347
+韩偓	han wo	356
+汉武帝	han wu di	3154
+韩湘子	han xiang zi	352
+含笑	han xiao	5946
+韩信卢绾列传	han xin lu wan lie zhuan	357
+韩奕	han yi	355
+韩胤	han yin	350
+韩愈	han yu	353
+含冤	han yuan	5949
+汉中	han zhong	3160
+汉钟离	han zhong li	3153
+行阵和睦	hang zhen he mu	1374
+皓齿内鲜	hao chi nei xian	2465
+好读书	hao du shu	5219
+壕沟	hao gou	5580
+浩浩乎如冯虚御风	hao hao hu ru feng xu yu feng	3032
+浩浩汤汤	hao hao shang shang	3031
+镐京	hao jing	602
+毫厘	hao li	3200
+浩然正气	hao ran zheng qi	3030
+昊天有成命	hao tian you cheng ming	3821
+好雨知时节	hao yu zhi shi jie	5218
+皓月千里	hao yue qian li	2467
+好整以暇	hao zheng yi xia	5220
+皓质呈露	hao zhi cheng lu	2466
+好之者不如乐之者	hao zhi zhe bu ru le zhi zhe	5221
+号钟	hao zhong	6035
+合抱之木生于毫末	he bao zhi mu sheng yu hao mo	6014
+何彼秾矣	he bi nong yi	6826
+河伯	he bo	3105
+何草不黄	he cao bu huang	6822
+荷锄	he chu	1588
+何处春江无月明	he chu chun jiang wu yue ming	6829
+何处相思明月楼	he chu xiang si ming yue lou	6828
+和大怨必有余怨	he da yuan bi you yu yuan	5838
+河亶甲	he dan jia	3106
+河道总督	he dao zong du	3102
+合德	he de	6015
+何方圜之能周兮	he fang huan zhi neng zhou xi	6824
+荷盖	he gai	1591
+壑谷	he gu	5581
+河广	he guang	3104
+何鸿燊	he hong shen	6818
+何患无辞	he huan wu ci	6825
+合节	he jie	6012
+鹤唳	he li	96
+何陋之有	he lou zhi you	6819
+鹤鸣	he ming	94
+和其光	he qi guang	5839
+何弃之有	he qi zhi you	6827
+何人斯	he ren si	6833
+和氏	he shi	5837
+和氏璧	he shi bi	5836
+何事长向别时圆	he shi chang xiang bie shi yuan	6834
+何似在人间	he si zai ren jian	6831
+荷蓑	he suo	1590
+核桃	he tao	3394
+鹤汀凫渚	he ting fu zhu	95
+何谓宠辱若惊	he wei chong ru ruo jing	6821
+何谓贵大患若身	he wei gui da huan ruo shen	6820
+何为其然也	he wei qi ran ye	6835
+河西	he xi	3103
+何仙姑	he xian gu	6832
+荷衣	he yi	1589
+何有于我哉	he you yu wo zai	6823
+何哉	he zai	6830
+贺知章	he zhi zhang	1081
+和之至也	he zhi zhi ye	5840
+贺铸	he zhu	1080
+合纵连横	he zong lian heng	6013
+黑白	hei bai	49
+黑白无常	hei bai wu chang	48
+黑茶	hei cha	47
+黑水	hei shui	50
+恨别鸟惊心	hen bie niao jing xin	4334
+恨人神之道殊兮	hen ren shen zhi dao shu xi	4335
+横刀	heng dao	3309
+横笛	heng di	3305
+蘅皋	heng gao	1455
+恒卦	heng gua	4338
+珩璜	heng huang	2659
+衡论	heng lun	1366
+横眉冷对	heng mei leng dui	3306
+衡门	heng men	1365
+恒山	heng shan	4337
+衡山	heng shan	1367
+横槊赋诗	heng shuo fu shi	3307
+横无际涯	heng wu ji ya	3308
+衡于虑	heng yu lv	1368
+红茶	hong cha	2049
+洪都新府	hong du xin fu	3054
+洪范	hong fan	3055
+鸿鹄	hong hu	105
+红楼梦	hong lou meng	2050
+鸿胪寺	hong lu si	108
+红藕香残玉簟秋	hong ou xiang can yu dian qiu	2048
+洪昇	hong sheng	3057
+薨逝	hong shi	1467
+鸿雁	hong yan	107
+鸿雁长飞光不度	hong yan chang fei guang bu du	106
+红衣大炮	hong yi da pao	2047
+洪泽	hong ze	3056
+红掌拨清波	hong zhang bo qing bo	2051
+泓之战	hong zhi zhan	3088
+后不见来者	hou bu jian lai zhe	5994
+后赤壁赋	hou chi bi fu	5984
+候风地动仪	hou feng di dong yi	6711
+后宫佳丽三千	hou gong jia li san qian	5989
+后汉	hou han	5988
+后汉书	hou han shu	5987
+厚朴	hou pu	6132
+候人	hou ren	6712
+后人哀之而不鉴之	hou ren ai zhi er bu jian zhi	5993
+后遂无问津者	hou sui wu wen jin zhe	5983
+后天下之乐而乐乎	hou tian xia zhi le er le hu	5990
+猴头菇	hou tou gu	2753
+后土	hou tu	5991
+侯王得一以为天下正	hou wang de yi yi wei tian xia zheng	6762
+侯王若能守之	hou wang ruo neng shou zhi	6760
+侯王无以正将恐蹶	hou wang wu yi zheng jiang kong jue	6761
+后玄武	hou xuan wu	5986
+后者应	hou zhe ying	5985
+后值倾覆	hou zhi qing fu	5992
+笏板	hu ban	2147
+户部	hu bu	4214
+忽不悟其所舍	hu bu wu qi suo she	4374
+护城河	hu cheng he	4167
+忽驰骛以追逐兮	hu chi wu yi zhui zhu xi	4370
+笏带	hu dai	2148
+忽反顾以游目兮	hu fan gu yi you mu xi	4373
+忽逢桃花林	hu feng tao hua lin	4371
+虎符	hu fu	1448
+胡笳	hu jia	1825
+狐假虎威	hu jia hu wei	2779
+虎口	hu kou	1453
+虎牢关	hu lao guan	1449
+葫芦僧	hu lu seng	1521
+葫芦丝	hu lu si	1522
+觳觫	hu su	1274
+户庭无尘杂	hu ting wu chen za	4215
+虎无所用其爪	hu wu suo yong qi zhao	1450
+惚兮恍兮	hu xi huang xi	4302
+虎啸	hu xiao	1452
+虎啸猿啼	hu xiao yuan ti	1451
+狐偃	hu yan	2780
+忽焉思散	hu yan si san	4372
+瓠叶	hu ye	2613
+乎哉	hu zai	7194
+画案	hua an	2551
+话本	hua ben	1225
+画策	hua ce	2550
+华虫	hua chong	6196
+画荻教子	hua di jiao zi	2549
+画栋	hua dong	2552
+化而欲作	hua er yu zuo	6258
+花糕	hua gao	1695
+花鼓	hua gu	1689
+花几	hua ji	1701
+滑稽列传	hua ji lie zhuan	2922
+花甲	hua jia	1697
+花甲之年	hua jia zhi nian	1696
+花胶	hua jiao	1694
+铧犁	hua li	624
+花落知多少	hua luo zhi duo shao	1692
+华茂春松	hua mao chun song	6197
+花鸟画	hua niao hua	1690
+华容婀娜	hua rong e nuo	6199
+花容月貌	hua rong yue mao	1700
+华山	hua shan	6198
+画蛇添足	hua she tian zu	2548
+花生	hua sheng	1698
+花言巧语	hua yan qiao yu	1691
+华严宗	hua yan zong	6200
+花朝	hua zhao	1699
+花之富贵者也	hua zhi fu gui zhe ye	1703
+花之君子者也	hua zhi jun zi zhe ye	1704
+花之隐逸者也	hua zhi yin yi zhe ye	1702
+花自飘零水自流	hua zi piao ling shui zi liu	1693
+怀璧其罪	huai bi qi zui	4366
+怀宠	huai chong	4369
+怀帝阍而不见	huai di hun er bu jian	4368
+淮南衡山列传	huai nan heng shan lie zhuan	2995
+怀沙	huai sha	4367
+怀素	huai su	4365
+淮阴侯列传	huai yin hou lie zhuan	2994
+环滁皆山也	huan chu jie shan ye	2670
+环堵萧然	huan du xiao ran	2671
+环而攻之而不胜	huan er gong zhi er bu sheng	2669
+环肥燕瘦	huan fei yan shou	2668
+桓公	huan gong	3375
+桓公问	huan gong wen	3374
+涣卦	huan gua	3006
+桓灵	huan ling	3372
+环佩	huan pei	2672
+圜钱	huan qian	5676
+环首刀	huan shou dao	2667
+桓温	huan wen	3373
+涣兮其若凌释	huan xi qi ruo ling shi	3007
+还于旧都	huan yu jiu du	908
+缓着	huan zhe	1978
+黄柏	huang bai	69
+黄茶	huang cha	60
+黄赤交角	huang chi jiao jiao	59
+黄初三年	huang chu san nian	79
+黄琮	huang cong	64
+黄道	huang dao	57
+黄帝	huang di	76
+黄帝内经	huang di nei jing	75
+黄帝战蚩尤	huang di zhan chi you	74
+黄发垂髫	huang fa chui tiao	78
+黄盖	huang gai	63
+黄鹤楼送孟浩然之广陵	huang he lou song meng hao ran zhi guang ling	53
+黄河入海流	huang he ru hai liu	67
+黄河远上白云间	huang he yuan shang bai yun jian	66
+皇后	huang hou	2475
+皇皇者华	huang huang zhe hua	2473
+黄连	huang lian	58
+黄梅戏	huang mei xi	68
+黄鸟	huang niao	54
+黄芪	huang qi	61
+黄芩	huang qin	62
+黄权	huang quan	70
+黄泉	huang quan	65
+恍然	huang ran	4341
+恍然大悟	huang ran da wu	4340
+黄山毛峰	huang shan mao feng	77
+皇太后	huang tai hou	2474
+黄庭坚	huang ting jian	73
+恍兮惚兮	huang xi hu xi	4342
+荒兮其未央哉	huang xi qi wei yang zai	1603
+皇矣	huang yi	2472
+皇舆	huang yu	2471
+黄月英	huang yue ying	71
+黄忠	huang zhong	72
+黄钟	huang zhong	56
+黄钟毁弃	huang zhong hui qi	55
+毁谤	hui bang	3211
+蕙茝	hui chai	1481
+会当凌绝顶	hui dang ling jue ding	6868
+回睇	hui di	5713
+回锋	hui feng	5712
+惠风和畅	hui feng he chang	4292
+蟪蛄	hui gu	1386
+悔过	hui guo	4318
+徽号	hui hao	4420
+挥毫	hui hao	4122
+悔恨	hui hen	4321
+恢弘志士之气	hui hong zhi shi zhi qi	4336
+讳疾忌医	hui ji ji yi	1249
+回廊	hui lang	5719
+晦明变化者	hui ming bian hua zhe	3680
+讳莫如深	hui mo ru shen	1248
+回眸	hui mou	5715
+回眸一笑	hui mou yi xiao	5714
+回目	hui mu	5716
+回清阳	hui qing yang	5717
+诲人不倦	hui ren bu juan	1220
+晦日	hui ri	3681
+会试	hui shi	6864
+晦朔	hui shuo	3679
+回头是岸	hui tou shi an	5720
+会舞	hui wu	6865
+悔悟	hui wu	4320
+麾下	hui xia	80
+悔相道之不察兮	hui xiang dao zhi bu cha xi	4319
+灰心丧气	hui xin sang qi	2882
+彗星	hui xing	4505
+讳言	hui yan	1247
+蕙肴	hui yao	1482
+回也不改其乐	hui ye bu gai qi le	5721
+会意	hui yi	6867
+回音壁	hui yin bi	5711
+会元	hui yuan	6869
+蕙帐	hui zhang	1483
+回朕车以复路兮	hui zhen che yi fu lu xi	5718
+蕙质兰心	hui zhi lan xin	1480
+浑沌	hun dun	3036
+昏乱	hun luan	3805
+浑天	hun tian	3038
+浑天仪	hun tian yi	3037
+馄饨	hun tun	253
+混兮其若浊	hun xi qi ruo zhuo	2989
+浑象	hun xiang	3035
+昏义	hun yi	3806
+浑仪	hun yi	3039
+昏着	hun zhe	3804
+或采明珠	huo cai ming zhu	4225
+火铳	huo chong	2887
+火传也	huo chuan ye	2892
+火攻	huo gong	2891
+火箭	huo jian	2889
+获麟解	huo lin jie	1572
+祸莫大于不知足	huo mo da yu bu zhi zu	2274
+祸莫大于轻敌	huo mo da yu qing di	2273
+火炮	huo pao	2890
+或强或羸	huo qiang huo lei	4233
+获禽	huo qin	1573
+豁然开朗	huo ran kai lang	1140
+火绳枪	huo sheng qiang	2888
+或拾翠羽	huo shi cui yu	4231
+祸兮福之所倚	huo xi fu zhi suo yi	2275
+或戏清流	huo xi qing liu	4232
+或下而取	huo xia er qu	4235
+藿香	huo xiang	1456
+或翔神渚	huo xiang shen zhu	4227
+或歔或吹	huo xu huo chui	4230
+或异二者之为	huo yi er zhe zhi wei	4234
+或益之而损	huo yi zhi er sun	4229
+或载或隳	huo zai huo hui	4226
+或置酒而招之	huo zhi jiu er zhao zhi	4228
+货殖列传	huo zhi lie zhuan	1102
+季布栾布列传	ji bu luan bu lie zhuan	5120
+纪昌学射	ji chang xue she	2041
+记承天寺夜游	ji cheng tian si ye you	1251
+己丑	ji chou	4739
+既出	ji chu	3866
+季春纪	ji chun ji	5119
+既得其母	ji de qi mu	3864
+及第	ji di	6105
+祭地	ji di	2285
+季冬纪	ji dong ji	5122
+既而	ji er	3860
+祭法	ji fa	2282
+祭服	ji fu	2283
+集芙蓉以为裳	ji fu rong yi wei shang	442
+寄蜉蝣于天地	ji fu you yu tian di	4987
+击鼓	ji gu	6397
+己亥	ji hai	4738
+芰荷	ji he	1705
+忌讳	ji hui	4396
+及笄	ji ji	6106
+岌岌	ji ji	4798
+既济	ji ji	3862
+鞿羁	ji ji	363
+集解	ji jie	441
+祭酒	ji jiu	2276
+及郡下	ji jun xia	6103
+嵇康	ji kang	4774
+击空明兮溯流光	ji kong ming xi su liu guang	6398
+极乐世界	ji le shi jie	3444
+蒺藜	ji li	1506
+记里鼓车	ji li gu che	1250
+机灵	ji ling	3508
+鹡鸰	ji ling	97
+冀灵体之复形	ji ling ti zhi fu xing	6481
+己卯	ji mao	4737
+机敏	ji min	3509
+鸡鸣	ji ming	129
+鸡鸣狗盗	ji ming gou dao	127
+鸡鸣桑树颠	ji ming sang shu dian	128
+积墨	ji mo	2218
+羁鸟恋旧林	ji niao lian jiu lin	1947
+机弩	ji nu	3510
+寄欧阳舍人书	ji ou yang she ren shu	4989
+祭器	ji qi	2286
+济其事	ji qi shi	3040
+及其有事	ji qi you shi	6108
+季秋纪	ji qiu ji	5117
+鸡犬相闻	ji quan xiang wen	130
+鸡犬之声相闻	ji quan zhi sheng xiang wen	131
+吉日	ji ri	6010
+计日而待	ji ri er dai	1258
+积善成德	ji shan cheng de	2220
+祭社	ji she	2280
+寄生	ji sheng	4988
+记室	ji shi	1252
+祭十二郎文	ji shi er lang wen	2287
+几世几年	ji shi ji nian	6419
+吉事尚左	ji shi shang zuo	6011
+脊兽	ji shou	1808
+积水成渊	ji shui cheng yuan	2217
+己巳	ji si	4736
+祭祀	ji si	2279
+己所不欲勿施于人	ji suo bu yu wu shi yu ren	4735
+祭天	ji tian	2284
+祭统	ji tong	2277
+积土成山	ji tu cheng shan	2219
+既望	ji wang	3863
+己未	ji wei	4734
+及吾无身	ji wu wu shen	6107
+既夕礼	ji xi li	3865
+寂兮寥兮	ji xi liao xi	4990
+季夏纪	ji xia ji	5121
+纪孝行章	ji xiao xing zhang	2043
+及行迷之未远	ji xing mi zhi wei yuan	6104
+祭义	ji yi	2288
+既以为人己愈有	ji yi wei ren ji yu you	3867
+既以与人己愈多	ji yi yu ren ji yu duo	3868
+己酉	ji you	4731
+觊觎	ji yu	1292
+己欲达而达人	ji yu da er da ren	4732
+己欲立而立人	ji yu li er li ren	4733
+觊觎王位	ji yu wang wei	1290
+极娱游于暇日	ji yu you yu xia ri	3443
+觊觎之心	ji yu zhi xin	1291
+纪元	ji yuan	2044
+纪昀	ji yun	2042
+集韵	ji yun	440
+祭灶	ji zao	2281
+季札	ji zha	5118
+汲郑列传	ji zheng lie zhuan	3123
+既知其子	ji zhi qi zi	3861
+冀州	ji zhou	6482
+积铢累寸	ji zhu lei cun	2216
+纪传体	ji zhuan ti	2045
+鸡枞	ji zong	132
+祭祖	ji zu	2278
+既醉	ji zui	3859
+既醉而退	ji zui er tui	3858
+夹岸数百步	jia an shu bai bu	5251
+驾崩	jia beng	222
+甲长	jia chang	2559
+家臣	jia chen	5004
+甲辰	jia chen	2560
+贾代儒	jia dai ru	1077
+贾代善	jia dai shan	1076
+贾岛	jia dao	1075
+假道伐虢	jia dao fa guo	6698
+蛱蝶	jia die	1418
+甲骨文	jia gu wen	2558
+驾鹤西去	jia he xi qu	221
+贾环	jia huan	1072
+家讳	jia hui	5003
+假借	jia jie	6700
+贾敬	jia jing	1073
+家君作宰	jia jun zuo zai	5005
+假乐	jia le	6701
+贾琏	jia lian	1070
+架梁之椽	jia liang zhi chuan	3418
+葭萌	jia meng	1520
+佳木秀而繁阴	jia mu xiu er fan yin	6789
+家贫不能常得	jia pin bu neng chang de	5002
+家人	jia ren	5006
+贾蓉	jia rong	1069
+稼穑	jia se	2208
+袈裟	jia sha	1354
+贾赦	jia she	1067
+甲申	jia shen	2561
+家书抵万金	jia shu di wan jin	5007
+稼说	jia shuo	2207
+假途灭虢	jia tu mie guo	6699
+甲午	jia wu	2565
+甲戌	jia xu	2562
+贾诩	jia xu	1068
+稼轩	jia xuan	2206
+佳肴	jia yao	6788
+驾一叶之扁舟	jia yi ye zhi pian zhou	223
+甲寅	jia yin	2563
+贾雨村	jia yu cun	1066
+嘉峪关	jia yu guan	5746
+贾珍	jia zhen	1071
+贾政	jia zheng	1074
+夹钟	jia zhong	5250
+甲子	jia zi	2564
+兼爱	jian ai	6484
+简拔	jian ba	2120
+见背	jian bei	1305
+煎茶	jian cha	2835
+监察御史	jian cha yu shi	2451
+蹇产	jian chan	999
+僭称	jian cheng	6683
+间传	jian chuan	560
+建德若偷	jian de ruo tou	4600
+建鼓	jian gu	4598
+俭故能广	jian gu neng guang	6732
+渐卦	jian gua	2975
+蹇卦	jian gua	998
+僭号	jian hao	6684
+蒹葭	jian jia	1510
+蒹葭采采	jian jia cai cai	1507
+蒹葭苍苍	jian jia cang cang	1509
+蒹葭萋萋	jian jia qi qi	1508
+謇謇	jian jian	1262
+謇蹇	jian jian	1261
+渐渐之石	jian jian zhi shi	2974
+践椒涂之郁烈	jian jiao tu zhi yu lie	1007
+建康	jian kang	4601
+见龙在田	jian long zai tian	1304
+剑门关	jian men guan	6312
+肩若削成	jian ruo xiao cheng	1838
+监生	jian sheng	2450
+箭矢	jian shi	2102
+蹇叔	jian shu	997
+检讨	jian tao	3353
+践土之盟	jian tu zhi meng	1008
+渐闻水声潺潺	jian wen shui sheng chan chan	2973
+謇吾法夫前修兮	jian wu fa fu qian xiu xi	1263
+简兮	jian xi	2121
+兼相爱	jian xiang ai	6483
+见小曰明	jian xiao yue ming	1308
+荐新	jian xin	1604
+简选	jian xuan	2119
+建业	jian ye	4602
+简仪	jian yi	2122
+见渔人	jian yu ren	1307
+践远游之文履	jian yuan you zhi wen lv	1006
+僭越	jian yue	6682
+建章	jian zhang	4599
+谏诤章	jian zheng zhang	1167
+江城子	jiang cheng zi	3147
+江枫渔火对愁眠	jiang feng yu huo dui chou mian	3142
+江海之所以能为百谷王者	jiang hai zhi suo yi neng wei bai gu wang zhe	3139
+江汉	jiang han	3140
+绛侯周勃世家	jiang hou zhou bo shi jia	2004
+将军向宠	jiang jun xiang chong	4948
+姜夔	jiang kui	5193
+江离	jiang li	3136
+降娄	jiang lou	493
+奖率三军	jiang lv san jun	5231
+江畔何人初见月	jiang pan he ren chu jian yue	3137
+蒋钦	jiang qin	1518
+江山如画	jiang shan ru hua	3146
+江水流春去欲尽	jiang shui liu chun qu yu jin	3141
+江潭落月复西斜	jiang tan luo yue fu xi xie	3138
+将往观乎四荒	jiang wang guan hu si huang	4947
+姜维	jiang wei	5192
+江雪	jiang xue	3135
+将以愚之	jiang yi yu zhi	4950
+江有汜	jiang you si	3143
+将欲废之	jiang yu fei zhi	4944
+将欲取天下而为之	jiang yu qu tian xia er wei zhi	4945
+将欲取之	jiang yu qu zhi	4946
+将欲弱之	jiang yu ruo zhi	4943
+将欲歙之	jiang yu she zhi	4942
+江月何年初照人	jiang yue he nian chu zhao ren	3145
+江月年年望相似	jiang yue nian nian wang xiang si	3144
+将仲子	jiang zhong zi	4949
+焦大	jiao da	2845
+教典	jiao dian	3989
+椒殿	jiao dian	3338
+椒房	jiao fang	3340
+胶鬲举于鱼盐之中	jiao ge ju yu yu yan zhi zhong	1822
+角弓	jiao gong	1287
+交鼓	jiao gu	7033
+椒浆	jiao jiang	3337
+椒酒	jiao jiu	3334
+矫菌桂以纫蕙兮	jiao jun gui yi ren hui xi	2356
+角亢氐房	jiao kang di fang	1288
+椒聊	jiao liao	3335
+鹪鹩巢林	jiao liao chao lin	91
+蛟龙生焉	jiao long sheng yan	1420
+角楼	jiao lou	1286
+焦墨	jiao mo	2847
+焦墨山水	jiao mo shan shui	2846
+椒丘	jiao qiu	3344
+教然后知困	jiao ran hou zhi kun	3987
+鲛人	jiao ren	149
+皎若太阳升朝霞	jiao ruo tai yang sheng zhao xia	2468
+交泰殿	jiao tai dian	7036
+椒堂	jiao tang	3342
+郊特牲	jiao te sheng	798
+椒庭	jiao ting	3341
+狡童	jiao tong	2774
+椒图	jiao tu	3343
+狡兔三窟	jiao tu san ku	2775
+焦尾琴	jiao wei qin	2844
+交相利	jiao xiang li	7035
+鲛绡	jiao xiao	148
+娇杏	jiao xing	5185
+椒糈	jiao xu	3336
+教学相长	jiao xue xiang zhang	3988
+椒掖	jiao ye	3339
+教谕	jiao yu	3986
+交趾	jiao zhi	7034
+饺子	jiao zi	257
+解蔽	jie bi	1279
+节操	jie cao	1720
+诘朝	jie chao	1227
+揭车	jie che	4089
+皆出酒食	jie chu jiu shi	2477
+诘旦	jie dan	1228
+节度使	jie du shi	1721
+嗟夫	jie fu	5747
+桔梗	jie geng	3371
+羯鼓	jie gu	1930
+节卦	jie gua	1722
+解卦	jie gua	1283
+嗟乎	jie hu	5749
+界画	jie hua	2547
+嗟佳人之信修兮	jie jia ren zhi xin xiu xi	5748
+孑孓	jie jue	5162
+解老	jie lao	1280
+结庐在人境	jie lu zai ren jing	2007
+接孟氏之芳邻	jie meng shi zhi fang lin	4102
+节南山	jie nan shan	1723
+解其纷	jie qi fen	1284
+蝍蛆	jie qu	1401
+节丧	jie sang	1724
+碣石	jie shi	2336
+碣石潇湘无限路	jie shi xiao xiang wu xian lu	2335
+解绶	jie shou	1281
+劫数	jie shu	6274
+皆叹惋	jie tan wan	2476
+结网	jie wang	2006
+节用	jie yong	1719
+婕妤	jie yu	5175
+解玉佩以要之	jie yu pei yi yao zhi	1282
+解元	jie yuan	1285
+节钺	jie yue	1717
+节葬	jie zang	1718
+竭泽而渔	jie ze er yu	2160
+戒之曰	jie zhi yue	4236
+桀纣	jie zhou	3392
+介子推	jie zi tui	6972
+金碧	jin bi	680
+金碧山水	jin bi shan shui	679
+进不入以离尤兮	jin bu ru yi li you xi	904
+禁藏	jin cang	2270
+今草	jin cao	6973
+金钏	jin chuan	676
+金丹	jin dan	694
+今当远离	jin dang yuan li	6975
+进道若退	jin dao ruo tui	896
+金锭	jin ding	674
+进复	jin fu	902
+金刚	jin gang	693
+金刚杵	jin gang chu	692
+今古奇观	jin gu qi guan	6977
+晋卦	jin gua	3694
+搢笏	jin hu	4084
+金阶	jin jie	673
+进尽忠言	jin jin zhong yan	900
+金骏眉	jin jun mei	671
+金块珠砾	jin kuai zhu li	689
+金匮要略	jin kui yao lue	691
+觐礼	jin li	1289
+斤两	jin liang	3942
+金鳞	jin lin	669
+锦鳞	jin lin	611
+锦鳞游泳	jin lin you yong	610
+金铃	jin ling	675
+金陵	jin ling	672
+靳令	jin ling	368
+金木水火土	jin mu shui huo tu	686
+金瓶梅	jin ping mei	682
+禁塞	jin sai	2271
+襟三江而带五湖	jin san jiang er dai wu hu	1327
+今舍慈且勇	jin she ci qie yong	6974
+缙绅	jin shen	1970
+谨慎	jin shen	1151
+金声玉振	jin sheng yu zhen	688
+禁使	jin shi	2272
+进士	jin shi	903
+金史	jin shi	690
+晋世家	jin shi jia	3696
+金石可镂	jin shi ke lou	681
+尽是他乡之客	jin shi ta xiang zhi ke	4865
+晋书	jin shu	3695
+金水桥	jin shui qiao	685
+尽态极妍	jin tai ji yan	4866
+晋太元中	jin tai yuan zhong	3693
+晋陶渊明独爱菊	jin tao yuan ming du ai ju	3690
+金縢	jin teng	678
+近体诗	jin ti shi	909
+进退	jin tui	897
+金文	jin wen	687
+晋文公	jin wen gong	3692
+今夕是何年	jin xi shi he nian	6976
+进贤	jin xian	898
+进学解	jin xue jie	901
+浸浔	jin xun	3011
+锦衣卫	jin yi wei	613
+锦衣玉食	jin yi yu shi	612
+晋语	jin yu	3691
+瑾瑜	jin yu	2619
+金鱼袋	jin yu dai	670
+金玉满堂	jin yu man tang	683
+金针菇	jin zhen gu	677
+金汁	jin zhi	684
+进止难期	jin zhi nan qi	899
+今兹捧袂	jin zi peng mei	6978
+敬避	jing bi	3976
+荆钗记	jing chai ji	1614
+景春曰	jing chun yue	3670
+经幡	jing fan	2013
+景公	jing gong	3671
+惊弓之鸟	jing gong zhi niao	4305
+井卦	jing gua	7040
+京胡	jing hu	7023
+镜花缘	jing hua yuan	601
+荆棘生焉	jing ji sheng yan	1618
+经解	jing jie	2010
+荆芥	jing jie	1615
+靖节先生	jing jie xian sheng	399
+菁菁者莪	jing jing zhe e	1564
+京剧	jing ju	7024
+经略使	jing lue shi	2012
+经络	jing luo	2011
+境内	jing nei	5600
+鲸鲵	jing ni	145
+鲸鲵踊而夹毂	jing ni yong er jia gu	144
+静女	jing nv	396
+荆璞	jing pu	1616
+旌旗	jing qi	3913
+旌旗蔽空	jing qi bi kong	3912
+静如处子	jing ru chu zi	395
+径山茶	jing shan cha	4473
+精舍	jing she	2080
+静胜热	jing sheng re	393
+警世通言	jing shi tong yan	1260
+经说	jing shuo	2009
+惊涛拍岸	jing tao pai an	4304
+精通	jing tong	2079
+经通谷	jing tong gu	2008
+净土	jing tu	6438
+净土宗	jing tu zong	6437
+井蛙不可以语于海	jing wa bu ke yi yu yu hai	7039
+静为躁君	jing wei zao jun	398
+竟夕起相思	jing xi qi xiang si	2170
+净虚	jing xu	6436
+荆燕世家	jing yan shi jia	1617
+静夜思	jing ye si	397
+静影沉璧	jing ying chen bi	394
+京韵大鼓	jing yun da gu	7022
+惊蛰	jing zhe	4303
+敬之	jing zhi	3977
+精之至也	jing zhi zhi ye	2082
+精忠报国	jing zhong bao guo	2081
+荆州	jing zhou	1619
+竞周容以为度	jing zhou rong yi wei du	2171
+冏命	jiong ming	6471
+泂酌	jiong zhuo	3091
+九变	jiu bian	7165
+九辩	jiu bian	7144
+九层之台起于累土	jiu ceng zhi tai qi yu lei tu	7158
+九重	jiu chong	7143
+九地	jiu di	7161
+九方皋相马	jiu fang gao xiang ma	7152
+救风尘	jiu feng chen	3990
+九赋	jiu fu	7145
+酒诰	jiu gao	768
+九歌	jiu ge	7150
+九贡	jiu gong	7146
+九华	jiu hua	7168
+九怀	jiu huai	7155
+九黎	jiu li	7140
+九龙壁	jiu long bi	7139
+咎莫大于欲得	jiu mo da yu yu de	5835
+樛木	jiu mu	3310
+九品	jiu pin	7163
+九品中正制	jiu pin zhong zheng zhi	7162
+九卿	jiu qing	7167
+九阙	jiu que	7142
+九式	jiu shi	7156
+九守	jiu shou	7159
+九数	jiu shu	7153
+九思	jiu si	7154
+救死扶伤	jiu si fu shang	3991
+九叹	jiu tan	7164
+旧唐书	jiu tang shu	3843
+旧五代史	jiu wu dai shi	3844
+九霄	jiu xiao	7141
+九婴	jiu ying	7160
+九罭	jiu yu	7147
+九原	jiu yuan	7166
+九月九日忆山东兄弟	jiu yue jiu ri yi shan dong xiong di	7151
+久在樊笼里	jiu zai fan long li	7202
+九章	jiu zhang	7148
+九真	jiu zhen	7149
+久之	jiu zhi	7203
+九州	jiu zhou	7157
+居安思危	ju an si wei	4860
+具备	ju bei	6492
+举宠为督	ju chong wei du	7210
+具答之	ju da zhi	6491
+狙公	ju gong	2776
+鞠躬尽瘁	ju gong jin cui	365
+菊花	ju hua	1562
+橘井	ju jing	3295
+举酒属客	ju jiu shu ke	7208
+拒马	ju ma	4150
+居庙堂之高则忧其民	ju miao tang zhi gao ze you qi min	4859
+举匏樽以相属	ju pao zun yi xiang zhu	7212
+举棋不定	ju qi bu ding	7209
+具区	ju qu	6493
+举人	ju ren	7213
+居丧	ju sang	4863
+沮丧	ju sang	3107
+居善地	ju shan di	4862
+俱舍宗	ju she zong	6714
+惧斯灵之我欺	ju si ling zhi wo qi	4291
+橘颂	ju song	3292
+居天下之广居	ju tian xia zhi guang ju	4861
+举头望明月	ju tou wang ming yue	7211
+俱为一体	ju wei yi ti	6715
+居延海	ju yan hai	4857
+居庸关	ju yong guan	4858
+琚瑀	ju yu	2654
+龃龉	ju yu	17
+橘逾淮为枳	ju yu huai wei zhi	3293
+菊之爱	ju zhi ai	1563
+娵訾	ju zi	5179
+橘子	ju zi	3294
+卷阿	juan a	6136
+绢本	juan ben	1996
+卷耳	juan er	6138
+捐馆	juan guan	4115
+捐馆舍	juan guan she	4114
+卷起千堆雪	juan qi qian dui xue	6137
+决曹	jue cao	6445
+绝代佳人	jue dai jia ren	2001
+夬卦	jue gua	5262
+绝句	jue ju	2000
+厥明	jue ming	6128
+攫鸟不搏	jue niao bu bo	4064
+决篇	jue pian	6444
+绝巧弃利	jue qiao qi li	1997
+绝仁弃义	jue ren qi yi	2002
+决胜	jue sheng	6443
+绝圣弃智	jue sheng qi zhi	1999
+觉悟	jue wu	1293
+绝学无忧	jue xue wu you	1998
+觉宇宙之无穷	jue yu zhou zhi wu qiong	1294
+蹶张弩	jue zhang nu	987
+俊采星驰	jun cai xing chi	6750
+君臣	jun chen	5957
+君陈	jun chen	5953
+君臣佐使	jun chen zuo shi	5956
+郡丞	jun cheng	787
+君道	jun dao	5954
+菌桂	jun gui	1561
+君山银针	jun shan yin zhen	5959
+君奭	jun shi	5972
+郡守	jun shou	785
+军形	jun xing	6466
+君牙	jun ya	5958
+君药	jun yao	5955
+军争	jun zheng	6467
+郡中正	jun zhong zheng	786
+君子	jun zi	5971
+君子成人之美	jun zi cheng ren zhi mei	5963
+君子好逑	jun zi hao qiu	5966
+君子和而不同	jun zi he er bu tong	5969
+君子居则贵左	jun zi ju ze gui zuo	5964
+君子求诸己	jun zi qiu zhu ji	5962
+君子如欲化民成俗	jun zi ru yu hua min cheng su	5965
+君子生非异也	jun zi sheng fei yi ye	5961
+君子坦荡荡	jun zi tan dang dang	5967
+君子阳阳	jun zi yang yang	5960
+君子于役	jun zi yu yi	5970
+君子喻于义	jun zi yu yu yi	5968
+开宝本草	kai bao ben cao	4589
+凯风	kai feng	6410
+开弓	kai gong	4588
+开荒南野际	kai huang nan ye ji	4586
+开其兑	kai qi dui	4593
+开塞	kai sai	4592
+楷书	kai shu	3322
+楷书四大家	kai shu si da jia	3321
+开阳	kai yang	4585
+开元盛世	kai yuan sheng shi	4595
+开元通宝	kai yuan tong bao	4594
+开张圣听	kai zhang sheng ting	4587
+开妆镜也	kai zhuang jing ye	4591
+开宗明义	kai zong ming yi	4590
+坎卦	kan gua	5630
+顑颔	kan han	344
+勘合	kan he	6267
+侃侃而谈	kan kan er tan	6777
+阚泽	kan ze	538
+糠秕	kang bi	2076
+康诰	kang gao	4615
+康居	kang ju	4618
+亢龙有悔	kang long you hui	7037
+抗罗袂以掩涕兮	kang luo mei yi yan ti xi	4173
+抗琼珶以和予兮	kang qiong ti yi he yu xi	4174
+康王之诰	kang wang zhi gao	4616
+康熙	kang xi	4617
+炕桌	kang zhuo	2869
+考课	kao ke	1898
+考槃	kao pan	1899
+可爱者甚蕃	ke ai zhe shen fan	6047
+刻符	ke fu	6322
+克己奉公	ke ji feng gong	6648
+科举	ke ju	2241
+可怜白发生	ke lian bai fa sheng	6048
+可怜春半不还家	ke lian chun ban bu huan jia	6050
+可怜焦土	ke lian jiao tu	6049
+可名为大	ke ming wei da	6051
+溘然	ke ran	2934
+溘然长逝	ke ran chang shi	2932
+溘然而逝	ke ran er shi	2933
+溘逝	ke shi	2931
+溘死	ke si	2935
+刻唐贤今人诗赋	ke tang xian jin ren shi fu	6324
+客喜而笑	ke xi er xiao	5021
+客星	ke xing	5020
+刻意	ke yi	6323
+可以长久	ke yi chang jiu	6052
+可以调素琴	ke yi tiao su qin	6053
+可以为师矣	ke yi wei shi yi	6054
+可以为天地母	ke yi wei tian di mu	6055
+可以一战	ke yi yi zhan	6056
+客亦知夫水与月乎	ke yi zhi fu shui yu yue hu	5022
+客有吹洞箫者	ke you chui dong xiao zhe	5018
+可远观而不可亵玩	ke yuan guan er bu ke xie wan	6046
+可远观而不可亵玩焉	ke yuan guan er bu ke xie wan yan	6045
+客曰	ke yue	5019
+垦令	ken ling	5616
+控笔	kong bi	4101
+孔德之容	kong de zhi rong	5157
+空乏其身	kong fa qi shen	2194
+箜篌	kong hou	2117
+箜篌引	kong hou yin	2116
+空即是色	kong ji shi se	2192
+孔甲	kong jia	5156
+控蛮荆而引瓯越	kong man jing er yin ou yue	4100
+孔尚任	kong shang ren	5158
+崆峒	kong tong	4783
+崆峒山	kong tong shan	4782
+恐修名之不立	kong xiu ming zhi bu li	4339
+空余报国之情	kong yu bao guo zhi qing	2193
+孔子世家	kong zi shi jia	5161
+孔子闲居	kong zi xian ju	5159
+孔子云	kong zi yun	5160
+口技	kou ji	6078
+口若悬河	kou ruo xuan he	6077
+扣舷而歌之	kou xian er ge zhi	4196
+枯槁	ku gao	3421
+苦海	ku hai	1651
+苦海无边	ku hai wu bian	1650
+酷吏列传	ku li lie zhuan	762
+枯木死灰	ku mu si hui	3422
+库平	ku ping	4647
+枯湿	ku shi	3420
+枯藤老树昏鸦	ku teng lao shu hun ya	3419
+夸父逐日	kua fu zhu ri	5252
+姱修	kua xiu	5190
+跨者不行	kua zhe bu xing	1011
+快板	kuai ban	4379
+会稽	kuai ji	6866
+蒯良	kuai liang	1513
+块然独以其形立	kuai ran du yi qi xing li	5625
+脍炙	kuai zhi	1807
+狂草	kuang cao	2781
+匡庐	kuang lu	6245
+况吾与子渔樵于江渚之上	kuang wu yu zi yu qiao yu jiang zhu zhi shang	6442
+旷兮其若谷	kuang xi qi ruo gu	3829
+頍弁	kui bian	345
+睽卦	kui gua	2397
+葵官	kui guan	1519
+傀儡戏	kui lei xi	6692
+奎娄胃	kui lou wei	5234
+魁首	kui shou	184
+悃愊	kun bi	4324
+困敦	kun dun	5702
+困卦	kun gua	5703
+坤卦	kun gua	5623
+昆仑	kun lun	3827
+昆仑山	kun lun shan	3825
+昆仑墟	kun lun xu	3826
+昆明	kun ming	3824
+坤宁宫	kun ning gong	5622
+鲲鹏	kun peng	146
+昆腔	kun qiang	3822
+昆曲	kun qu	3823
+髡刑	kun xing	189
+困于心	kun yu xin	5704
+腊八	la ba	1803
+拉弓	la gong	4152
+腊日	la ri	1802
+赖大	lai da	1057
+赖二	lai er	1058
+徕民	lai min	4459
+蓝采和	lan cai he	1497
+揽騑辔以抗策	lan fei pei yi kang ce	4086
+兰皋	lan gao	6579
+蓝关	lan guan	1498
+兰桂	lan gui	6584
+兰花	lan hua	6577
+兰蕙	lan hui	6573
+兰藉	lan ji	6572
+兰桨	lan jiang	6582
+烂柯	lan ke	2863
+烂柯山	lan ke shan	2862
+兰陵笑笑生	lan ling xiao xiao sheng	6571
+揽木根以结茝兮	lan mu gen yi jie chai xi	4087
+兰桡	lan rao	6583
+兰若	lan re	6575
+兰室	lan shi	6587
+兰荪	lan sun	6574
+兰亭	lan ting	6591
+兰亭集序	lan ting ji xu	6588
+兰亭雅集	lan ting ya ji	6589
+兰亭已矣	lan ting yi yi	6590
+览物之情	lan wu zhi qing	1295
+兰枻	lan xie	6585
+兰心蕙质	lan xin hui zhi	6586
+兰泽	lan ze	6580
+兰棹	lan zhao	6581
+兰芷	lan zhi	6576
+兰舟	lan zhou	6578
+狼跋	lang ba	2760
+阆风	lang feng	546
+狼嗥	lang hao	2761
+浪淘尽	lang tao jin	3028
+琅琊也	lang ya ye	2656
+廊腰缦回	lang yao man hui	4610
+阆苑	lang yuan	547
+郎中	lang zhong	797
+郎中令	lang zhong ling	796
+浪子回头	lang zi hui tou	3029
+嫪毐	lao ai	5171
+老残游记	lao can you ji	1901
+老聃	lao dan	1900
+老当益壮	lao dang yi zhuang	1902
+老农	lao nong	1905
+劳其筋骨	lao qi jin gu	6273
+老冉冉其将至兮	lao ran ran qi jiang zhi xi	1906
+崂山	lao shan	4784
+老子	lao zi	1904
+老子韩非列传	lao zi han fei lie zhuan	1903
+乐国乐国	le guo yue guo	7189
+乐记	le ji	7182
+乐郊乐郊	le jiao le jiao	7179
+乐进	le jin	7180
+乐浪	le lang	7183
+乐论	le lun	7181
+乐其俗	le qi su	7190
+乐土乐土	le tu le tu	7188
+乐以忘忧	le yi wang you	7191
+乐亦在其中矣	le yi zai qi zhong yi	7192
+乐与饵	le yu er	7193
+乐志	le zhi	7186
+雷公	lei gong	424
+儽儽兮若无所归	lei lei xi ruo wu suo gui	6676
+泪流襟之浪浪	lei liu jin zhi lang lang	3077
+擂石	lei shi	4073
+礌石	lei shi	2326
+雷师	lei shi	423
+耒耜	lei si	1855
+雷霆乍惊	lei ting zha jing	422
+嫘祖	lei zu	5172
+崚嶒	leng ceng	4778
+冷冷清清	leng leng qing qing	6441
+冷子兴	leng zi xing	6440
+李白	li bai	3483
+李宝嘉	li bao jia	3489
+立本	li ben	2176
+厉兵秣马	li bing mo ma	6134
+吏部	li bu	5982
+礼部	li bu	2318
+礼部韵略	li bu yun lue	2317
+立春	li chun	2177
+立地成佛	li di cheng fo	2182
+李典	li dian	3491
+礼典	li dian	2324
+立冬	li dong	2183
+礼佛	li fo	2325
+藜羹	li geng	1461
+例贡	li gong	6774
+离卦	li gua	2260
+李广难封	li guang nan feng	3487
+李贺	li he	3478
+黧黑	li hei	37
+礼魂	li hun	2316
+藜藿	li huo	1460
+礼记	li ji	2321
+骊姬	li ji	217
+李将军列传	li jiang jun lie zhuan	3488
+粒粒皆辛苦	li li jie xin ku	2088
+离离原上草	li li yuan shang cao	2259
+礼论	li lun	2320
+力命	li ming	6295
+澧浦	li pu	2901
+李绮	li qi	3479
+礼器	li qi	2323
+立秋	li qiu	2175
+离骚	li sao	2258
+力穑	li se	6293
+骊山北构而西折	li shan bei gou er xi zhe	216
+李商隐	li shang yin	3490
+立身行道	li shen xing dao	2174
+郦生陆贾列传	li sheng lu jia lie zhuan	784
+隶书	li shu	459
+李斯列传	li si lie zhuan	3486
+力田	li tian	6294
+立天下之正位	li tian xia zhi zheng wei	2180
+力透纸背	li tou zhi bei	6292
+李纨	li wan	3481
+鲤尾	li wei	147
+李纹	li wen	3480
+笠翁	li weng	2135
+立夏	li xia	2181
+立雪求道	li xue qiu dao	2173
+李严	li yan	3492
+李益	li yi	3482
+李邕	li yong	3477
+李渔	li yu	3485
+李煜	li yu	3484
+梨园戏	li yuan xi	3356
+礼运	li yun	2319
+立政	li zheng	2179
+里正	li zheng	710
+立政九败解	li zheng jiu bai jie	2178
+礼志	li zhi	2322
+荔枝	li zhi	1602
+丽质天生	li zhi tian sheng	7214
+栗子	li zi	3396
+连城之璧	lian cheng zhi bi	888
+炼丹	lian dan	2864
+镰刀	lian dao	600
+廉而不刿	lian er bu gui	4612
+连枷	lian jia	885
+廉洁奉公	lian jie feng gong	4613
+连弩	lian nu	887
+莲蓬	lian peng	1574
+廉颇蔺相如列传	lian po lin xiang ru lie zhuan	4611
+莲蓉	lian rong	1575
+莲台	lian tai	1578
+莲心	lian xin	1576
+潋滟	lian yan	2906
+连月不开	lian yue bu kai	886
+莲之爱	lian zhi ai	1579
+莲子	lian zi	1577
+两岸猿声啼不住	liang an yuan sheng ti bu zhu	7289
+两处闲愁	liang chu xian chou	7291
+量地尺	liang di chi	695
+两个黄鹂鸣翠柳	liang ge huang li ming cui liu	7292
+良久	liang jiu	1735
+踉跄	liang qiang	1005
+梁丘据	liang qiu ju	3369
+良人	liang ren	1734
+良实	liang shi	1733
+梁书	liang shu	3368
+良耜	liang si	1732
+两小儿辩日	liang xiao er bian ri	7290
+梁孝王世家	liang xiao wang shi jia	3367
+两袖清风	liang xiu qing feng	7288
+梁州	liang zhou	3366
+凉州词	liang zhou ci	6434
+料得年年肠断处	liao de nian nian chang duan chu	3946
+辽东	liao dong	926
+蓼莪	liao e	1491
+廖化	liao hua	4609
+燎祭	liao ji	2830
+寥廓	liao kuo	4973
+了却君王天下事	liao que jun wang tian xia shi	7121
+辽史	liao shi	925
+潦水尽而寒潭清	liao shui jin er han tan qing	2903
+辽西	liao xi	924
+蓼萧	liao xiao	1490
+聊斋志异	liao zhai zhi yi	1848
+列鼎而食	lie ding er shi	6367
+列冈峦之体势	lie gang luan zhi ti shi	6371
+列女传	lie nv zhuan	6370
+趔趄	lie qie	1018
+烈文	lie wen	2861
+列御寇	lie yu kou	6368
+列传	lie zhuan	6372
+列子	lie zi	6369
+烈祖	lie zu	2860
+临崩寄臣	lin beng ji chen	7250
+临表涕零	lin biao ti ling	7243
+临别赠言	lin bie zeng yan	7254
+临帝子之长洲	lin di zi zhi chang zhou	7249
+临卦	lin gua	7253
+邻国相望	lin guo xiang wang	801
+林汉达	lin han da	3434
+林壑尤美	lin he you mei	3436
+林尽水源	lin jin shui yuan	3435
+凛然正气	lin ran zheng qi	6422
+廪生	lin sheng	4608
+临危不惧	lin wei bu ju	7252
+临危授命	lin wei shou ming	7251
+临溪而渔	lin xi er yu	7245
+廪辛	lin xin	4607
+临行密密缝	lin xing mi mi feng	7244
+嶙峋	lin xun	4767
+临渊	lin yuan	7247
+临渊羡鱼	lin yuan xian yu	7246
+林之孝	lin zhi xiao	3437
+林钟	lin zhong	3433
+临淄	lin zi	7248
+灵保	ling bao	2880
+灵宝天尊	ling bao tian zun	2878
+凌波微步	ling bo wei bu	6428
+凌迟	ling chi	6424
+棂窗	ling chuang	3352
+灵丹妙药	ling dan miao yao	2881
+铃铛	ling dang	637
+铃铎	ling duo	638
+铃鼓	ling gu	636
+龄官	ling guan	16
+陵号	ling hao	480
+陵景山	ling jing shan	479
+伶俐	ling li	6849
+凌濛初	ling meng chu	6427
+泠然	ling ran	3083
+令人心发狂	ling ren xin fa kuang	6960
+令人行妨	ling ren xing fang	6959
+灵枢	ling shu	2876
+灵台	ling tai	2879
+凌统	ling tong	6426
+凌万顷之茫然	ling wan qing zhi mang ran	6429
+令我忘餐	ling wo wang can	6958
+菱溪石记	ling xi shi ji	1552
+凌霄	ling xiao	6423
+灵心慧性	ling xin hui xing	2877
+令行禁止	ling xing jin zhi	6957
+凌虚台记	ling xu tai ji	6425
+灵芝	ling zhi	2875
+刘备	liu bei	6365
+六部	liu bu	6593
+刘长卿	liu chang qing	6360
+蹓跶	liu da	989
+六道	liu dao	6595
+六道轮回	liu dao lun hui	6594
+六典	liu dian	6608
+流放	liu fang	3048
+六根清净	liu gen qing jing	6600
+柳公权	liu gong quan	3406
+六官	liu guan	6603
+六国论	liu guo lun	6605
+留侯世家	liu hou shi jia	2544
+刘敬叔孙通列传	liu jing shu sun tong lie zhuan	6363
+刘姥姥	liu lao lao	6364
+六乐	liu le	6611
+琉璃瓦	liu li wa	2655
+刘伶	liu ling	6366
+六龙俨其齐首	liu long yan qi qi shou	6592
+六吕	liu lv	6606
+六律	liu lv	6602
+流眄	liu mian	3046
+流眄乎洛川	liu mian hu luo chuan	3045
+流盼	liu pan	3047
+六亲不和	liu qin bu he	6609
+流入宫墙	liu ru gong qiang	3051
+流觞曲水	liu shang qu shui	3044
+六十而耳顺	liu shi er er shun	6607
+六书	liu shu	6610
+柳体	liu ti	3407
+六王毕	liu wang bi	6597
+流徙	liu xi	3049
+飂兮若无止	liu xi ruo wu zhi	310
+流刑	liu xing	3050
+柳星张	liu xing zhang	3403
+六爻	liu yao	6598
+六艺	liu yi	6596
+留夷	liu yi	2543
+六一诗话	liu yi shi hua	6612
+六淫	liu yin	6599
+柳永	liu yong	3402
+刘禹锡	liu yu xi	6361
+六月	liu yue	6601
+流陨	liu yun	3043
+刘知远	liu zhi yuan	6362
+碌碡	liu zhou	2337
+柳子厚墓志铭	liu zi hou mu zhi ming	3405
+柳宗元	liu zong yuan	3404
+龙灯	long deng	9
+龙飞凤舞	long fei feng wu	5
+龙肝	long gan	7
+龙光射牛斗之墟	long guang she niu dou zhi xu	11
+龙虎山	long hu shan	6
+龙井	long jing	12
+陇亩	long mu	507
+陇西	long xi	506
+龙眼	long yan	8
+龙吟	long yin	10
+巃嵸	long zong	4766
+楼阁	lou ge	3319
+蝼蛄	lou gu	1397
+漏刻	lou ke	2911
+陋室铭	lou shi ming	496
+陋巷箪瓢	lou xiang dan piao	495
+漏着	lou zhe	2910
+六安瓜片	lu an gua pian	6604
+路出名区	lu chu ming qu	1010
+鸬鹚	lu ci	121
+露锋	lu feng	417
+芦管	lu guan	1707
+陆龟蒙	lu gui meng	508
+陆机	lu ji	512
+鹿筋	lu jin	85
+鲈脍	lu kuai	152
+鲁历	lu li	158
+卢令	lu ling	6160
+庐陵欧阳修也	lu ling ou yang xiu ye	4649
+辘辘远听	lu lu yuan ting	946
+卢纶	lu lun	6158
+路漫漫其修远兮	lu man man qi xiu yuan xi	1009
+禄米	lu mi	2269
+鹿鸣	lu ming	84
+庐山云雾	lu shan yun wu	4650
+芦笙	lu sheng	1708
+鹭鸶	lu si	89
+鹿死谁手	lu si shei shou	87
+鲁颂	lu song	153
+鲁肃	lu su	156
+卢仝	lu tong	6161
+芦苇	lu wei	1706
+鲁问	lu wen	154
+陆行不遇兕虎	lu xing bu yu si hu	510
+陆逊	lu xun	509
+陆游	lu you	511
+鲁语	lu yu	155
+鹿砦	lu zhai	86
+卢照邻	lu zhao lin	6159
+鲁仲连	lu zhong lian	160
+鲁仲连邹阳列传	lu zhong lian zou yang lie zhuan	159
+鲁周公世家	lu zhou gong shi jia	157
+鸾墀	luan chi	112
+鸾皇	luan huang	111
+鸾铃	luan ling	110
+鸾鸟	luan niao	109
+乱世	luan shi	7128
+乱石穿空	luan shi chuan kong	7126
+乱弹	luan tan	7127
+峦岫	luan xiu	4787
+轮带	lun dai	961
+轮回	lun hui	962
+论威	lun wei	1244
+论语	lun yu	1243
+抡元	lun yuan	4168
+轮指	lun zhi	960
+落笔	luo bi	1540
+骆宾王	luo bin wang	219
+罗布泊	luo bu po	1961
+裸裎	luo cheng	1339
+落第	luo di	1539
+洛诰	luo gao	3064
+锣鼓	luo gu	614
+罗贯中	luo guan zhong	1956
+罗汉	luo han	1960
+裸露	luo lu	1338
+珞珞如石	luo luo ru shi	2664
+洛神赋	luo shen fu	3065
+络石	luo shi	2003
+罗袜生尘	luo wa sheng chen	1957
+罗网	luo wang	1958
+落霞与孤鹜齐飞	luo xia yu gu wu qi fei	1536
+洛阳	luo yang	3062
+洛邑	luo yi	3063
+罗隐	luo yin	1955
+落英缤纷	luo ying bin fen	1537
+落月摇情满江树	luo yue yao qing man jiang shu	1541
+罗织	luo zhi	1959
+落职	luo zhi	1538
+旅獒	lv ao	3915
+吕不韦列传	lv bu wei lie zhuan	5978
+绿茶	lv cha	1982
+吕洞宾	lv dong bin	5974
+履卦	lv gua	4839
+旅卦	lv gua	3916
+吕后本纪	lv hou ben ji	5976
+旅祭	lv ji	3914
+律历志	lv li zhi	4470
+吕蒙	lv meng	5973
+绿绮	lv qi	1983
+率妻子邑人来此绝境	lv qi zi yi ren lai ci jue jing	2737
+律诗	lv shi	4468
+吕氏春秋	lv shi chun qiu	5975
+吕刑	lv xing	5977
+闾阎扑地	lv yan pu di	550
+绿衣	lv yi	1981
+侣鱼虾而友麋鹿	lv yu xia er you mi lu	6765
+绿云扰扰	lv yun rao rao	1984
+律宗	lv zong	4469
+马超	ma chao	237
+马岱	ma dai	240
+马革裹尸	ma ge guo shi	234
+麻花	ma hua	81
+马面	ma mian	235
+马首是瞻	ma shou shi zhan	233
+马说	ma shuo	238
+马蹄	ma ti	236
+马头琴	ma tou qin	241
+马致远	ma zhi yuan	239
+马作的卢飞快	ma zuo di lu fei kuai	242
+脉经	mai jing	1812
+脉诀	mai jue	1811
+脉理	mai li	1813
+脉象	mai xiang	1809
+脉学	mai xue	1814
+卖油翁	mai you weng	6190
+脉诊	mai zhen	1810
+满宠	man chong	2913
+满地黄花堆积	man di huang hua dui ji	2914
+缦立远视	man li yuan shi	1969
+满目萧然	man mu xiao ran	2912
+曼珠沙华	man zhu sha hua	3635
+铓锣	mang luo	634
+芒种	mang zhong	1713
+昴毕觜	mao bi zui	3699
+耄耋	mao die	1897
+耄耋之年	mao die zhi nian	1896
+旄麾	mao hui	3917
+毛将安傅	mao jiang an fu	3202
+旄丘	mao qiu	3919
+茅塞顿开	mao se dun kai	1643
+茅山	mao shan	1642
+毛遂自荐	mao sui zi jian	3201
+旄头	mao tou	3918
+每逢佳节倍思亲	mei feng jia jie bei si qin	3208
+昧谷	mei gu	3771
+没骨	mei gu	3108
+玫瑰	mei gui	2673
+梅花	mei hua	3364
+梅兰竹菊	mei lan zhu ju	3365
+美其服	mei qi fu	1938
+美人	mei ren	1939
+美行可以加人	mei xing ke yi jia ren	1937
+美言不信	mei yan bu xin	1936
+美言可以市尊	mei yan ke yi shi zun	1935
+每有会意	mei you hui yi	3209
+媚于语言	mei yu yu yan	5174
+美馔	mei zhuan	1934
+门泊东吴万里船	men bo dong wu wan li chuan	574
+门客	men ke	575
+门神	men shen	573
+门下省	men xia sheng	577
+门下侍中	men xia shi zhong	578
+门子	men zi	576
+孟尝高洁	meng chang gao jie	5129
+孟尝君	meng chang jun	5131
+孟尝君列传	meng chang jun lie zhuan	5130
+孟春纪	meng chun ji	5128
+蒙顶甘露	meng ding gan lu	1514
+孟冬纪	meng dong ji	5138
+蒙卦	meng gua	1516
+孟浩然	meng hao ran	5126
+梦回吹角连营	meng hui chui jiao lian ying	3360
+孟获	meng huo	5124
+孟郊	meng jiao	5123
+孟母三迁	meng mu san qian	5127
+孟婆	meng po	5136
+孟秋纪	meng qiu ji	5125
+猛兽不据	meng shou bu ju	2758
+矇瞍	meng sou	2386
+蒙恬列传	meng tian lie zhuan	1515
+孟夏纪	meng xia ji	5137
+孟学士之词宗	meng xue shi zhi ci zong	5132
+蒙冤	meng yuan	1517
+孟子	meng zi	5135
+孟子荀卿列传	meng zi xun qing lie zhuan	5133
+孟子曰	meng zi yue	5134
+弭兵之会	mi bing zhi hui	4536
+米芾	mi fu	2090
+米糕	mi gao	2091
+蜜饯	mi jian	1406
+弥勒	mi le	4540
+米粟非不多也	mi su fei bu duo ye	2092
+芈原	mi yuan	1715
+密宗	mi zong	4986
+免冠	mian guan	6647
+偭规矩而改错	mian gui ju er gai cuo	6693
+冕旒	mian liu	6470
+绵蛮	mian man	1986
+绵绵若存	mian mian ruo cun	1987
+面目黧黑	mian mu li hei	373
+眄视	mian shi	2407
+沔水	mian shui	3113
+渺沧海之一粟	miao cang hai zhi yi su	2943
+藐姑射	miao gu ye	1464
+庙号	miao hao	4637
+庙讳	miao hui	4636
+渺渺兮予怀	miao miao xi yu huai	2942
+妙手	miao shou	5205
+妙手回春	miao shou hui chun	5203
+妙手仁心	miao shou ren xin	5204
+妙玉	miao yu	5202
+灭六国者六国也	mie liu guo zhe liu guo ye	2886
+灭烛怜光满	mie zhu lian guang man	2885
+民不畏死	min bu wei si	3198
+民不畏威	min bu wei wei	3199
+敏而好学	min er hao xue	3992
+民复孝慈	min fu xiao ci	3190
+闵公	min gong	558
+敏慧	min hui	3993
+闽剧	min ju	551
+民劳	min lao	3191
+民利百倍	min li bai bei	3192
+民莫之令而自均	min mo zhi ling er zi jun	3187
+悯农	min nong	4310
+民生各有所乐兮	min sheng ge you suo le xi	3189
+民亦如之	min yi ru zhi	3193
+闵予小子	min yu xiao zi	559
+民之从事	min zhi cong shi	3197
+民之饥	min zhi ji	3194
+民至老死不相往来	min zhi lao si bu xiang wang lai	3188
+民之难治	min zhi nan zhi	3195
+民之轻死	min zhi qing si	3196
+明白四达	ming bai si da	3811
+命俦啸侣	ming chou xiao lv	5842
+明道若昧	ming dao ruo mei	3808
+明法	ming fa	3813
+明鬼	ming gui	3807
+名节	ming jie	5995
+明理	ming li	3812
+冥灵	ming ling	6460
+螟蛉	ming ling	1395
+明眸	ming mou	3810
+明眸善睐	ming mou shan lai	3809
+鸣佩	ming pei	126
+命仆夫而就驾	ming pu fu er jiu jia	5843
+明器	ming qi	3819
+鸣声上下	ming sheng shang xia	125
+明史	ming shi	3820
+明堂位	ming tang wei	3818
+命途多舛	ming tu duo chuan	5841
+明星荧荧	ming xing ying ying	3816
+明夷	ming yi	3817
+名亦既有	ming yi ji you	5997
+鸣玉	ming yu	124
+鸣玉鸾以偕逝	ming yu luan yi xie shi	123
+名与身孰亲	ming yu shen shu qin	5999
+明月几时有	ming yue ji shi you	3815
+名曰宓妃	ming yue mi fei	5996
+明月夜	ming yue ye	3814
+名之者谁	ming zhi zhe shui	5998
+缪篆	miu zhuan	1968
+墨宝	mo bao	5592
+墨宝堂记	mo bao tang ji	5591
+墨池记	mo chi ji	5590
+陌刀	mo dao	494
+墨翟	mo di	5589
+摩顶放踵	mo ding fang zhong	4076
+默而识之	mo er shi zhi	45
+蘑菇	mo gu	1454
+摩诘	mo jie	4077
+墨君堂记	mo jun tang ji	5594
+茉莉	mo li	1641
+茉莉花茶	mo li hua cha	1640
+莫能行	mo neng xing	1580
+磨盘	mo pan	2329
+摩篇	mo pian	4078
+墨趣	mo qu	5587
+蓦然回首	mo ran hui shou	1496
+墨色	mo se	5588
+没身不殆	mo shen bu dai	3109
+秣驷乎芝田	mo si hu zhi tian	2240
+莫我肯德	mo wo ken de	1583
+莫我肯顾	mo wo ken gu	1582
+莫我肯劳	mo wo ken lao	1584
+墨刑	mo xing	5595
+摹印	mo yin	4075
+墨鱼	mo yu	5585
+墨韵	mo yun	5586
+莫之能守	mo zhi neng shou	1585
+莫知其极可以有国	mo zhi qi ji ke yi you guo	1581
+墨子	mo zi	5593
+谋攻	mou gong	1169
+谋篇	mou pian	1168
+谋士	mou shi	1170
+木笔	mu bi	3534
+募兵制	mu bing zhi	6266
+牡丹	mu dan	2798
+牡丹亭	mu dan ting	2796
+牡丹之爱	mu dan zhi ai	2797
+目瞪口呆	mu deng kou dai	2434
+木耳	mu er	3533
+暮而归	mu er gui	3663
+木瓜	mu gua	3535
+木强则折	mu jiang ze zhe	3536
+木兰	mu lan	3538
+木兰坠露	mu lan zhui lu	3537
+目连戏	mu lian xi	2433
+幕僚	mu liao	4688
+木鹿	mu lu	3530
+墓门	mu men	5599
+目迷五色	mu mi wu se	2432
+牧民	mu min	2795
+母命之	mu ming zhi	3210
+木偶戏	mu ou xi	3539
+牧誓	mu shi	2794
+目吴会于云间	mu wu hui yu yun jian	2437
+目无全牛	mu wu quan niu	2436
+目眩神迷	mu xuan shen mi	2435
+木野狐	mu ye hu	3532
+木鱼	mu yu	3531
+目遇之而成色	mu yu zhi er cheng se	2431
+慕宗悫之长风	mu zong que zhi chang feng	4271
+那人却在	na ren que zai	807
+乃不知有汉	nai bu zhi you han	7207
+乃重修岳阳楼	nai chong xiu yue yang lou	7204
+乃大惊	nai da jing	7206
+奈何桥	nai he qiao	5241
+奈何取之尽锱铢	nai he qu zhi jin zi zhu	5242
+奈何万乘之主	nai he wan sheng zhi zhu	5244
+奈何以死惧之	nai he yi si ju zhi	5243
+奶酪	nai lao	5222
+乃援御者而告之曰	nai yuan yu zhe er gao zhi yue	7205
+难得之货	nan de zhi huo	454
+南斗	nan dou	6182
+难二	nan er	456
+南方已定	nan fang yi ding	6181
+南方朱雀	nan fang zhu que	6180
+南庚	nan geng	6184
+南极潇湘	nan ji xiao xiang	6178
+难经	nan jing	452
+南橘北枳	nan ju bei zhi	6177
+南吕	nan lv	6187
+南面	nan mian	6173
+南冥	nan ming	6189
+男女衣着	nan nv yi zhuo	2553
+南齐书	nan qi shu	6172
+难三	nan san	457
+南山	nan shan	6186
+南山有台	nan shan you tai	6185
+南史	nan shi	6188
+难四	nan si	455
+南戏	nan xi	6183
+南阳刘子骥	nan yang liu zi ji	6175
+南阳诸葛庐	nan yang zhu ge lu	6174
+难一	nan yi	458
+南有嘉鱼	nan you jia yu	6179
+南辕北辙	nan yuan bei zhe	6176
+难知如阴	nan zhi ru yin	453
+囊萤映雪	nang ying ying xue	5742
+铙钹	nao bo	633
+内储说	nei chu shuo	6478
+内丹	nei dan	6479
+内篇	nei pian	6474
+内揵	nei qian	6475
+内外异法	nei wai yi fa	6476
+内业	nei ye	6480
+内则	nei ze	6477
+能如婴儿乎	neng ru ying er hu	1820
+能为雌乎	neng wei ci hu	1821
+能无疵乎	neng wu ci hu	1818
+能无离乎	neng wu li hu	1816
+能无为乎	neng wu wei hu	1819
+能无知乎	neng wu zhi hu	1817
+能知古始	neng zhi gu shi	1815
+逆锋	ni feng	871
+拟话本	ni hua ben	4143
+泥鳅	ni qiu	3079
+廿二史考异	nian er shi kao yi	4596
+廿二史札记	nian er shi zha ji	4597
+年号	nian hao	4677
+辇来于秦	nian lai yu qin	949
+念奴娇	nian nu jiao	4376
+念天地之悠悠	nian tian di zhi you you	4377
+念珠	nian zhu	4375
+碾子	nian zi	2331
+酿泉为酒	niang quan wei jiu	760
+酿泉也	niang quan ye	759
+鸟铳	niao chong	133
+鸟虫书	niao chong shu	134
+鸟尽弓藏	niao jin gong cang	135
+袅娜	niao nuo	1355
+孽海花	nie hai hua	5095
+蹑屐	nie ji	995
+蹑履	nie lv	994
+涅槃	nie pan	3010
+蹑手蹑脚	nie shou nie jiao	993
+蹑踪	nie zong	991
+蹑足	nie zu	992
+宁溘死以流亡兮	ning ke si yi liu wang xi	5091
+凝眸	ning mou	6421
+佞人	ning ren	6797
+凝视	ning shi	6420
+宁死不屈	ning si bu qu	5092
+宁为玉碎	ning wei yu sui	5094
+佞幸列传	ning xing lie zhuan	6796
+宁移白首之心	ning yi bai shou zhi xin	5090
+宁折不弯	ning zhe bu wan	5093
+牛肝菌	niu gan jun	2802
+牛角挂书	niu jiao gua shu	2800
+牛头马面	niu tou ma mian	2803
+牛腿	niu tui	2801
+浓淡	nong dan	3033
+农夫	nong fu	6465
+浓墨	nong mo	3034
+农穑	nong se	6463
+秾纤得衷	nong xian de zhong	2212
+农战	nong zhan	6464
+弩机	nu ji	4538
+弩箭	nu jian	4537
+驽马十驾	nu ma shi jia	224
+怒目而视	nu mu er shi	4358
+怒目圆睁	nu mu yuan zheng	4359
+怒视	nu shi	4357
+奴颜婢膝	nu yan bi xi	5223
+傩舞	nuo wu	6686
+傩戏	nuo xi	6687
+女萝	nv luo	5224
+女墙	nv qiang	5230
+女娲	nv wa	5229
+女娲补天	nv wa bu tian	5227
+女娲清歌	nv wa qing ge	5228
+女曰鸡鸣	nv yue ji ming	5225
+女子之嫁也	nv zi zhi jia ye	5226
+藕官	ou guan	1462
+藕丝	ou si	1463
+欧体	ou ti	3287
+呕心沥血	ou xin li xue	5903
+欧阳修	ou yang xiu	3286
+欧阳询	ou yang xun	3285
+爬山虎	pa shan hu	2817
+拍板	pai ban	4151
+徘徊于斗牛之间	pai huai yu dou niu zhi jian	4445
+排山	pai shan	4107
+排箫	pai xiao	4106
+鞶带	pan dai	364
+盘庚	pan geng	2440
+盘古	pan gu	2442
+盘古开天地	pan gu kai tian di	2441
+判官	pan guan	6337
+攀龙附凤	pan long fu feng	4068
+盘盘焉	pan pan yan	2439
+蹒跚	pan shan	990
+泮水	pan shui	3076
+蟠桃	pan tao	1387
+潘璋	pan zhang	2905
+庞德	pang de	4625
+膀胱	pang guang	1794
+彷徨乎无为其侧	pang huang hu wu wei qi ce	4484
+庞统	pang tong	4624
+庖厨	pao chu	4640
+庖丁	pao ding	4642
+庖丁解牛	pao ding jie niu	4641
+炮烙	pao luo	2867
+抛石机	pao shi ji	4171
+匏有苦叶	pao you ku ye	6259
+庖宰	pao zai	4639
+庖正	pao zheng	4638
+炮制	pao zhi	2868
+佩缤纷其繁饰兮	pei bin fen qi fan shi xi	6790
+裴迪	pei di	1340
+佩环	pei huan	6792
+佩剑	pei jian	6794
+佩兰	pei lan	6795
+佩绶	pei shou	6791
+裴松之	pei song zhi	1341
+佩玉	pei yu	6793
+喷火	pen huo	5753
+湓浦	pen pu	2941
+朋党论	peng dang lun	3580
+蓬壶	peng hu	1495
+蓬莱	peng lai	1493
+彭蠡	peng li	4488
+蓬生麻中	peng sheng ma zhong	1494
+彭咸	peng xian	4492
+彭羕	peng yang	4489
+彭泽	peng ze	4491
+彭祖	peng zu	4490
+譬道之在天下	pi dao zhi zai tian xia	1259
+蚍蜉	pi fu	1426
+匹夫不可夺志也	pi fu bu ke duo zhi ye	6244
+披肝沥胆	pi gan li dan	4161
+皮黄	pi huang	2461
+披罗衣之璀粲兮	pi luo yi zhi cui can xi	4162
+睥睨	pi ni	2401
+睥睨天下	pi ni tian xia	2399
+睥睨一切	pi ni yi qie	2400
+枇杷	pi pa	3441
+琵琶	pi pa	2645
+琵琶记	pi pa ji	2644
+皮日休	pi ri xiu	2462
+鸊鷉	pi si	138
+披蓑	pi suo	4160
+貔貅	pi xiu	1125
+披绣闼	pi xiu ta	4163
+披衣觉露滋	pi yi jue lu zi	4159
+皮影戏	pi ying xi	2463
+疲于奔命	pi yu ben ming	2535
+辟芷	pi zhi	933
+皮之不存	pi zhi bu cun	2464
+偏将军居左	pian jiang jun ju zuo	6697
+骈拇	pian mu	218
+翩若惊鸿	pian ruo jing hong	1914
+偏私	pian si	6696
+偏袒	pian tan	6695
+骗着	pian zhe	214
+剽悍	piao han	6298
+飘忽若神	piao hu ruo shen	298
+剽掠其人	piao lue qi ren	6297
+飘飘乎如遗世独立	piao piao hu ru yi shi du li	296
+飘飖兮若流风之回雪	piao yao xi ruo liu feng zhi hui xue	297
+品茶	pin cha	5811
+牝常以静胜牡	pin chang yi jing sheng mu	2799
+品级	pin ji	5813
+贫贱不能移	pin jian bu neng yi	1098
+聘礼	pin li	1844
+品茗杯	pin ming bei	5812
+聘义	pin yi	1845
+凭不厌乎求索	ping bu yan hu qiu suo	6411
+平旦	ping dan	4679
+平儿	ping er	4682
+屏风	ping feng	4849
+评话	ping hua	1234
+平津侯主父列传	ping jin hou zhu fu lie zhuan	4678
+评剧	ping ju	1235
+屏门	ping men	4850
+瓶门	ping men	2609
+评书	ping shu	1236
+萍水相逢	ping shui xiang feng	1549
+娉婷	ping ting	5184
+娉婷袅娜	ping ting niao nuo	5183
+平原君	ping yuan jun	4681
+平原君虞卿列传	ping yuan jun yu qing lie zhuan	4680
+泼彩	po cai	3070
+泼刺	po ci	3072
+迫而察之	po er cha zhi	884
+破斧	po fu	2343
+泼墨	po mo	3071
+破墨	po mo	2344
+颇示己志	po shi ji zhi	326
+鄱阳	po yang	771
+破阵子	po zhen zi	2342
+普度	pu du	3676
+普洱	pu er	3675
+匍匐	pu fu	6260
+蒲牢	pu lao	1511
+菩萨	pu sa	1553
+朴散则为器	pu san ze wei qi	3511
+蒲松龄	pu song ling	1512
+葡萄	pu tao	1528
+葡萄美酒夜光杯	pu tao mei jiu ye guang bei	1527
+菩提	pu ti	1554
+普陀	pu tuo	3673
+普陀佛茶	pu tuo fo cha	3672
+普贤	pu xian	3674
+莆仙戏	pu xian xi	1586
+脯刑	pu xing	1805
+匍匋	pu yao	6261
+仆射	pu ye	6979
+璞玉	pu yu	2615
+乞哀告怜	qi ai gao lian	7138
+弃暗投明	qi an tou ming	4578
+其安易持	qi an yi chi	6529
+淇奥	qi ao	3002
+起笔	qi bi	1033
+其必由学乎	qi bi you xue hu	6519
+其必曰先天下之忧而忧	qi bi yue xian tian xia zhi you er you	6520
+岂不诚大丈夫哉	qi bu cheng da zhang fu zai	4803
+其不善者而改之	qi bu shan zhe er gai zhi	6544
+其不欲见贤	qi bu yu jian xian	6543
+蛴螬	qi cao	1417
+齐策	qi ce	20
+七臣七主	qi chen qi zhu	7552
+其出弥远	qi chu mi yuan	6536
+齐楚之精英	qi chu zhi jing ying	22
+其次伐兵	qi ci fa bing	6511
+其次伐交	qi ci fa jiao	6512
+其次亲而誉之	qi ci qin er yu zhi	6513
+其次畏之	qi ci wei zhi	6509
+其次侮之	qi ci wu zhi	6510
+其脆易泮	qi cui yi pan	6497
+棋待诏	qi dai zhao	3349
+齐悼惠王世家	qi dao hui wang shi jia	25
+其德乃长	qi de nai chang	6521
+其德乃丰	qi de nai feng	6525
+其德乃普	qi de nai pu	6523
+其德乃余	qi de nai yu	6524
+其德乃真	qi de nai zhen	6522
+七法	qi fa	7553
+岂乏明时	qi fa ming shi	4802
+齐风	qi feng	18
+祈父	qi fu	2307
+祈福	qi fu	2306
+起复	qi fu	1035
+奇服旷世	qi fu kuang shi	5246
+气功	qi gong	3185
+泣孤舟之嫠妇	qi gu zhou zhi li fu	3080
+其鬼不神	qi gui bu shen	6494
+乞骸骨	qi hai gu	7137
+奇恒之腑	qi heng zhi fu	5247
+齐桓公	qi huan gong	23
+岐黄	qi huang	4797
+其疾如风	qi ji ru feng	6501
+棨戟遥临	qi ji yao lin	3346
+骐骥一跃	qi ji yi yue	215
+七谏	qi jian	7550
+齐姜	qi jiang	26
+气节	qi jie	3184
+齐景公	qi jing gong	24
+其精甚真	qi jing shen zhen	6498
+棋局	qi ju	3350
+其可左右	qi ke zuo you	6535
+七里之郭	qi li zhi guo	7549
+麒麟	qi lin	83
+气凌彭泽之樽	qi ling peng ze zhi zun	3186
+歧路亡羊	qi lu wang yang	3228
+祁门红茶	qi men hong cha	2310
+其民淳淳	qi min chun chun	6506
+其民缺缺	qi min que que	6505
+启明	qi ming	5940
+其名不去	qi ming bu qu	6533
+祈年	qi nian	2309
+祈年殿	qi nian dian	2308
+棋枰	qi ping	3348
+棋谱	qi pu	3347
+凄凄惨惨戚戚	qi qi can can qi qi	6435
+萋萋满别情	qi qi man bie qing	1550
+七情	qi qing	7556
+杞人忧天	qi ren you tian	3463
+其日固久	qi ri gu jiu	6515
+气若幽兰	qi ruo you lan	3183
+其上不皦	qi shang bu jiao	6547
+其神不伤人	qi shen bu shang ren	6499
+棋圣	qi sheng	3351
+其声呜呜然	qi sheng wu wu ran	6530
+弃世	qi shi	4582
+弃市	qi shi	4580
+七十而从心所欲	qi shi er cong xin suo yu	7561
+七十而从心所欲不逾矩	qi shi er cong xin suo yu bu yu ju	7560
+七十二妃	qi shi er fei	7563
+七十二福地	qi shi er fu di	7562
+其事好还	qi shi hao hai	6537
+起死回生	qi si hui sheng	1034
+其死也坚强	qi si ye jian qiang	6508
+其死也枯槁	qi si ye ku gao	6507
+齐太公世家	qi tai gong shi jia	27
+其微易散	qi wei yi san	6526
+其未兆易谋	qi wei zhao yi mou	6514
+齐物论	qi wu lun	21
+起舞弄清影	qi wu nong qing ying	1032
+綦毋潜	qi wu qian	2056
+其无正也	qi wu zheng ye	6516
+奇物滋起	qi wu zi qi	5245
+七夕	qi xi	7559
+祁奚	qi xi	2311
+其西南诸峰	qi xi nan zhu feng	6495
+其喜洋洋者矣	qi xi yang yang zhe yi	6532
+其下不昧	qi xia bu mei	6546
+其下攻城	qi xia gong cheng	6545
+七弦	qi xian	7557
+期贤	qi xian	3542
+气象万千	qi xiang wan qian	3181
+岂效穷途之哭	qi xiao qiong tu zhi ku	4800
+其形也	qi xing ye	6528
+其徐如林	qi xu ru lin	6527
+岂虚言哉	qi xu yan zai	4799
+气血	qi xue	3182
+七言	qi yan	7551
+弃养	qi yang	4581
+其叶蓁蓁	qi ye zhen zhen	6534
+期颐	qi yi	3541
+期颐之年	qi yi zhi nian	3540
+七音	qi yin	7548
+其用不弊	qi yong bu bi	6503
+其用不穷	qi yong bu qiong	6502
+齐语	qi yu	19
+岂余心之可惩	qi yu xin zhi ke cheng	4801
+七月	qi yue	7555
+七月既望	qi yue ji wang	7554
+期在必醉	qi zai bi zui	3543
+其在道也	qi zai dao ye	6531
+欺着	qi zhe	3277
+企者不立	qi zhe bu li	6891
+其政察察	qi zheng cha cha	6518
+其政闷闷	qi zheng men men	6517
+弃掷逦迤	qi zhi li yi	4579
+其知弥少	qi zhi mi shao	6500
+弃脂水也	qi zhi shui ye	4577
+其致之也	qi zhi zhi ye	6496
+其中往来种作	qi zhong wang lai zhong zuo	6542
+其中有精	qi zhong you jing	6539
+其中有物	qi zhong you wu	6540
+其中有象	qi zhong you xiang	6538
+其中有信	qi zhong you xin	6541
+其状若何	qi zhuang ruo he	6504
+七子	qi zi	7558
+起坐而喧哗者	qi zuo er xuan hua zhe	1036
+前不见古人	qian bu jian gu ren	6319
+前赤壁赋	qian chi bi fu	6313
+千古风流人物	qian gu feng liu ren wu	6221
+乾卦	qian gua	7124
+谦卦	qian gua	1152
+铅华弗御	qian hua fu yu	635
+浅绛	qian jiang	3042
+千娇百媚	qian jiao bai mei	6220
+千金方	qian jin fang	6210
+千金市骨	qian jin shi gu	6211
+前倨后恭	qian ju hou gong	6317
+迁客	qian ke	920
+迁客骚人	qian ke sao ren	919
+千里	qian li	6217
+千里逢迎	qian li feng ying	6212
+千里共婵娟	qian li gong chan juan	6215
+千里孤坟	qian li gu fen	6214
+千里江陵一日还	qian li jiang ling yi ri huan	6213
+千里之行始于足下	qian li zhi xing shi yu zu xia	6216
+乾隆	qian long	7122
+潜龙勿用	qian long wu yong	2904
+阡陌交通	qian mo jiao tong	537
+牵牛	qian niu	2788
+倩女离魂	qian nv li hun	6707
+钱起	qian qi	647
+乾清宫	qian qing gong	7123
+千秋万岁	qian qiu wan sui	6218
+前人之述备矣	qian ren zhi shu bei yi	6318
+千山鸟飞绝	qian shan niao fei jue	6219
+褰裳	qian shang	1333
+前识者	qian shi zhe	6314
+千万人之心也	qian wan ren zhi xin ye	6222
+倩兮	qian xi	6708
+迁谪	qian zhe	918
+前者呼	qian zhe hu	6315
+黔之驴	qian zhi lv	46
+前朱雀	qian zhu que	6316
+迁转	qian zhuan	917
+襁褓	qiang bao	1332
+强大处下	qiang da chu xia	4525
+羌笛	qiang di	1941
+羌笛何须怨杨柳	qiang di he xu yuan yang liu	1940
+襁负	qiang fu	1331
+强国	qiang guo	4527
+羌活	qiang huo	1942
+强梁者不得其死	qiang liang zhe bu de qi si	4523
+樯橹灰飞烟灭	qiang lu hui fei yan mie	3303
+羌内恕己以量人兮	qiang nei shu ji yi liang ren xi	1943
+樯倾楫摧	qiang qing ji cui	3304
+墙头马上	qiang tou ma shang	5598
+蔷薇	qiang wei	1485
+强为之名曰大	qiang wei zhi ming yue da	4528
+羌习礼而明诗	qiang xi li er ming shi	1944
+强行者有志	qiang xing zhe you zhi	4522
+强圉	qiang yu	4526
+强字之曰道	qiang zi zhi yue dao	4524
+樵采	qiao cai	3298
+憔悴	qiao cui	4270
+憔悴损	qiao cui sun	4269
+樵夫	qiao fu	3301
+巧姐	qiao jie	4744
+硗确	qiao que	2338
+巧舌如簧	qiao she ru huang	4742
+樵苏	qiao su	3299
+巧笑	qiao xiao	4743
+巧言	qiao yan	4741
+巧言令色	qiao yan ling se	4740
+樵渔	qiao yu	3300
+锲而不舍	qie er bu she	607
+且夫天地之间	qie fu tian di zhi jian	7332
+妾妇之道也	qie fu zhi dao ye	5201
+茄官	qie guan	1644
+伽蓝	qie lan	6847
+切问而近思	qie wen er jin si	6385
+切韵	qie yun	6384
+切诊	qie zhen	6386
+秦爱纷奢	qin ai fen she	2230
+琴案	qin an	2649
+钦安殿	qin an dian	650
+秦策	qin ce	2228
+侵晨	qin chen	6758
+秦风	qin feng	2222
+秦观	qin guan	2225
+琴徽	qin hui	2650
+秦晋崤之战	qin jin xiao zhi zhan	2231
+亲旧知其如此	qin jiu zhi qi ru ci	7013
+秦可卿	qin ke qing	2235
+侵掠如火	qin lue ru huo	6759
+秦穆公	qin mu gong	2229
+嵚崎	qin qi	4772
+亲戚畔之	qin qi pan zhi	7014
+琴棋书画	qin qi shu hua	2648
+秦腔	qin qiang	2226
+秦人不暇自哀	qin ren bu xia zi ai	2237
+秦人视之	qin ren shi zhi	2236
+琴瑟	qin se	2647
+琴瑟友之	qin se you zhi	2646
+秦誓	qin shi	2224
+秦始皇	qin shi huang	2234
+秦始皇本纪	qin shi huang ben ji	2233
+秦时明月汉时关	qin shi ming yue han shi guan	2232
+螓首	qin shou	1396
+溱洧	qin wei	2926
+琴弦	qin xian	2651
+亲贤臣	qin xian chen	7012
+勤政爱民	qin zheng ai min	6265
+亲之信之	qin zhi xin zhi	7015
+秦钟	qin zhong	2223
+秦篆	qin zhuan	2227
+黥布列传	qing bu lie zhuan	38
+青茶	qing cha	404
+清朝续文献通考	qing chao xu wen xian tong kao	2984
+青城	qing cheng	412
+青出于蓝	qing chu yu lan	414
+晴翠接荒城	qing cui jie huang cheng	3669
+卿大夫章	qing da fu zhang	6135
+轻敌几丧吾宝	qing di ji sang wu bao	958
+清风亮节	qing feng liang jie	2979
+青枫浦上不胜愁	qing feng pu shang bu sheng chou	409
+清风徐来	qing feng xu lai	2978
+倾国倾城	qing guo qing cheng	6705
+青海	qing hai	408
+轻解罗裳	qing jie luo shang	956
+清静为天下正	qing jing wei tian xia zheng	2980
+庆历四年	qing li si nian	4656
+青龙	qing long	400
+青绿	qing lv	406
+青绿山水	qing lv shan shui	405
+清庙	qing miao	2986
+清明	qing ming	2985
+青囊	qing nang	413
+青雀黄龙之舳	qing que huang long zhi zhu	401
+清人	qing ren	2988
+情人怨遥夜	qing ren yuan yao ye	4307
+请洒潘江	qing sa pan jiang	1200
+清史稿	qing shi gao	2987
+清谈	qing tan	2982
+清谈误国	qing tan wu guo	2981
+蜻蜓	qing ting	1404
+青头菌	qing tou jun	411
+倾颓	qing tui	6704
+晴雯	qing wen	3668
+黥刑	qing xing	39
+青阳腔	qing yang qiang	402
+青蝇	qing ying	403
+情欲	qing yu	4306
+青玉案	qing yu wan	407
+轻则失根	qing ze shi gen	959
+清正廉洁	qing zheng lian jie	2983
+倾之	qing zhi	6706
+青州	qing zhou	410
+轻舟已过万重山	qing zhou yi guo wan chong shan	957
+穷岛屿之萦回	qiong dao yu zhi ying hui	2197
+穷睇眄于中天	qiong di mian yu zhong tian	2196
+琼芳	qiong fang	2634
+琼浆	qiong jiang	2639
+琼阶	qiong jie	2633
+琼玖	qiong jiu	2638
+琼琚	qiong ju	2637
+穹窿	qiong long	2195
+琼楼玉宇	qiong lou yu yu	2640
+琼圃	qiong pu	2642
+穷奇	qiong qi	2198
+穷且益坚	qiong qie yi jian	2199
+琼台	qiong tai	2643
+琼筵	qiong yan	2635
+琼瑶	qiong yao	2636
+蛩吟	qiong yin	1419
+琼枝玉树	qiong zhi yu shu	2641
+秋分	qiu fen	2252
+秋官司寇	qiu guan si kou	2251
+秋菊落英	qiu ju luo ying	2244
+囚牛	qiu niu	5741
+楸枰	qiu ping	3320
+蝤蛴	qiu qi	1399
+秋社	qiu she	2246
+秋水	qiu shui	2248
+秋水共长天一色	qiu shui gong chang tian yi se	2247
+秋思	qiu si	2250
+秋桐	qiu tong	2249
+秋纹	qiu wen	2245
+求之不得	qiu zhi bu de	3161
+丘中有麻	qiu zhong you ma	7326
+驱车登古原	qu che deng gu yuan	229
+驱驰	qu chi	228
+龋齿	qu chi	14
+曲肱而枕之	qu gong er zhen zhi	3655
+去官	qu guan	6125
+黢黑	qu hei	40
+屈贾谊于长沙	qu jia yi yu chang sha	4852
+曲礼	qu li	3656
+曲牌	qu pai	3657
+去强	qu qiang	6124
+胠箧	qu qie	1826
+去奢	qu she	6126
+去世	qu shi	6127
+曲士不可以语于道	qu shi bu ke yi yu yu dao	3660
+曲水流觞	qu shui liu shang	3658
+去私	qu si	6122
+屈死	qu si	4853
+去泰	qu tai	6123
+取天下常以无事	qu tian xia chang yi wu shi	6088
+曲项向天歌	qu xiang xiang tian ge	3654
+屈心而抑志兮	qu xin er yi zhi xi	4854
+趋炎附势	qu yan fu shi	1020
+曲意逢迎	qu yi feng ying	3659
+屈原	qu yuan	4856
+屈原贾生列传	qu yuan jia sheng lie zhuan	4855
+曲则全	qu ze quan	3661
+取之无禁	qu zhi wu jin	6089
+犬吠	quan fei	2786
+跧伏	quan fu	1012
+权衡	quan heng	3493
+畎亩	quan mu	2546
+畎亩之中	quan mu zhi zhong	2545
+全乃天	quan nai tian	6633
+权篇	quan pian	3495
+权书	quan shu	3497
+泉水	quan shui	3090
+泉香而酒洌	quan xiang er jiu lie	3089
+权修	quan xiu	3496
+铨选	quan xuan	623
+劝学	quan xue	6291
+圈椅	quan yi	5678
+权舆	quan yu	3494
+鹊巢	que chao	102
+却道天凉好个秋	que dao tian liang hao ge qiu	6139
+阙逢	que feng	539
+却上心头	que shang xin tou	6142
+却是旧时相识	que shi jiu shi xiang shi	6141
+雀替	que ti	451
+却走马以粪	que zou ma yi fen	6140
+裙带菜	qun dai cai	1344
+囷囷焉	qun qun yan	5699
+然而不胜者	ran er bu sheng zhe	2837
+然而禽鸟知山林之乐	ran er qin niao zhi shan lin zhi le	2836
+然后乃至大顺	ran hou nai zhi da shun	2840
+然后能改	ran hou neng gai	2838
+然后知生于忧患而死于安乐也	ran hou zhi sheng yu you huan er si yu an le ye	2839
+燃糠自照	ran kang zi zhao	2831
+然则北通巫峡	ran ze bei tong wu xia	2842
+然则何时而乐耶	ran ze he shi er le ye	2843
+然则君王所见	ran ze jun wang suo jian	2841
+攘除奸凶	rang chu jian xiong	4065
+攘皓腕于神浒兮	rang hao wan yu shen hu xi	4066
+穰侯列传	rang hou lie zhuan	2201
+让王	rang wang	1256
+攘无臂	rang wu bi	4067
+禳灾	rang zai	2262
+绕梁	rao liang	2005
+热瓦普	re wa pu	2851
+人不堪其忧	ren bu kan qi you	7011
+人不学	ren bu xue	7010
+人不知而不愠	ren bu zhi er bu yun	7009
+壬辰	ren chen	5564
+人道是	ren dao shi	6983
+人多伎巧	ren duo ji qiao	6997
+人多利器	ren duo li qi	6996
+任法	ren fa	6895
+人法地	ren fa di	6990
+人恒过	ren heng guo	6994
+人间世	ren jian shi	6982
+人杰地灵	ren jie di ling	6991
+纫秋兰	ren qiu lan	2040
+人日	ren ri	6993
+人参	ren shen	6998
+壬申	ren shen	5565
+人生代代无穷已	ren sheng dai dai wu qiong yi	6988
+人生各有所乐兮	ren sheng ge you suo le xi	6987
+人生如梦	ren sheng ru meng	6985
+人生天地之间	ren sheng tian di zhi jian	6986
+壬午	ren wu	5570
+人物画	ren wu hua	6989
+壬戌	ren xu	5567
+壬戌之秋	ren xu zhi qiu	5566
+人亦念其家	ren yi nian qi jia	6999
+仁以为己任	ren yi wei ji ren	6981
+壬寅	ren yin	5568
+人影散乱	ren ying san luan	6995
+人有悲欢离合	ren you bei huan li he	6992
+忍尤而攘诟	ren you er rang gou	4395
+仁在其中矣	ren zai qi zhong yi	6980
+人之不善	ren zhi bu shan	7007
+人知从太守游而乐	ren zhi cong tai shou you er le	6984
+人之道则不然	ren zhi dao ze bu ran	7000
+人之迷	ren zhi mi	7001
+人之生	ren zhi sheng	7003
+人之生也柔弱	ren zhi sheng ye rou ruo	7002
+人之所恶	ren zhi suo e	7006
+人之所教	ren zhi suo jiao	7005
+人之所畏	ren zhi suo wei	7004
+任重而道远	ren zhong er dao yuan	6894
+人主	ren zhu	7008
+壬子	ren zi	5569
+扔无敌	reng wu di	4200
+日晷	ri gui	3852
+日既西倾	ri ji xi qing	3854
+日理万机	ri li wan ji	3849
+日南	ri nan	3857
+日食	ri shi	3846
+日坛	ri tan	3855
+日星隐曜	ri xing yin yao	3853
+日益骄固	ri yi jiao gu	3848
+日喻	ri yu	3856
+日月	ri yue	3851
+日照香炉生紫烟	ri zhao xiang lu sheng zi yan	3850
+日者列传	ri zhe lie zhuan	3847
+容华	rong hua	4999
+戎马生于郊	rong ma sheng yu jiao	4256
+容乃公	rong nai gong	5000
+荣辱	rong ru	1600
+荣曜秋菊	rong yao qiu ju	1601
+容与乎阳林	rong yu hu yang lin	5001
+容斋随笔	rong zhai sui bi	4998
+肉羹	rou geng	1842
+柔情绰态	rou qing chuo tai	3408
+柔弱处上	rou ruo chu shang	3411
+柔弱胜刚强	rou ruo sheng gang qiang	3409
+柔弱者生之徒	rou ruo zhe sheng zhi tu	3410
+肉食者鄙	rou shi zhe bi	1841
+柔婉	rou wan	3412
+柔兆	rou zhao	3413
+柔之胜刚	rou zhi sheng gang	3414
+如春登台	ru chun deng tai	5213
+汝坟	ru fen	3148
+入国	ru guo	6637
+濡毫	ru hao	2899
+入画	ru hua	6635
+入话	ru hua	6634
+如今有谁堪摘	ru jin you shui kan zhai	5216
+入军不被甲兵	ru jun bu bei jia bing	6639
+如来	ru lai	5212
+乳酪	ru lao	7125
+儒林列传	ru lin lie zhuan	6679
+儒林外史	ru lin wai shi	6678
+如梦初醒	ru meng chu xing	5211
+入木三分	ru mu san fen	6636
+如泣如诉	ru qi ru su	5210
+蓐收	ru shou	1504
+如享太牢	ru xiang tai lao	5217
+儒效	ru xiao	6680
+儒行	ru xing	6677
+如婴儿之未孩	ru ying er zhi wei hai	5215
+如怨如慕	ru yuan ru mu	5214
+入则无法家拂士	ru ze wu fa jia bi shi	6638
+如醉方醒	ru zui fang xing	5209
+阮籍	ruan ji	534
+阮籍猖狂	ruan ji chang kuang	533
+阮咸	ruan xian	535
+蕤宾	rui bin	1479
+蕊官	rui guan	1484
+瑞香	rui xiang	2629
+润物细无声	run wu xi wu sheng	3004
+闰月	run yue	562
+若此之艳也	ruo ci zhi yan ye	1653
+若夫日出而林霏开	ruo fu ri chu er lin fei kai	1658
+若夫淫雨霏霏	ruo fu yin yu fei fei	1657
+弱冠	ruo guan	4533
+若将飞而未翔	ruo jiang fei er wei xiang	1656
+若可寄天下	ruo ke ji tian xia	1660
+若可托天下	ruo ke tuo tian xia	1659
+箬笠	ruo li	2103
+弱民	ruo min	4532
+若木	ruo mu	1654
+若使民常畏死	ruo shi min chang wei si	1662
+弱水	ruo shui	4531
+若往若还	ruo wang ruo hai	1655
+若危若安	ruo wei ruo an	1661
+若肖久矣其细也夫	ruo xiao jiu yi qi xi ye fu	1652
+弱者道之用	ruo zhe dao zhi yong	4530
+弱之胜强	ruo zhi sheng qiang	4534
+塞其兑	sai qi dui	5602
+三杯两盏淡酒	san bei liang zhan dan jiu	7508
+三才章	san cai zhang	7510
+三而竭	san er jie	7494
+三公	san gong	7529
+三宫六院	san gong liu yuan	7517
+三顾臣	san gu chen	7489
+三国演义	san guo yan yi	7519
+三国志	san guo zhi	7520
+三国周郎赤壁	san guo zhou lang chi bi	7521
+三皇	san huang	7500
+三皇五帝	san huang wu di	7499
+散剂	san ji	3982
+三甲	san jia	7502
+三家注	san jia zhu	7516
+三江	san jiang	7507
+三角铁	san jiao tie	7493
+三戒	san jie	7511
+三界	san jie	7501
+三军可夺帅也	san jun ke duo shuai ye	7528
+三礼	san li	7497
+三里之城	san li zhi cheng	7490
+三论宗	san lun zong	7491
+三年不蜚	san nian bu fei	7514
+三年不鸣	san nian bu ming	7513
+三年问	san nian wen	7512
+三千宠爱在一身	san qian chong ai zai yi shen	7523
+三清	san qing	7506
+散曲	san qu	3981
+三人成虎	san ren cheng hu	7532
+三人行	san ren xing	7531
+三人行必有我师	san ren xing bi you wo shi	7530
+三神山	san shen shan	7496
+三生石	san sheng shi	7503
+三生万物	san sheng wan wu	7504
+三十而立	san shi er li	7525
+三十辐共一毂	san shi fu gong yi gu	7524
+三十六洞天	san shi liu dong tian	7526
+三十六年	san shi liu nian	7527
+三司	san si	7522
+三岁贯女	san sui guan nv	7515
+三统历	san tong li	7495
+三王世家	san wang shi jia	7505
+三省	san xing	7498
+三言二拍	san yan er pai	7492
+散音	san yin	3980
+三垣	san yuan	7518
+三曰不敢为天下先	san yue bu gan wei tian xia xian	7509
+馓子	san zi	251
+丧大记	sang da ji	7285
+丧服	sang fu	7284
+丧服四制	sang fu si zhi	7283
+丧服小记	sang fu xiao ji	7282
+桑扈	sang hu	3379
+丧气垂头	sang qi chui tou	7281
+丧亲章	sang qin zhang	7286
+桑柔	sang rou	3378
+桑葚	sang shen	3376
+桑榆非晚	sang yu fei wan	3377
+啬臣	se chen	5778
+穑臣	se chen	2202
+啬夫	se fu	5779
+穑夫	se fu	2203
+色即是空	se ji shi kong	1731
+穑人	se ren	2204
+穑事	se shi	2205
+沙场秋点兵	sha chang qiu dian bing	3112
+沙锤	sha chui	3111
+杀狗记	sha gou ji	3506
+纱帽	sha mao	2038
+沙鸥翔集	sha ou xiang ji	3110
+杀人之众	sha ren zhi zhong	3507
+杀身成仁	sha shen cheng ren	3505
+善抱者不脱	shan bao zhe bu tuo	5770
+善闭无关楗而不可开	shan bi wu guan jian er bu ke kai	5757
+剡波	shan bo	6307
+山不在高	shan bu zai gao	4837
+山茶	shan cha	4817
+山川相缪	shan chuan xiang miu	4833
+钐刀	shan dao	664
+善复为妖	shan fu wei yao	5773
+剡舸	shan ge	6302
+善歌者	shan ge zhe	5766
+山鬼	shan gui	4812
+山海关	shan hai guan	4823
+剡楫	shan ji	6308
+善假于物也	shan jia yu wu ye	5774
+善建者不拔	shan jian zhe bu ba	5772
+山间之四时也	shan jian zhi si shi ye	4815
+山间之朝暮也	shan jian zhi zhao mu ye	4814
+善教者	shan jiao zhe	5769
+善结无绳约而不可解	shan jie wu sheng yue er bu ke jie	5763
+善睐	shan lai	5764
+钐镰	shan lian	663
+山陵崩	shan ling beng	4813
+山木	shan mu	4829
+山气日夕佳	shan qi ri xi jia	4828
+剡曲	shan qu	6310
+禅让	shan rang	2266
+善人之宝	shan ren zhi bao	5775
+善胜敌者不与	shan sheng di zhe bu yu	5760
+善数不用筹策	shan shu bu yong chou ce	5768
+山水画	shan shui hua	4825
+山水诗	shan shui shi	4824
+山水田园	shan shui tian yuan	4826
+山水之乐	shan shui zhi le	4827
+山涛	shan tao	4822
+剡藤	shan teng	6301
+善为士者不武	shan wei shi zhe bu wu	5777
+山翁	shan weng	4820
+剡溪	shan xi	6305
+缮性	shan xing	1967
+山行六七里	shan xing liu qi li	4816
+善行无辙迹	shan xing wu zhe ji	5759
+善言无瑕谪	shan yan wu xia zhe	5758
+山肴	shan yao	4819
+山肴野蔌	shan yao ye su	4818
+善用人者为之下	shan yong ren zhe wei zhi xia	5765
+山有扶苏	shan you fu su	4831
+善有果而已	shan you guo er yi	5767
+山有枢	shan you shu	4830
+山有小口	shan you xiao kou	4832
+山原旷其盈视	shan yuan kuang qi ying shi	4835
+山岳潜形	shan yue qian xing	4834
+善战者不怒	shan zhan zhe bu nu	5771
+剡棹	shan zhao	6309
+善者不辩	shan zhe bu bian	5762
+善者吾善之	shan zhe wu shan zhi	5761
+山珍海味	shan zhen hai wei	4821
+剡纸	shan zhi	6304
+山之僧智仙也	shan zhi seng zhi xian ye	4836
+善之与恶	shan zhi yu e	5776
+剡中	shan zhong	6311
+剡舟	shan zhou	6303
+剡渚	shan zhu	6306
+上兵伐谋	shang bing fa mou	7482
+商朝	shang chao	5782
+上出重霄	shang chu chong xiao	7481
+上德不德	shang de bu de	7474
+上德若谷	shang de ruo gu	7472
+上德无为而无以为	shang de wu wei er wu yi wei	7473
+伤寒论	shang han lun	6854
+上将军居右	shang jiang jun ju you	7477
+上郡	shang jun	7468
+商君列传	shang jun lie zhuan	5784
+商君书	shang jun shu	5785
+上礼为之而莫之应	shang li wei zhi er mo zhi ying	7470
+商旅不行	shang lv bu xing	5783
+上欧阳内翰第一书	shang ou yang nei han di yi shu	7471
+上品	shang pin	7480
+伤人必多	shang ren bi duo	6857
+上仁为之而无以为	shang ren wei zhi er wu yi wei	7484
+上善若水	shang shan ruo shui	7479
+裳裳者华	shang shang zhe hua	1342
+上士闻道勤而行之	shang shi wen dao qin er xing zhi	7478
+商书	shang shu	5786
+尚书	shang shu	4882
+尚书令	shang shu ling	4881
+尚书省	shang shu sheng	4880
+上巳	shang si	7476
+商颂	shang song	5780
+商汤	shang tang	5781
+尚同	shang tong	4879
+上下	shang xia	7488
+上下天光	shang xia tian guang	7486
+上下五千年	shang xia wu qian nian	7487
+上弦	shang xian	7475
+尚贤	shang xian	4877
+伤先帝之明	shang xian di zhi ming	6855
+赏刑	shang xing	1061
+尚矣	shang yi	4878
+上义为之而有以为	shang yi wei zhi er you yi wei	7485
+上元	shang yuan	7483
+上章	shang zhang	7469
+伤仲永	shang zhong yong	6856
+少府	shao fu	4897
+少昊	shao hao	4894
+少康	shao kang	4896
+少牢馈食礼	shao lao kui shi li	4892
+烧卖	shao mai	2852
+少年不识愁滋味	shao nian bu shi chou zi wei	4898
+少顷	shao qing	4890
+少使	shao shi	4901
+少私寡欲	shao si gua yu	4891
+少司命	shao si ming	4899
+少无适俗韵	shao wu shi su yun	4895
+少焉	shao yan	4893
+芍药	shao yao	1714
+少仪	shao yi	4902
+少则得	shao ze de	4900
+苕之华	shao zhi hua	1667
+射雕	she diao	4951
+舍后且先	she hou qie xian	1750
+社火	she huo	2314
+社稷坛	she ji tan	2313
+舍己为公	she ji wei gong	1749
+舍俭且广	she jian qie guang	1752
+涉江	she jiang	3009
+设酒杀鸡作食	she jiu sha ji zuo shi	1240
+舍利	she li	1751
+射猎	she lie	4953
+舍人	she ren	1753
+社日	she ri	2315
+设色	she se	1241
+舍生取义	she sheng qu yi	1748
+舍生忘死	she sheng wang si	1747
+佘诗曼	she shi man	6816
+社鼠	she shu	2312
+摄提	she ti	4082
+摄提格	she ti ge	4081
+射乡朝聘	she xiang chao pin	4954
+射义	she yi	4955
+麝月	she yue	82
+舍簪笏于百龄	she zan hu yu bai ling	1746
+舌战群儒	she zhan qun ru	1754
+射者中	she zhe zhong	4952
+甚爱必大费	shen ai bi da fei	2595
+申包胥	shen bao xu	2557
+深不可识	shen bu ke shi	2993
+神得一以灵	shen de yi yi ling	2291
+身毒	shen du	982
+慎法	shen fa	4273
+沈复	shen fu	3117
+神光离合	shen guang li he	2294
+审己	shen ji	5024
+申椒	shen jiao	2556
+申礼防以自持	shen li fang yi zi chi	2555
+蜃楼	shen lou	1411
+神农	shen nong	2293
+神农本草经	shen nong ben cao jing	2292
+沈佺期	shen quan qi	3118
+神人	shen ren	2295
+深入不毛	shen ru bu mao	2992
+参商	shen shang	6114
+审视	shen shi	5023
+身体发肤	shen ti fa fu	983
+审为	shen wei	5026
+神武门	shen wu men	2289
+神无以灵将恐歇	shen wu yi ling jiang kong xie	2290
+慎小	shen xiao	4274
+审刑院	shen xing yuan	5025
+深衣	shen yi	2991
+甚易行	shen yi xing	2596
+甚于防川	shen yu fang chuan	2597
+身与货孰多	shen yu huo shu duo	984
+慎终如始	shen zhong ru shi	4272
+深追先帝遗诏	shen zhui xian di yi zhao	2990
+声哀厉而弥长	sheng ai li er mi chang	5563
+胜兵先胜而后求战	sheng bing xian sheng er hou qiu zhan	1831
+胜地不常	sheng di bu chang	1829
+声断衡阳之浦	sheng duan heng yang zhi pu	5561
+胜而不美	sheng er bu mei	1828
+生而不有	sheng er bu you	2588
+胜负手	sheng fu shou	1827
+升卦	sheng gua	6209
+圣讳	sheng hui	5662
+升降	sheng jiang	6207
+升降浮沉	sheng jiang fu chen	6206
+生民	sheng min	2589
+圣人	sheng ren	5673
+圣人不病	sheng ren bu bing	5672
+圣人不积	sheng ren bu ji	5671
+圣人皆孩之	sheng ren jie hai zhi	5665
+圣人无常心	sheng ren wu chang xin	5667
+圣人亦不伤人	sheng ren yi bu shang ren	5669
+圣人用之	sheng ren yong zhi	5666
+圣人在天下歙歙焉	sheng ren zai tian xia she she yan	5668
+胜人者有力	sheng ren zhe you li	1832
+圣人之道为而不争	sheng ren zhi dao wei er bu zheng	5670
+绳绳不可名	sheng sheng bu ke ming	1990
+声声慢	sheng sheng man	5562
+升天	sheng tian	6208
+圣心备焉	sheng xin bei yan	5664
+盛筵难再	sheng yan nan zai	2438
+胜友如云	sheng you ru yun	1830
+生于忧患死于安乐	sheng yu you huan si yu an le	2590
+生之畜之	sheng zhi chu zhi	2591
+生之徒十有三	sheng zhi tu shi you san	2592
+圣治章	sheng zhi zhang	5663
+十八反	shi ba fan	6230
+适彼乐国	shi bi le guo	875
+适彼乐郊	shi bi le jiao	873
+适彼乐土	shi bi le tu	874
+世兵制	shi bing zhi	7330
+士不可以不弘毅	shi bu ke yi bu hong yi	5579
+十步一阁	shi bu yi ge	6225
+蓍草	shi cao	1505
+释草	shi cao	718
+势成之	shi cheng zhi	6272
+市尺	shi chi	4725
+释虫	shi chong	717
+释畜	shi chu	720
+失道者寡助	shi dao zhe gua zhu	5256
+失德而后仁	shi de er hou ren	5258
+始得西山宴游记	shi de xi shan yan you ji	5199
+石磴	shi deng	2348
+释地	shi di	727
+是地利不如人和也	shi di li bu ru ren he ye	3729
+事典	shi dian	7116
+十二辰	shi er chen	6233
+十二次	shi er ci	6235
+十二律	shi er lv	6237
+十二律吕	shi er lv lv	6236
+十二章	shi er zhang	6234
+十二州	shi er zhou	6238
+世妇	shi fu	7329
+弑父	shi fu	4569
+释服	shi fu	723
+使负栋之柱	shi fu dong zhi zhu	6778
+释宫	shi gong	725
+释诂	shi gu	714
+石鼓文	shi gu wen	2346
+师卦	shi gua	4717
+士冠礼	shi guan li	5576
+石磙	shi gun	2349
+时过然后学	shi guo ran hou xue	3832
+谥号	shi hao	1153
+士会	shi hui	5577
+史讳举例	shi hui ju li	6041
+士昏礼	shi hun li	5574
+食货志	shi huo zhi	282
+史记	shi ji	6042
+始计	shi ji	5198
+世家	shi jia	7328
+释迦牟尼	shi jia mou ni	713
+石涧记	shi jian ji	2352
+逝将去女	shi jiang qu nv	858
+市斤	shi jin	4724
+是进亦忧	shi jin yi you	3701
+十进制	shi jin zhi	6223
+诗经	shi jing	1229
+鳲鸠	shi jiu	141
+酾酒临江	shi jiu lin jiang	761
+十九畏	shi jiu wei	6239
+弑君	shi jun	4570
+事君章	shi jun zhang	7115
+噬嗑	shi ke	5743
+食客	shi ke	284
+师旷	shi kuang	4715
+侍郎	shi lang	6769
+释乐	shi le	732
+是乐杀人	shi le sha ren	3761
+饰令	shi ling	260
+石榴	shi liu	2353
+使六国各爱其人	shi liu guo ge ai qi ren	6785
+十六两制	shi liu liang zhi	6229
+时六年九月十五日	shi liu nian jiu yue shi wu ri	3835
+时迈	shi mai	3831
+释秘演诗集序	shi mi yan shi ji xu	719
+使民复结绳而用之	shi min fu jie sheng er yong zhi	6781
+使民重死而不远徙	shi min zhong si er bu yuan xi	6780
+誓命	shi ming	1264
+释名	shi ming	729
+释木	shi mu	722
+拭目以待	shi mu yi dai	4139
+十亩之间	shi mu zhi jian	6231
+施耐庵	shi nai an	3922
+十年生死两茫茫	shi nian sheng si liang mang mang	6228
+释鸟	shi niao	711
+石砲	shi pao	2350
+诗品	shi pin	1230
+释器	shi qi	728
+十七史商榷	shi qi shi shang que	6241
+释亲	shi qin	731
+使秦复爱六国之人	shi qin fu ai liu guo zhi ren	6779
+食顷	shi qing	281
+释丘	shi qiu	733
+石渠记	shi qu ji	2351
+失仁而后义	shi ren er hou yi	5259
+使人继其声	shi ren ji qi sheng	6787
+使人继其志	shi ren ji qi zhi	6786
+世人甚爱牡丹	shi ren shen ai mu dan	7331
+是日也	shi ri ye	3726
+士容	shi rong	5575
+十三徽	shi san hui	6240
+士丧礼	shi sang li	5578
+释山	shi shan	724
+事善能	shi shan neng	7114
+实沈	shi shen	5030
+逝世	shi shi	859
+释兽	shi shou	730
+侍书	shi shu	6771
+鼫鼠五技	shi shu wu ji	28
+释水	shi shui	721
+师说	shi shuo	4713
+视朔	shi shuo	1297
+世说新语	shi shuo xin yu	7327
+视死如归	shi si ru gui	1296
+是所望于群公	shi suo wang yu qun gong	3727
+释天	shi tian	726
+是天时不如地利也	shi tian shi bu ru di li ye	3728
+使天下之人	shi tian xia zhi ren	6784
+史通	shi tong	6040
+式微	shi wei	4571
+是谓不道	shi wei bu dao	3722
+是谓不争之德	shi wei bu zheng zhi de	3723
+是谓宠辱若惊	shi wei chong ru ruo jing	3718
+是谓代大匠斫	shi wei dai da jiang zhuo	3721
+是谓道纪	shi wei dao ji	3704
+是为盗夸	shi wei dao kua	3763
+是谓复命	shi wei fu ming	3720
+是谓惚恍	shi wei hu huang	3716
+时维九月	shi wei jiu yue	3833
+是谓配天古之极	shi wei pei tian gu zhi ji	3703
+是谓社稷主	shi wei she ji zhu	3708
+是谓深根固柢	shi wei shen gen gu di	3713
+是谓天地根	shi wei tian di gen	3719
+是为天下王	shi wei tian xia wang	3764
+是谓微明	shi wei wei ming	3717
+是谓无状之状	shi wei wu zhuang zhi zhuang	3715
+是为袭常	shi wei xi chang	3762
+是谓袭明	shi wei xi ming	3706
+是谓行无行	shi wei xing wu xing	3707
+是谓玄德	shi wei xuan de	3711
+是谓玄牝	shi wei xuan pin	3710
+是谓玄同	shi wei xuan tong	3712
+是谓要妙	shi wei yao miao	3705
+是谓用人之力	shi wei yong ren zhi li	3709
+是谓早服	shi wei zao fu	3714
+侍卫之臣	shi wei zhi chen	6770
+师文	shi wen	4716
+使我介然有知	shi wo jie ran you zhi	6783
+事无大小	shi wu da xiao	7112
+十五国风	shi wu guo feng	6232
+事无事	shi wu shi	7113
+时宪历	shi xian li	3834
+是贤于贵生	shi xian yu gui sheng	3702
+时享	shi xiang	3836
+士相见礼	shi xiang jian li	5573
+饰邪	shi xie	259
+施行	shi xing	3921
+释训	shi xun	715
+十旬休假	shi xun xiu jia	6227
+释言	shi yan	716
+是焉得为大丈夫乎	shi yan de wei da zhang fu hu	3725
+食言而肥	shi yan er fei	283
+师爷	shi ye	4714
+是以兵强则灭	shi yi bing qiang ze mie	3755
+是以不病	shi yi bu bing	3757
+是以不我知	shi yi bu wo zhi	3758
+是以不厌	shi yi bu yan	3759
+是以大丈夫处其厚不居其薄	shi yi da zhang fu chu qi hou bu ju qi bo	3736
+失义而后礼	shi yi er hou li	5261
+是以侯王自称孤寡不谷	shi yi hou wang zi cheng gu gua bu gu	3756
+是以饥	shi yi ji	3730
+是以君子终日行不离辎重	shi yi jun zi zhong ri xing bu li zi zhong	3754
+是以难治	shi yi nan zhi	3731
+是以轻死	shi yi qing si	3732
+是以圣人抱一为天下式	shi yi sheng ren bao yi wei tian xia shi	3745
+是以圣人被褐而怀玉	shi yi sheng ren bei he er huai yu	3737
+是以圣人不行而知	shi yi sheng ren bu xing er zhi	3753
+是以圣人常善救人	shi yi sheng ren chang shan jiu ren	3747
+是以圣人处上而民不重	shi yi sheng ren chu shang er min bu zhong	3748
+是以圣人方而不割	shi yi sheng ren fang er bu ge	3744
+是以圣人去甚	shi yi sheng ren qu shen	3749
+是以圣人为而不恃	shi yi sheng ren wei er bu shi	3752
+是以圣人为腹不为目	shi yi sheng ren wei fu bu wei mu	3751
+是以圣人无为故无败	shi yi sheng ren wu wei gu wu bai	3743
+是以圣人犹难之	shi yi sheng ren you nan zhi	3740
+是以圣人欲不欲	shi yi sheng ren yu bu yu	3741
+是以圣人欲上民	shi yi sheng ren yu shang min	3742
+是以圣人云	shi yi sheng ren yun	3750
+是以圣人执左契	shi yi sheng ren zhi zuo qi	3746
+是以圣人终不为大	shi yi sheng ren zhong bu wei da	3739
+是以圣人自知不自见	shi yi sheng ren zi zhi bu zi jian	3738
+是以天下乐推而不厌	shi yi tian xia le tui er bu yan	3735
+是以万物莫不尊道而贵德	shi yi wan wu mo bu zun dao er gui de	3760
+是以无德	shi yi wu de	3734
+是以有德	shi yi you de	3733
+适音	shi yin	872
+识盈虚之有数	shi ying xu zhi you shu	1233
+事有君	shi you jun	7111
+使有什伯之器而不用	shi you shen bo zhi qi er bu yong	6782
+释鱼	shi yu	712
+士虞礼	shi yu li	5571
+逝曰远	shi yue yuan	857
+十月之交	shi yue zhi jiao	6226
+时运不齐	shi yun bu qi	3830
+是造物者之无尽藏也	shi zao wu zhe zhi wu jin cang ye	3700
+士章	shi zhang	5572
+逝者如斯	shi zhe ru si	856
+逝者如斯夫	shi zhe ru si fu	855
+失者同于失	shi zhe tong yu shi	5257
+市制	shi zhi	4726
+视之不见名曰夷	shi zhi bu jian ming yue yi	1299
+视之不足见	shi zhi bu zu jian	1298
+失之若惊	shi zhi ruo jing	5260
+师之所处	shi zhi suo chu	4718
+是知也	shi zhi ye	3724
+始制有名	shi zhi you ming	5200
+侍中	shi zhong	6773
+石钟山记	shi zhong shan ji	2347
+侍中尚书	shi zhong shang shu	6772
+史籀	shi zhou	6043
+十洲三岛	shi zhou san dao	6224
+柿子	shi zi	3399
+收笔	shou bi	4060
+寿春	shou chun	4961
+收割	shou ge	4062
+手鼓	shou gu	4206
+受国不祥	shou guo bu xiang	6083
+受国之垢	shou guo zhi gou	6082
+收和颜而静志兮	shou he yan er jing zhi xi	4061
+受戒	shou jie	6081
+手筋	shou jin	4208
+瘦金体	shou jin ti	2529
+守静笃	shou jing du	5080
+受命以来	shou ming yi lai	6084
+守其雌	shou qi ci	5086
+守其黑	shou qi hei	5085
+守其辱	shou qi ru	5087
+受任于败军之际	shou ren yu bai jun zhi ji	6086
+守柔曰强	shou rou yue qiang	5082
+授时历	shou shi li	4108
+手谈	shou tan	4207
+首乌	shou wu	250
+守孝	shou xiao	5084
+寿星	shou xing	4962
+受冤	shou yuan	6085
+守着窗儿	shou zhe chuang er	5081
+受之父母	shou zhi fu mu	6087
+寿终正寝	shou zhong zheng qin	4960
+守拙归园田	shou zhuo gui yuan tian	5083
+书案	shu an	7130
+戍边	shu bian	4257
+书博山道中壁	shu bo shan dao zhong bi	7132
+数典忘祖	shu dian wang zu	3975
+疏而不失	shu er bu shi	2540
+书法	shu fa	7129
+束发	shu fa	3462
+淑妃	shu fei	3000
+孰敢	shu gan	5101
+疏缓	shu huan	2541
+庶竭驽钝	shu jie nu dun	4619
+竖箜篌	shu kong hou	2172
+数来宝	shu lai bao	3974
+输来其间	shu lai qi jian	948
+书吏	shu li	7131
+属吏	shu li	4846
+黍离	shu li	52
+树林阴翳	shu lin yin yi	3397
+黍苗	shu miao	51
+孰能安以动之徐生	shu neng an yi dong zhi xu sheng	5098
+孰能有余以奉天下	shu neng you yu yi feng tian xia	5097
+孰能浊以静之徐清	shu neng zhuo yi jing zhi xu qing	5096
+淑女	shu nv	3001
+庶人章	shu ren zhang	4620
+蜀山兀	shu shan wu	1414
+疏食饮水	shu shi yin shui	2539
+淑婉	shu wan	2999
+孰为此者	shu wei ci zhe	5102
+叔向	shu xiang	6090
+蜀相	shu xiang	1413
+梳晓鬟也	shu xiao huan ye	3355
+腧穴	shu xue	1800
+枢言	shu yan	3426
+殊遇	shu yu	3221
+叔于田	shu yu tian	6091
+属予作文以记之	shu yu zuo wen yi ji zhi	4847
+孰知其故	shu zhi qi gu	5100
+孰知其极	shu zhi qi ji	5099
+戍卒叫	shu zu jiao	4258
+衰败	shuai bai	1360
+衰颓	shuai tui	1359
+霜降	shuang jiang	418
+爽籁发而清风生	shuang lai fa er qing feng sheng	2807
+谁悲失路之人	shui bei shi lu zhi ren	1187
+水波不兴	shui bo bu xing	3172
+水不在深	shui bu zai shen	3179
+谁得而族灭也	shui de er zu mie ye	1188
+水地	shui di	3175
+水调歌头	shui diao ge tou	3168
+水光接天	shui guang jie tian	3177
+水浒传	shui hu zhuan	3171
+谁家今夜扁舟子	shui jia jin ye pian zhou zi	1189
+水陆草木之花	shui lu cao mu zhi hua	3165
+水陆法会	shui lu fa hui	3166
+水落而石出者	shui luo er shi chu zhe	3169
+水墨	shui mo	3174
+水墨山水	shui mo shan shui	3173
+水禽翔而为卫	shui qin xiang er wei wei	3170
+水善利万物而不争	shui shan li wan wu er bu zheng	3176
+水仙	shui xian	3178
+谁言寸草心	shui yan cun cao xin	1185
+水运仪象台	shui yun yi xiang tai	3167
+谁知盘中餐	shui zhi pan zhong can	1186
+谁之永号	shui zhi yong hao	1190
+舜典	shun dian	1745
+舜发于畎亩之中	shun fa yu quan mu zhi zhong	1744
+吮毫	shun hao	5941
+顺流而东也	shun liu er dong ye	340
+顺民	shun min	341
+顺说	shun shuo	339
+瞬息	shun xi	2390
+朔方	shuo fang	3573
+说符	shuo fu	1204
+说卦	shuo gua	1217
+说剑	shuo jian	1218
+说客	shuo ke	1214
+说林	shuo lin	1206
+说民	shuo min	1205
+说命	shuo ming	1216
+说难	shuo nan	1203
+硕人	shuo ren	2341
+朔日	shuo ri	3572
+说如此	shuo ru ci	1215
+硕鼠	shuo shu	2340
+说书	shuo shu	1219
+硕鼠硕鼠	shuo shu shuo shu	2339
+说文	shuo wen	1212
+说文解字	shuo wen jie zi	1210
+说文解字注	shuo wen jie zi zhu	1209
+说文释例	shuo wen shi li	1207
+说文通训定声	shuo wen tong xun ding sheng	1208
+说文义证	shuo wen yi zheng	1211
+说岳全传	shuo yue quan zhuan	1213
+丝绸之路	si chou zhi lu	7295
+四大发明	si da fa ming	5737
+四大皆空	si da jie kong	5735
+四大名著	si da ming zhu	5736
+四渎	si du	5728
+死而不亡者寿	si er bu wang zhe shou	3223
+思而不学则殆	si er bu xue ze dai	4353
+死而后已	si er hou yi	3222
+四分历	si fen li	5740
+斯干	si gan	3935
+四海一	si hai yi	5729
+死活	si huo	3226
+死活题	si huo ti	3225
+四极	si ji	5731
+四君子	si jun zi	5738
+司空曙	si kong shu	6029
+司空图	si kong tu	6030
+四灵	si ling	5727
+司马	si ma	6028
+司马穰苴列传	si ma rang ju lie zhuan	6023
+司马师	si ma shi	6027
+司马相如列传	si ma xiang ru lie zhuan	6024
+司马懿	si ma yi	6026
+司马昭	si ma zhao	6025
+司马贞	si ma zhen	6022
+四美具	si mei ju	5725
+思美人	si mei ren	4354
+思绵绵而增慕	si mian mian er zeng mu	4355
+寺庙	si miao	4967
+四牡	si mu	5726
+司南	si nan	6032
+司农寺	si nong si	6033
+司棋	si qi	6031
+四气	si qi	5730
+思齐	si qi	4352
+四时	si shi	5734
+四十而不惑	si shi er bu huo	5739
+斯是陋室	si shi lou shi	3934
+四时之景不同	si shi zhi jing bu tong	5733
+汜水	si shui	3150
+汜水关	si shui guan	3149
+斯水之神	si shui zhi shen	3933
+似顺	si shun	6848
+驷驖	si tie	227
+思文	si wen	4356
+兕无所投其角	si wu suo tou qi jiao	6641
+四象	si xiang	5723
+斯须	si xu	3932
+司业	si ye	6034
+丝衣	si yi	7294
+死矣	si yi	3224
+四月	si yue	5732
+四韵俱成	si yun ju cheng	5722
+四诊	si zhen	5724
+死之徒十有三	si zhi tu shi you san	3227
+松柏之节	song bai zhi jie	3450
+宋词	song ci	5062
+送董邵南序	song dong shao nan xu	876
+送杜少府之任蜀州	song du shao fu zhi ren shu zhou	877
+崧高	song gao	4775
+讼卦	song gua	1242
+诵经	song jing	1201
+送李愿归盘谷序	song li yuan gui pan gu xu	878
+送孟东野序	song meng dong ye xu	879
+诵明月之诗	song ming yue zhi shi	1202
+竦轻躯以鹤立	song qing qu yi he li	2161
+松茸	song rong	3448
+嵩山	song shan	4771
+宋史	song shi	5067
+宋书	song shu	5069
+宋四家	song si jia	5066
+宋太祖	song tai zu	5065
+宋卫策	song wei ce	5068
+宋微子世家	song wei zi shi jia	5064
+宋襄公	song xiang gong	5063
+宋之问	song zhi wen	5070
+松竹梅	song zhu mei	3449
+松子	song zi	3451
+酥饼	su bing	764
+素冠	su guan	2074
+溯洄从之	su hui cong zhi	2928
+酥酪	su lao	765
+宿莽	su mang	4991
+宿墨	su mo	4992
+苏秦	su qin	1672
+苏秦列传	su qin lie zhuan	1671
+俗人察察	su ren cha cha	6747
+俗人昭昭	su ren zhao zhao	6746
+苏轼	su shi	1670
+俗手	su shou	6745
+素问	su wen	2073
+夙兴夜寐	su xing ye mei	5509
+苏洵	su xun	1673
+夙夜忧叹	su ye you tan	5507
+夙夜在公	su ye zai gong	5508
+酥油	su you	766
+溯游从之	su you cong zhi	2927
+苏辙	su zhe	1669
+苏州评弹	su zhou ping tan	1674
+苏子愀然	su zi qiao ran	1676
+苏子与客泛舟游于赤壁之下	su zi yu ke fan zhou you yu chi bi zhi xia	1677
+苏子曰	su zi yue	1675
+算地	suan di	2118
+狻猊	suan ni	2762
+虽不能察	sui bu neng cha	1441
+虽不周于今之人兮	sui bu zhou yu jin zhi ren xi	1442
+岁差	sui cha	4809
+燧发枪	sui fa qiang	2818
+随风潜入夜	sui feng qian ru ye	468
+岁贡	sui gong	4806
+随卦	sui gua	472
+岁寒然后知松柏之后凋也	sui han ran hou zhi song bai zhi hou diao ye	4810
+岁寒三友	sui han san you	4811
+虽九死其犹未悔	sui jiu si qi you wei hui	1440
+遂迷	sui mi	845
+虽潜处于太阴	sui qian chu yu tai yin	1431
+燧人	sui ren	2819
+随手	sui shou	471
+隋书	sui shu	475
+隋唐演义	sui tang yan yi	474
+虽体解吾犹未变兮	sui ti jie wu you wei bian xi	1439
+虽萎绝其亦何伤兮	sui wei jue qi yi he shang xi	1430
+虽无丝竹管弦之盛	sui wu si zhu guan xian zhi sheng	1437
+虽小	sui xiao	1438
+岁星	sui xing	4808
+岁星纪年	sui xing ji nian	4807
+岁阳	sui yang	4805
+虽一毫而莫取	sui yi hao er mo qu	1443
+岁阴	sui yin	4804
+虽有拱璧以先驷马	sui you gong bi yi xian si ma	1435
+虽有甲兵	sui you jia bing	1434
+虽有荣观	sui you rong guan	1432
+虽有舟舆	sui you zhou yu	1433
+遂与外人间隔	sui yu wai ren jian ge	847
+睢园绿竹	sui yuan lv zhu	2403
+随月读书	sui yue du shu	470
+随之不见其后	sui zhi bu jian qi hou	473
+虽智大迷	sui zhi da mi	1436
+随珠弹雀	sui zhu tan que	469
+遂作斯赋	sui zuo si fu	846
+荪壁	sun bi	1597
+损不足以奉有余	sun bu zu yi feng you yu	4112
+孙策	sun ce	5148
+损卦	sun gua	4110
+孙过庭	sun guo ting	5147
+孙权	sun quan	5149
+孙尚香	sun shang xiang	5150
+孙叔敖	sun shu ao	5154
+孙叔敖举于海	sun shu ao ju yu hai	5153
+损之又损	sun zhi you sun	4111
+孙子兵法	sun zi bing fa	5152
+孙子吴起列传	sun zi wu qi lie zhuan	5151
+索胡绳之纚纚	suo hu sheng zhi xi xi	2072
+索靖	suo jing	2070
+所赖君子见机	suo lai jun zi jian ji	4210
+蓑笠	suo li	1503
+蓑笠翁	suo li weng	1502
+蓑蓑	suo suo	1500
+所谓伊人	suo wei yi ren	4211
+蓑翁	suo weng	1501
+蓑衣	suo yi	1499
+所以动心忍性	suo yi dong xin ren xing	4213
+所以游目骋怀	suo yi you mu cheng huai	4212
+索隐	suo yin	2071
+他日趋庭	ta ri qu ting	6965
+太白	tai bai	5293
+太保	tai bao	5327
+太常寺	tai chang si	5306
+太初历	tai chu li	5325
+太簇	tai cu	5291
+太丁	tai ding	5332
+太傅	tai fu	5326
+太府寺	tai fu si	5301
+太庚	tai geng	5302
+泰卦	tai gua	3075
+太和殿	tai he dian	5322
+苔痕上阶绿	tai hen shang jie lv	1668
+太湖	tai hu	5295
+太皇太后	tai huang tai hou	5292
+台隍枕夷夏之交	tai huang zhen yi xia zhi jiao	6044
+太极	tai ji	5297
+太极宫	tai ji gong	5296
+太甲	tai jia	5294
+胎教	tai jiao	1833
+太康	tai kang	5300
+太庙	tai miao	5303
+太平广记	tai ping guang ji	5305
+太平猴魁	tai ping hou kui	5304
+太仆	tai pu	5329
+太仆寺	tai pu si	5328
+泰山	tai shan	3074
+太上老君	tai shang lao jun	5330
+太上下知有之	tai shang xia zhi you zhi	5331
+太师	tai shi	5308
+泰誓	tai shi	3073
+太史慈	tai shi ci	5323
+太史公自序	tai shi gong zi xu	5324
+太师椅	tai shi yi	5307
+太守	tai shou	5320
+太守归而宾客从也	tai shou gui er bin ke cong ye	5315
+太守即遣人随其往	tai shou ji qian ren sui qi wang	5317
+太守谓谁	tai shou wei shui	5313
+太守宴也	tai shou yan ye	5316
+太守也	tai shou ye	5318
+太守与客来饮于此	tai shou yu ke lai yin yu ci	5319
+太守自谓也	tai shou zi wei ye	5314
+太守醉也	tai shou zui ye	5312
+太岁	tai sui	5310
+太岁纪年	tai sui ji nian	5309
+太尉	tai wei	5311
+太微垣	tai wei yuan	5299
+太戊	tai wu	5298
+太学	tai xue	5321
+檀板	tan ban	3290
+袒庇	tan bi	1353
+袒臂	tan bi	1350
+探春	tan chun	4105
+弹词	tan ci	4529
+檀弓	tan gong	3291
+谈古论今	tan gu lun jin	1181
+袒护	tan hu	1352
+谈虎色变	tan hu se bian	1171
+探花	tan hua	4104
+谈经论道	tan jing lun dao	1172
+探骊得珠	tan li de zhu	4103
+袒露	tan lu	1347
+叹匏瓜之无匹兮	tan pao gua zhi wu pi xi	6021
+谈天说地	tan tian shuo di	1180
+贪天之功	tan tian zhi gong	1099
+袒裼	tan xi	1349
+袒裼裸裎	tan xi luo cheng	1348
+叹息痛恨	tan xi tong hen	6020
+谈笑封侯	tan xiao feng hou	1177
+谈笑风生	tan xiao feng sheng	1173
+谈笑间	tan xiao jian	1174
+谈笑有鸿儒	tan xiao you hong ru	1176
+谈笑自若	tan xiao zi ruo	1175
+袒胸	tan xiong	1351
+谈玄	tan xuan	1179
+谈玄论道	tan xuan lun dao	1178
+汤包	tang bao	3131
+唐本草	tang ben cao	5798
+螳臂当车	tang bi dang che	1391
+汤饼	tang bing	3124
+唐风	tang feng	5795
+汤诰	tang gao	3126
+堂鼓	tang gu	5603
+汤剂	tang ji	3132
+螳螂	tang lang	1390
+堂锣	tang luo	5604
+唐诗	tang shi	5797
+汤誓	tang shi	3127
+唐宋八大家	tang song ba da jia	5800
+唐太宗	tang tai zong	5801
+汤头	tang tou	3129
+汤问	tang wen	3125
+汤显祖	tang xian zu	3128
+唐寅	tang yin	5799
+汤圆	tang yuan	3130
+唐韵	tang yun	5796
+陶后鲜有闻	tao hou xian you wen	478
+桃花扇	tao hua shan	3382
+桃花源记	tao hua yuan ji	3381
+饕客	tao ke	273
+桃李罗堂前	tao li luo tang qian	3383
+滔滔不绝	tao tao bu jue	2921
+饕餮	tao tie	272
+饕餮大餐	tao tie da can	271
+饕餮盛宴	tao tie sheng yan	270
+饕餮纹	tao tie wen	269
+梼杌	tao wu	3354
+桃夭	tao yao	3384
+陶渊明	tao yuan ming	477
+讨贼兴复	tao zei xing fu	1257
+桃之夭夭	tao zhi yao yao	3385
+特牲馈食礼	te sheng kui shi li	2787
+腾蛟起凤	teng jiao qi feng	1795
+藤萝	teng luo	1459
+螣蛇无足	teng she wu zu	1394
+滕王阁序	teng wang ge xu	2919
+腾文鱼以警乘	teng wen yu yi jing cheng	1796
+滕子京	teng zi jing	2920
+提按	ti an	4095
+剃度	ti du	6321
+提纲挈领	ti gang qie ling	4093
+醍醐	ti hu	752
+鹈鹕	ti hu	103
+提携	ti xie	4094
+提学	ti xue	4096
+体迅飞凫	ti xun fei fu	6836
+天保	tian bao	5381
+天长地久	tian chang di jiu	5337
+天赤道	tian chi dao	5341
+天大	tian da	5374
+田单	tian dan	2576
+田儋列传	tian dan lie zhuan	2577
+田单列传	tian dan lie zhuan	2575
+恬淡为上	tian dan wei shang	4331
+天道	tian dao	5339
+天道无亲	tian dao wu qin	5338
+天得一以清	tian de yi yi qing	5366
+天地	tian di	5378
+天地尚不能久	tian di shang bu neng jiu	5377
+天地相合	tian di xiang he	5376
+天法道	tian fa dao	5357
+田父	tian fu	2567
+天干	tian gan	5369
+天高地迥	tian gao di jiong	5333
+甜瓜	tian gua	2594
+天官冢宰	tian guan zhong zai	5372
+天玑	tian ji	5350
+天将救之	tian jiang jiu zhi	5371
+天津	tian jin	5356
+天净沙	tian jing sha	5380
+田敬仲完世家	tian jing zhong wan shi jia	2569
+天狼	tian lang	5352
+天朗气清	tian lang qi qing	5362
+天论	tian lun	5342
+天罗地网	tian luo di wang	5343
+天门	tian men	5336
+天门开阖	tian men kai he	5335
+天目青顶	tian mu qing ding	5346
+天乃道	tian nai dao	5390
+天年	tian nian	5367
+天平	tian ping	5368
+天权	tian quan	5361
+天人	tian ren	5383
+天瑞	tian rui	5349
+田啬	tian se	2572
+田甚芜	tian shen wu	2566
+天生丽质	tian sheng li zhi	5347
+天时不如地利	tian shi bu ru di li	5363
+天市垣	tian shi yuan	5370
+天枢	tian shu	5360
+田叔列传	tian shu lie zhuan	2574
+田叟	tian sou	2573
+天台宗	tian tai zong	5379
+天坛	tian tan	5375
+天网恢恢	tian wang hui hui	5344
+天王山	tian wang shan	5351
+天问	tian wen	5334
+天文志	tian wen zhi	5364
+田无宇	tian wu yu	2568
+天下	tian xia	5411
+天下大事必作于细	tian xia da shi bi zuo yu xi	5404
+天下多忌讳	tian xia duo ji hui	5405
+天下将自正	tian xia jiang zi zheng	5403
+天下皆谓我道大似不肖	tian xia jie wei wo dao da si bu xiao	5398
+天下莫不知	tian xia mo bu zhi	5396
+天下莫能臣也	tian xia mo neng chen ye	5393
+天下莫能知	tian xia mo neng zhi	5394
+天下莫柔弱于水	tian xia mo rou ruo yu shui	5395
+天下难事必作于易	tian xia nan shi bi zuo yu yi	5392
+天下三分	tian xia san fen	5409
+天下神器	tian xia shen qi	5397
+天下顺之	tian xia shun zhi	5391
+天下万物生于有	tian xia wan wu sheng yu you	5410
+天下无道	tian xia wu dao	5401
+天下希及之	tian xia xi ji zhi	5402
+天下有道	tian xia you dao	5399
+天下有始	tian xia you shi	5400
+天下之交	tian xia zhi jiao	5408
+天下之牝	tian xia zhi pin	5407
+天下之至柔	tian xia zhi zhi rou	5406
+天璇	tian xuan	5348
+天涯	tian ya	5355
+天涯共此时	tian ya gong ci shi	5354
+天涯若比邻	tian ya ruo bi lin	5353
+甜言蜜语	tian yan mi yu	2593
+田园诗	tian yuan shi	2571
+天运	tian yun	5340
+天志	tian zhi	5365
+天之道	tian zhi dao	5388
+天之道不争而善胜	tian zhi dao bu zheng er shan sheng	5387
+天之道利而不害	tian zhi dao li er bu hai	5385
+天之道其犹张弓与	tian zhi dao qi you zhang gong yu	5386
+天之道损有余而补不足	tian zhi dao sun you yu er bu bu zu	5384
+天之所恶	tian zhi suo e	5389
+天柱	tian zhu	5359
+天竺	tian zhu	5345
+天柱高而北辰远	tian zhu gao er bei chen yuan	5358
+田子方	tian zi fang	2570
+天子章	tian zi zhang	5373
+天作	tian zuo	5382
+条案	tiao an	3460
+龆年	tiao nian	15
+条支	tiao zhi	3461
+铁杵磨针	tie chu mo zhen	643
+铁拐李	tie guai li	644
+铁观音	tie guan yin	640
+铁画银钩	tie hua yin gou	642
+铁蒺藜	tie ji li	641
+铁面无私	tie mian wu si	639
+庭燎	ting liao	4621
+停数日	ting shu ri	6694
+听朔	ting shuo	5942
+亭台楼阁	ting tai lou ge	7018
+亭亭净植	ting ting jing zhi	7020
+亭亭玉立	ting ting yu li	7019
+廷尉	ting wei	4604
+亭榭	ting xie	7017
+亭长	ting zhang	7016
+廷杖	ting zhang	4603
+听之不闻名曰希	ting zhi bu wen ming yue xi	5943
+听之不足闻	ting zhi bu zu wen	5944
+亭之毒之	ting zhi du zhi	7021
+汀洲	ting zhou	3162
+铜板	tong ban	631
+通宝	tong bao	861
+通典	tong dian	863
+痛改前非	tong gai qian fei	2532
+彤弓	tong gong	4495
+潼关	tong guan	2902
+铜壶滴漏	tong hu di lou	632
+同进士出身	tong jin shi chu shen	6000
+同其尘	tong qi chen	6003
+铜钱	tong qian	630
+童区寄传	tong qu ji chuan	2164
+同人	tong ren	6004
+童试	tong shi	2162
+通史	tong shi	862
+同是宦游人	tong shi huan you ren	6001
+彤庭	tong ting	4496
+筒瓦	tong wa	2126
+同学一首别子固	tong xue yi shou bie zi gu	6002
+同于道者道亦乐得之	tong yu dao zhe dao yi le de zhi	6005
+同于德者德亦乐得之	tong yu de zhe de yi le de zhi	6006
+同于失者失亦乐得之	tong yu shi zhe shi yi le de zhi	6007
+同予者何人	tong yu zhe he ren	6008
+通志	tong zhi	860
+童子何知	tong zi he zhi	2163
+投壶	tou hu	4175
+头回	tou hui	5255
+投之亡地然后存	tou zhi wang di ran hou cun	4176
+图谶	tu chen	5681
+土地	tu di	5675
+土地平旷	tu di ping kuang	5674
+屠沽	tu gu	4845
+兔罝	tu ju	6642
+屠龙	tu long	4840
+荼蘼	tu mi	1587
+吐纳	tu na	5981
+图难于其易	tu nan yu qi yi	5680
+屠肆	tu si	4843
+菟丝	tu si	1558
+兔死狗烹	tu si gou peng	6644
+兔死狐悲	tu si hu bei	6645
+菟丝子	tu si zi	1557
+屠苏	tu su	4842
+屠苏酒	tu su jiu	4841
+屠维	tu wei	4844
+徒刑	tu xing	4460
+兔爰	tu yuan	6643
+彖传	tuan chuan	4506
+抟扶摇	tuan fu yao	4170
+抟扶摇而上	tuan fu yao er shang	4169
+团练使	tuan lian shi	5706
+退避三舍	tui bi san she	880
+颓放	tui fang	320
+颓废	tui fei	321
+退复	tui fu	882
+退将复修吾初服	tui jiang fu xiu wu chu fu	881
+颓靡	tui mi	317
+推拿	tui na	4099
+颓然	tui ran	319
+颓然乎其间者	tui ran hu qi jian zhe	318
+颓丧	tui sang	323
+颓唐	tui tang	322
+退亦忧	tui yi you	883
+吞长江	tun chang jiang	5952
+屯卦	tun gua	4838
+涒滩	tun tan	3008
+忳郁邑余侘傺兮	tun yu yi yu cha chi xi	4378
+佗傺	tuo chi	6817
+驼峰	tuo feng	225
+托付不效	tuo fu bu xiao	4199
+鼍鼓	tuo gu	36
+鼍龙	tuo long	35
+托微波而通辞	tuo wei bo er tong ci	4198
+萚兮	tuo xi	1548
+饦饴	tuo yi	268
+托遗响于悲风	tuo yi xiang yu bei feng	4197
+脱颖而出	tuo ying er chu	1804
+瓦缝参差	wa feng cen ci	2612
+瓦釜雷鸣	wa fu lei ming	2611
+蛙鸣	wa ming	1421
+娃娃鱼	wa wa yu	5186
+洼则盈	wa ze ying	3052
+外丙	wai bing	5518
+外储说	wai chu shuo	5516
+外丹	wai dan	5517
+外内	wai nei	5515
+外篇	wai pian	5510
+外戚世家	wai qi shi jia	5512
+外壬	wai ren	5513
+外台秘要	wai tai mi yao	5514
+外物	wai wu	5511
+完璧归赵	wan bi gui zhao	5061
+弯弓	wan gong	4535
+丸剂	wan ji	7242
+万径人踪灭	wan jing ren zong mie	7547
+芄兰	wan lan	1716
+万里	wan li	7536
+万里悲秋常作客	wan li bei qiu chang zuo ke	7535
+万里长征人未还	wan li chang zheng ren wei huan	7534
+菀柳	wan liu	1565
+万念俱灰	wan nian ju hui	7546
+宛丘	wan qiu	5046
+婉若游龙	wan ruo you long	5176
+丸散膏丹	wan san gao dan	7241
+万石张叔列传	wan shi zhang shu lie zhuan	7537
+万物并作	wan wu bing zuo	7543
+万物得一以生	wan wu de yi yi sheng	7541
+万物负阴而抱阳	wan wu fu yin er bao yang	7538
+万物归焉而不为主	wan wu gui yan er bu wei zhu	7542
+万物将自宾	wan wu jiang zi bin	7544
+万物将自化	wan wu jiang zi hua	7545
+万物恃之以生而不辞	wan wu shi zhi yi sheng er bu ci	7540
+万物无以生将恐灭	wan wu wu yi sheng jiang kong mie	7539
+琬琰	wan yan	2653
+婉约	wan yue	5177
+宛在水中坻	wan zai shui zhong di	5045
+宛在水中央	wan zai shui zhong yang	5044
+宛在水中沚	wan zai shui zhong zhi	5043
+卍字窗	wan zi chuang	6201
+王安石	wang an shi	2690
+王霸	wang ba	2675
+王勃	wang bo	2694
+望长安于日下	wang chang an yu ri xia	3560
+王昌龄	wang chang ling	2684
+忘川	wang chuan	4392
+王导	wang dao	2688
+王铎	wang duo	2676
+往而不害	wang er bu hai	4477
+王风	wang feng	2674
+罔罟	wang gu	1962
+王翰	wang han	2677
+忘怀得失	wang huai de shi	4391
+望祭	wang ji	3564
+王将军之武库	wang jiang jun zhi wu ku	2687
+望江亭	wang jiang ting	3566
+王筠	wang jun	2680
+网开一面	wang kai yi mian	1965
+往来而不绝者	wang lai er bu jue zhe	4478
+往来无白丁	wang lai wu bai ding	4479
+罔两	wang liang	1963
+魍魉	wang liang	183
+望庐山瀑布	wang lu shan pu bu	3568
+忘路之远近	wang lu zhi yuan jin	4390
+网罗	wang luo	1964
+望美人兮天一方	wang mei ren xi tian yi fang	3563
+王母娘娘	wang mu niang niang	2683
+王平	wang ping	2686
+王戎	wang rong	2685
+王善保	wang shan bao	2693
+王善保家的	wang shan bao jia de	2692
+王实甫	wang shi fu	2689
+望舒	wang shu	3562
+枉死	wang si	3439
+往送之门	wang song zhi men	4476
+王维	wang wei	2679
+望闻问切	wang wen wen qie	3559
+王熙凤	wang xi feng	2682
+王羲之	wang xi zhi	2678
+王献之	wang xian zhi	2681
+望乡台	wang xiang tai	3570
+亡羊补牢	wang yang bu lao	7038
+望洋兴叹	wang yang xing tan	3565
+王亦大	wang yi da	2696
+望岳	wang yue	3569
+望月怀远	wang yue huai yuan	3567
+枉则直	wang ze zhi	3440
+望诊	wang zhen	3561
+王制	wang zhi	2695
+王之涣	wang zhi huan	2697
+往之女家	wang zhi nv jia	4480
+望之蔚然而深秀者	wang zhi wei ran er shen xiu zhe	3571
+妄自菲薄	wang zi fei bo	5206
+王子皇孙	wang zi huang sun	2691
+魏豹彭越列传	wei bao peng yue lie zhuan	173
+魏碑	wei bei	176
+韦编三绝	wei bian san jue	360
+魏策	wei ce	175
+为陈同甫赋壮词以寄之	wei chen tong fu fu zhuang ci yi ji zhi	7218
+为川者决之使导	wei chuan zhe jue zhi shi dao	7226
+为大于其细	wei da yu qi xi	7232
+为道日损	wei dao ri sun	7219
+惟道是从	wei dao shi cong	4293
+为而不恃	wei er bu shi	7221
+委而去之	wei er qu zhi	5194
+卫风	wei feng	6148
+魏风	wei feng	172
+为赋新词强说愁	wei fu xin ci qiang shuo chou	7220
+魏公子列传	wei gong zi lie zhuan	180
+唯孤寡不谷	wei gu gua bu gu	5792
+未果	wei guo	3525
+为国捐躯	wei guo juan qu	7233
+惟恍惟惚	wei huang wei hu	4296
+未几	wei ji	3528
+未济	wei ji	3524
+危急存亡之秋	wei ji cun wang zhi qiu	6143
+唯见长江天际流	wei jian chang jiang tian ji liu	5788
+魏绛	wei jiang	174
+卫将军骠骑列传	wei jiang jun piao qi lie zhuan	6152
+惟江上之清风	wei jiang shang zhi qing feng	4294
+魏晋玄学	wei jin xuan xue	177
+薇蕨	wei jue	1475
+卫康叔世家	wei kang shu shi jia	6149
+渭流涨腻	wei liu zhang ni	2955
+微妙玄通	wei miao xuan tong	4433
+为民者宣之使言	wei min zhe xuan zhi shi yan	7224
+唯命是听	wei ming shi ting	5793
+未能远谋	wei neng yuan mou	3522
+围棋	wei qi	5701
+魏其武安侯列传	wei qi wu an hou lie zhuan	179
+为秦宫人	wei qin gong ren	7223
+维清	wei qing	1988
+为人谋而不忠乎	wei ren mou er bu zhong hu	7235
+危室壁	wei shi bi	6144
+魏世家	wei shi jia	182
+唯施是畏	wei shi shi wei	5791
+唯识宗	wei shi zong	5787
+纬书	wei shu	2039
+魏书	wei shu	181
+微斯人	wei si ren	4429
+谓天无以清将恐裂	wei tian wu yi qing jiang kong lie	1165
+威天下不以兵革之利	wei tian xia bu yi bing ge zhi li	5188
+为天下谷	wei tian xia gu	7228
+为天下浑其心	wei tian xia hun qi xin	7230
+为天下式	wei tian xia shi	7231
+为天下溪	wei tian xia xi	7229
+维天之命	wei tian zhi ming	1989
+韦陀	wei tuo	359
+卫尉	wei wei	6151
+嵬嵬	wei wei	4770
+巍巍	wei wei	4764
+围魏救赵	wei wei jiu zhao	5700
+卫尉寺	wei wei si	6150
+威武不能屈	wei wu bu neng qu	5187
+惟吾德馨	wei wu de xin	4297
+为无为	wei wu wei	7225
+味无味	wei wu wei	5844
+为吾有身	wei wu you shen	7234
+为学日益	wei xue ri yi	7227
+魏延	wei yan	178
+未央	wei yang	3527
+渭阳	wei yang	2954
+未央宫	wei yang gong	3526
+韦应物	wei ying wu	361
+唯有道者	wei you dao zhe	5789
+微幽兰之芳蔼兮	wei you lan zhi fang ai xi	4430
+惟有泪千行	wei you lei qian hang	4295
+未云何龙	wei yun he long	3529
+唯昭质其犹未亏	wei zhao zhi qi you wei kui	5790
+为者败之	wei zhe bai zhi	7222
+谓之不道	wei zhi bu dao	1166
+未知牝牡之合而朘作	wei zhi pin mu zhi he er juan zuo	3523
+唯之与阿	wei zhi yu a	5794
+为之于未有	wei zhi yu wei you	7236
+韦庄	wei zhuang	362
+微子	wei zi	4432
+猥自枉屈	wei zi wang qu	2757
+微子之命	wei zi zhi ming	4431
+问霸	wen ba	565
+温病条辨	wen bing tiao bian	2956
+闻达于诸侯	wen da yu zhu hou	554
+文丁	wen ding	3973
+问鼎	wen ding	564
+问鼎中原	wen ding zhong yuan	563
+文公	wen gong	3970
+温故而知新	wen gu er zhi xin	2958
+温故知新	wen gu zhi xin	2959
+文官	wen guan	3966
+文侯之命	wen hou zhi ming	3971
+文华殿	wen hua dian	3969
+闻鸡起舞	wen ji qi wu	552
+文姜	wen jiang	3968
+问今是何世	wen jin shi he shi	569
+刎颈	wen jing	6380
+文静	wen jing	3954
+刎颈之交	wen jing zhi jiao	6379
+文景之治	wen jing zhi zhi	3963
+问君何能尔	wen jun he neng er	568
+纹枰	wen ping	2030
+温热论	wen re lun	2957
+问丧	wen sang	570
+吻兽	wen shou	5929
+文殊	wen shu	3962
+问所从来	wen suo cong lai	567
+温庭筠	wen ting yun	2960
+温婉	wen wan	2962
+温婉娴淑	wen wan xian shu	2961
+文王	wen wang	3960
+文王世子	wen wang shi zi	3959
+文王有声	wen wang you sheng	3958
+文献通考	wen xian tong kao	3961
+闻香杯	wen xiang bei	553
+文心雕龙	wen xin diao long	3964
+文选	wen xuan	3955
+文言	wen yan	3956
+纹银	wen yin	2029
+文与可画筼筜谷偃竹记	wen yu ke hua yun dang gu yan zhu ji	3972
+问诊	wen zhen	566
+闻诊	wen zhen	555
+文徵明	wen zheng ming	3965
+闻之	wen zhi	556
+文种	wen zhong	3957
+文字狱	wen zi yu	3967
+瓮城	weng cheng	2610
+龌龊	wo chuo	13
+沃丁	wo ding	3121
+我独泊兮其未兆	wo du bo xi qi wei zhao	4239
+我独昏昏	wo du hun hun	4240
+我独闷闷	wo du men men	4238
+我独异于人	wo du yi yu ren	4241
+我行其野	wo hang qi ye	4237
+我好静而民自正	wo hao jing er min zi zheng	4249
+沃甲	wo jia	3120
+我将	wo jiang	4248
+卧箜篌	wo kong hou	6154
+我无事而民自富	wo wu shi er min zi fu	4245
+我无为而民自化	wo wu wei er min zi hua	4246
+我无欲而民自朴	wo wu yu er min zi pu	4244
+卧薪尝胆	wo xin chang dan	6153
+我亦教之	wo yi jiao zhi	4250
+我有三宝	wo you san bao	4243
+我欲乘风归去	wo yu cheng feng gui qu	4242
+我愚人之心也哉	wo yu ren zhi xin ye zai	4247
+无案牍之劳形	wu an du zhi lao xing	3885
+五百四十部	wu bai si shi bu	7054
+无边落木萧萧下	wu bian luo mu xiao xiao xia	3875
+吾不敢为主而为客	wu bu gan wei zhu er wei ke	5928
+无不克则莫知其极	wu bu ke ze mo zhi qi ji	3910
+五步一楼	wu bu yi lou	7056
+吾不知其名	wu bu zhi qi ming	5927
+戊辰	wu chen	4259
+武成	wu cheng	3231
+吴承恩	wu cheng en	5938
+无处话凄凉	wu chu hua qi liang	3897
+务大	wu da	6282
+五代史伶官传序	wu dai shi ling guan zhuan xu	7074
+武当	wu dang	3232
+无德司彻	wu de si che	3891
+吾得执而杀之	wu de zhi er sha zhi	5917
+五帝	wu di	7062
+五帝本纪	wu di ben ji	7061
+舞殿冷袖	wu dian leng xiu	1742
+武丁	wu ding	3236
+五蠹	wu du	7049
+吾独穷困乎此时也	wu du qiong kun hu ci shi ye	5912
+五辅	wu fu	7045
+物各有主	wu ge you zhu	2792
+无功	wu gong	3900
+蜈蚣	wu gong	1410
+武关	wu guan	3234
+吴贵	wu gui	5932
+吴贵家的	wu gui jia de	5931
+忤合	wu he	4381
+吾何以知其然哉	wu he yi zhi qi ran zai	5924
+吾何以知天下然哉	wu he yi zhi tian xia ran zai	5923
+吾何以知众甫之状哉	wu he yi zhi zhong fu zhi zhuang zai	5925
+无何有之乡	wu he you zhi xiang	3901
+五湖	wu hu	7055
+呜呼	wu hu	5900
+无花果	wu hua guo	3879
+物华天宝	wu hua tian bao	2793
+无怀氏之民欤	wu huai shi zhi min yu	3890
+物或恶之	wu huo e zhi	2789
+无己	wu ji	3893
+吾见其不得已	wu jian qi bu de yi	5911
+吴趼人	wu jian ren	5930
+无将大车	wu jiang da che	3894
+吾将归乎东路	wu jiang gui hu dong lu	5919
+吾将上下而求索	wu jiang shang xia er qiu suo	5921
+吾将以为教父	wu jiang yi wei jiao fu	5920
+吾将镇之以无名之朴	wu jiang zhen zhi yi wu ming zhi pu	5918
+吴敬梓	wu jing zi	5937
+庑廊	wu lang	4648
+五礼	wu li	7053
+无良媒以接欢兮	wu liang mei yi jie huan xi	3880
+武陵人捕鱼为业	wu ling ren bu yu wei ye	3229
+五柳先生	wu liu xian sheng	7058
+五柳先生传	wu liu xian sheng zhuan	7057
+舞龙	wu long	1740
+无路请缨	wu lu qing ying	3876
+无论魏晋	wu lun wei jin	3877
+误落尘网中	wu luo chen wang zhong	1221
+五马分尸	wu ma fen shi	7041
+寤寐求之	wu mei qiu zhi	4974
+寤寐思服	wu mei si fu	4975
+午门	wu men	6205
+无名	wu ming	3898
+无乃是乎	wu nai shi hu	3905
+五禽戏	wu qin xi	7052
+乌鹊南飞	wu que nan fei	7197
+五仁	wu ren	7075
+吾日三省吾身	wu ri san xing wu shen	5915
+五色令人目盲	wu se ling ren mu mang	7051
+乌纱	wu sha	7198
+五射	wu she	7064
+屋舍俨然	wu she yan ran	4851
+戊申	wu shen	4260
+五声	wu sheng	7067
+舞狮	wu shi	1741
+五十而知天命	wu shi er zhi tian ming	7071
+无食我麦	wu shi wo mai	3870
+无食我苗	wu shi wo miao	3871
+无食我黍	wu shi wo shu	3869
+五十弦翻塞外声	wu shi xian fan sai wai sheng	7072
+吾是以知无为之有益	wu shi yi zhi wu wei zhi you yi	5914
+吾十有五而志于学	wu shi you wu er zhi yu xue	5922
+梧鼠五技	wu shu wu ji	3357
+吾谁与归	wu shui yu gui	5909
+无丝竹之乱耳	wu si zhu zhi luan er	3909
+无所陈之	wu suo chen zhi	3888
+无所乘之	wu suo cheng zhi	3889
+吾所以有大患者	wu suo yi you da huan zhe	5916
+五台	wu tai	7070
+吴太伯世家	wu tai bo shi jia	5939
+梧桐更兼细雨	wu tong geng jian xi yu	3359
+梧桐雨	wu tong yu	3358
+诬徒	wu tu	1223
+无妄	wu wang	3896
+吴王濞列传	wu wang bi lie zhuan	5934
+五味	wu wei	7069
+无为而无不为	wu wei er wu bu wei	3906
+无违夫子	wu wei fu zi	3874
+五味令人口爽	wu wei ling ren kou shuang	7068
+无微情以效爱兮	wu wei qing yi xiao ai xi	3892
+无为在歧路	wu wei zai qi lu	3907
+无为之益	wu wei zhi yi	3908
+吴文英	wu wen ying	5936
+戊午	wu wu	4264
+无物之象	wu wu zhi xiang	3884
+无狎其所居	wu xia qi suo ju	3883
+诬陷	wu xian	1222
+吴新登	wu xin deng	5935
+五行	wu xing	7048
+五刑章	wu xing zhang	7073
+五行志	wu xing zhi	7047
+物形之	wu xing zhi	2790
+戊戌	wu xu	4261
+五言	wu yan	7046
+无厌其所生	wu yan qi suo sheng	3899
+吾言甚易知	wu yan shen yi zhi	5910
+无羊	wu yang	3881
+无射	wu yi	3895
+无衣	wu yi	3878
+无逸	wu yi	3873
+武乙	wu yi	3235
+无以成江海	wu yi cheng jiang hai	3903
+吾以观复	wu yi guan fu	5926
+无遗身殃	wu yi shen yang	3872
+武夷岩茶	wu yi yan cha	3233
+无以至千里	wu yi zhi qian li	3902
+五音	wu yin	7043
+戊寅	wu yin	4262
+五音令人耳聋	wu yin ling ren er long	7042
+武英殿	wu ying dian	3230
+无用之用	wu yong zhi yong	3882
+吾有何患	wu you he huan	5913
+舞幽壑之潜蛟	wu you he zhi qian jiao	1743
+无有入无间	wu you ru wu jian	3886
+五御	wu yu	7060
+吴语	wu yu	5933
+伍员	wu yuan	6889
+五岳	wu yue	7063
+五月渡泸	wu yue du lu	7059
+五蕴皆空	wu yun jie kong	7050
+无执故无失	wu zhi gu wu shi	3887
+无之以为用	wu zhi yi wei yong	3904
+五铢	wu zhu	7044
+物壮则老	wu zhuang ze lao	2791
+戊子	wu zi	4263
+伍子胥列传	wu zi xu lie zhuan	6888
+五子之歌	wu zi zhi ge	7066
+五宗世家	wu zong shi jia	7065
+徙边	xi bian	4443
+西伯戡黎	xi bo kan li	1326
+夕餐	xi can	5520
+夕餐秋菊之落英	xi can qiu ju zhi luo ying	5519
+西厂	xi chang	1324
+鸂鶒	xi chi	139
+惜春	xi chun	4300
+系辞	xi ci	2075
+西方白虎	xi fang bai hu	1319
+西方极乐	xi fang ji le	1320
+僖公	xi gong	6685
+西瓜	xi gua	1312
+息妫	xi gui	4329
+羲和	xi he	1929
+西湖	xi hu	1314
+西湖龙井	xi hu long jing	1313
+西华门	xi hua men	1325
+西极	xi ji	1316
+夕露沾我衣	xi lu zhan wo yi	5522
+析木	xi mu	3438
+喜怒忧思悲恐惊	xi nu you si bei kong jing	5756
+西皮	xi pi	1311
+袭人	xi ren	1346
+昔日	xi ri	3799
+悉如外人	xi ru wai ren	4322
+隰桑	xi sang	460
+溪深而鱼肥	xi shen er yu fei	2929
+惜誓	xi shi	4299
+西施	xi shi	1318
+西蜀子云亭	xi shu zi yun ting	1310
+蟋蟀	xi shuai	1388
+夕死可矣	xi si ke yi	5525
+惜诵	xi song	4298
+夕飧	xi sun	5521
+喜托龙门	xi tuo long men	5755
+惜往日	xi wang ri	4301
+西望夏口	xi wang xia kou	1317
+纚纚	xi xi	2053
+西厢记	xi xiang ji	1323
+细辛	xi xin	2027
+洗心革面	xi xin ge mian	3067
+希言自然	xi yan zi ran	4711
+夕阳无限好	xi yang wu xian hao	5524
+夕阳西下	xi yang xi xia	5523
+蜥蜴	xi yi	1405
+徙倚彷徨	xi yi pang huang	4444
+悉以咨之	xi yi zi zhi	4323
+希有不伤其手矣	xi you bu shang qi shou yi	4712
+隰有苌楚	xi you chang chu	461
+西游记	xi you ji	1315
+喜雨亭记	xi yu ting ji	5754
+洗盏更酌	xi zhan geng zhuo	3066
+锡杖	xi zhang	615
+昔之得一者	xi zhi de yi zhe	3800
+西周	xi zhou	1322
+西周策	xi zhou ce	1321
+夏本纪	xia ben ji	5529
+下笔	xia bi	7457
+瑕不掩瑜	xia bu yan yu	2632
+夏朝	xia chao	5530
+夏虫不可以语于冰	xia chong bu ke yi yu yu bing	5527
+遐窜	xia cuan	843
+下德不失德	xia de bu shi de	7462
+下德无为而有以为	xia de wu wei er you yi wei	7461
+夏官司马	xia guan si ma	5531
+夏侯惇	xia hou dun	5536
+夏侯楙	xia hou mao	5535
+夏侯渊	xia hou yuan	5534
+下江陵	xia jiang ling	7459
+夏金桂	xia jin gui	5526
+夏历	xia li	5533
+下临无地	xia lin wu di	7467
+下品	xia pin	7465
+夏启	xia qi	5532
+下泉	xia quan	7458
+下士闻道大笑之	xia shi wen dao da xiao zhi	7464
+夏书	xia shu	5537
+下武	xia wu	7460
+罅隙	xia xi	1966
+下弦	xia xian	7463
+下贤	xia xian	7455
+下元	xia yuan	7466
+下者举之	xia zhe ju zhi	7456
+夏至	xia zhi	5528
+险隘	xian ai	481
+羡长江之无穷	xian chang jiang zhi wu qiong	1931
+县丞	xian cheng	6121
+咸池	xian chi	5825
+仙丹	xian dan	6964
+先帝创业未半	xian di chuang ye wei ban	6658
+贤妃	xian fei	1106
+纤歌凝而白云遏	xian ge ning er bai yun e	2046
+咸卦	xian gua	5828
+先汉	xian han	6657
+衔恨	xian hen	1370
+弦滑	xian hua	4539
+先己	xian ji	6659
+献江南之明珰	xian jiang nan zhi ming dang	2755
+娴静	xian jing	5180
+闲静少言	xian jing shao yan	561
+咸来问讯	xian lai wen xun	5826
+贤良淑德	xian liang shu de	1104
+县令	xian ling	6120
+陷马坑	xian ma keng	476
+嫌名	xian ming	5173
+先农坛	xian nong tan	6661
+衔屈	xian qu	1371
+先人后己	xian ren hou ji	6662
+仙人走兽	xian ren zou shou	6963
+仙山	xian shan	6962
+跣涉	xian she	1015
+先生不知何许人也	xian sheng bu zhi he xu ren ye	6656
+仙逝	xian shi	6961
+县试	xian shi	6118
+娴淑	xian shu	5181
+贤淑	xian shu	1105
+见素抱朴	xian su bao pu	1306
+先天地生	xian tian de sheng	6660
+县尉	xian wei	6119
+跣行	xian xing	1014
+显学	xian xue	3698
+咸阳	xian yang	5824
+咸有一德	xian you yi de	5827
+衔冤	xian yuan	1372
+衔远山	xian yuan shan	1369
+贤哉回也	xian zai hui ye	1107
+县长	xian zhang	6117
+先轸	xian zhen	6655
+跣足	xian zu	1013
+响板	xiang ban	5809
+巷伯	xiang bo	4728
+象传	xiang chuan	1136
+相恶	xiang e	2416
+响遏行云	xiang e xing yun	5807
+相反	xiang fan	2419
+湘夫人	xiang fu ren	2937
+襄公	xiang gong	1330
+香菇	xiang gu	246
+相顾无言	xiang gu wu yan	2412
+象笏	xiang hu	1134
+香火	xiang huo	247
+香几	xiang ji	249
+香蕉	xiang jiao	244
+湘剧	xiang ju	2939
+湘君	xiang jun	2938
+香菱	xiang ling	245
+享年	xiang nian	7025
+响穷彭蠡之滨	xiang qiong peng li zhi bin	5808
+相去几何	xiang qu ji he	2421
+相去若何	xiang qu ruo he	2420
+相杀	xiang sha	2415
+香山	xiang shan	248
+乡射礼	xiang she li	7136
+相声	xiang sheng	2418
+乡试	xiang shi	7135
+相使	xiang shi	2422
+向晚意不适	xiang wan yi bu shi	5980
+相畏	xiang wei	2414
+象形	xiang xing	1135
+向秀	xiang xiu	5979
+相须	xiang xu	2413
+乡饮酒礼	xiang yin jiu li	7133
+乡饮酒义	xiang yin jiu yi	7134
+项羽本纪	xiang yu ben ji	342
+相与枕藉乎舟中	xiang yu zhen jie hu zhou zhong	2423
+香远益清	xiang yuan yi qing	243
+湘云	xiang yun	2940
+相州昼锦堂记	xiang zhou zhou jin tang ji	2417
+小毖	xiao bi	4915
+小弁	xiao bian	4922
+晓畅军事	xiao chang jun shi	3682
+小肠三焦	xiao chang san jiao	4909
+小畜	xiao chu	4912
+小大之狱	xiao da zhi yu	4925
+萧关	xiao guan	1544
+小过	xiao guo	4906
+小国不过欲入事人	xiao guo bu guo yu ru shi ren	4928
+小国寡民	xiao guo gua min	4926
+小国以下大国	xiao guo yi xia da guo	4927
+小寒	xiao han	4923
+小甲	xiao jia	4913
+孝经	xiao jing	5139
+孝景本纪	xiao jing ben ji	5142
+小匡	xiao kuang	4931
+小吏	xiao li	4929
+小满	xiao man	4914
+小旻	xiao min	4920
+小明	xiao ming	4919
+萧墙	xiao qiang	1543
+小乔	xiao qiao	4938
+小乔初嫁了	xiao qiao chu jia le	4937
+小桥流水人家	xiao qiao liu shui ren jia	4916
+小取	xiao qu	4930
+小人长戚戚	xiao ren chang qi qi	4932
+小人求诸人	xiao ren qiu zhu ren	4933
+小人同而不和	xiao ren tong er bu he	4935
+小人喻于利	xiao ren yu yu li	4934
+小戎	xiao rong	4921
+小石城山记	xiao shi cheng shan ji	4911
+枭首	xiao shou	3423
+小暑	xiao shu	4917
+小宛	xiao wan	4924
+小问	xiao wen	4905
+孝文本纪	xiao wen ben ji	5143
+孝武本纪	xiao wu ben ji	5141
+萧相国世家	xiao xiang guo shi jia	1542
+潇湘雨	xiao xiang yu	2907
+小辛	xiao xin	4907
+小星	xiao xing	4918
+小轩窗	xiao xuan chuang	4908
+小雪	xiao xue	4903
+小雅	xiao ya	4904
+逍遥乎寝卧其下	xiao yao hu qin wo qi xia	869
+逍遥游	xiao yao you	868
+小乙	xiao yi	4936
+宵衣旰食	xiao yi gan shi	5008
+笑语盈盈暗香去	xiao yu ying ying an xiang qu	2146
+鸮炙	xiao zhi	120
+孝之始也	xiao zhi shi ye	5145
+孝治章	xiao zhi zhang	5140
+孝之终也	xiao zhi zhong ye	5144
+箫钟	xiao zhong	2104
+小篆	xiao zhuan	4910
+谢安	xie an	1160
+谢道韫	xie dao yun	1156
+挟飞仙以遨游	xie fei xian yi ao you	4123
+携汉滨之游女	xie han bin zhi you nv	4083
+谢灵运	xie ling yun	1158
+斜睨	xie ni	3944
+协洽	xie qia	6195
+谢世	xie shi	1161
+谢朓	xie tiao	1159
+谢玄	xie xuan	1157
+写意	xie yi	6469
+写意画	xie yi hua	6468
+斜月沉沉藏海雾	xie yue chen chen cang hai wu	3945
+獬豸	xie zhi	2749
+楔子	xie zi	3332
+信不足焉	xin bu zu yan	6741
+辛丑	xin chou	945
+心度	xin du	4415
+心肝脾肺肾	xin gan pi fei shen	4410
+辛亥	xin hai	944
+心灰意冷	xin hui yi leng	4411
+信可乐也	xin ke le ye	6739
+信陵君	xin ling jun	6735
+辛卯	xin mao	943
+信南山	xin nan shan	6740
+辛弃疾	xin qi ji	940
+欣然规往	xin ran gui wang	3288
+心如死灰	xin ru si hui	4417
+心善渊	xin shan yuan	4418
+心使气曰强	xin shi qi yue qiang	4419
+心术	xin shu	4412
+辛巳	xin si	941
+新台	xin tai	3930
+新唐书	xin tang shu	3929
+辛未	xin wei	939
+心尾箕	xin wei ji	4416
+新五代史	xin wu dai shi	3931
+信言不美	xin yan bu mei	6737
+信阳毛尖	xin yang mao jian	6736
+辛夷	xin yi	942
+辛酉	xin you	938
+心远地自偏	xin yuan di zi pian	4409
+心斋	xin zhai	4413
+信者吾信之	xin zhe wu xin zhi	6738
+心振荡而不怡	xin zhen dang er bu yi	4414
+杏鲍菇	xing bao gu	3473
+性本爱丘山	xing ben ai qiu shan	4349
+行笔	xing bi	1378
+刑部	xing bu	6374
+荇菜	xing cai	1613
+省察	xing cha	2411
+幸承恩于伟饯	xing cheng en yu wei jian	4674
+猩唇	xing chun	2756
+星次	xing ci	3792
+兴德之言	xing de zhi yan	6559
+刑典	xing dian	6378
+娙娥	xing e	5182
+性恶	xing e	4350
+行而不远	xing er bu yuan	1376
+刑法志	xing fa zhi	6377
+星分翼轸	xing fen yi zhen	3798
+兴复汉室	xing fu han shi	6562
+行拂乱其所为	xing fu luan qi suo wei	1379
+邢夫人	xing fu ren	809
+星官	xing guan	3795
+星纪	xing ji	3791
+兴尽悲来	xing jin bei lai	6561
+行军	xing jun	1381
+杏林	xing lin	3475
+杏林春满	xing lin chun man	3474
+兴隆	xing long	6558
+行露	xing lu	1373
+醒能述以文者	xing neng shu yi wen zhe	748
+兴庆宫	xing qing gong	6560
+杏仁	xing ren	3476
+形容枯槁	xing rong ku gao	4498
+形容憔悴	xing rong qiao cui	4499
+形如槁木	xing ru gao mu	4500
+星如雨	xing ru yu	3796
+刑赏	xing shang	6375
+形声	xing sheng	4501
+形势	xing shi	4503
+省视	xing shi	2408
+醒世恒言	xing shi heng yan	750
+形势解	xing shi jie	4502
+性嗜酒	xing shi jiu	4351
+醒世姻缘传	xing shi yin yuan zhuan	751
+行书	xing shu	1384
+省思	xing si	2410
+行天下之大道	xing tian xia zhi da dao	1380
+行苇	xing wei	1375
+省悟	xing wu	2409
+醒悟	xing wu	749
+星象	xing xiang	3790
+形销骨立	xing xiao gu li	4497
+性行淑均	xing xing shu jun	4348
+星宿	xing xiu	3794
+邢岫烟	xing xiu yan	808
+荥阳	xing yang	1599
+行于大道	xing yu da dao	1383
+刑约	xing yue	6376
+行云流水	xing yun liu shui	1382
+星占	xing zhan	3797
+行者休于树	xing zhe xiu yu shu	1377
+星座	xing zuo	3793
+匈奴列传	xiong nu lie zhuan	6262
+凶事尚右	xiong shi shang you	6409
+熊掌	xiong zhang	2832
+雄雉	xiong zhi	443
+雄州雾列	xiong zhou wu lie	444
+雄姿英发	xiong zi ying fa	445
+秀才	xiu cai	2256
+修短合度	xiu duan he du	6723
+绣墩	xiu dun	1995
+岫壑	xiu he	4793
+鸺鹠	xiu liu	113
+修眉联娟	xiu mei lian juan	6724
+修权	xiu quan	6725
+修蛇	xiu she	6722
+修身	xiu shen	6721
+秀外慧中	xiu wai hui zhong	2257
+修之于邦	xiu zhi yu bang	6727
+修之于家	xiu zhi yu jia	6729
+修之于身	xiu zhi yu shen	6728
+修之于天下	xiu zhi yu tian xia	6730
+修之于乡	xiu zhi yu xiang	6731
+修撰	xiu zhuan	6726
+许褚	xu chu	1245
+序卦	xu gua	4652
+需卦	xu gua	421
+徐晃	xu huang	4464
+徐锴	xu kai	4461
+胥吏	xu li	1823
+续离骚	xu li sao	1994
+徐孺下陈蕃之榻	xu ru xia chen fan zhi ta	4467
+许慎	xu shen	1246
+徐盛	xu sheng	4463
+虚实	xu shi	1447
+虚室有余闲	xu shi you yu xian	1446
+序属三秋	xu shu san qiu	4651
+续通典	xu tong dian	1993
+徐无鬼	xu wu gui	4465
+徐铉	xu xuan	4462
+须臾	xu yu	338
+徐州	xu zhou	4466
+悬车	xuan che	4311
+玄德深矣远矣	xuan de shen yi yuan yi	2745
+宣抚使	xuan fu shi	5014
+宣公	xuan gong	5017
+悬壶	xuan hu	4314
+悬壶济世	xuan hu ji shi	4313
+璇玑	xuan ji	2618
+璇玑玉衡	xuan ji yu heng	2617
+宣姜	xuan jiang	5015
+悬梁刺股	xuan liang ci gu	4312
+玄冥	xuan ming	2747
+玄鸟	xuan niao	2739
+玄牝之门	xuan pin zhi men	2742
+玄圃	xuan pu	2746
+渲染	xuan ran	2953
+选侍	xuan shi	870
+玄谈	xuan tan	2740
+玄菟	xuan tu	2741
+玄武	xuan wu	2743
+玄枵	xuan xiao	2744
+宣夜	xuan ye	5016
+玄黓	xuan yi	2738
+轩辕	xuan yuan	971
+玄之又玄	xuan zhi you xuan	2748
+薛宝琴	xue bao qin	1474
+学不学	xue bu xue	5113
+血滴子	xue di zi	1385
+学而不思则罔	xue er bu si ze wang	5107
+学而不厌	xue er bu yan	5108
+学而时习之	xue er shi xi zhi	5106
+学记	xue ji	5105
+薛稷	xue ji	1473
+学鸠	xue jiu	5104
+薛蝌	xue ke	1472
+学录	xue lu	5111
+薛蟠	xue pan	1471
+学然后知不足	xue ran hou zhi bu zu	5109
+学士	xue shi	5112
+薛谭学讴	xue tan xue ou	1470
+穴位	xue wei	2200
+雪雁	xue yan	425
+学正	xue zheng	5110
+削职	xue zhi	6320
+寻病终	xun bing zhong	4964
+训导	xun dao	1255
+巡抚	xun fu	4756
+训诰	xun gao	1254
+巽卦	xun gua	4727
+循吏列传	xun li lie zhuan	4435
+寻向所志	xun xiang suo zhi	4966
+寻寻觅觅	xun xun mi mi	4965
+循循善诱	xun xun shan you	4434
+荀攸	xun you	1620
+旬有五日	xun you wu ri	3839
+荀彧	xun yu	1621
+荀子	xun zi	1622
+牙板	ya ban	2804
+猰貐	ya yu	2754
+睚眦	ya zi	2404
+俨骖騑于上路	yan can fei yu shang lu	6733
+燕策	yan ce	2822
+燕处超然	yan chu chao ran	2826
+雁荡毛峰	yan dang mao feng	449
+炎帝	yan di	2871
+阏逢	yan feng	540
+烟光凝而暮山紫	yan guang ning er mu shan zi	2855
+言归东藩	yan gui dong fan	1270
+言归于好	yan gui yu hao	1269
+雁过也	yan guo ye	448
+宴酣之乐	yan han zhi le	5009
+岩壑	yan he	4795
+烟花三月下扬州	yan hua san yue xia yang zhou	2853
+炎黄子孙	yan huang zi sun	2870
+晏几道	yan ji dao	3689
+晏驾	yan jia	3683
+颜筋柳骨	yan jin liu gu	311
+延颈秀项	yan jing xiu xiang	4605
+燕礼	yan li	2824
+鄢陵之战	yan ling zhi zhan	772
+阎罗	yan luo	541
+阉茂	yan mao	545
+雁门关	yan men guan	447
+燕雀安知鸿鹄之志	yan que an zhi hong hu zhi zhi	2820
+阎柔	yan rou	543
+晏如也	yan ru ye	3688
+言善信	yan shan xin	1271
+偃师	yan shi	6703
+颜师古	yan shi gu	313
+晏殊	yan shu	3684
+偃鼠饮河	yan shu yin he	6702
+颜体	yan ti	314
+蝘蜓	yan ting	1400
+阎王	yan wang	542
+燕窝	yan wo	2823
+俨兮其若客	yan xi qi ruo ke	6734
+烟斜雾横	yan xie wu heng	2854
+岩岫	yan xiu	4794
+檐牙高啄	yan ya gao zhuo	3289
+严颜	yan yan	7287
+燕燕	yan yan	2825
+滟滟随波千万里	yan yan sui bo qian wan li	2915
+燕义	yan yi	2828
+言以丧礼处之	yan yi sang li chu zhi	1272
+厌饮食	yan yin shi	6133
+晏婴	yan ying	3687
+言有宗	yan you zong	1267
+言昭	yan zhao	1268
+燕召公世家	yan zhao gong shi jia	2827
+燕赵之收藏	yan zhao zhi shou cang	2821
+言者不知	yan zhe bu zhi	1266
+雁阵惊寒	yan zhen jing han	446
+颜真卿	yan zhen qing	312
+言之无文	yan zhi wu wen	1273
+埏埴以为器	yan zhi yi wei qi	5607
+兖州	yan zhou	6640
+延伫乎吾将反	yan zhu hu wu jiang fan	4606
+崦嵫	yan zi	4777
+晏子	yan zi	3686
+晏子春秋	yan zi chun qiu	3685
+雁字回时	yan zi hui shi	450
+崦嵫山	yan zi shan	4776
+餍足	yan zu	280
+秧歌	yang ge	2221
+羊羹	yang geng	1946
+旸谷	yang gu	3828
+阳关	yang guan	528
+仰观宇宙之大	yang guan yu zhou zhi da	6907
+阳甲	yang jia	526
+杨家将	yang jia jiang	3459
+杨炯	yang jiong	3455
+阳律	yang lv	527
+羊马墙	yang ma qiang	1945
+杨梅	yang mei	3456
+扬名于后世	yang ming yu hou shi	4186
+扬轻袿之猗靡兮	yang qing gui zhi yi mi xi	4183
+养生主	yang sheng zhu	6485
+阳羡雪芽	yang xian xue ya	525
+养心殿	yang xin dian	6486
+杨意不逢	yang yi bu feng	3458
+仰以殊观	yang yi shu guan	6908
+养之覆之	yang zhi fu zhi	6487
+扬之水	yang zhi shui	4187
+扬州	yang zhou	4184
+杨朱	yang zhu	3457
+扬子鳄	yang zi e	4185
+杳不知其所之也	yao bu zhi qi suo zhi ye	3452
+瑶池	yao chi	2623
+爻辞	yao ci	2808
+药到病除	yao dao bing chu	1595
+尧典	yao dian	4873
+腰鼓	yao gu	1797
+药官	yao guan	1594
+摇光	yao guang	4080
+肴核既尽	yao he ji jin	1837
+瑶阶	yao jie	2620
+遥襟甫畅	yao jin fu chang	814
+瑶簴	yao ju	2621
+遥看瀑布挂前川	yao kan pu bu gua qian chuan	816
+瑶圃	yao pu	2626
+瑶琼	yao qiong	2622
+腰如约素	yao ru yue su	1799
+药师佛	yao shi fo	1593
+尧舜	yao shun	4872
+尧舜禅让	yao shun shan rang	4871
+瑶台	yao tai	2627
+窈窕	yao tiao	2190
+窈窕淑女	yao tiao shu nv	2189
+摇尾乞怜	yao wei qi lian	4079
+瑶席	yao xi	2625
+窈兮冥兮	yao xi ming xi	2191
+遥想公瑾当年	yao xiang gong jin dang nian	817
+药引	yao yin	1592
+腰斩	yao zhan	1798
+遥知兄弟登高处	yao zhi xiong di deng gao chu	815
+瑶柱	yao zhu	2624
+谣诼	yao zhuo	1155
+谣诼谓余以善淫	yao zhuo wei yu yi shan yin	1154
+夜半钟声到客船	ye ban zhong sheng dao ke chuan	5491
+业报	ye bao	7319
+野芳发而幽香	ye fang fa er you xiang	697
+靥辅承权	ye fu cheng quan	372
+夜耿耿而不寐	ye geng geng er bu mei	5488
+野火烧不尽	ye huo shao bu jin	699
+夜来风雨声	ye lai feng yu sheng	5489
+夜来幽梦忽还乡	ye lai you meng hu huan xiang	5490
+夜郎	ye lang	5487
+野老	ye lao	698
+揲蓍	ye shi	4088
+邺水朱华	ye shui zhu hua	802
+野蔌	ye su	696
+曳雾绡之轻裾	ye wu xiao zhi qing ju	3653
+野有蔓草	ye you man cao	700
+野有死麕	ye you si qun	701
+业障	ye zhang	7318
+椰子	ye zi	3333
+易安	yi an	3803
+以遨以嬉	yi ao yi xi	6918
+以百姓心为心	yi bai xing xin wei xin	6925
+以邦观邦	yi bang guan bang	6917
+异宝	yi bao	4584
+以悲哀泣之	yi bei ai qi zhi	6934
+蚁鼻钱	yi bi qian	1428
+一碧万顷	yi bi wan qing	7588
+遗陛下	yi bi xia	818
+议兵	yi bing	1253
+亦不甚惜	yi bu shen xi	7032
+亦不详其姓字	yi bu xiang qi xing zi	7031
+翌晨	yi chen	1915
+一尘不染	yi chen bu ran	7600
+乙丑	yi chou	7175
+以此	yi ci	6928
+以慈卫之	yi ci wei zhi	6933
+以此自终	yi ci zi zhong	6927
+一旦不能有	yi dan bu neng you	7594
+一箪食	yi dan shi	7584
+一箪一瓢	yi dan yi piao	7585
+仪刀	yi dao	6912
+以道莅天下	yi dao li tian xia	6919
+夷道若颣	yi dao ruo lei	5253
+以道佐人主者	yi dao zuo ren zhu zhe	6920
+倚叠如山	yi die ru shan	6710
+彝鼎	yi ding	4504
+已而夕阳在山	yi er xi yang zai shan	4730
+一飞冲天	yi fei chong tian	7576
+易服色	yi fu se	3802
+以辅万物之自然	yi fu wan wu zhi zi ran	6921
+刈割	yi ge	6383
+倚歌而和之	yi ge er he zhi	6709
+一宫之间	yi gong zhi jian	7602
+一鼓作气	yi gu zuo qi	7574
+益卦	yi gua	2456
+颐卦	yi gua	324
+乙亥	yi hai	7174
+遗憾	yi han	819
+一行白鹭上青天	yi hang bai lu shang qing tian	7582
+溢号	yi hao	2930
+遗恨	yi hen	821
+宜乎众矣	yi hu zhong yi	5042
+刈获	yi huo	6382
+弋获	yi huo	4573
+益稷	yi ji	2452
+一肌一容	yi ji yi rong	7583
+以家观家	yi jia guan jia	6936
+一剪梅	yi jian mei	7605
+以降甘露	yi jiang gan lu	6915
+猗嗟	yi jie	2759
+一介书生	yi jie shu sheng	7606
+易筋经	yi jin jing	3801
+仪静体闲	yi jing ti xian	6909
+以静为下	yi jing wei xia	6914
+意恐迟迟归	yi kong chi chi gui	4289
+一览众山小	yi lan zhong shan xiao	7581
+以乐其志	yi le qi zhi	6954
+仪礼	yi li	6910
+疑邻盗斧	yi lin dao fu	2536
+瘗埋	yi mai	2531
+乙卯	yi mao	7173
+乙卯正月二十日夜记梦	yi mao zheng yue er shi ri ye ji meng	7172
+一鸣惊人	yi ming jing ren	7575
+益母草	yi mu cao	2454
+一怒而诸侯惧	yi nu er zhu hou ju	7597
+一诺千金	yi nuo qian jin	7578
+一片孤城万仞山	yi pian gu cheng wan ren shan	7591
+一瓢饮	yi piao yin	7590
+弈棋	yi qi	4576
+以其病病	yi qi bing bing	6943
+以其不争	yi qi bu zheng	6949
+宜其家人	yi qi jia ren	5039
+宜其家室	yi qi jia shi	5038
+以其善下之	yi qi shan xia zhi	6948
+以其上求生之厚	yi qi shang qiu sheng zhi hou	6951
+以其上食税之多	yi qi shang shi shui zhi duo	6950
+以其上之有为	yi qi shang zhi you wei	6952
+以奇胜	yi qi sheng	6938
+以其生生之厚	yi qi sheng sheng zhi hou	6944
+宜其室家	yi qi shi jia	5040
+以其无死地	yi qi wu si di	6946
+以其无以易之	yi qi wu yi yi zhi	6947
+以奇用兵	yi qi yong bing	6939
+以其智多	yi qi zhi duo	6945
+以其终不自为大	yi qi zhong bu zi wei da	6942
+遗情想像	yi qing xiang xiang	820
+一去三十年	yi qu san shi nian	7604
+驿券	yi quan	220
+移任	yi ren	2214
+一人之心	yi ren zhi xin	7607
+翌日	yi ri	1916
+翼日	yi ri	1908
+一日为师	yi ri wei shi	7596
+一日之内	yi ri zhi nei	7595
+一觞一咏	yi shang yi yong	7580
+弋射	yi she	4574
+以身殉国	yi shen xun guo	6922
+一身正气	yi shen zheng qi	7577
+一生二	yi sheng er	7589
+益生曰祥	yi sheng yue xiang	2453
+移时	yi shi	2213
+疑是地上霜	yi shi di shang shuang	2538
+一时多少豪杰	yi shi duo shao hao jie	7593
+亦使后人而复哀后人也	yi shi hou ren er fu ai hou ren ye	7029
+疑是银河落九天	yi shi yin he luo jiu tian	2537
+亦十有三	yi shi you san	7028
+以守则固	yi shou ze gu	6937
+艺术传	yi shu chuan	1730
+以顺为正者	yi shun wei zheng zhe	6913
+乙巳	yi si	7171
+一岁一枯荣	yi sui yi ku rong	7599
+诣太守	yi tai shou	1224
+仪态万方	yi tai wan fang	6911
+饴糖	yi tang	258
+以天下观天下	yi tian xia guan tian xia	6940
+以天下之所顺	yi tian xia zhi suo shun	6941
+一往无前	yi wang wu qian	7598
+乙未	yi wei	7170
+以为己力	yi wei ji li	6955
+以为天下母	yi wei tian xia mu	6956
+义无反顾	yi wu fan gu	7201
+以无事取天下	yi wu shi qu tian xia	6932
+噫嘻	yi xi	5744
+以显父母	yi xian fu mu	6931
+以乡观乡	yi xiang guan xiang	6953
+贻笑大方	yi xiao da fang	1079
+一笑倾城	yi xiao qing cheng	7586
+医心方	yi xin fang	6243
+劓刑	yi xing	6296
+逸兴遄飞	yi xing chuan fei	851
+宜兴壶	yi xing hu	5041
+翳修袖以延伫	yi xiu xiu yi yan zhu	1910
+伊训	yi xun	6890
+壹言	yi yan	5560
+一言均赋	yi yan jun fu	7579
+矣焉哉	yi yan zai	2384
+弋阳腔	yi yang qiang	4572
+颐养天年	yi yang tian nian	325
+衣养万物而不为主	yi yang wan wu er bu wei zhu	1364
+一夜鱼龙舞	yi ye yu long wu	7603
+依依墟里烟	yi yi xu li yan	6766
+异用	yi yong	4583
+乙酉	yi you	7169
+以游无穷	yi you wu qiong	6926
+瘗玉	yi yu	2530
+以御今之有	yi yu jin zhi you	6935
+亦余心之所善兮	yi yu xin zhi suo shan xi	7030
+一曰慈	yi yue ci	7592
+以阅众甫	yi yue zhong fu	6916
+夷则	yi ze	5254
+衣沾不足惜	yi zhan bu zu xi	1363
+医者仁心	yi zhe ren xin	6242
+弈者胜	yi zhe sheng	4575
+翼轸	yi zhen	1907
+以正合	yi zheng he	6930
+以正治国	yi zheng zhi guo	6929
+以知其子	yi zhi qi zi	6924
+以至于无为	yi zhi yu wu wei	6923
+一种相思	yi zhong xiang si	7587
+益州疲弊	yi zhou pi bi	2455
+亦足以畅叙幽情	yi zu yi chang xu you qing	7027
+一尊还酹江月	yi zun hai lei jiang yue	7601
+殷本纪	yin ben ji	3214
+因材施教	yin cai shi jiao	5709
+阴曹地府	yin cao di fu	523
+音初	yin chu	346
+银锭	yin ding	619
+银耳	yin er	620
+阴风怒号	yin feng nu hao	521
+引弓	yin gong	4564
+隐公	yin gong	467
+因果	yin guo	5708
+饮恨	yin hen	261
+殷历	yin li	3215
+银两	yin liang	622
+银鳞	yin lin	618
+阴吕	yin lv	524
+吟猱	yin nao	5951
+殷其雷	yin qi lei	3216
+饮少辄醉	yin shao zhe zui	262
+荫生	yin sheng	1596
+印绶	yin shou	6145
+殷武	yin wu	3213
+印玺	yin xi	6147
+阴阳	yin yang	522
+隐逸传	yin yi chuan	466
+隐逸诗	yin yi shi	465
+因以为号焉	yin yi wei hao yan	5710
+引喻失义	yin yu shi yi	4566
+因缘	yin yuan	5707
+银元	yin yuan	621
+氤氲	yin yun	3180
+印章	yin zhang	6146
+胤征	yin zheng	1824
+引锥刺股	yin zhui ci gu	4563
+引子	yin zi	4565
+影壁	ying bi	4486
+迎春	ying chun	911
+赢得生前身后名	ying de sheng qian shen hou ming	1054
+应帝王	ying di wang	4646
+莺儿	ying er	1571
+应鼓	ying gu	4643
+荧惑	ying huo	1598
+应律	ying lv	4645
+樱桃	ying tao	3302
+盈虚者如彼	ying xu zhe ru bi	2457
+映雪读书	ying xue du shu	3789
+营造尺	ying zao chi	1545
+迎之不见其首	ying zhi bu jian qi shou	912
+应钟	ying zhong	4644
+营中之事	ying zhong zhi shi	1547
+瀛洲	ying zhou	2897
+营州	ying zhou	1546
+壅蔽	yong bi	5582
+用兵有言	yong bing you yan	2581
+用兵则贵右	yong bing ze gui you	2582
+永昌	yong chang	3163
+咏鹅	yong e	5833
+鄘风	yong feng	773
+雍己	yong ji	436
+用间	yong jian	2579
+用其光	yong qi guang	2580
+咏牵牛之独处	yong qian niu zhi du chu	5834
+饔人	yong ren	277
+雍容华贵	yong rong hua gui	438
+壅塞	yong se	5583
+饔飧	yong sun	276
+饔飧不继	yong sun bu ji	275
+勇往直前	yong wang zhi qian	6268
+饔饩	yong xi	274
+勇于不敢则活	yong yu bu gan ze huo	6270
+勇于敢则杀	yong yu gan ze sha	6269
+用之不竭	yong zhi bu jie	2586
+用之不勤	yong zhi bu qin	2587
+用之不足既	yong zhi bu zu ji	2585
+用之如泥沙	yong zhi ru ni sha	2584
+用众	yong zhong	2583
+雍州	yong zhou	437
+永州八记	yong zhou ba ji	3164
+右白虎	you bai hu	6038
+游褒禅山记	you bao chan shan ji	2946
+右北平	you bei ping	6039
+有备无患	you bei wu huan	3605
+有駜	you bi	3582
+有不见者	you bu jian zhe	3614
+有不信焉	you bu xin yan	3615
+忧谗畏讥	you chan wei ji	4380
+有巢	you chao	3599
+有车之用	you che zhi yong	3583
+犹川谷之于江海	you chuan gu zhi yu jiang hai	2783
+有大伪	you da wei	3604
+有德司契	you de si qi	3597
+幽都	you du	4667
+有度	you du	3598
+有杕之杜	you duo zhi du	3592
+尤二姐	you er jie	4875
+有蕡其实	you fen qi shi	3584
+优贡	you gong	6870
+有瞽	you gu	3588
+幼官	you guan	4673
+幼官图	you guan tu	4672
+有国之母可以长久	you guo zhi mu ke yi chang jiu	3606
+有狐	you hu	3590
+有怀投笔	you huai tou bi	3595
+有教无类	you jiao wu lei	3594
+有客	you ke	3601
+又恐琼楼玉宇	you kong qiong lou yu yu	6110
+游廊	you lang	2947
+有良田美池桑竹之属	you liang tian mei chi sang zhu zhi shu	3585
+优劣得所	you lie de suo	6872
+有龙则灵	you long ze ling	3581
+幽昧	you mei	4668
+有美堂记	you mei tang ji	3586
+幽冥	you ming	4671
+有女同车	you nv tong che	3603
+有朋自远方来	you peng zi yuan fang lai	3593
+有器之用	you qi zhi yong	3607
+右迁	you qian	6036
+悠然见南山	you ran jian nan shan	4315
+游人去而禽鸟乐也	you ren qu er qin niao le ye	2952
+有仁义	you ren yi	3612
+游刃有余	you ren you yu	2950
+尤三姐	you san jie	4876
+优生	you sheng	6871
+有生于无	you sheng yu wu	3589
+尤氏	you shi	4874
+有室之用	you shi zhi yong	3600
+游说	you shui	2945
+游说之士	you shui zhi shi	2944
+有司	you si	3609
+有司彻	you si che	3608
+又送王孙去	you song wang sun qu	6109
+油条	you tiao	3101
+有亭翼然临于泉上者	you ting yi ran lin yu quan shang zhe	3613
+有物混成	you wu hun cheng	3591
+悠兮其贵言	you xi qi gui yan	4317
+犹兮若畏四邻	you xi ruo wei si lin	2784
+游侠列传	you xia lie zhuan	2951
+幽娴	you xian	4670
+有仙则名	you xian ze ming	3611
+有孝慈	you xiao ci	3602
+蚰蜒	you yan	1423
+右荫桂旗	you yin gui qi	6037
+犹有所待	you you suo dai	2782
+鱿鱼	you yu	161
+有余者损之	you yu zhe sun zhi	3610
+悠哉悠哉	you zai you zai	4316
+攸之祎允	you zhi yi yun	4059
+有忠臣	you zhong chen	3596
+幽州	you zhou	4669
+游子身上衣	you zi shen shang yi	2948
+游子吟	you zi yin	2949
+有罪以免邪	you zui yi mian xie	3587
+鹬蚌相争	yu bang xiang zheng	90
+玉陛	yu bi	2700
+欲辨已忘言	yu bian yi wang yan	3279
+鱼不可脱于渊	yu bu ke tuo yu yuan	170
+余不忍为此态也	yu bu ren wei ci tai ye	6815
+瑜不掩瑕	yu bu yan xia	2631
+玉不琢	yu bu zhuo	2736
+予尝求古仁人之心	yu chang qiu gu ren ren zhi xin	7120
+余朝京师	yu chao jing shi	6809
+玉墀	yu chi	2729
+鱼翅	yu chi	166
+玉除	yu chu	2699
+玉钏	yu chuan	2703
+谀辞	yu ci	1191
+余从京域	yu cong jing yu	6813
+玉带	yu dai	2725
+鱼袋	yu dai	163
+玉簟	yu dian	2710
+渔钓	yu diao	2965
+玉斗	yu dou	2724
+鱼肚	yu du	165
+予独爱莲之出淤泥而不染	yu du ai lian zhi chu yu ni er bu ran	7119
+余独好修以为常	yu du hao xiu yi wei chang	6808
+御风而行	yu feng er xing	4436
+渔父	yu fu	2969
+鱼符	yu fu	168
+舆服志	yu fu zhi	1755
+饫甘餍肥	yu gan yan fei	266
+余告之曰	yu gao zhi yue	6812
+渔歌互答	yu ge hu da	2970
+鱼羹	yu geng	167
+禹贡	yu gong	2261
+愚公移山	yu gong yi shan	4287
+渔鼓	yu gu	2963
+豫卦	yu gua	1131
+玉官	yu guan	2726
+予观夫巴陵胜状	yu guan fu ba ling sheng zhuang	7118
+玉衡	yu heng	2708
+玉壶	yu hu	2728
+郁乎苍苍	yu hu cang cang	800
+玉壶光转	yu hu guang zhuan	2727
+羽化登仙	yu hua deng xian	1920
+羽化而登仙	yu hua er deng xian	1919
+雨花阁	yu hua ge	427
+玉皇大帝	yu huang da di	2717
+雩祭	yu ji	426
+玉斝	yu jia	2723
+欲加之罪	yu jia zhi zui	3283
+玉阶	yu jie	2701
+于禁	yu jin	7085
+瑜瑾	yu jin	2630
+豫剧	yu ju	1132
+玉爵	yu jue	2720
+与君离别意	yu jun li bie yi	7340
+逾刻	yu ke	849
+玉兰	yu lan	2733
+盂兰盆	yu lan pen	2458
+喻老	yu lao	5751
+玉醴	yu li	2704
+鱼丽	yu li	169
+庾亮	yu liang	4614
+御六气之辩	yu liu qi zhi bian	4442
+榆柳荫后檐	yu liu yin hou yan	3318
+鱼龙潜跃水成文	yu long qian yue shui cheng wen	162
+玉漏	yu lou	2721
+伛偻提携	yu lv ti xie	6863
+誉满杏林	yu man xing lin	1265
+玉貌花容	yu mao hua rong	2706
+玉门关	yu men guan	2702
+域民不以封疆之界	yu min bu yi feng jiang zhi jie	5605
+与民由之	yu min you zhi	7336
+玉佩	yu pei	2735
+玉醅	yu pei	2705
+玉佩叮当	yu pei ding dang	2734
+与朋友交而不信乎	yu peng you jiao er bu xin hu	7337
+玉篇	yu pian	2711
+棫朴	yu pu	3345
+御妻	yu qi	4439
+玉砌	yu qi	2714
+渔樵	yu qiao	2971
+余情悦其淑美兮	yu qing yue qi shu mei xi	6810
+御轻舟而上溯	yu qing zhou er shang su	4437
+欲穷其林	yu qiong qi lin	3282
+欲穷千里目	yu qiong qian li mu	3281
+余人各复延至其家	yu ren ge fu yan zhi qi jia	6814
+渔人甚异之	yu ren shen yi zhi	2972
+羽扇纶巾	yu shan guan jin	1918
+与山间之明月	yu shan jian zhi ming yue	7338
+与善仁	yu shan ren	7339
+玉觞	yu shang	2707
+御史	yu shi	4441
+玉食	yu shi	2698
+逾时	yu shi	848
+雨师	yu shi	430
+于是背下陵高	yu shi bei xia ling gao	7088
+御史大夫	yu shi da fu	4440
+于是忽焉纵体	yu shi hu yan zong ti	7091
+于是精移神骇	yu shi jing yi shen hai	7089
+玉石俱焚	yu shi ju fen	2716
+于是洛灵感焉	yu shi luo ling gan yan	7090
+喻世明言	yu shi ming yan	5752
+虞世南	yu shi nan	1445
+于是屏翳收风	yu shi ping yi shou feng	7092
+玉石同焚	yu shi tong fen	2715
+于是饮酒乐甚	yu shi yin jiu le shen	7086
+于是越北沚	yu shi yue bei zhi	7087
+虞书	yu shu	1444
+雨水	yu shui	428
+欲说还休	yu shuo huan xiu	3280
+纡素领	yu su ling	2052
+玉碎	yu sui	2713
+玉台新咏	yu tai xin yong	2731
+予谓菊	yu wei ju	7117
+宇文新州之懿范	yu wen xin zhou zhi yi fan	5088
+饫闻厌见	yu wen yan jian	264
+渔翁	yu weng	2968
+渔翁得利	yu weng de li	2967
+饫沃	yu wo	267
+于我如浮云	yu wo ru fu yun	7093
+与物反矣	yu wu fan yi	7335
+雨无正	yu wu zheng	429
+玉玺	yu xi	2719
+豫兮若冬涉川	yu xi ruo dong she chuan	1133
+欲先民	yu xian min	3284
+寓言	yu yan	4979
+于岩之畔	yu yan zhi pan	7094
+渔阳	yu yang	2964
+余姚腔	yu yao qiang	6811
+玉液	yu ye	2722
+嵎夷	yu yi	4773
+愚以为	yu yi wei	4288
+余音袅袅	yu yin niao niao	6806
+欲饮琵琶马上催	yu yin pi pa ma shang cui	3278
+余音绕梁	yu yin rao liang	6807
+郁郁青青	yu yu qing qing	799
+羽渊	yu yuan	1917
+玉在山而草木润	yu zai shan er cao mu run	2730
+玉藻	yu zao	2709
+鱼藻	yu zao	164
+豫章故郡	yu zhang gu jun	1129
+御者对曰	yu zhe dui yue	4438
+玉瑱	yu zhen	2718
+玉卮	yu zhi	2732
+与之俱黑	yu zhi ju hei	7341
+域中有四大	yu zhong you si da	5606
+豫州	yu zhou	1130
+渔舟唱晚	yu zhou chang wan	2966
+玉箸	yu zhu	2712
+饫足	yu zu	265
+袁盎晁错列传	yuan ang chao cuo lie zhuan	1356
+原谤	yuan bang	6130
+元宝	yuan bao	6670
+院本	yuan ben	486
+愿诚素之先达兮	yuan cheng su zhi xian da xi	4279
+鹓鶵	yuan chu	98
+元春	yuan chun	6667
+远窜	yuan cuan	891
+爰得我所	yuan de wo suo	2816
+爰得我直	yuan de wo zhi	2815
+远而望之	yuan er wang zhi	890
+缘法	yuan fa	1973
+远芳侵古道	yuan fang qin gu dao	889
+原过	yuan guo	6129
+元亨利贞	yuan heng li zhen	6674
+原毁	yuan hui	6131
+圆寂	yuan ji	5679
+袁家渴记	yuan jia ke ji	1358
+远交近攻	yuan jiao jin gong	895
+怨灵修之浩荡兮	yuan ling xiu zhi hao dang xi	4347
+袁枚	yuan mei	1357
+渊明	yuan ming	2977
+缘起	yuan qi	1971
+员峤	yuan qiao	5901
+圜丘	yuan qiu	5677
+元曲	yuan qu	6666
+元日	yuan ri	6668
+怨盛年之莫当	yuan sheng nian zhi mo dang	4346
+渊生珠而崖不枯	yuan sheng zhu er ya bu ku	2976
+元史	yuan shi	6673
+掾史	yuan shi	4097
+院试	yuan shi	485
+元始天尊	yuan shi tian zun	6671
+猿啼	yuan ti	2750
+员外郎	yuan wai lang	5902
+元夕	yuan xi	6672
+缘溪行	yuan xi xing	1972
+沅湘	yuan xiang	3119
+元宵	yuan xiao	6669
+猿啸	yuan xiao	2751
+远小人	yuan xiao ren	894
+鸳鸯	yuan yang	116
+愿依彭咸之遗则	yuan yi peng xian zhi yi ze	4280
+猿吟	yuan yin	2752
+远游	yuan you	892
+园有桃	yuan you tao	5705
+远曰反	yuan yue fan	893
+元稹	yuan zhen	6665
+愿逐月华流照君	yuan zhu yue hua liu zhao jun	4278
+月饼	yue bing	3616
+月城	yue cheng	3624
+月出	yue chu	3627
+月出于东山之上	yue chu yu dong shan zhi shang	3626
+月洞门	yue dong men	3620
+乐府	yue fu	7187
+越轘辕	yue huan yuan	1021
+月季	yue ji	3623
+阅金经	yue jin jing	548
+粤剧	yue ju	2085
+越剧	yue ju	1026
+月令	yue ling	3628
+月落乌啼霜满天	yue luo wu ti shuang man tian	3618
+月满西楼	yue man xi lou	3619
+越明年	yue ming nian	1024
+月明星稀	yue ming xing xi	3622
+岳母刺字	yue mu ci zi	4791
+月食	yue shi	3617
+月坛	yue tan	3625
+越王勾践世家	yue wang gou jian shi jia	1023
+阅微草堂笔记	yue wei cao tang bi ji	549
+刖刑	yue xing	6373
+岳阳楼记	yue yang lou ji	4790
+乐毅	yue yi	7185
+乐毅列传	yue yi lie zhuan	7184
+月有阴晴圆缺	yue you yin qing yuan que	3621
+越语	yue yu	1022
+曰余食赘行	yue yu shi zhui xing	3662
+越州赵公救灾记	yue zhou zhao gong jiu zai ji	1025
+鸑鷟	yue zhuo	136
+越俎代庖	yue zu dai pao	1027
+运笔	yun bi	910
+云归而岩穴暝	yun gui er yan xue ming	7081
+云汉	yun han	7079
+云髻峨峨	yun ji e e	7076
+云锣	yun luo	7077
+云梦	yun meng	7080
+陨石	yun shi	482
+云销雨霁	yun xiao yu ji	7078
+孕育	yun yu	5155
+云中	yun zhong	7084
+云中君	yun zhong jun	7083
+云中谁寄锦书来	yun zhong shui ji jin shu lai	7082
+杂卦	za gua	3502
+杂记	za ji	3499
+杂剧	za ju	3503
+杂佩	za pei	3504
+杂然而前陈者	za ran er qian chen zhe	3501
+杂耍	za shua	3500
+杂说	za shuo	3498
+在洞庭一湖	zai dong ting yi hu	5654
+再而衰	zai er shuai	6472
+在河之洲	zai he zhi zhou	5655
+在乎山水之间也	zai hu shan shui zhi jian ye	5661
+载记	zai ji	951
+载见	zai jian	952
+在陋巷	zai lou xiang	5653
+载驱	zai qu	950
+载芟	zai shan	954
+在水一方	zai shui yi fang	5658
+在水之湄	zai shui zhi mei	5656
+在水之涘	zai shui zhi si	5657
+在所不惜	zai suo bu xi	5659
+再笑倾国	zai xiao qing guo	6473
+载营魄抱一	zai ying po bao yi	953
+在宥	zai you	5660
+载云车之容裔	zai yun che zhi rong yi	955
+赞能	zan neng	1056
+臧霸	zang ba	1780
+脏腑	zang fu	1806
+牂牁	zang ke	2806
+藏象	zang xiang	1466
+凿壁偷光	zao bi tou guang	6394
+凿齿	zao chi	6392
+早发白帝城	zao fa bai di cheng	3842
+造父	zao fu	853
+早服谓之重积德	zao fu wei zhi zhong ji de	3841
+凿户牖以为室	zao hu you yi wei shi	6393
+藻火	zao huo	1457
+藻井	zao jing	1458
+灶君	zao jun	2874
+糟糠	zao kang	2077
+枣泥	zao ni	3425
+躁胜寒	zao sheng han	985
+早生华发	zao sheng hua fa	3840
+造饮辄尽	zao yin zhe jin	852
+躁则失君	zao ze shi jun	986
+造字	zao zi	854
+泽陂	ze bei	3068
+则不可得志于天下矣	ze bu ke de zhi yu tian xia yi	6359
+则大威至	ze da wei zhi	6354
+则递三世可至万世而为君	ze di san shi ke zhi wan shi er wei jun	6344
+则扞格而不胜	ze han ge er bu sheng	6351
+泽兰	ze lan	3069
+择其不善者而改之	ze qi bu shan zhe er gai zhi	4141
+择其善者而从之	ze qi shan zhe er cong zhi	4140
+则勤苦而难成	ze qin ku er nan cheng	6357
+则取大国	ze qu da guo	6356
+则取小国	ze qu xiao guo	6355
+则攘臂而扔之	ze rang bi er reng zhi	6350
+则天地曾不能以一瞬	ze tian di ceng bu neng yi yi shun	6353
+则为官长	ze wei guan zhang	6358
+则我者贵	ze wo zhe gui	6352
+则无败事	ze wu bai shi	6349
+则物与我皆无尽也	ze wu yu wo jie wu jin ye	6346
+则阳	ze yang	6343
+则有去国怀乡	ze you qu guo huai xiang	6348
+则有心旷神怡	ze you xin kuang shen yi	6347
+责攸之祎允	ze you zhi yi yun	1108
+则足以拒秦	ze zu yi ju qin	6345
+贼曹	zei cao	1078
+怎敌他晚来风急	zen di ta wan lai feng ji	4360
+怎一个愁字了得	zen yi ge chou zi liao de	4361
+曾巩	zeng gong	3631
+赠黎安二生序	zeng li an er sheng xu	1055
+增其旧制	zeng qi jiu zhi	5597
+曾参杀人	zeng shen sha ren	3633
+增生	zeng sheng	5596
+曾子问	zeng zi wen	3632
+乍暖还寒时候	zha nuan hai han shi hou	7196
+乍阴乍阳	zha yin zha yang	7195
+宅边有五柳树	zhai bian you wu liu shu	5089
+瞻卬	zhan ang	2389
+瞻彼洛矣	zhan bi luo yi	2388
+战必胜矣	zhan bi sheng yi	4222
+占卜	zhan bu	6163
+战法	zhan fa	4221
+沾繁霜而至曙	zhan fan shuang er zhi shu	3092
+粘竿处	zhan gan chu	2086
+战国	zhan guo	4224
+战国策	zhan guo ce	4223
+湛露	zhan lu	2936
+旃蒙	zhan meng	3920
+战胜以丧礼处之	zhan sheng yi sang li chu zhi	4220
+展诗	zhan shi	4848
+斩首	zhan shou	3940
+占星	zhan xing	6162
+辗转反侧	zhan zhuan fan ce	947
+章草	zhang cao	2166
+张丞相列传	zhang cheng xiang lie zhuan	4561
+障刀	zhang dao	462
+张耳陈余列传	zhang er chen yu lie zhuan	4547
+张飞	zhang fei	4541
+章服	zhang fu	2167
+丈夫之冠也	zhang fu zhi guan ye	7533
+张弓	zhang gong	4555
+张果老	zhang guo lao	4552
+张郃	zhang he	4543
+张纮	zhang hong	4548
+餦餭	zhang huang	279
+章回体	zhang hui ti	2169
+张籍	zhang ji	4549
+张九龄	zhang jiu ling	4560
+张辽	zhang liao	4544
+彰其咎	zhang qi jiu	4487
+张任	zhang ren	4557
+张若虚	zhang ruo xu	4545
+张生煮海	zhang sheng zhu hai	4550
+长史	zhang shi	592
+张释之冯唐列传	zhang shi zhi feng tang lie zhuan	4542
+张守节	zhang shou jie	4556
+杖刑	zhang xing	3469
+张旭	zhang xu	4554
+章学诚	zhang xue cheng	2168
+张炎	zhang yan	4551
+张仪	zhang yi	4559
+张仪列传	zhang yi lie zhuan	4558
+章鱼	zhang yu	2165
+璋瓒	zhang zan	2616
+张昭	zhang zhao	4553
+张芝	zhang zhi	4546
+照壁	zhao bi	2834
+昭陛下平明之理	zhao bi xia ping ming zhi li	3765
+赵策	zhao ce	1039
+朝辞白帝彩云间	zhao ci bai di cai yun jian	3548
+赵盾	zhao dun	1040
+赵飞燕	zhao fei yan	1037
+召诰	zhao gao	6058
+朝歌夜弦	zhao ge ye xian	3553
+昭公	zhao gong	3768
+召公谏厉王弭谤	zhao gong jian li wang mi bang	6062
+赵合德	zhao he de	1043
+朝晖夕阴	zhao hui xi yin	3555
+招魂	zhao hun	4145
+赵佶	zhao ji	1044
+朝菌	zhao jun	3549
+召类	zhao lei	6059
+召陵之盟	zhao ling zhi meng	6057
+赵孟頫	zhao meng fu	1042
+召旻	zhao min	6060
+召南	zhao nan	6061
+朝秦暮楚	zhao qin mu chu	3551
+罩染	zhao ran	1951
+朝三暮四	zhao san mu si	3558
+赵氏孤儿	zhao shi gu er	1041
+赵世家	zhao shi jia	1047
+赵衰	zhao shuai	1038
+招讨使	zhao tao shi	4147
+赵体	zhao ti	1045
+朝闻道	zhao wen dao	3547
+照无眠	zhao wu mian	2833
+昭阳	zhao yang	3767
+昭阳殿	zhao yang dian	3766
+昭仪	zhao yi	3769
+招隐士	zhao yin shi	4146
+诏狱	zhao yu	1231
+赵云	zhao yun	1046
+这次第	zhe ci di	905
+鹧鸪	zhe gu	93
+鹧鸪天	zhe gu tian	92
+谪宦	zhe huan	1149
+谪守巴陵郡	zhe shou ba ling jun	1150
+谪戍	zhe shu	1148
+甄宝玉	zhen bao yu	2606
+针刺	zhen ci	668
+甄宓	zhen fu	2607
+震卦	zhen gua	420
+贞观之治	zhen guan zhi zhi	1121
+贞静	zhen jing	1120
+针灸	zhen jiu	667
+针灸甲乙经	zhen jiu jia yi jing	666
+振聩	zhen kui	4117
+贞良死节	zhen liang si jie	1122
+振聋	zhen long	4119
+振聋发聩	zhen long fa kui	4118
+振鹭	zhen lu	4116
+振乱	zhen luan	4120
+真人	zhen ren	2406
+甄士隐	zhen shi yin	2608
+贞淑	zhen shu	1123
+镇星	zhen xing	603
+珍馐	zhen xiu	2665
+甄英莲	zhen ying lian	2605
+震泽	zhen ze	419
+镇之以无名之朴	zhen zhi yi wu ming zhi pu	604
+真州东园记	zhen zhou dong yuan ji	2405
+斟酌损益	zhen zhuo sun yi	3943
+榛子	zhen zi	3317
+征兵制	zheng bing zhi	4474
+郑伯克段于鄢	zheng bo ke duan yu yan	793
+政典	zheng dian	4046
+郑风	zheng feng	788
+正复为奇	zheng fu wei qi	3267
+郑谷	zheng gu	789
+郑光祖	zheng guang zu	792
+正话	zheng hua	3257
+正襟危坐而问客曰	zheng jin wei zuo er wen ke yue	3260
+证类本草	zheng lei ben cao	1237
+正论	zheng lun	3258
+烝民	zheng min	2856
+正名	zheng ming	3268
+正气凛然	zheng qi lin ran	3261
+郑人买履	zheng ren mai lv	794
+峥嵘	zheng rong	4788
+正山小种	zheng shan xiao zhong	3265
+政善治	zheng shan zhi	4045
+正伤心	zheng shang xin	3269
+正世	zheng shi	3271
+郑世家	zheng shi jia	795
+正始之音	zheng shi zhi yin	3266
+正梳妆	zheng shu zhuang	3262
+正朔	zheng shuo	3263
+政通人和	zheng tong ren he	4044
+正言若反	zheng yan ruo fan	3259
+正义	zheng yi	3270
+郑语	zheng yu	790
+征于色	zheng yu se	4475
+正月	zheng yue	3264
+郑庄公	zheng zhuang gong	791
+知北游	zhi bei you	2373
+纸本	zhi ben	2031
+知不可乎骤得	zhi bu ke hu zhou de	2383
+知不知	zhi bu zhi	2382
+知不足然后能自反	zhi bu zu ran hou neng zi fan	2381
+知常容	zhi chang rong	2366
+知常曰明	zhi chang yue ming	2365
+治臣之罪	zhi chen zhi zui	3093
+咫尺	zhi chi	5830
+咫尺天涯	zhi chi tian ya	5829
+止楚攻宋	zhi chu gong song	3272
+知此两者亦稽式	zhi ci liang zhe yi ji shi	2361
+治大国若烹小鲜	zhi da guo ruo peng xiao xian	3096
+执大象天下往	zhi da xiang tian xia wang	4194
+治典	zhi dian	3098
+雉堞	zhi die	439
+直而不肆	zhi er bu si	2428
+陟罚	zhi fa	489
+陟罚臧否	zhi fa zang pi	488
+制分	zhi fen	6330
+职分	zhi fen	1847
+桎梏	zhi gu	3380
+执古之道	zhi gu zhi dao	4195
+职官志	zhi guan zhi	1846
+治国	zhi guo	3097
+知和曰常	zhi he yue chang	2370
+陟岵	zhi hu	491
+之乎者也	zhi hu zhe ye	7200
+指画	zhi hua	4127
+知化	zhi hua	2374
+智慧出	zhi hui chu	3667
+制芰荷以为衣兮	zhi ji he yi wei yi xi	6329
+知己知彼	zhi ji zhi bi	2367
+直谏	zhi jian	2425
+掷珓	zhi jiao	4098
+执竞	zhi jing	4190
+执眷眷之款实兮	zhi juan juan zhi kuan shi xi	4191
+知困然后能自强	zhi kun ran hou neng zi qiang	2369
+直栏横槛	zhi lan heng kan	2429
+制乐	zhi le	6331
+至乐	zhi le	1763
+执耒	zhi lei	4188
+志虑忠纯	zhi lv zhong chun	4393
+芝麻	zhi ma	1710
+知命	zhi ming	2372
+质明	zhi ming	1101
+陟明	zhi ming	490
+知命之年	zhi ming zhi nian	2371
+指南车	zhi nan che	4129
+智能	zhi neng	3665
+鸷鸟	zhi niao	115
+鸷鸟之不群兮	zhi niao zhi bu qun xi	114
+织女	zhi nv	2026
+芷葺	zhi qi	1682
+知其白	zhi qi bai	2377
+知其荣	zhi qi rong	2376
+知其雄	zhi qi xiong	2375
+制钱	zhi qian	6328
+指潜渊而为期	zhi qian yuan er wei qi	4128
+至人	zhi ren	1761
+治人事天莫若啬	zhi ren shi tian mo ruo se	3099
+知人者智	zhi ren zhe zhi	2378
+置闰	zhi run	1948
+至若春和景明	zhi ruo chun he jing ming	1759
+置三公	zhi san gong	1950
+指事	zhi shi	4130
+直视	zhi shi	2427
+知士	zhi shi	2368
+致仕	zhi shi	1758
+致士	zhi shi	1757
+只是近黄昏	zhi shi jin huang hun	6063
+治水	zhi shui	3095
+治粟内史	zhi su nei shi	3094
+知我者希	zhi wo zhe xi	2364
+执无兵	zhi wu bing	4192
+陟遐	zhi xia	487
+至小丘西小石潭记	zhi xiao qiu xi xiao shi tan ji	1760
+执徐	zhi xu	4193
+致虚极	zhi xu ji	1756
+直学士	zhi xue shi	2430
+直言不讳	zhi yan bu hui	2426
+知罃	zhi ying	2360
+智永	zhi yong	3666
+至于负者歌于途	zhi yu fu zhe ge yu tu	1762
+支摘窗	zhi zhai chuang	4063
+知者不博	zhi zhe bu bo	2359
+知者不言	zhi zhe bu yan	2358
+执者失之	zhi zhe shi zhi	4189
+质真若渝	zhi zhen ruo yu	1100
+知止不殆	zhi zhi bu dai	2363
+知止可以不殆	zhi zhi ke yi bu dai	2362
+置之死地而后生	zhi zhi si di er hou sheng	1949
+知之为知之	zhi zhi wei zhi zhi	2380
+治之于未乱	zhi zhi yu wei luan	3100
+知之者不如好之者	zhi zhi zhe bu ru hao zhi zhe	2379
+蜘蛛	zhi zhu	1408
+踯躅	zhi zhu	1002
+栀子	zhi zi	3398
+之子于归	zhi zi yu gui	7199
+直走咸阳	zhi zou xian yang	2424
+知足者富	zhi zu zhe fu	2357
+织罪	zhi zui	2025
+重宝	zhong bao	707
+众宾欢也	zhong bin huan ye	6876
+终不察夫民心	zhong bu cha fu min xin	2024
+仲春纪	zhong chun ji	6898
+中道崩殂	zhong dao beng cu	7260
+仲丁	zhong ding	6906
+钟鼎	zhong ding	654
+钟鼎人家	zhong ding ren jia	653
+钟鼎文	zhong ding wen	652
+仲冬纪	zhong dong ji	6905
+种豆南山下	zhong dou nan shan xia	2242
+中锋	zhong feng	7259
+终风	zhong feng	2015
+中孚	zhong fu	7270
+钟鼓乐之	zhong gu le zhi	651
+中谷有蓷	zhong gu you tui	7262
+中和殿	zhong he dian	7273
+钟会	zhong hui	661
+仲虺之诰	zhong hui zhi gao	6896
+重己	zhong ji	706
+重积德则无不克	zhong ji de ze wu bu ke	704
+忠谏之路	zhong jian zhi lu	4382
+众皆竞进以贪婪兮	zhong jie jing jin yi tan lan xi	6875
+中经	zhong jing	7263
+忠君爱国	zhong jun ai guo	4387
+仲康	zhong kang	6899
+中匡	zhong kuang	7276
+钟馗	zhong kui	657
+众里寻他千百度	zhong li xun ta qian bai du	6873
+仲吕	zhong lv	6904
+众妙之门	zhong miao zhi men	6877
+钟鸣鼎食	zhong ming ding shi	656
+钟鸣鼎食之家	zhong ming ding shi zhi jia	655
+终南	zhong nan	2022
+终南山	zhong nan shan	2021
+仲尼	zhong ni	6902
+仲尼弟子列传	zhong ni di zi lie zhuan	6901
+仲尼燕居	zhong ni yan ju	6900
+众女嫉余之蛾眉兮	zhong nv ji yu zhi e mei xi	6878
+中盘	zhong pan	7265
+钟期既遇	zhong qi ji yu	659
+中秋	zhong qiu	7264
+仲秋纪	zhong qiu ji	6897
+中壬	zhong ren	7271
+众人皆有以	zhong ren jie you yi	6880
+众人皆有余	zhong ren jie you yu	6879
+众人熙熙	zhong ren xi xi	6881
+终日号而不嗄	zhong ri hao er bu a	2019
+忠善	zhong shan	4386
+中山策	zhong shan ce	7269
+中伤	zhong shang	7278
+终身不救	zhong shen bu jiu	2017
+终身不勤	zhong shen bu qin	2018
+终身为父	zhong shen wei fu	2016
+中士闻道若存若亡	zhong shi wen dao ruo cun ruo wang	7272
+终寿	zhong shou	2020
+种树郭橐驼传	zhong shu guo tuo tuo chuan	2243
+中书令	zhong shu ling	7280
+中书省	zhong shu sheng	7279
+螽斯	zhong si	1389
+中通外直	zhong tong wai zhi	7261
+重为轻根	zhong wei qing gen	709
+中无杂树	zhong wu za shu	7267
+仲夏纪	zhong xia ji	6903
+忠孝	zhong xiao	4385
+忠心耿耿	zhong xin geng geng	4384
+忠信之薄	zhong xin zhi bo	4388
+钟繇	zhong yao	658
+众议	zhong yi	6874
+中庸	zhong yong	7268
+中元	zhong yuan	7277
+中原音韵	zhong yuan yin yun	7274
+中原逐鹿	zhong yuan zhu lu	7275
+中正	zhong zheng	7266
+终制	zhong zhi	2023
+忠之属也	zhong zhi shu ye	4389
+忠志之士	zhong zhi zhi shi	4383
+钟子期	zhong zi qi	660
+周哀王	zhou ai wang	5891
+周安王	zhou an wang	5887
+周邦彦	zhou bang yan	5847
+周本纪	zhou ben ji	5866
+周朝	zhou chao	5867
+周成王	zhou cheng wang	5875
+周定王	zhou ding wang	5885
+周敦颐	zhou dun yi	5874
+周共王	zhou gong wang	5896
+周官	zhou guan	5886
+周行而不殆	zhou hang er bu dai	5852
+宙合	zhou he	5051
+肘后备急方	zhou hou bei ji fang	1840
+周桓王	zhou huan wang	5865
+周惠王	zhou hui wang	5878
+周简王	zhou jian wang	5855
+周敬王	zhou jing wang	5873
+周景王	zhou jing wang	5868
+周康王	zhou kang wang	5880
+周考王	zhou kao wang	5853
+周匡王	zhou kuang wang	5895
+周历	zhou li	5893
+周礼	zhou li	5857
+周厉王	zhou li wang	5892
+周烈王	zhou lie wang	5861
+周灵王	zhou ling wang	5862
+周穆王	zhou mu wang	5856
+周纳	zhou na	5854
+周南	zhou nan	5894
+周赧王	zhou nan wang	5848
+周平王	zhou ping wang	5883
+周顷王	zhou qing wang	5846
+周瑞	zhou rui	5859
+周瑞家的	zhou rui jia de	5858
+周慎靓王	zhou shen jing wang	5877
+周书	zhou shu	5899
+周思王	zhou si wang	5879
+周颂	zhou song	5845
+周泰	zhou tai	5863
+周威烈王	zhou wei lie wang	5889
+籀文	zhou wen	2093
+周文王	zhou wen wang	5872
+周武王	zhou wu wang	5864
+周僖王	zhou xi wang	5898
+周显王	zhou xian wang	5869
+周襄王	zhou xiang wang	5851
+周孝王	zhou xiao wang	5888
+周宣王	zhou xuan wang	5884
+周易	zhou yi	5871
+周夷王	zhou yi wang	5890
+周懿王	zhou yi wang	5876
+周幽王	zhou you wang	5882
+周瑜	zhou yu	5860
+周语	zhou yu	5850
+咒语	zhou yu	5832
+骤雨不终日	zhou yu bu zhong ri	213
+周元王	zhou yuan wang	5897
+周昭王	zhou zhao wang	5870
+周贞定王	zhou zhen ding wang	5849
+州中正	zhou zhong zheng	4757
+周庄王	zhou zhuang wang	5881
+竹板	zhu ban	2154
+诸病源候论	zhu bing yuan hou lun	1197
+主簿	zhu bu	7216
+珠沉	zhu chen	2662
+逐臣	zhu chen	866
+珠沉玉碎	zhu chen yu sui	2661
+铢秤	zhu cheng	627
+竹竿	zhu gan	2151
+诸葛瑾	zhu ge jin	1194
+诸葛恪	zhu ge ke	1195
+诸葛亮	zhu ge liang	1196
+诸宫调	zhu gong diao	1198
+诸侯章	zhu hou zhang	1199
+主记	zhu ji	7215
+铢积寸累	zhu ji cun lei	626
+助教	zhu jiao	6275
+朱骏声	zhu jun sheng	3512
+逐客	zhu ke	867
+竹笠	zhu li	2150
+铢两	zhu liang	629
+铢量寸度	zhu liang cun duo	625
+铢两悉称	zhu liang xi chen	628
+株林	zhu lin	3395
+竹林七贤	zhu lin qi xian	2153
+竹林之游	zhu lin zhi you	2152
+逐鹿	zhu lu	865
+舳舻千里	zhu lu qian li	1738
+逐鹿中原	zhu lu zhong yuan	864
+朱雀	zhu que	3513
+祝融	zhu rong	2296
+主事	zhu shi	7217
+注视	zhu shi	3078
+竹荪	zhu sun	2149
+烛台	zhu tai	2858
+珠崖	zhu ya	2663
+著雍	zhu yong	1535
+茱萸	zhu yu	1638
+朱元璋	zhu yuan zhang	3514
+祝允明	zhu yun ming	2297
+烛之武退秦师	zhu zhi wu tui qin shi	2859
+竹子	zhu zi	2155
+烛邹	zhu zou	2857
+转碟	zhuan die	965
+转经筒	zhuan jing tong	964
+篆刻	zhuan ke	2100
+转眄流精	zhuan mian liu jing	966
+专气致柔	zhuan qi zhi rou	7333
+篆书	zhuan shu	2101
+转丸	zhuan wan	970
+颛顼	zhuan xu	316
+颛顼历	zhuan xu li	315
+转运使	zhuan yun shi	963
+转折	zhuan zhe	969
+转注	zhuan zhu	967
+转朱阁	zhuan zhu ge	968
+庄公	zhuang gong	4658
+状元	zhuang yuan	2785
+庄子	zhuang zi	4657
+坠胡	zhui hu	5624
+缀明珠以耀躯	zhui ming zhu yi yao qu	1980
+浊浪排空	zhuo lang pai kong	3041
+涿鹿	zhuo lu	3003
+斫樵	zhuo qiao	3939
+濯清涟而不妖	zhuo qing lian er bu yao	2898
+灼若芙蕖出渌波	zhuo ruo fu qu chu lu bo	2872
+擢升	zhuo sheng	4069
+酌贪泉而觉爽	zhuo tan quan er jue shuang	769
+灼灼其华	zhuo zhuo qi hua	2873
+自爱不自贵	zi ai bu zi gui	1772
+子不语	zi bu yu	5170
+梓材	zi cai	3362
+紫菜	zi cai	2060
+子产	zi chan	5169
+紫宸	zi chen	2068
+紫电青霜	zi dian qing shuang	2064
+自伐者无功	zi fa zhe wu gong	1777
+自见者不明	zi jian zhe bu ming	1767
+子衿	zi jin	5163
+紫禁城	zi jin cheng	2062
+自今及古	zi jin ji gu	1778
+紫金鱼袋	zi jin yu dai	2058
+自矜者不长	zi jin zhe bu chang	1771
+趑趄	zi ju	1019
+紫鹃	zi juan	2057
+自李唐来	zi li tang lai	1773
+子美	zi mei	5164
+自谋	zi mou	1766
+自难忘	zi nan wang	1764
+自其不变者而观之	zi qi bu bian zhe er guan zhi	1776
+自前世而固然	zi qian shi er gu ran	1775
+紫砂壶	zi sha hu	2063
+自胜者强	zi sheng zhe qiang	1768
+自是者不彰	zi shi zhe bu zhang	1774
+紫苏	zi su	2061
+子孙以祭祀不辍	zi sun yi ji si bu chuo	5166
+紫坛	zi tan	2069
+紫藤	zi teng	2059
+紫庭	zi ting	2067
+紫微	zi wei	2066
+子未学礼乎	zi wei xue li hu	5165
+紫微垣	zi wei yuan	2065
+子午	zi wu	5168
+缁衣	zi yi	1979
+自遗其咎	zi yi qi jiu	1765
+自云先世避秦时乱	zi yun xian shi bi qin shi luan	1779
+子在川上曰	zi zai chuan shang yue	5167
+梓泽丘墟	zi ze qiu xu	3361
+自知	zi zhi	1770
+资治通鉴	zi zhi tong jian	1065
+自知者明	zi zhi zhe ming	1769
+锱铢	zi zhu	609
+锱铢必较	zi zhu bi jiao	608
+咨诹善道	zi zou shan dao	5831
+总督	zong du	4345
+总督漕运	zong du cao yun	4344
+纵横捭阖	zong heng bai he	2032
+纵横家	zong heng jia	2033
+总角	zong jiao	4343
+纵囚论	zong qiu lun	2034
+纵使相逢应不识	zong shi xiang feng ying bu shi	2035
+宗彝	zong yi	5060
+纵一苇之所如	zong yi wei zhi suo ru	2036
+宗正	zong zheng	5059
+宗正寺	zong zheng si	5058
+粽子	zong zi	2083
+奏流水以何惭	zou liu shui yi he can	5233
+驺虞	zou yu	226
+祖丁	zu ding	2303
+俎豆	zu dou	6749
+祖庚	zu geng	2300
+俎醢	zu hai	6748
+祖甲	zu jia	2299
+族秦者秦也	zu qin zhe qin ye	3911
+组绶	zu shou	2028
+足往神留	zu wang shen liu	1016
+祖辛	zu xin	2298
+祖乙	zu yi	2302
+足以极视听之娱	zu yi ji shi ting zhi yu	1017
+祖咏	zu yong	2301
+醉里挑灯看剑	zui li tiao deng kan jian	753
+最难将息	zui nan jiang xi	3629
+醉能同其乐	zui neng tong qi le	754
+醉翁亭记	zui weng ting ji	755
+醉翁亭也	zui weng ting ye	756
+醉翁之意不在酒	zui weng zhi yi bu zai jiu	757
+醉卧沙场君莫笑	zui wo sha chang jun mo xiao	758
+遵大路	zun da lu	812
+尊号	zun hao	4941
+尊师	zun shi	4940
+尊师重道	zun shi zhong dao	4939
+樽俎	zun zu	3297
+作噩	zuo e	6800
+坐化	zuo hua	5629
+作奸犯科	zuo jian fan ke	6799
+左迁	zuo qian	4746
+左青龙	zuo qing long	4745
+佐使	zuo shi	6837
+作亭者谁	zuo ting zhe shui	6801
+坐忘	zuo wang	5628
+昨夜闲潭梦落花	zuo ye xian tan meng luo hua	3770
+左倚采旄	zuo yi cai mao	4750
+坐隐	zuo yin	5626
+左右采之	zuo you cai zhi	4747
+左右流之	zuo you liu zhi	4749
+左右芼之	zuo you mao zhi	4748
+坐月子	zuo yue zi	5627
+作战	zuo zhan	6798
+左传	zuo zhuan	4751

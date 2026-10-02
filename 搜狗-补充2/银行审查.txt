@@ -1,0 +1,507 @@
+# 词库名称: 银行审查
+# 词库分类: 金融保险
+# 词库描述: 按\"客户、行业、经营、财务、授信方案、担保、风险、合规、规范性话术\"等场景整理高频词条
+# 词条样例: 借款人主体资格合法有效、统一社会信用代码、法定代表人、注册资本实缴到位、征信记录良好、存量授信合作正常
+# 解析词数: 500
+# 解析异常: 0
+
+按季付息到期还本	an ji fu xi dao qi huan ben	204
+按季收集财务报表	an ji shou ji cai wu bao biao	97
+按月付息到期还本	an yue fu xi dao qi huan ben	203
+报表数据与流水匹配	bao biao shu ju yu liu shui pi pei	256
+报表数据与纳税数据匹配	bao biao shu ju yu na shui shu ju pi pei	257
+报表真实性较高	bao biao zhen shi xing jiao gao	255
+保留意见审计报告	bao liu yi jian shen ji bao gao	259
+保证担保意愿较强	bao zheng dan bao yi yuan jiao qiang	166
+保证金比例	bao zheng jin bi li	220
+保证金质押	bao zheng jin zhi ya	173
+保证人代偿能力较强	bao zheng ren dai chang neng li jiao qiang	170
+保证人对外担保余额	bao zheng ren dui wai dan bao yu e	159
+保证人或有负债情况	bao zheng ren huo you fu zhai qing kuang	158
+保证人净资产覆盖倍数	bao zheng ren jing zi chan fu gai bei shu	169
+本次申报方案	ben ci shen bao fang an	195
+本次授信风险可控	ben ci shou xin feng xian ke kong	93
+表决权委托安排	biao jue quan wei tuo an pai	431
+标准无保留意见	biao zhun wu bao liu yi jian	260
+并购贷款	bing gou dai kuan	224
+拨备计提充足	bo bei ji ti chong zu	36
+不存在股权代持安排	bu cun zai gu quan dai chi an pai	445
+不存在重大不利变化	bu cun zai zhong da bu li bian hua	86
+不属于两高一剩行业	bu shu yu liang gao yi sheng hang ye	421
+不属于限制类淘汰类产能	bu shu yu xian zhi lei tao tai lei chan neng	422
+财务报表经审计	cai wu bao biao jing shen ji	261
+财务费用负担较重	cai wu fei yong fu dan jiao zhong	268
+财务核算规范	cai wu he suan gui fan	440
+财务人员配置齐备	cai wu ren yuan pei zhi qi bei	441
+财务数据勾稽关系一致	cai wu shu ju gou ji guan xi yi zhi	258
+财务弹性较强	cai wu tan xing jiao qiang	301
+财务指标异动分析	cai wu zhi biao yi dong fen xi	251
+仓单质押	cang dan zhi ya	172
+仓单质押融资	cang dan zhi ya rong zi	228
+产能过剩风险	chan neng guo sheng feng xian	414
+产能利用率处于合理区间	chan neng li yong lv chu yu he li qu jian	399
+产能利用率较高	chan neng li yong lv jiao gao	380
+产销率维持高位	chan xiao lv wei chi gao wei	383
+产业链自主可控	chan ye lian zi zhu ke kong	393
+敞口额度	chang kou e du	247
+长期股权投资	chang qi gu quan tou zi	307
+承兑手续费率	cheng dui shou xu fei lv	219
+成立时间较长	cheng li shi jian jiao chang	481
+持续跟踪经营变化	chi xu gen zong jing ying bian hua	98
+持续经营能力较强	chi xu jing ying neng li jiao qiang	480
+重组贷款	chong zu dai kuan	44
+筹资活动现金净流入	chou zi huo dong xian jin jing liu ru	279
+触发条件后压退	chu fa tiao jian hou ya tui	83
+出货量与收入匹配	chu huo liang yu shou ru pi pei	362
+出口订单下滑	chu kou ding dan xia hua	361
+穿透式审查	chuan tou shi shen cha	23
+穿透至最终自然人	chuan tou zhi zui zhong zi ran ren	433
+串用规则	chuan yong gui ze	198
+次级类	ci ji lei	39
+存单质押	cun dan zhi ya	175
+存货跌价风险	cun huo die jia feng xian	143
+存货跌价准备计提充分	cun huo die jia zhun bei ji ti chong fen	341
+存货周转率	cun huo zhou zhuan lv	342
+存量客户年审意见	cun liang ke hu nian shen yi jian	81
+存量授信合作正常	cun liang shou xin he zuo zheng chang	485
+贷后管理建议	dai hou guan li jian yi	85
+贷后管理要求	dai hou guan li yao qiu	211
+贷后检查频率符合要求	dai hou jian cha pin lv fu he yao qiu	34
+贷款风险分类准确	dai kuan feng xian fen lei zhun que	43
+贷款利率定价	dai kuan li lv ding jia	222
+贷款三查制度	dai kuan san cha zhi du	35
+贷款新规要求	dai kuan xin gui yao qiu	14
+贷款用途符合国家法律法规	dai kuan yong tu fu he guo jia fa lv fa gui	76
+贷款用途明确	dai kuan yong tu ming que	217
+贷款用途真实合规	dai kuan yong tu zhen shi he gui	216
+贷款展期	dai kuan zhan qi	45
+贷前调查程序合规	dai qian diao cha cheng xu he gui	55
+贷审会审议	dai shen hui shen yi	19
+担保覆盖率	dan bao fu gai lv	154
+担保合规性审查	dan bao he gui xing shen cha	28
+担保圈风险	dan bao quan feng xian	156
+担保意愿核实	dan bao yi yuan he shi	27
+单笔单批	dan bi dan pi	245
+单一客户授信集中度	dan yi ke hu shou xin ji zhong du	62
+等额本息还款	deng e ben xi huan kuan	205
+第二还款来源可靠	di er huan kuan lai yuan ke kao	153
+低风险业务额度	di feng xian ye wu e du	246
+抵押登记手续完备	di ya deng ji shou xu wan bei	188
+抵押登记已落实	di ya deng ji yi luo shi	151
+抵押率控制在合理范围	di ya lv kong zhi zai he li fan wei	190
+抵押物保险手续齐备	di ya wu bao xian shou xu qi bei	161
+抵押物变现能力较强	di ya wu bian xian neng li jiao qiang	186
+抵押物评估价值充足	di ya wu ping gu jia zhi chong zu	191
+抵押物区位条件较好	di ya wu qu wei tiao jian jiao hao	185
+抵押物权属清晰	di ya wu quan shu qing xi	189
+递延所得税资产	di yan suo de shui zi chan	305
+第一还款来源充足	di yi huan kuan lai yuan chong zu	272
+第一顺位抵押	di yi shun wei di ya	187
+抵质押组合担保	di zhi ya zu he dan bao	165
+订单储备充足	ding dan chu bei chong zu	382
+订单驱动生产	ding dan qu dong sheng chan	352
+订单融资	ding dan rong zi	229
+定期重检授信额度	ding qi chong jian shou xin e du	96
+动产融资统一登记	dong chan rong zi tong yi deng ji	150
+董事会决策机制健全	dong shi hui jue ce ji zhi jian quan	450
+短贷长用风险	duan dai chang yong feng xian	324
+短期偿债压力较大	duan qi chang zhai ya li jiao da	326
+短期偿债压力可控	duan qi chang zhai ya li ke kong	327
+对外担保代偿风险	dui wai dan bao dai chang feng xian	137
+对外担保余额	dui wai dan bao yu e	323
+多头授信风险	duo tou shou xin feng xian	133
+多元化经营风险	duo yuan hua jing ying feng xian	128
+额度调剂	e du tiao ji	199
+额度项下可循环使用	e du xiang xia ke xun huan shi yong	243
+法定代表人	fa ding dai biao ren	498
+反洗钱审查通过	fan xi qian shen cha tong guo	59
+反向保理	fan xiang bao li	230
+放款前提条件	fang kuan qian ti tiao jian	212
+放款审核要点	fang kuan shen he yao dian	26
+放款中心审核	fang kuan zhong xin shen he	18
+非经常性损益占比较高	fei jing chang xing sun yi zhan bi jiao gao	266
+非融资性保函	fei rong zi xing bao han	234
+非失信被执行人	fei shi xin bei zhi xing ren	490
+费用管控能力较强	fei yong guan kong neng li jiao qiang	270
+分期还款计划	fen qi huan kuan ji hua	202
+风险分类为正常类	feng xian fen lei wei zheng chang lei	482
+风险缓释措施有效	feng xian huan shi cuo shi you xiao	164
+风险排查	feng xian pai cha	16
+风险收益基本匹配	feng xian shou yi ji ben pi pei	122
+风险提示如下	feng xian ti shi ru xia	113
+风险调整后收益	feng xian tiao zheng hou shou yi	208
+符合产业政策导向	fu he chan ye zheng ce dao xiang	424
+符合行业信贷政策	fu he hang ye xin dai zheng ce	77
+符合监管要求	fu he jian guan yao qiu	79
+符合我行风险偏好	fu he wo hang feng xian pian hao	91
+符合我行授信政策	fu he wo hang shou xin zheng ce	78
+符合我行信贷政策投向	fu he wo hang xin dai zheng ce tou xiang	423
+符合小微企业划型标准	fu he xiao wei qi ye hua xing biao zhun	467
+付现比	fu xian bi	283
+高新技术企业	gao xin ji shu qi ye	389
+工程规划许可证	gong cheng gui hua xu ke zheng	68
+公司治理结构健全	gong si zhi li jie gou jian quan	452
+工业房地产抵押	gong ye fang di chan di ya	184
+供应链融资	gong ying lian rong zi	232
+供应链稳定性较强	gong ying lian wen ding xing jiao qiang	409
+供应商渠道稳定	gong ying shang qu dao wen ding	377
+购销合同要素完整	gou xiao he tong yao su wan zheng	29
+购销合同真实有效	gou xiao he tong zhen shi you xiao	376
+购销价差稳定	gou xiao jia cha wen ding	355
+固定资产成新率较高	gu ding zi chan cheng xin lv jiao gao	340
+固定资产贷款	gu ding zi chan dai kuan	225
+股权穿透核查	gu quan chuan tou he cha	434
+股权结构较为集中	gu quan jie gou jiao wei ji zhong	456
+股权结构清晰	gu quan jie gou qing xi	457
+股权质押	gu quan zhi ya	176
+管理层变动风险	guan li ceng bian dong feng xian	130
+管理要求如下	guan li yao qiu ru xia	112
+关联方资金往来频繁	guan lian fang zi jin wang lai pin fan	313
+关联交易定价公允	guan lian jiao yi ding jia gong yun	448
+关联交易审查合规	guan lian jiao yi shen cha he gui	60
+关联交易占比合理	guan lian jiao yi zhan bi he li	447
+关注类	guan zhu lei	40
+关注类客户管理要求	guan zhu lei ke hu guan li yao qiu	82
+归母净利润	gui mu jing li run	288
+国产替代空间广阔	guo chan ti dai kong jian guang kuo	394
+过度授信风险	guo du shou xin feng xian	134
+国内信用证	guo nei xin yong zheng	236
+国内信用证项下福费廷	guo nei xin yong zheng xiang xia fu fei ting	235
+国有控股企业	guo you kong gu qi ye	437
+海关进出口信用记录	hai guan jin chu kou xin yong ji lu	469
+行业处于成熟期	hang ye chu yu cheng shu qi	404
+行业处于成长期	hang ye chu yu cheng zhang qi	405
+行业处于衰退期	hang ye chu yu shuai tui qi	403
+行业集中度持续提升	hang ye ji zhong du chi xu ti sheng	426
+行业集中度较高	hang ye ji zhong du jiao gao	427
+行业进入壁垒较高	hang ye jin ru bi lei jiao gao	420
+行业景气度回升	hang ye jing qi du hui sheng	430
+行业景气度下行	hang ye jing qi du xia xing	429
+行业龙头地位稳固	hang ye long tou di wei wen gu	417
+行业平均毛利率	hang ye ping jun mao li lv	407
+行业去库存压力较大	hang ye qu ku cun ya li jiao da	400
+行业下行风险	hang ye xia xing feng xian	147
+行业整合加速	hang ye zheng he jia su	398
+行业周期性特征明显	hang ye zhou qi xing te zheng ming xian	428
+核保面签	he bao mian qian	152
+合同负债	he tong fu zhai	309
+核心管理团队稳定	he xin guan li tuan dui wen ding	442
+核心技术自主可控	he xin ji shu zi zhu ke kong	368
+核心客户集中度较高	he xin ke hu ji zhong du jiao gao	379
+合作年限较长	he zuo nian xian jiao chang	463
+互保联保风险	hu bao lian bao feng xian	157
+环保处罚风险	huan bao chu fa feng xian	139
+环保设施运行正常	huan bao she shi yun xing zheng chang	349
+环保手续齐全	huan bao shou xu qi quan	75
+环保政策趋严	huan bao zheng ce qu yan	396
+还款来源明确	huan kuan lai yuan ming que	218
+环评批复文件	huan ping pi fu wen jian	74
+缓释措施	huan shi cuo shi	124
+汇兑损益影响	hui dui sun yi ying xiang	267
+回款周期合理	hui kuan zhou qi he li	371
+汇率波动风险	hui lv bo dong feng xian	142
+货币资金受限比例	huo bi zi jin shou xian bi li	315
+或有负债风险可控	huo you fu zhai feng xian ke kong	322
+季节性特征明显	ji jie xing te zheng ming xian	262
+机器设备抵押	ji qi she bei di ya	180
+技术迭代风险	ji shu die dai feng xian	411
+集团化管理模式	ji tuan hua guan li mo shi	444
+集团客户风险传染	ji tuan ke hu feng xian chuan ran	132
+集团客户授信集中度	ji tuan ke hu shou xin ji zhong du	61
+集团内额度分配	ji tuan nei e du fen pei	197
+基于以上分析	ji yu yi shang fen xi	116
+加点	jia dian	221
+加工费模式	jia gong fei mo shi	354
+加强资金流向监控	jia qiang zi jin liu xiang jian kong	100
+建议补充以下资料	jian yi bu chong yi xia zi liao	103
+建议加强贷后管理	jian yi jia qiang dai hou guan li	101
+建议审慎介入	jian yi shen shen jie ru	107
+建议维持存量额度	jian yi wei chi cun liang e du	106
+建议压缩授信敞口	jian yi ya suo shou xin chang kou	105
+建议逐步退出	jian yi zhu bu tui chu	104
+交叉违约风险	jiao cha wei yue feng xian	136
+较上期维持不变	jiao shang qi wei chi bu bian	194
+较上期新增敞口	jiao shang qi xin zeng chang kou	193
+较上期压缩敞口	jiao shang qi ya suo chang kou	192
+借款人承诺函	jie kuan ren cheng nuo han	7
+借款人还款意愿较强	jie kuan ren huan kuan yi yuan jiao qiang	477
+借款人经营状况正常	jie kuan ren jing ying zhuang kuang zheng chang	478
+借款人无重大不利变化	jie kuan ren wu zhong da bu li bian hua	479
+借款人系我行存量客户	jie kuan ren xi wo hang cun liang ke hu	466
+借款人系我行新增客户	jie kuan ren xi wo hang xin zeng ke hu	465
+借款人系我行战略客户	jie kuan ren xi wo hang zhan lue ke hu	464
+借款人主体资格合法有效	jie kuan ren zhu ti zi ge he fa you xiao	500
+结算方式以现汇为主	jie suan fang shi yi xian hui wei zhu	373
+结算方式以银行承兑汇票为主	jie suan fang shi yi yin hang cheng dui hui piao wei zhu	374
+结算份额稳步提升	jie suan fen e wen bu ti sheng	458
+借新还旧	jie xin huan jiu	46
+近三年财务数据	jin san nian cai wu shu ju	253
+尽职调查报告要素完整	jin zhi diao cha bao gao yao su wan zheng	1
+经查	jing cha	119
+经查询法院被执行人信息	jing cha xun fa yuan bei zhi xing ren xin xi	473
+经查询企业信用信息公示系统	jing cha xun qi ye xin yong xin xi gong shi xi tong	474
+经查询人行征信系统	jing cha xun ren xing zheng xin xi tong	475
+经查询失信被执行人名单	jing cha xun shi xin bei zhi xing ren ming dan	472
+经核查借款人营业执照	jing he cha jie kuan ren ying ye zhi zhao	476
+经核查无重大涉诉事项	jing he cha wu zhong da she su shi xiang	471
+经核实	jing he shi	120
+经济资本回报率	jing ji zi ben hui bao lv	206
+经济资本占用	jing ji zi ben zhan yong	207
+净利率略有下滑	jing li lv lue you xia hua	293
+经审查	jing shen cha	121
+净现比	jing xian bi	282
+经销商体系稳定	jing xiao shang ti xi wen ding	358
+经营范围涵盖本次授信用途	jing ying fan wei han gai ben ci shou xin yong tu	494
+经营活动现金流持续净流入	jing ying huo dong xian jin liu chi xu jing liu ru	286
+经营活动现金流由正转负	jing ying huo dong xian jin liu you zheng zhuan fu	285
+经营模式成熟稳定	jing ying mo shi cheng shu wen ding	384
+经营性物业贷款	jing ying xing wu ye dai kuan	223
+经营性现金流净额为正	jing ying xing xian jin liu jing e wei zheng	287
+经营资质齐全有效	jing ying zi zhi qi quan you xiao	493
+净资产规模	jing zi chan gui mo	303
+净资产收益率	jing zi chan shou yi lv	291
+客户集中度风险	ke hu ji zhong du feng xian	145
+客户结构多元化	ke hu jie gou duo yuan hua	378
+客户尽职调查完成	ke hu jin zhi diao cha wan cheng	56
+客户内部评级结果	ke hu nei bu ping ji jie guo	483
+科技型中小企业	ke ji xing zhong xiao qi ye	388
+可疑类	ke yi lei	38
+控股股东实力雄厚	kong gu gu dong shi li xiong hou	455
+扣非后净利润	kou fei hou jing li run	289
+库存备货合理	ku cun bei huo he li	351
+宽限期	kuan xian qi	201
+扩张过快风险	kuo zhang guo kuai feng xian	129
+利率风险	li lv feng xian	141
+利息保障倍数	li xi bao zhang bei shu	330
+立项批复	li xiang pi fu	70
+连带责任保证	lian dai ze ren bao zheng	168
+流动比率	liu dong bi lv	333
+流动性风险	liu dong xing feng xian	125
+流动资产占比	liu dong zi chan zhan bi	346
+流动资金贷款	liu dong zi jin dai kuan	239
+流动资金贷款需求测算	liu dong zi jin dai kuan xu qiu ce suan	65
+绿色信贷标识	lv se xin dai biao zhi	9
+毛利率保持稳定	mao li lv bao chi wen ding	295
+毛利率高于行业平均	mao li lv gao yu hang ye ping jun	294
+贸易背景真实	mao yi bei jing zhen shi	375
+贸易背景真实性核查	mao yi bei jing zhen shi xing he cha	31
+贸易融资	mao yi rong zi	227
+密切关注行业动态	mi qie guan zhu hang ye dong tai	99
+民营背景	min ying bei jing	438
+名单筛查无异常	ming dan shai cha wu yi chang	58
+名单制管理	ming dan zhi guan li	21
+母子公司管控架构清晰	mu zi gong si guan kong jia gou qing xi	443
+纳税信用等级	na shui xin yong deng ji	470
+内部控制制度完善	nei bu kong zhi zhi du wan shan	449
+内销占比提升	nei xiao zhan bi ti sheng	360
+年检及备案手续完备	nian jian ji bei an shou xu wan bei	492
+排污许可证	pai wu xu ke zheng	73
+品牌知名度较高	pin pai zhi ming du jiao gao	369
+普惠金融口径	pu hui jin rong kou jing	8
+期间费用率	qi jian fei yong lv	269
+其他应付款	qi ta ying fu kuan	311
+其他应收款占比偏高	qi ta ying shou kuan zhan bi pian gao	314
+期限错配风险	qi xian cuo pei feng xian	126
+企业划型为中型企业	qi ye hua xing wei zhong xing qi ye	468
+前五大供应商采购占比	qian wu da gong ying shang cai gou zhan bi	356
+前五大客户销售占比	qian wu da ke hu xiao shou zhan bi	357
+区域市场竞争格局	qu yu shi chang jing zheng ge ju	406
+区域性龙头企业	qu yu xing long tou qi ye	416
+确保贷款用途真实合规	que bao dai kuan yong tu zhen shi he gui	94
+融资性保函	rong zi xing bao han	233
+三个办法一个指引	san ge ban fa yi ge zhi yin	13
+三会一层运作规范	san hui yi ceng yun zuo gui fan	451
+上市公司	shang shi gong si	436
+上下游议价能力较强	shang xia you yi jia neng li jiao qiang	419
+商业承兑汇票贴现	shang ye cheng dui hui piao tie xian	237
+商用房地产抵押	shang yong fang di chan di ya	183
+商誉减值风险	shang yu jian zhi feng xian	337
+涉房授信管控要求	she fang shou xin guan kong yao qiu	12
+设置预警指标	she zhi yu jing zhi biao	84
+申报材料齐全	shen bao cai liao qi quan	4
+申报程序合规	shen bao cheng xu he gui	3
+审查报告要素完整	shen cha bao gao yao su wan zheng	2
+审查意见如下	shen cha yi jian ru xia	114
+审计机构资质良好	shen ji ji gou zi zhi liang hao	254
+审批流程符合授权规定	shen pi liu cheng fu he shou quan gui ding	51
+生产开工率正常	sheng chan kai gong lv zheng chang	365
+市场波动风险	shi chang bo dong feng xian	146
+市场份额位居前列	shi chang fen e wei ju qian lie	418
+市场占有率稳步提升	shi chang zhan you lv wen bu ti sheng	370
+市场准入门槛提高	shi chang zhun ru men kan ti gao	397
+施工许可证	shi gong xu ke zheng	67
+实际控制人	shi ji kong zhi ren	497
+实际控制人从业经验丰富	shi ji kong zhi ren cong ye jing yan feng fu	454
+实际控制人风险	shi ji kong zhi ren feng xian	131
+实际控制人行业深耕多年	shi ji kong zhi ren hang ye shen geng duo nian	453
+实收资本	shi shou zi ben	319
+实质重于形式原则	shi zhi zhong yu xing shi yuan ze	22
+受宏观经济波动影响较大	shou hong guan jing ji bo dong ying xiang jiao da	413
+受托支付	shou tuo zhi fu	215
+受托支付比例	shou tuo zhi fu bi li	64
+受托支付凭证审核	shou tuo zhi fu ping zheng shen he	32
+收现比	shou xian bi	284
+受限资产规模较大	shou xian zi chan gui mo jiao da	316
+授信敞口	shou xin chang kou	248
+授信敞口覆盖倍数	shou xin chang kou fu gai bei shu	302
+授信集中度符合监管要求	shou xin ji zhong du fu he jian guan yao qiu	63
+授信期限一年	shou xin qi xian yi nian	242
+授信银行数量	shou xin yin hang shu liang	299
+授信有效期	shou xin you xiao qi	241
+受益所有人	shou yi suo you ren	496
+受益所有人识别完成	shou yi suo you ren shi bie wan cheng	57
+属于国家鼓励类产业	shu yu guo jia gu li lei chan ye	425
+双人实地调查	shuang ren shi di diao cha	54
+双碳政策影响	shuang tan zheng ce ying xiang	395
+水电气用量与产量匹配	shui dian qi yong liang yu chan liang pi pei	364
+四证齐全	si zheng qi quan	66
+速动比率	su dong bi lv	332
+诉讼仲裁风险	su song zhong cai feng xian	138
+损失类	sun shi lei	37
+所有者权益持续增长	suo you zhe quan yi chi xu zeng zhang	321
+特此报告	te ci bao gao	88
+替代产品威胁	ti dai chan pin wei xie	410
+提款条件	ti kuan tiao jian	213
+提前还款条款	ti qian huan kuan tiao kuan	200
+同比变动原因合理	tong bi bian dong yuan yin he li	252
+同意给予授信额度	tong yi ji yu shou xin e du	110
+同意上报有权审批行审批	tong yi shang bao you quan shen pi xing shen pi	90
+统一社会信用代码	tong yi she hui xin yong dai ma	499
+同意申报方案	tong yi shen bao fang an	111
+统一授信管理	tong yi shou xin guan li	24
+投资活动现金净流出	tou zi huo dong xian jin jing liu chu	278
+投资项目回报不及预期	tou zi xiang mu hui bao bu ji yu qi	127
+投资性房地产	tou zi xing fang di chan	306
+土地使用权抵押	tu di shi yong quan di ya	182
+妥否请批示	tuo fou qing pi shi	89
+未分配利润持续积累	wei fen pei li run chi xu ji lei	320
+未列入经营异常名录	wei lie ru jing ying yi chang ming lu	489
+未使用授信额度充足	wei shi yong shou xin e du chong zu	298
+我行结算往来稳定	wo hang jie suan wang lai wen ding	484
+我行作为保险第一受益人	wo hang zuo wei bao xian di yi shou yi ren	160
+无不良信用记录	wu bu liang xin yong ji lu	487
+无程序倒挂情形	wu cheng xu dao gua qing xing	49
+无化整为零发放贷款情形	wu hua zheng wei ling fa fang dai kuan qing xing	47
+五级分类	wu ji fen lei	42
+无先放款后补手续情形	wu xian fang kuan hou bu shou xu qing xing	48
+无形资产占比合理	wu xing zi chan zhan bi he li	338
+无逾期欠息记录	wu yu qi qian xi ji lu	486
+无越权审批情形	wu yue quan shen pi qing xing	50
+无重大安全生产事故	wu zhong da an quan sheng chan shi gu	350
+无重大股权质押冻结情形	wu zhong da gu quan zhi ya dong jie qing xing	446
+无重大行政处罚记录	wu zhong da xing zheng chu fa ji lu	491
+无重大遗漏	wu zhong da yi lou	5
+细分行业领先企业	xi fen hang ye ling xian qi ye	415
+系统录入信息准确完整	xi tong lu ru xin xi zhun que wan zheng	52
+下游需求回暖	xia you xu qiu hui nuan	402
+下游需求疲软	xia you xu qiu pi ruan	401
+限额管理	xian e guan li	15
+现金比率	xian jin bi lv	331
+现金到期债务比	xian jin dao qi zhai wu bi	277
+现金流量利息保障倍数	xian jin liu liang li xi bao zhang bei shu	276
+现金流与利润匹配度较高	xian jin liu yu li run pi pei du jiao gao	281
+线上销售渠道拓展	xian shang xiao shou qu dao tuo zhan	359
+项目贷款	xiang mu dai kuan	226
+项目资本金比例符合要求	xiang mu zi ben jin bi li fu he yao qiu	72
+销售回款情况良好	xiao shou hui kuan qing kuang liang hao	372
+信贷档案管理规范	xin dai dang an guan li gui fan	25
+新基建	xin ji jian	392
+新三板挂牌企业	xin san ban gua pai qi ye	435
+信息披露及时准确	xin xi pi lu ji shi zhun que	439
+新增客户准入意见	xin zeng ke hu zhun ru yi jian	80
+需进一步核实	xu jin yi bu he shi	102
+循环额度	xun huan e du	244
+押品重估频率	ya pin chong gu pin lv	163
+押品价值重检	ya pin jia zhi chong jian	162
+押品足值有效	ya pin zu zhi you xiao	155
+研发投入占比	yan fa tou ru zhan bi	367
+严格落实放款条件	yan ge luo shi fang kuan tiao jian	95
+业绩波动较大	ye ji bo dong jiao da	263
+业务品种	ye wu pin zhong	240
+以上报告请审议	yi shang bao gao qing shen yi	87
+以销定产模式	yi xiao ding chan mo shi	353
+一致行动人	yi zhi xing dong ren	432
+银行承兑汇票	yin hang cheng dui hui piao	238
+银行承兑汇票质押	yin hang cheng dui hui piao zhi ya	174
+银企合作关系良好	yin qi he zuo guan xi liang hao	462
+隐性债务核查	yin xing zhai wu he cha	10
+应付票据规模	ying fu piao ju gui mo	310
+盈利对债务覆盖能力较强	ying li dui zhai wu fu gai neng li jiao qiang	271
+盈利可持续性较强	ying li ke chi xu xing jiao qiang	264
+盈利水平低于行业平均	ying li shui ping di yu hang ye ping jun	292
+应收账款保理	ying shou zhang kuan bao li	231
+应收账款回收风险	ying shou zhang kuan hui shou feng xian	144
+应收账款集中度较高	ying shou zhang kuan ji zhong du jiao gao	343
+应收账款账龄结构合理	ying shou zhang kuan zhang ling jie gou he li	345
+应收账款质押	ying shou zhang kuan zhi ya	177
+应收账款质押登记	ying shou zhang kuan zhi ya deng ji	149
+应收账款周转率	ying shou zhang kuan zhou zhuan lv	344
+影像资料留存完整	ying xiang zi liao liu cun wan zheng	53
+营业收入同比小幅下滑	ying ye shou ru tong bi xiao fu xia hua	296
+盈余公积	ying yu gong ji	317
+盈余现金保障倍数	ying yu xian jin bao zhang bei shu	275
+营运资金缺口测算	ying yun zi jin que kou ce suan	274
+营运资金周转次数	ying yun zi jin zhou zhuan ci shu	273
+用地规划许可证	yong di gui hua xu ke zheng	69
+用电量同比稳定	yong dian liang tong bi wen ding	363
+有权审批人	you quan shen pi ren	20
+有条件同意	you tiao jian tong yi	109
+有息负债规模可控	you xi fu zhai gui mo ke kong	329
+有息负债占比下降	you xi fu zhai zhan bi xia jiang	328
+预付账款账龄	yu fu zhang kuan zhang ling	312
+预警信息处置	yu jing xin xi chu zhi	17
+预收账款	yu shou zhang kuan	308
+原材料价格波动风险	yuan cai liao jia ge bo dong feng xian	408
+在风险可控的前提下	zai feng xian ke kong de qian ti xia	92
+在建工程抵押	zai jian gong cheng di ya	181
+在建工程进度正常	zai jian gong cheng jin du zheng chang	339
+在落实以下条件后同意	zai luo shi yi xia tiao jian hou tong yi	108
+再融资渠道通畅	zai rong zi qu dao tong chang	300
+在手订单金额充足	zai shou ding dan jin e chong zu	381
+在我行开立基本结算账户	zai wo hang kai li ji ben jie suan zhang hu	461
+在我行开立一般结算账户	zai wo hang kai li yi ban jie suan zhang hu	460
+增值税发票核验	zeng zhi shui fa piao he yan	30
+债务期限结构合理	zhai wu qi xian jie gou he li	325
+战略性新兴产业	zhan lue xing xin xing chan ye	387
+政策变动风险	zheng ce bian dong feng xian	140
+政策敏感性较强	zheng ce min gan xing jiao qiang	412
+正常类	zheng chang lei	41
+政府补助依赖度	zheng fu bu zhu yi lai du	265
+政府融资平台名单	zheng fu rong zi ping tai ming dan	11
+整体风险可控	zheng ti feng xian ke kong	123
+征信记录良好	zheng xin ji lu liang hao	488
+知识产权质押	zhi shi chan quan zhi ya	171
+质押率	zhi ya lv	178
+制造业单项冠军	zhi zao ye dan xiang guan jun	390
+注册资本实缴到位	zhu ce zi ben shi jiao dao wei	495
+主要风险点	zhu yao feng xian dian	148
+主业聚焦度较高	zhu ye ju jiao du jiao gao	385
+主营业务收入同比增长	zhu ying ye wu shou ru tong bi zeng zhang	297
+主营业务突出	zhu ying ye wu tu chu	386
+专精特新	zhuan jing te xin	391
+专利储备丰富	zhuan li chu bei feng fu	366
+资本公积	zi ben gong ji	318
+资本金到位情况	zi ben jin dao wei qing kuang	71
+资产负债率处于合理水平	zi chan fu zhai lv chu yu he li shui ping	336
+资产负债率低于行业均值	zi chan fu zhai lv di yu hang ye jun zhi	335
+资产负债率高于行业均值	zi chan fu zhai lv gao yu hang ye jun zhi	334
+资产规模稳步增长	zi chan gui mo wen bu zeng zhang	348
+资产结构总体合理	zi chan jie gou zong ti he li	347
+资金归行率较高	zi jin gui xing lv jiao gao	459
+资金流向监控	zi jin liu xiang jian kong	33
+资金挪用风险	zi jin nuo yong feng xian	135
+资料真实性完整性	zi liao zhen shi xing wan zheng xing	6
+自由现金流充裕	zi you xian jin liu chong yu	280
+自主支付	zi zhu zhi fu	214
+综合贡献度	zong he gong xian du	209
+综合判断	zong he pan duan	115
+综合授信额度	zong he shou xin e du	250
+综合收益测算	zong he shou yi ce suan	210
+总量控制	zong liang kong zhi	196
+综上所述	zong shang suo shu	118
+总体来看	zong ti lai kan	117
+总资产报酬率	zong zi chan bao chou lv	290
+总资产周转率	zong zi chan zhou zhuan lv	304
+最高额保证	zui gao e bao zheng	167
+最高额抵押	zui gao e di ya	179
+最高综合授信额度	zui gao zong he shou xin e du	249

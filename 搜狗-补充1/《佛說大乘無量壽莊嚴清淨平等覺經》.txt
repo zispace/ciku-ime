@@ -1,0 +1,3202 @@
+# 词库名称: 《佛說大乘無量壽莊嚴清淨平等覺經》
+# 词库分类: 佛教
+# 词库描述: 《佛說大乘無量壽莊嚴清淨平等覺經》
+# 词条样例: 如是我聞、其名曰、尊者舍利弗、尊者阿難等、而為上首
+# 解析词数: 3195
+# 解析异常: 0
+
+阿闍王子	a du wang zi	2351
+阿羅漢	a luo han	2051
+阿彌陀佛	a mi tuo fo	2255
+阿彌陀佛化現其身	a mi tuo fo hua xian qi shen	1728
+阿彌陀佛即於掌中放無量光	a mi tuo fo ji yu zhang zhong fang mo liang guang	593
+阿彌陀佛威神光明	a mi tuo fo wei shen guang ming	2276
+阿彌陀佛種種功德	a mi tuo fo zhong zhong gong de	603
+阿彌陀國	a mi tuo guo	1421
+阿難	a nuo	3007
+阿難白佛	a nuo bai fo	1484
+阿難白言	a nuo bai yan	2297
+阿難當知	a nuo dang zhi	2995
+阿難諦聽	a nuo di ting	2982
+阿難對曰	a nuo dui yue	500
+阿難及諸菩薩眾等	a nuo ji zhu pu sa zhong deng	543
+阿難即從座起	a nuo ji zong zuo qi	616
+阿難聞佛所說	a nuo wen fo suo shuo	2376
+阿難聞已	a nuo wen yi	2304
+阿難應知	a nuo ying zhi	1927
+阿逸多	a yi duo	181
+愛保貪重	ai bao tan zhong	924
+愛欲榮華	ai yu rong hua	1086
+哀哉可傷	ai zai ke shang	1125
+岸邊無數栴檀香樹	an bian mo shuo zhan tan xiang shu	2034
+廣博嚴淨	an bo yan jing	2574
+廣大勝解	an da sheng jie	197
+廣大圓滿之相	an da yuan man zhi xiang	2848
+安定徐為	an ding xu wei	707
+廣度諸有情	an du zhu you qing	2489
+安和調適	an he tiao shi	1853
+廣施功德寶	an shi gong de bao	2495
+廣為他說	an wei ta shuo	195
+安穩得大利	an wen de da li	1601
+安穩光	an wen guang	2239
+廣狹方圓	an xia fang yuan	1877
+廣演諸佛無量妙剎	an yan zhu fo mo liang miao cha	2855
+安樂	an yue	1265
+安住神通	an zhu shen tong	1350
+安住一切功德法中	an zhu yi qie gong de fa zhong	3157
+八不貪	ba bu tan	1669
+拔斷生死眾惡之本	ba duan sheng si zhong e zhi ben	723
+八方	ba fang	1501
+八方上下	ba fang shang xia	1423
+拔生死之苦	ba sheng si zhi ku	642
+八十種好	ba shi zhong hao	2395
+八天耳通願	ba tian er tong yuan	2759
+拔諸愛欲	ba zhu ai yu	1055
+拔諸勤苦生死根本	ba zhu qin ku sheng si gen ben	2889
+敗壞賢明	bai huai xian ming	874
+敗悔在後	bai hui zai hou	705
+百千光色	bai qian guang se	1540
+百千妙色	bai qian miao se	1888
+百千萬劫	bai qian wan jie	1273
+百千萬色	bai qian wan se	2112
+百千萬億	bai qian wan yi	1929
+白色白光	bai se bai guang	1825
+白世尊言	bai shi zun yan	2375
+百味飲食	bai wei yin shi	1904
+白言世尊	bai yan shi zun	2819
+白銀為身	bai yin wei shen	2155
+寶剎莊嚴	bao cha zhuang yan	3042
+寶蓮佛光第二十一	bao lian fo guang di er shi yi	1831
+苞羅表裏	bao luo biao li	1229
+寶沙映澈	bao sha ying che	2002
+寶樹徧國第十四	bao shu bian guo di shi si	2176
+寶網彌覆	bao wang mi fu	1884
+寶英菩薩	bao ying pu sa	3163
+寶帳金牀	bao zhang jin chuang	389
+寶幢菩薩	bao zhuang pu sa	3169
+被弘誓鎧	bei hong shi kai	2621
+備受危苦	bei shou wei ku	98
+本其前世求道	ben qi qian shi qiu dao	2261
+本其為菩薩時	ben qi wei pu sa shi	1417
+本願力故	ben yuan li gu	2076
+必成正覺第七	bi cheng zheng jue di qi	2530
+彼處華胎	bi chu hua tai	364
+必得超絕去	bi de chao jue qu	1210
+彼等所種善根	bi deng suo zhong shan gen	328
+彼等為我弟子	bi deng wei wo di zi	2333
+比第六天	bi di liu tian	1946
+彼二菩薩	bi er pu sa	1483
+彼佛剎中	bi fo cha zhong	1465
+彼佛剎中一切菩薩	bi fo cha zhong yi qie pu sa	1409
+彼佛光明	bi fo guang ming	565
+彼佛國土	bi fo guo tu	1803
+彼佛國中	bi fo guo zhong	1432
+彼佛國中諸菩薩眾	bi fo guo zhong zhu pu sa zhong	1503
+彼佛淨剎	bi fo jing cha	601
+彼佛會中	bi fo kuai zhong	2198
+彼佛如來	bi fo ru lai	2369
+彼佛壽量	bi fo shou liang	2182
+彼國菩薩	bi guo pu sa	1558
+彼國人民有胎生者	bi guo ren min you tai sheng zhe	481
+比海孰多	bi hai shu duo	2187
+彼化生者	bi hua sheng zhe	407
+彼極樂國	bi ji yue guo	1966
+彼極樂界	bi ji yue jie	2326
+彼蓮華量	bi lian hua liang	1819
+彼無量億諸菩薩等	bi mo liang yi zhu pu sa deng	215
+彼目犍連等所知數者	bi mu jian lian deng suo zhi shuo zhe	2186
+彼人臨終	bi ren lin zhong	163
+彼如來國	bi ru lai guo	2175
+閉塞諸惡道	bi sai zhu e dao	2498
+彼見此土	bi xian ci tu	518
+彼有無數諸菩薩眾	bi you mo shuo zhu pu sa zhong	263
+彼有七百九十億大菩薩眾	bi you qi bai jiu shi yi da pu sa zhong	252
+彼幽縶時	bi you zhi shi	379
+必於無量尊	bi yu mo liang zun	1575
+彼於前世住菩薩道	bi yu qian shi zhu pu sa dao	2337
+比之忉利天王	bi zhi dao li tian wang	1949
+必至無上道	bi zhi mo shang dao	2525
+彼中清淨	bi zhong qing jing	362
+彼諸菩薩	bi zhu pu sa	1374
+彼諸有情	bi zhu you qing	18
+辯才總持	bian cai zong chi	1391
+便持經戒	bian chi jing jie	2680
+邊地疑城第四十	bian di yi cheng di si shi	471
+徧佛剎不	bian fo cha bu	501
+徧滿佛土	bian man fo tu	1848
+便一其心	bian yi qi xin	2837
+徧遊佛剎	bian you fo cha	1378
+徧遊一切佛土	bian you yi qie fo tu	3092
+便於七寶華中自然化生	bian yu qi bao hua zhong zi ran hua sheng	1752
+徧照東方恆沙佛剎	bian zhao dong fang heng sha fo cha	2273
+徧至十方供養諸佛不	bian zhi shi fang gong yang zhu fo bu	491
+徧諸佛國	bian zhu fo guo	2102
+表裏相應	biao li xiang ying	1036
+兵戈無用	bing ge mo yong	653
+病極苦痛	bing ji ku tong	1042
+並現種種希有神變	bing xian zhong zhong xi you shen bian	14
+波羅密多	bo luo mi duo	2753
+波羅密聲	bo luo mi sheng	1996
+鉢曇摩華	bo tan mo hua	2021
+波揚無量微妙音聲	bo yang mo liang wei miao yin sheng	1998
+不存師友之義	bu cun shi you zhi yi	822
+不但我剎諸菩薩等	bu dan wo cha zhu pu sa deng	284
+不當瞋怒	bu dang chen nu	1652
+不得出現	bu de chu xian	365
+不得供養奉事諸佛	bu de gong yang feng shi zhu fo	359
+不得狐疑要當孝順	bu de hu yi yao dang xiao shun	1649
+不得虧失思惟熟計	bu de kui shi si wei shu ji	1646
+不得是願	bu de shi yuan	2786
+不得貪餮慳惜不得中悔	bu de tan tie qian xi bu de zhong hui	1650
+不得修習功德	bu de xiu xi gong de	401
+不斷絕者	bu duan jue zhe	1642
+不犯諸惡	bu fan zhu e	711
+不復更墮惡趣	bu fu geng hui e qu	2789
+不敢蹉跌	bu gan cuo die	1241
+不敢違失	bu gan wei shi	624
+不敢有疑	bu gan you yi	1013
+不顧前後	bu gu qian hou	927
+不鼓自然皆作五音	bu gu zi ran jie zuo wu yin	528
+不譏他過	bu ji ta guo	2435
+不及天界	bu ji tian jie	334
+不計眾苦	bu ji zhong ku	2453
+不驚不怖	bu jing bu bu	1659
+不可常保	bu ke chang bao	1085
+不可稱計	bu ke cheng ji	2216
+不可稱說	bu ke cheng shuo	1267
+不可稱智	bu ke cheng zhi	466
+不可復計	bu ke fu ji	1439
+不可計倍	bu ke ji bei	1928
+不可諫曉	bu ke jian xiao	827
+不可勝視	bu ke sheng shi	2139
+不可勝數	bu ke sheng shuo	1433
+不可勝言	bu ke sheng yan	1411
+不可思議	bu ke si yi	3067
+不可思議功德	bu ke si yi gong de	1777
+不可思議業力所致	bu ke si yi ye li suo zhi	2296
+不可為比	bu ke wei bi	1930
+不可限極	bu ke xian ji	2308
+不肯施惠	bu ken shi hui	747
+不肯施與	bu ken shi yu	925
+不肯為善	bu ken wei shan	978
+不肯作善	bu ken zuo shan	843
+不離情欲	bu li qing yu	1105
+不良之人	bu liang zhi ren	903
+不了佛智	bu liao fo zhi	468
+不能超過億那由他百千佛剎	bu neng chao guo yi na you ta bai qian fo cha	2752
+不能得出	bu neng de chu	433
+不能開導於他路	bu neng kai dao yu ta lu	72
+不能了知建立彼因故	bu neng le zhi jian li bi yin gu	1785
+不能離相	bu neng li xiang	327
+不能前至無量壽所	bu neng qian zhi mo liang shou suo	443
+不能窮盡	bu neng qiong jin	1272
+不能忍辱	bu neng ren ru	740
+不能深思熟計	bu neng shen si shu ji	1104
+不能生信	bu neng sheng xin	453
+不能隨意高大	bu neng sui yi gao da	431
+不能現證不退轉者	bu neng xian zheng bu tui zhuan zhe	2534
+不能憂念	bu neng you nian	824
+不念修善	bu nian xiu shan	880
+不起貪瞋癡欲諸想	bu qi tan chen chi yu zhu xiang	2461
+不求佛剎	bu qiu fo cha	330
+不求佛慧	bu qiu fo hui	326
+不求生彼	bu qiu sheng bi	332
+不取無上正覺	bu qu mo shang zheng jue	2785
+不取正覺	bu qu zheng jue	2771
+不取正觉	bu qu zheng jue	2627
+不仁不順	bu ren bu shun	811
+不如堅勇求正覺	bu ru jian yong qiu zheng jue	2911
+不如無子	bu ru mo zi	838
+不入一切種類珍寶成就牢獄	bu ru yi qie zhong lei zhen bao cheng jiu lao yu	182
+不生退屈諂偽之心	bu sheng tui qu chan wei zhi xin	218
+不生違背	bu sheng wei bei	212
+不生欣樂	bu sheng xin yue	356
+不生疑惑	bu sheng yi huo	1716
+不生憂惱	bu sheng you nao	168
+不識道德	bu shi dao de	1123
+不失定意	bu shi ding yi	2546
+布施累劫	bu shi lei jie	3015
+不失律儀	bu shi lv yi	2433
+不失其所願也	bu shi qi suo yuan ye	1630
+不識人情	bu shi ren qing	829
+不受惡趣	bu shou e qu	1450
+不順法度	bu shun fa du	944
+不思慕及	bu si mu ji	915
+不思議光	bu si yi guang	2237
+不思議業	bu si yi ye	2295
+不思議智	bu si yi zhi	467
+不退菩薩	bu tui pu sa	293
+不退菩薩當往生者	bu tui pu sa dang wang sheng zhe	268
+不惟父母之恩	bu wei fu mu zhi en	823
+不為預計	bu wei yu ji	2256
+不為增多	bu wei zeng duo	1430
+不為眾惡	bu wei zhong e	1009
+不聞經法	bu wen jing fa	428
+不聞三途惡惱苦難之名	bu wen san tu e nao ku nuo zhi ming	1972
+不誤傾邪	bu wu qing xie	1243
+不務修善	bu wu xiu shan	739
+不暇大修齋戒一心清淨	bu xia da xiu zhai jie yi xin qing jing	1655
+不見菩薩聲聞聖眾	bu xian pu sa sheng wen sheng zhong	427
+不見三寶	bu xian san bao	403
+不相及逮	bu xiang ji dai	1938
+不相類也	bu xiang lei ye	1944
+不孝父母	bu xiao fu mu	873
+不信經法	bu xin jing fa	1131
+不信生死善惡	bu xin sheng si shan e	818
+不欣世語	bu xin shi yu	1365
+不信向耳	bu xin xiang er	116
+不信諸佛經法	bu xin zhu fo jing fa	819
+不也	bu ye	380
+不應疑悔	bu ying yi hui	216
+不由他悟	bu you ta wu	1348
+不豫修善	bu yu xiu shan	801
+不雜餘寶	bu za yu bao	2165
+不知菩薩法式	bu zhi pu sa fa shi	402
+不知生所從來	bu zhi sheng suo zong lai	813
+不知為善	bu zhi wei shan	987
+不種善根	bu zhong shan gen	313
+不著如風	bu zhu ru feng	1332
+不著色聲香味觸法	bu zhu se sheng xiang wei chu fa	2460
+不自慚懼	bu zi can ju	864
+才達	cai da	972
+才猛智慧	cai meng zhi hui	1258
+殘害殺傷	can hai sha shang	989
+層樓綺殿	ceng lou qi dian	390
+曾無一善	ceng mo yi shan	820
+禪定	chan ding	2421
+常不見佛	chang bu xian fo	429
+常處輪迴而不自在	chang chu lun hui er bu zi zai	315
+暢發和雅音	chang fa he ya yin	1606
+長跪合掌	chang gui he zhang	3035
+常懷慈忍	chang huai ci ren	2446
+常懷盜心	chang huai dao xin	914
+常懷驕慢	chang huai jiao man	862
+常懷邪惡	chang huai xie e	901
+長久廣大	chang jiu an da	1420
+常念不絕	chang nian bu jue	88
+常念師恩	chang nian shi en	94
+常念婬妷	chang nian yin yi	900
+嘗其果味	chang qi guo wei	2094
+常如一法	chang ru yi fa	1431
+常識宿命	chang shi su ming	1448
+常為諸佛所共稱讚	chang wei zhu fo suo gong cheng zan	1283
+常習相應無邊諸行	chang xi xiang ying mo bian zhu xing	3124
+常行布施及戒忍	chang xing bu shi ji jie ren	2916
+常修殊勝梵行	chang xiu shu sheng fan xing	2654
+長夜無憂惱	chang ye mo you nao	2519
+常以法音	chang yi fa yin	3139
+常樂修行	chang yue xiu xing	194
+常運慈心拔有情	chang yun ci xin ba you qing	2904
+常在阿彌陀佛左右	chang zai a mi tuo fo zuo you	1475
+常照光	chang zhao guang	2243
+長者	chang zhe	974
+常作天人師	chang zuo tian ren shi	2492
+超過無邊惡趣門	chao guo mo bian e qu men	2924
+超過世間諸所有法	chao guo shi jian zhu suo you fa	3087
+超過於彼	chao guo yu bi	2825
+超日月光	chao ri yue guang	2238
+超勝獨妙	chao sheng du miao	2466
+超世希有	chao shi xi you	1964
+超世希有第十八	chao shi xi you di shi ba	1967
+朝聞夕改	chao wen xi gai	668
+超於日月	chao yu ri yue	1341
+超踰十方一切世界	chao yu shi fang yi qie shi jie	2305
+徹聽	che ting	2763
+徹照十方無量無數	che zhao shi fang mo liang mo shuo	2572
+瞋恚愚癡	chen hui yu chi	933
+塵勞垢習	chen lao gou xi	1856
+成大困劇	cheng da kun ju	749
+乘佛威德悉能超	cheng fo wei de xi neng chao	64
+承佛威神	cheng fo wei shen	1557
+成佛以來	cheng fo yi lai	2358
+成就無量功德	cheng jiu mo liang gong de	1370
+成就菩提果	cheng jiu pu ti guo	2517
+成就善根	cheng jiu shan gen	235
+成就一切智慧	cheng jiu yi qie zhi hui	2632
+成無上菩提	cheng mo shang pu ti	19
+稱念南無阿彌陀佛	cheng nian nan mo a mi tuo fo	617
+稱念南無阿彌陀三藐三佛陀	cheng nian nan mo a mi tuo san miao san fo tuo	539
+稱其形色	cheng qi xing se	1885
+成熟菩薩無邊善根	cheng shu pu sa mo bian shan gen	3123
+成熟善根	cheng shu shan gen	1985
+稱揚讚歎	cheng yang zan tan	604
+稱讚佛土功德莊嚴	cheng zan fo tu gong de zhuang yan	1616
+稱讚無量壽佛	cheng zan mo liang shou fo	1778
+成正覺已	cheng zheng jue yi	2802
+成最正覺	cheng zui zheng jue	3142
+癡惡	chi e	981
+持戒	chi jie	2424
+池流	chi liu	2564
+熾盛如火	chi sheng ru huo	1334
+持誦說行	chi song shuo xing	155
+癡欲所迫	chi yu suo po	744
+持諸禁戒	chi zhu jin jie	1693
+重重誨勉第三十六	chong chong hui mian di san shi liu	765
+崇德興仁	chong de xing ren	652
+愁痛酷毒	chou tong ku du	754
+除其本願為眾生故	chu qi ben yuan wei zhong sheng gu	2622
+觸其光影	chu qi guang ying	2093
+出入供養	chu ru gong yang	1261
+出三十六百千億佛	chu san shi liu bai qian yi fo	1813
+出三十六百千億光	chu san shi liu bai qian yi guang	1815
+出生善根	chu sheng shan gen	1295
+出生眾善根	chu sheng zhong shan gen	2518
+出隨喜聲	chu sui xi sheng	9
+出微妙音	chu wei miao yin	1863
+出五音聲	chu wu yin sheng	2137
+處於宮殿	chu yu gong dian	476
+出於海面	chu yu hai mian	550
+出種種香	chu zhong zhong xiang	2028
+出種種音	chu zhong zhong yin	487
+吹諸羅網	chui zhu luo wang	1865
+吹諸枝葉	chui zhu zhi ye	2105
+純白銀樹	chun bai yin shu	2172
+淳淨溫和	chun jing wen he	1304
+此寶所成	ci bao suo cheng	2160
+此等眾生	ci deng zhong sheng	1756
+此二菩薩	ci er pu sa	1478
+此皆無量壽佛	ci jie mo liang shou fo	2078
+此皆無量壽佛本願加威	ci jie mo liang shou fo ben yuan jia wei	1511
+此會四眾	ci kuai si zhong	559
+此毛塵水	ci mao chen shui	2188
+此人臨命終時	ci ren lin ming zhong shi	1703
+此人臨終	ci ren lin zhong	1713
+次如上輩者也	ci ru shang bei zhe ye	1719
+慈氏白言	ci shi bai yan	484
+慈氏述見第三十九	ci shi shu xian di san shi jiu	513
+慈心教誨	ci xin jiao hui	809
+慈心清淨	ci xin qing jing	129
+慈心專一	ci xin zhuan yi	698
+慈心作善	ci xin zuo shan	2733
+此亦為難	ci yi wei nuo	135
+此諸菩薩	ci zhu pu sa	3115
+此諸眾生	ci zhu zhong sheng	371
+叢林	cong lin	581
+摧伏一切魔軍	cui fu yi qie mo jun	1294
+大乘廣智	da cheng an zhi	465
+大慈大悲喜捨聲	da ci da bei xi she sheng	1991
+大慈等故	da ci deng gu	1325
+大慈聽察	da ci ting cha	2804
+大地清淨	da di qing jing	1837
+大教緣起第三	da jiao yuan qi di san	3056
+大命將終	da ming jiang zhong	803
+大千應感動	da qian ying gan dong	2485
+大士神光第二十八	da shi shen guang di er shi ba	1504
+大士所修堅固之法	da shi suo xiu jian gu zhi fa	256
+大小諸山	da xiao zhu shan	583
+大修功德	da xiu gong de	1739
+大丈夫相	da zhang fu xiang	2776
+達眾生相	da zhong sheng xiang	3112
+淡安無欲	dan an mo yu	1234
+但得前行	dan de qian xing	851
+耽酒	dan jiu	833
+但說其名	dan shuo qi ming	248
+但為將來眾生	dan wei jiang lai zhong sheng	2280
+但見色聞香	dan xian se wen xiang	1900
+但以酬願度生	dan yi chou yuan du sheng	2364
+但以世智聰辯	dan yi shi zhi cong bian	312
+但以種種方便	dan yi zhong zhong fang bian	377
+但因順餘方俗	dan yin shun yu fang su	1961
+但有自然快樂之音	dan you zi ran kuai yue zhi yin	1969
+但樂憶念	dan yue yi nian	2459
+但自歸命觀世音菩薩	dan zi gui ming guan shi yin pu sa	1468
+當發無上菩提之心	dang fa mo shang pu ti zhi xin	1738
+當獲廣大一切智智	dang huo an da yi qie zhi zhi	199
+當獲如上所說功德	dang huo ru shang suo shuo gong de	238
+當堅持之	dang jian chi zhi	92
+當來之世	dang lai zhi shi	146
+當來諸天人民	dang lai zhu tian ren min	3010
+當歷惡趣	dang li e qu	761
+當離三途	dang li san tu	722
+當令是法久住不滅	dang ling shi fa jiu zhu bu mie	93
+當起精進	dang qi jing jin	221
+當勤精進	dang qin jing jin	1082
+當求度世	dang qiu du shi	724
+當求者	dang qiu zhe	188
+當日沒處	dang ri mo chu	619
+當入其中	dang ru qi zhong	733
+當生彼國	dang sheng bi guo	287
+當生佛剎	dang sheng fo cha	299
+當生極樂國者	dang sheng ji yue guo zhe	292
+當時快意	dang shi kuai yi	741
+當斯之時	dang si zhi shi	847
+當往生者	dang wang sheng zhe	285
+當相敬愛	dang xiang jing ai	1165
+當孝於佛	dang xiao yu fo	95
+當信作善得福奉持如是等法	dang xin zuo shan de fu feng chi ru shi deng fa	1647
+當有眾生	dang you zhong sheng	204
+當雨珍妙華	dang yu zhen miao hua	2483
+當知此人	dang zhi ci ren	399
+當知此人非是小乘	dang zhi ci ren fei shi xiao cheng	233
+當知此人為得大利	dang zhi ci ren wei de da li	239
+當知疑惑	dang zhi yi huo	343
+當自端身	dang zi duan shen	717
+當自端心	dang zi duan xin	718
+當作佛者	dang zuo fo zhe	1434
+道場樹高	dao chang shu gao	2583
+道路不同	dao lu bu tong	1144
+道止佛國界邊	dao zhi fo guo jie bian	442
+得阿那含果	de a na han guo	41
+得報之時	de bao zhi shi	321
+得不退忍	de bu tui ren	33
+得不退轉	de bu tui zhuan	1766
+得大善利	de da shan li	2810
+得道往生	de dao wang sheng	1493
+得法眼淨	de fa yan jing	43
+德風華雨第二十	de feng hua yu di er shi	1869
+得佛辯才	de fo bian cai	3091
+得名第一弟子	de ming di yi di zi	231
+得無生無滅諸三摩地	de mo sheng mo mie zhu san mo di	3099
+得泥洹道	de ni huan dao	1435
+得平等住	de ping deng zhu	2538
+得清淨信	de qing jing xin	2673
+得生其國	de sheng qi guo	2220
+德首佛剎	de shou fo cha	271
+得授記法忍	de shou ji fa ren	20
+得未曾有	de wei ceng you	600
+得微妙法	de wei miao fa	3143
+得為三界雄	de wei san jie xiong	2491
+得聞阿彌陀佛名號	de wen a mi tuo fo ming hao	243
+得聞如是種種聲已	de wen ru shi zhong zhong sheng yi	1989
+得一乘道	de yi cheng dao	1349
+得至清淨處	de zhi qing jing chu	1576
+德遵普賢第二	de zun pu xian di er	3176
+得是願	dei shi yuan	2788
+等正覺	deng zheng jue	2972
+地布金沙	di bu jin sha	2023
+第六天王	di liu tian wang	1943
+抵突	di tu	830
+帝王若比轉輪聖王	di wang ruo bi zhuan lun sheng wang	1955
+顛倒相續	dian dao xiang xu	1134
+迭相顧戀	die xiang gu lian	1109
+迭相吞噉	die xiang tun dan	988
+頂禮白言	ding li bai yan	614
+頂禮長跪	ding li chang gui	2943
+頂禮供養	ding li gong yang	1661
+頂禮之間	ding li zhi jian	610
+定生彼國	ding sheng bi guo	1700
+定中常供無量無邊一切諸佛	ding zhong chang gong mo liang mo bian yi qie zhu fo	2547
+東北方寶藏佛剎	dong bei fang bao cang fo cha	279
+洞達無邊際	dong da mo bian ji	1213
+洞達無極	dong da mo ji	1066
+東方恆河沙數世界	dong fang heng he sha shuo shi jie	1783
+東方諸佛剎	dong fang zhu fo cha	1614
+動作瞻視	dong zuo zhan shi	708
+都不之信	dou bu zhi xin	1118
+鬭亂僧眾	dou luan seng zhong	816
+都無所信	dou mo suo xin	121
+都無所著	dou mo suo zhu	2426
+都入海中	dou ru hai zhong	1426
+都勝無數諸佛國者	dou sheng mo shuo zhu fo guo zhe	2878
+都悉集會七寶講堂	dou xi ji kuai qi bao jiang tang	1526
+杜惡趣	du e qu	3075
+獨佛知耳	du fo zhi er	785
+度盡無邊苦眾生	du jin mo bian ku zhong sheng	2903
+獨留此經第四十五	du liu ci jing di si shi wu	154
+覩菩提樹	du pu ti shu	2097
+覩其面像	du qi mian xiang	2575
+獨去獨來	du qu du lai	1149
+獨生獨死	du sheng du si	1150
+覩斯光者	du si guang zhe	537
+讀誦	du song	171
+讀誦讚演並供養	du song zan yan bing gong yang	68
+度未度者	du wei du zhe	1050
+杜眾惡源	du zhong e yuan	1054
+度諸有情	du zhu you qing	1386
+獨作諸善	du zuo zhu shan	769
+斷除疑惑	duan chu yi huo	418
+端身正念	duan shen zheng nian	772
+端心正意	duan xin zheng yi	1010
+端圓周匝	duan yuan zhou za	1542
+端正淨潔	duan zheng jing jie	2775
+頓奪其壽	dun duo qi shou	1093
+多所饒益	duo suo rao yi	2996
+多有菩薩	duo you pu sa	211
+多諸寶樹	duo zhu bao shu	2174
+惡臭不淨	e chou bu jing	1040
+惡道不絕	e dao bu jue	781
+惡道自閉塞	e dao zi bi sai	1207
+餓鬼	e gui	2797
+惡驕懈怠及邪見	e jiao xie dai ji xie xian	75
+惡口	e kou	878
+惡氣冥冥	e qi ming ming	1097
+惡趣	e qu	2322
+惡人行惡	e ren xing e	789
+恩德布施八方上下	en de bu shi ba fang shang xia	1414
+而白佛言	er bai fo yan	3034
+二不墮惡趣願	er bu hui e qu yuan	2783
+而不肯為	er bu ken wei	894
+而不肯信	er bu ken xin	808
+而不求生	er bu qiu sheng	337
+二不偷盜	er bu tou dao	1675
+而不雜亂	er bu za luan	1846
+而常安住不生不滅諸三摩地	er chang an zhu bu sheng bu mie zhu san mo di	1281
+而得自在	er de zi zai	2384
+而得最勝自在故	er dei zui sheng zi zai gu	2983
+而無便穢	er mo bian hui	1897
+耳目口鼻	er mu kou bi	716
+而能成就佛剎莊嚴	er neng cheng jiu fo cha zhuang yan	2865
+二柔順忍	er rou shun ren	2084
+二十八國無不善願	er shi ba guo mo bu shan yuan	2641
+二十二國無女人願	er shi er guo mo nv ren yuan	2667
+爾時法藏比丘說此願已	er shi fa zang bi qiu shuo ci yuan yi	2528
+爾時法藏聞佛所說	er shi fa zang wen fo suo shuo	2843
+爾時佛告阿難	er shi fo gao a nuo	512
+爾時極樂世界	er shi ji yue shi jie	524
+二十九住正定聚願	er shi jiu zhu zheng ding ju yuan	2640
+二十臨終接引願	er shi lin zhong jie yin yuan	2690
+二十六聞名得福願	er shi liu wen ming de fu yuan	2652
+二十七修殊勝行願	er shi qi xiu shu sheng xing yuan	2651
+爾時三千大千世界六種震動	er shi san qian da qian shi jie liu zhong zhen dong	15
+二十三厭女轉男願	er shi san yan nv zhuan nan yuan	2666
+爾時世尊	er shi shi zun	3055
+爾時世尊而說頌曰	er shi shi zun er shuo song yue	80
+爾時世尊即說頌曰	er shi shi zun ji shuo song yue	1615
+爾時世尊說此經法	er shi shi zun shuo ci jing fa	46
+二十四蓮華化生願	er shi si lian hua hua sheng yuan	2665
+二十五天人禮敬願	er shi wu tian ren li jing yuan	2653
+二十五億眾生	er shi wu yi zhong sheng	34
+二十一悔過得生願	er shi yi hui guo de sheng yuan	2676
+二十億眾生	er shi yi zhong sheng	42
+二十由旬	er shi you xun	2038
+而未能出三界獄中	er wei neng chu san jie yu zhong	320
+而為上首	er wei shang shou	3182
+而現滅度	er xian mie du	3100
+而以金鏁	er yi jin suo	384
+二餘俱盡	er yu ju jin	1360
+而自莊嚴	er zi zhuang yan	1454
+而作佛事	er zuo fo shi	2079
+而作沙門	er zuo sha men	1758
+發廣大願	fa an da yuan	2940
+發大誓願第六	fa da shi yuan di liu	2806
+法會聖眾第一	fa kuai sheng zhong di yi	3195
+發菩提心	fa pu ti xin	2703
+發清淨心	fa qing jing xin	1772
+發趣一乘	fa qu yi cheng	259
+發斯弘誓願已	fa si hong shi yuan yi	2472
+法眼清淨	fa yan qing jing	1395
+發一念心念於彼佛	fa yi nian xin nian yu bi fo	1704
+法音雷震	fa yin lei zhen	1330
+法音普及無邊界	fa yin pu ji mo bian jie	2929
+法藏白言	fa zang bai yan	2860
+法藏比丘	fa zang bi qiu	2482
+法藏比丘說此偈已	fa zang bi qiu shuo ci ji yi	2897
+法藏成佛	fa zang cheng fo	2360
+法藏菩薩成菩提者	fa zang pu sa cheng pu ti zhe	2374
+法藏因地第四	fa zang yin di di si	2979
+幡蓋	fan ge	1910
+煩滿胸中	fan man xiong zhong	899
+飯食沙門	fan shi sha men	1733
+凡有三輩	fan you san bei	1761
+放大光明	fang da guang ming	13
+方得解脫	fang de jie tuo	372
+放無量光	fang mo liang guang	1780
+放恣	fang zi	835
+誹謗正法	fei bang zheng fa	2705
+非過現未來	fei guo xian wei lai	2365
+飛化徧諸剎	fei hua bian zhu cha	1562
+非世所有	fei shi suo you	1549
+非是小乘第四十三	fei shi xiao cheng di si shi san	246
+非是語言分別之所能知	fei shi yu yan fen bie zhi suo neng zhi	2383
+費損家財	fei sun jia cai	897
+非我境界	fei wo jing jie	2858
+非易可遇	fei yi ke yu	109
+非以算計譬喻之所能知	fei yi suan ji pi yu zhi suo neng zhi	2177
+分別西方	fen bie xi fang	335
+焚漂劫奪	fen piao jie duo	1175
+焚燒人身	fen shao ren shen	774
+芬陀利華	fen tuo li hua	2019
+奉持經戒	feng chi jing jie	667
+奉持齋戒	feng chi zhai jie	1735
+風觸其身	feng chu qi shen	1854
+奉事師長	feng shi shi chang	2442
+奉事萬億佛	feng shi wan yi fo	1563
+奉行六波羅密	feng xing liu bo luo mi	2701
+風雨以時	feng yu yi shi	656
+奉諸珍妙供	feng zhu zhen miao gong	1607
+佛不使爾	fo bu shi er	441
+佛告阿难	fo gao a nan	2978
+佛告阿難	fo gao a nuo	2529
+佛告慈氏	fo gao ci shi	470
+佛告彌勒	fo gao mi le	1060
+佛告彌勒菩薩	fo gao mi le pu sa	1270
+佛國無數	fo guo mo shuo	1422
+佛即知之	fo ji zhi zhi	2341
+佛皆慈哀	fo jie ci ai	627
+佛世尊	fo shi zun	2965
+佛說阿彌陀佛為菩薩求得是願時	fo shuo a mi tuo fo wei pu sa qiu de shi yuan shi	2352
+佛說此人眞善友	fo shuo ci ren zhen shan you	48
+佛所行處	fo suo xing chu	661
+佛為法王	fo wei fa wang	1069
+佛言	fo yan	1481
+佛眼具足	fo yan ju zu	1393
+佛言汝見彼國淨行之眾	fo yan ru xian bi guo jing xing zhi zhong	495
+佛言善哉	fo yan shan zai	2816
+佛語阿難	fo yu a nuo	2327
+佛語梵雷震八音暢妙聲	fo yu fan lei zhen ba yin chang miao sheng	1587
+佛語教戒	fo yu jiao jie	1073
+佛中之王	fo zhong zhi wang	2250
+復吹七寶林樹	fu chui qi bao lin shu	1851
+復次阿難	fu ci a nuo	1804
+復次極樂世界	fu ci ji yue shi jie	1923
+復當專念極樂國土	fu dang zhuan nian ji yue guo tu	1747
+福德盡滅	fu de jin mie	858
+福德無量	fu de mo liang	1917
+福德營護	fu de ying hu	860
+福德自然	fu de zi ran	687
+負恩違義	fu en wei yi	837
+富貴榮華	fu gui rong hua	742
+福慧始聞第四十七	fu hui shi wen di si shi qi	81
+復無大小江海	fu mo da xiao jiang hai	2317
+復無住著家室	fu mo zhu zhu jia shi	1798
+父母教誨	fu mu jiao hui	841
+復生疑惑	fu sheng yi huo	147
+服飾	fu shi	1912
+復往十方無邊淨剎	fu wang shi fang mo bian jing cha	1555
+復為大施主	fu wei da shi zhu	2522
+復為眾惡	fu wei zhong e	636
+復聞無量壽聲	fu wen mo liang shou sheng	1063
+復相值也	fu xiang zhi ye	2331
+復以善根迴向	fu yi shan gen hui xiang	2699
+復詣世自在王如來所	fu yi shi zi zai wang ru lai suo	2823
+覆蔭大故	fu yin da gu	1321
+復有白珠摩尼以為交絡	fu you bai zhu mo ni yi wei jiao lao	2067
+復有紅綠青白	fu you gong lv qing bai	2122
+復有無量妙寶百千摩尼	fu you mo liang miao bao bai qian mo ni	1822
+復有七寶	fu you qi bao	2148
+富有慳惜	fu you qian xi	926
+復有十方佛剎	fu you shi fang fo cha	25
+復由見彼樹故	fu you xian bi shu gu	2087
+復有眾寶妙衣	fu you zhong bao miao yi	1892
+復有眾鳥	fu you zhong niao	489
+復有眾生	fu you zhong sheng	459
+復有諸天	fu you zhu tian	12
+付囑汝等	fu zhu ru deng	102
+父子兄弟夫婦親屬	fu zi xiong di fu fu qin shu	1166
+改往修來	gai wang xiu lai	665
+改形易道	gai xing yi dao	966
+感得廣大清淨居	gan de an da qing jing ju	2908
+甘露灌頂受位聲	gan lu guan ding shou wei sheng	1990
+敢有犯此	gan you fan ci	762
+告阿難言	gao a nuo yan	3022
+高才勇哲	gao cai yong zhe	2954
+高出一切諸世界上	gao chu yi qie zhu shi jie shang	606
+高或百千由旬	gao huo bai qian you xun	2584
+高四百萬里	gao si bai wan li	2129
+告諸比丘	gao zhu bi qiu	2340
+各持花香	ge chi hua xiang	526
+各持一金華蓋	ge chi yi jin hua ge	2348
+各出廣長舌相	ge chu an chang she xiang	1781
+各得其所	ge de qi suo	647
+各發菩提心	ge fa pu ti xin	1566
+各各安立無量眾生於佛正道	ge ge an li mo liang zhong sheng yu fo zheng dao	1806
+各懷殺毒	ge huai sha du	1098
+歌嘆佛德第二十七	ge tan fo de di er shi qi	1559
+歌嘆最勝尊	ge tan zui sheng zun	1605
+各以香華幢幡寶蓋	ge yi xiang hua zhuang fan bao ge	1620
+各有八萬俱胝那由他人	ge you ba wan ju zhi na you ta ren	21
+各欲快意	ge yu kuai yi	1129
+各於異方次第成佛	ge yu yi fang ci di cheng fo	27
+各欲自快	ge yu zi kuai	746
+蓋之小者	ge zhi xiao zhe	1537
+各自得之	ge zi de zhi	2258
+各自端守	ge zi duan shou	728
+各自念道	ge zi nian dao	2048
+各自異行	ge zi yi xing	2145
+根莖枝幹	gen jing zhi gan	2161
+更相報償	geng xiang bao chang	956
+更相患害	geng xiang huan hai	1154
+更相哭泣	geng xiang ku qi	1111
+更相欺誑	geng xiang qi kuang	934
+更相殺傷	geng xiang sha shang	751
+更相瞻視	geng xiang zhan shi	1116
+更雨新華	geng yu xin hua	1836
+功德	gong de	2224
+功德百千萬倍	gong de bai qian wan bei	3012
+功德辯才	gong de bian cai	1285
+功德普莊嚴	gong de pu zhuang yan	1596
+功德善力	gong de shan li	2287
+功德殊勝	gong de shu sheng	1079
+功德智慧	gong de zhi hui	1720
+功德智慧次如中輩者也	gong de zhi hui ci ru zhong bei zhe ye	1710
+功德莊嚴	gong de zhuang yan	2799
+功德莊嚴之事	gong de zhuang yan zhi shi	2829
+宮殿	gong dian	2566
+宮殿隨身	gong dian sui shen	493
+攻劫殺戮	gong jie sha lu	891
+恭敬頂禮	gong jing ding li	618
+恭敬供養	gong jing gong yang	1619
+恭敬歡喜去	gong jing huan xi qu	1561
+恭敬三寶	gong jing san bao	2443
+恭敬圍繞	gong jing wei rao	2354
+共其怨家	gong qi yuan jia	752
+恭慎保持	gong shen bao chi	2833
+供養	gong yang	173
+供養彼佛	gong yang bi fo	1515
+供養奉事	gong yang feng shi	612
+供養四百億佛	gong yang si bai yi fo	2335
+供養之具	gong yang zhi ju	1553
+供養諸佛	gong yang zhu fo	3111
+供養諸佛者	gong yang zhu fo zhe	2750
+垢滅善生	gou mie shan sheng	2232
+孤獨	gu du	984
+故發斯問	gu fa si wen	2278
+故非凡人	gu fei fan ren	125
+古今有是	gu jin you shi	732
+故能爾耳	gu neng er er	2284
+故心狐疑	gu xin hu yi	117
+故有泥犂	gu you ni li	965
+故有窮乞	gu you qiong qi	985
+故有天人之名	gu you tian ren zhi ming	1960
+故有自然三途	gu you zi ran san tu	778
+故於往生清淨佛國	gu yu wang sheng qing jing fo guo	452
+觀彼殊勝剎	guan bi shu sheng cha	1598
+冠帶	guan dai	1891
+觀法如化	guan fa ru hua	2438
+觀經行道	guan jing xing dao	1260
+觀無住菩薩	guan mo zhu pu sa	3172
+觀一尋地	guan yi xun di	519
+光闡道教	guang chan dao jiao	3003
+光暉徧照	guang hui bian zhao	2123
+光精明俱出	guang jing ming ju chu	1216
+光麗	guang li	2596
+光明	guang ming	411
+光明徧照第十二	guang ming bian zhao di shi er	2277
+光明徹照	guang ming che zhao	1067
+光明佛剎	guang ming fo cha	276
+光明無量	guang ming mo liang	2742
+光明無量照十方	guang ming mo liang zhao shi fang	2936
+光明普照無量無邊無數佛剎	guang ming pu zhao mo liang mo bian mo shuo fo cha	2263
+光明善好	guang ming shan hao	2254
+光明相好	guang ming xiang hao	1727
+光明照耀	guang ming zhao yao	2031
+光明從口出徧照十方國	guang ming zong kou chu bian zhao shi fang guo	1591
+光瑞殊妙乃爾	guang rui shu miao nai er	3025
+光色晃曜	guang se huang yao	1880
+光色亦然	guang se yi ran	1823
+光相	guang xiang	2589
+光顔容色	guang yan rong se	1940
+光顏巍巍	guang yan wei wei	3043
+光英菩薩	guang ying pu sa	3170
+光瑩如鏡	guang ying ru jing	2573
+光中極尊	guang zhong ji zun	2251
+軌範具足	gui fan ju zu	2439
+歸給妻子	gui gei qi zi	889
+歸依供養	gui yi gong yang	1770
+歸依瞻禮	gui yi zhan li	241
+過度解脫	guo du jie tuo	1228
+國豐民安	guo feng min an	654
+國界嚴淨第十一	guo jie yan jing di shi yi	2328
+國無盜賊	guo mo dao zei	650
+國無婦女	guo mo fu nv	2675
+過去無量不可思議	guo qu mo liang bu ke si yi	2977
+過去諸佛	guo qu zhu fo	2458
+過失盡已	guo shi jin yi	350
+過食時後	guo shi shi hou	1839
+國土麤妙	guo tu cu miao	2839
+國土所有一切萬物	guo tu suo you yi qie wan wu	2562
+國邑丘聚	guo yi qiu ju	660
+過浴此水	guo yu ci shui	2015
+過於西方百千俱胝那由他國	guo yu xi fang bai qian ju zhi na you ta guo	523
+國中無不善名	guo zhong mo bu shan ming	2650
+國中無量色樹	guo zhong mo liang se shu	2585
+國中聲聞天人無數	guo zhong sheng wen tian ren mo shuo	2728
+國中萬物	guo zhong wan wu	2598
+含哀慈愍	han ai ci min	1231
+寒暑	han shu	2319
+號阿彌陀	hao a mi tuo	2359
+豪富	hao fu	976
+豪姓尊貴	hao xing zun gui	2411
+號曰法藏	hao yue fa zang	2956
+何不力為善	he bu li wei shan	1263
+何不於強健時	he bu yu jiang jian shi	1142
+何等為五	he deng wei wu	995
+何故威神顯耀	he gu wei shen xian yao	3026
+何况實苦	he kuang shi ku	1970
+何免輪迴	he mian lun hui	329
+何時度脫	he shi du tuo	1494
+和順義理	he shun yi li	673
+合為一華	he wei yi hua	1544
+何為著世事	he wei zhu shi shi	1198
+和顏愛語	he yan ai yu	2445
+何以故	he yi gu	3011
+赫奕歡喜	he yi huan xi	1288
+何因緣故	he yin yuan gu	473
+何願不得	he yuan bu de	2868
+合掌白言	he zhang bai yan	630
+合掌而住	he zhang er zhu	2820
+恆放光明照一切	heng fang guang ming zhao yi qie	2909
+橫截於五趣	heng jie yu wu qu	1208
+橫攬成萬物	heng lan cheng wan wu	1217
+恆沙菩薩眾	heng sha pu sa zhong	1612
+恆沙世界	heng sha shi jie	1776
+橫行威勢	heng xing wei shi	867
+恆以布施	heng yi bu shi	2425
+後當作佛	hou dang zuo fo	2338
+厚己爭利	hou ji zheng li	743
+後生無量壽國	hou sheng mo liang shou guo	1029
+後受殃罰	hou shou yang fa	986
+護佛種性常使不絕	hu fo zhong xing chang shi bu jue	3080
+琥珀樹	hu po shu	2169
+琥珀為葉	hu po wei ye	2152
+互為根幹枝葉華果	hu wei gen gan zhi ye hua guo	2147
+忽見阿彌陀佛	hu xian a mi tuo fo	609
+互相映飾	hu xiang ying shi	2111
+化成華蓋	hua cheng hua ge	1541
+華果敷榮	hua guo fu rong	2124
+華果恆芳	hua guo heng fang	2032
+華果樹木	hua guo shu mu	2081
+華皆向下	hua jie xiang xia	1543
+華實相當	hua shi xiang dang	2141
+華樹	hua shu	2563
+化現其身	hua xian qi shen	3109
+華香幢幡	hua xiang zhuang fan	1554
+華葉果實	hua ye guo shi	2159
+化眾生不	hua zhong sheng bu	497
+華幢佛剎	hua zhuang fo cha	269
+壞諸欲塹	huai zhu yu zan	3136
+擐大甲胄	huan da jia zhou	1456
+還到安養國	huan dao an yang guo	1560
+患而苦之	huan er ku zhi	886
+還復如初	huan fu ru chu	1840
+還復周徧	huan fu zhou bian	1834
+緩流者	huan liu zhe	2006
+還其本國	huan qi ben guo	1527
+歡喜光	huan xi guang	2241
+歡喜開解	huan xi kai jie	2960
+歡喜快樂	huan xi kuai yue	531
+歡喜信樂	huan xi xin yue	2664
+歡樂慈孝	huan yue ci xiao	672
+黃金為地	huang jin wei di	2310
+黃金為根	huang jin wei gen	2156
+滉漾浩汗	huang yang hao han	567
+慧辯才菩薩	hui bian cai pu sa	3173
+悔復何及	hui fu he ji	846
+迴光還繞佛三匝從頂入	hui guang huan rao fo san za zong ding ru	1590
+悔懼交至	hui ju jiao zhi	802
+惠利羣生	hui li qun sheng	2450
+慧眼見眞	hui yan xian zhen	1394
+惠以眞實之利	hui yi zhen shi zhi li	3001
+悔之於後	hui zhi yu hou	799
+魂神命精	hun shen ming jing	961
+或百千萬億由旬	huo bai qian wan yi you xun	2268
+或半由旬	huo ban you xun	1818
+或長或短	huo chang huo duan	958
+或純金樹	huo chun jin shu	2173
+獲大歡喜	huo da huan xi	196
+或大或小	huo da huo xiao	1876
+或當生	huo dang sheng	1920
+惑道者眾	huo dao zhe zhong	1100
+獲得光明身	huo de guang ming shen	2499
+獲得無邊辯才	huo de mo bian bian cai	2631
+或得阿那含	huo dei a na han	2052
+或得斯陀含	huo dei si tuo han	2053
+或得須陀洹	huo dei xu tuo huan	2054
+或父哭子	huo fu ku zi	1114
+禍福相承	huo fu xiang cheng	795
+惑盡過亡三昧力	huo jin guo wang san mei li	2921
+惑盡見佛第四十一	huo jin xian fo di si shi yi	395
+獲其福德	huo qi fu de	996
+或其今世	huo qi jin shi	760
+或入苦毒	huo ru ku du	917
+獲三種忍	huo san zhong ren	2086
+或時心諍	huo shi xin zheng	1159
+或十由旬	huo shi you xun	2039
+或數百千億	huo shuo bai qian yi	266
+或數十百億	huo shuo shi bai yi	267
+獲陀羅尼	huo tuo luo ni	2540
+或為剎利國王	huo wei cha li guo wang	2410
+或為長者居士	huo wei chang zhe ju shi	2412
+或為六欲天主	huo wei liu yu tian zhu	2408
+或聞佛法僧聲	huo wen fo fa seng sheng	1997
+或聞無性無作無我聲	huo wen mo xing mo zuo mo wo sheng	1992
+或現神足	huo xian shen zu	2612
+或現生	huo xian sheng	1921
+或一二三四	huo yi er san si	1817
+或一二三四由旬	huo yi er san si you xun	2269
+或已生	huo yi sheng	1922
+或有寶樹	huo you bao shu	2157
+或有二寶三寶	huo you er bao san bao	2164
+或欲灌身	huo yu guan shen	2010
+或欲冷者	huo yu leng zhe	2009
+或於壽終	huo yu shou zhong	756
+或樂說法	huo yue shuo fa	2614
+或樂聽法	huo yue ting fa	2613
+或在平地	huo zai ping di	1874
+或在虛空	huo zai xu kong	1875
+或在樂處	huo zai yue chu	918
+或照百千佛剎	huo zhao bai qian fo cha	2265
+或照一二佛剎	huo zhao yi er fo cha	2266
+或子哭父	huo zi ku fu	1113
+及彼國土	ji bi guo tu	1686
+及比丘眾	ji bi qiu zhong	515
+及波羅密等菩薩之法	ji bo luo mi deng pu sa zhi fa	110
+及不定聚	ji bu ding ju	1786
+及曾供養如來	ji ceng gong yang ru lai	1510
+及慈氏菩薩	ji ci shi pu sa	511
+即得往生彼佛國土	ji de wang sheng bi fo guo tu	1657
+即得往詣無量壽所	ji de wang yi mo liang shou suo	348
+及得一切陀羅尼門	ji dei yi qie tuo luo ni men	3098
+寂定明察	ji ding ming cha	1303
+嫉妒	ji du	1651
+擊法鼓	ji fa gu	1308
+及佛功德	ji fo gong de	166
+及佛神力	ji fo shen li	2285
+寂根菩薩	ji gen pu sa	3167
+積功累德	ji gong lei de	2385
+積功累德第八	ji gong lei de di ba	2475
+積集善根	ji ji shan gen	1746
+積累善本	ji lei shan ben	1032
+急流者	ji liu zhe	2007
+既無標式名號	ji mo biao shi ming hao	1796
+即能攝取百千億劫	ji neng she qu bai qian yi jie	257
+及念慧力	ji nian hui li	2949
+及菩薩眾	ji pu sa zhong	1547
+及菩薩眾當往生者	ji pu sa zhong dang wang sheng zhe	249
+及其國土一切所有	ji qi guo tu yi qie suo you	151
+極清淨故	ji qing jing gu	587
+及善女人	ji shan nv ren	192
+既攝受已	ji she shou yi	2824
+極身作樂	ji shen zuo yue	888
+即生我剎	ji sheng wo cha	2693
+即生我國	ji sheng wo guo	2677
+即生信解	ji sheng xin jie	1706
+即時香風吹七寶樹	ji shi xiang feng chui qi bao shu	1522
+即隨彼佛往生其國	ji sui bi fo wang sheng qi guo	1753
+即隨化佛往生其國	ji sui hua fo wang sheng qi guo	1722
+機偽多端	ji wei duo duan	936
+即為法藏而說經言	ji wei fa zang er shuo jing yan	2875
+及未來生	ji wei lai sheng	23
+及見彼等念佛相續不	ji xian bi deng nian fo xiang xu bu	490
+及賢劫中一切菩薩	ji xian jie zhong yi qie pu sa	3178
+吉祥果樹	ji xiang guo shu	2033
+吉凶禍福	ji xiong huo fu	1138
+即以伽他讚佛	ji yi jia ta zan fo	2941
+及異形類	ji yi xing lei	546
+即於空中	ji yu kong zhong	1545
+及欲見彼廣大莊嚴	ji yu xian bi an da zhuang yan	224
+極樂世界	ji yue shi jie	1621
+極樂世界阿彌陀佛	ji yue shi jie a mi tuo fo	1665
+記在神明	ji zai shen ming	854
+積植德行	ji zhi de xing	2462
+及眾寶樹	ji zhong bao shu	1864
+及諸佛剎	ji zhu fo cha	294
+及諸菩薩	ji zhu pu sa	2181
+及諸菩薩阿羅漢等所居國土	ji zhu pu sa a luo han deng suo ju guo tu	621
+及諸菩薩聲聞	ji zhu pu sa sheng wen	4
+及諸菩薩聲聞之眾	ji zhu pu sa sheng wen zhi zhong	1514
+及諸天人大眾之中	ji zhu tian ren da zhong zhi zhong	2473
+即自悔過	ji zi hui guo	2682
+即自思惟	ji zi si wei	3047
+及總宣說者	ji zong xuan shuo zhe	2587
+即從座起	ji zong zuo qi	3037
+及坐禪者	ji zuo chan zhe	2058
+既作佛已	ji zuo fo yi	1443
+跏趺而坐	jia fu er zuo	414
+假令帝釋	jia ling di shi	1947
+假令供養恆沙聖	jia ling gong yang heng sha sheng	2912
+假令三千大千世界眾生	jia ling san qian da qian shi jie zhong sheng	2726
+假使不能作諸功德	jia shi bu neng zuo zhu gong de	1717
+假使大火滿三千	jia shi da huo man san qian	65
+假使父母妻子男女眷屬	jia shi fu mu qi zi nan nv juan shu	319
+假使三千大千世界滿中大火	jia shi san qian da qian shi jie man zhong da huo	162
+假使十方眾生	jia shi shi fang zhong sheng	2205
+迦葉佛時	jia ye fo shi	2334
+建法幢	jian fa zhuang	1307
+堅故	jian gu	2073
+堅固不動	jian gu bu dong	2947
+堅固不退	jian gu bu tui	2700
+堅固深信	jian gu shen xin	106
+堅固之力	jian gu zhi li	2634
+建立常然	jian li chang ran	2465
+檢斂端直	jian lian duan zhi	1249
+堅守不犯	jian shou bu fan	1692
+強不凌弱	jiang bu ling ruo	648
+強奪迫脅	jiang duo po xie	890
+江河	jiang he	582
+將何及乎	jiang he ji hu	798
+降化其意	jiang hua qi yi	998
+降王宮	jiang wang gong	3150
+強者伏弱	jiang zhe fu ruo	991
+交覆於池	jiao fu yu chi	2029
+教化安立眾生	jiao hua an li zhong sheng	2418
+教化羣生	jiao hua qun sheng	1002
+教化一切有情	jiao hua yi qie you qing	2620
+教授名字	jiao shou ming zi	2884
+教語開示	jiao yu kai shi	784
+皆不退轉	jie bu tui zhuan	262
+皆大歡喜	jie da huan xi	542
+皆當別離	jie dang bie li	1084
+皆當究竟一生補處	jie dang jiu jing yi sheng bu chu	1461
+皆當往生	jie dang wang sheng	254
+皆當往生彼如來土	jie dang wang sheng bi ru lai tu	28
+皆當自端	jie dang zi duan	715
+皆當作佛	jie dang zuo fo	1636
+皆得阿惟越致	jie de a wei yue zhi	1638
+結得大願	jie de da yuan	2835
+皆得金剛那羅延身	jie de jin gang na luo yan shen	2635
+皆得六根清徹	jie de liu gen qing che	2091
+皆得如是諸妙色身	jie de ru shi zhu miao se shen	1919
+皆得神通自在	jie de shen tong zi zai	2754
+皆得他心智通	jie de ta xin zhi tong	2758
+皆得休息	jie de xiu xi	2228
+皆度彼岸	jie du bi an	3070
+截斷狐疑	jie duan hu yi	1056
+皆發阿耨多羅三藐三菩提心	jie fa a nou duo luo san miao san pu ti xin	2387
+解法如如	jie fa ru ru	1368
+皆發信心	jie fa xin xin	2619
+結忿成讐	jie fen cheng chou	929
+皆各一等	jie ge yi deng	2040
+皆共稱讚無量壽佛所有功德	jie gong cheng zan mo liang shou fo suo you gong de	1625
+皆獲善利	jie huo shan li	187
+皆齎百千華香	jie ji bai qian hua xiang	1517
+皆積德眾善	jie ji de zhong shan	694
+皆具金色三十二相	jie ju jin se san shi er xiang	1637
+皆具紫磨眞金色身	jie ju zi mo zhen jin se shen	2778
+皆可得度	jie ke de du	141
+皆可求之	jie ke qiu zhi	149
+皆來集會	jie lai ji kuai	3177
+皆蒙慈恩	jie meng ci en	1071
+皆無摄取	jie mo she qu	1379
+皆能洞視	jie neng dong shi	2764
+皆能示現	jie neng shi xian	3120
+結其善願為本	jie qi shan yuan wei ben	448
+竭其智力	jie qi zhi li	2200
+皆如阿彌陀佛	jie ru a mi tuo fo	2342
+戒若琉璃	jie ruo liu li	1312
+皆是阿彌陀佛宿願因緣	jie shi a mi tuo fo su yuan yin yuan	17
+皆是化作	jie shi hua zuo	486
+皆使往生其國	jie shi wang sheng qi guo	1447
+皆同一色	jie tong yi se	571
+皆同一心	jie tong yi xin	2649
+解脫	jie tuo	2552
+解脫光	jie tuo guang	2240
+解脫菩薩	jie tuo pu sa	3160
+解脫憂苦	jie tuo you ku	1070
+階位	jie wei	1933
+皆聞十方	jie wen shi fang	2883
+皆悉逮得清淨	jie xi dai de qing jing	2553
+皆悉覩見	jie xi du xian	2842
+皆悉明現	jie xi ming xian	590
+皆悉求此微妙法門	jie xi qiu ci wei miao fa men	214
+皆悉住於正定之聚	jie xi zhu yu zheng ding zhi ju	1789
+皆見極樂世界	jie xian ji yue shi jie	556
+皆現手中	jie xian shou zhong	1551
+皆修佛行	jie xiu fo xing	2558
+皆以無量寶香合成	jie yi mo liang bao xiang he cheng	2561
+皆因前世不信道德	jie yin qian shi bu xin dao de	979
+皆因汝問而得度脫故	jie yin ru wen er de du tuo gu	3008
+皆由前世曾作佛道	jie you qian shi ceng zuo fo dao	126
+皆由宿世慈孝	jie you su shi ci xiao	971
+皆由貪著財色	jie you tan zhu cai se	748
+皆於七寶池蓮華中	jie yu qi bao chi lian hua zhong	1976
+皆於七寶池蓮華中化生	jie yu qi bao chi lian hua zhong hua sheng	2668
+皆於七寶華中	jie yu qi bao hua zhong	415
+皆豫知之	jie yu zhi zhi	1492
+皆願作佛第十	jie yuan zuo fo di shi	2353
+解諸纏縛	jie zhu chan fu	3106
+皆從惡道中來	jie zong e dao zhong lai	120
+矜哀三界	jin ai san jie	3005
+禁閉其中	jin bi qi zhong	391
+盡持經戒	jin chi jing jie	1678
+今此娑婆世界	jin ci suo po shi jie	295
+今得值佛	jin de zhi fo	1064
+金剛	jin gang	584
+今供養我	jin gong yang wo	2332
+盡極嚴麗	jin ji yan li	1879
+盡其神力莫能測	jin qi shen li mo neng ce	60
+盡其壽命	jin qi shou ming	2201
+今日世尊	jin ri shi zun	3046
+今始初發	jin shi chu fa	30
+今世為惡	jin shi wei e	859
+今現在說法	jin xian zai shuo fa	2356
+盡心求索	jin xin qiu suo	1232
+今正是時	jin zheng shi shi	2815
+金珠鈴鐸	jin zhu ling duo	2116
+經道漸滅	jing dao jian mie	638
+經道滅盡	jing dao mie jin	145
+淨定安樂	jing ding an yue	1224
+競各作之	jing ge zuo zhi	1137
+淨慧修梵行	jing hui xiu fan xing	2507
+荊棘沙礫	jing ji sha li	2315
+精進	jing jin	2422
+精進不止	jing jin bu zhi	2870
+精進定慧六波羅	jing jin ding hui liu bo luo	2915
+莖莖相望	jing jing xiang wang	2143
+經歷劫數	jing li jie shuo	2873
+經千億歲	jing qian yi sui	2844
+精勤求索	jing qin qiu suo	2834
+淨若無形	jing ruo mo xing	2003
+經行	jing xing	2056
+經須臾間	jing xu yu jian	2694
+敬於佛者	jing yu fo zhe	1059
+九不瞋	jiu bu chen	1668
+究暢無極	jiu chang mo ji	2985
+究達神通慧	jiu da shen tong hui	1604
+久後轉劇	jiu hou zhuan ju	634
+究竟彼岸	jiu jing bi an	3153
+究竟必至一生補處	jiu jing bi zhi yi sheng bu chu	2623
+究竟明了	jiu jing ming liao	1405
+究竟菩薩道具諸功德本	jiu jing pu sa dao ju zhu gong de ben	1581
+究竟菩薩諸波羅密	jiu jing pu sa zhu bo luo mi	1282
+究竟一乘	jiu jing yi cheng	1357
+究竟願故	jiu jing yuan gu	2072
+久久亦當開解歡喜	jiu jiu yi dang kai jie huan xi	346
+救世之行方能修	jiu shi zhi xing fang neng xiu	70
+九他心通願	jiu ta xin tong yuan	2755
+具八功德	ju ba gong de	2035
+具大精進	ju da jing jin	260
+俱到佛前作禮	ju dao fo qian zuo li	2347
+俱得往生極樂世界	ju de wang sheng ji yue shi jie	16
+劇苦極刑	ju ku ji xing	962
+俱來我剎中	ju lai wo cha zhong	2513
+俱令登彼岸	ju ling deng bi an	1564
+聚落	ju luo	2429
+拘牟頭華	ju mou tou hua	2020
+具如眞佛	ju ru zhen fo	1726
+居上不明	ju shang bu ming	941
+具足成就	ju zu cheng jiu	409
+具足德本	ju zu de ben	2537
+具足無量不可思議	ju zu mo liang bu ke si yi	2800
+具足無量行願	ju zu mo liang xing yuan	3158
+具足微妙	ju zu wei miao	506
+具足莊嚴	ju zu zhuang yan	2379
+具足總持百千三昧	ju zu zong chi bai qian san mei	3096
+眷屬	juan shu	2428
+眷屬財物	juan shu cai wu	1183
+捐志若虛空	juan zhi ruo xu kong	1202
+決定必成無上正覺	jue ding bi cheng mo shang zheng jue	2476
+決定往生極樂國	jue ding wang sheng ji yue guo	66
+決定證於阿耨多羅三藐三菩提	jue ding zheng yu a nou duo luo san miao san pu ti	1788
+決斷疑網	jue duan yi wang	1355
+覺了法性	jue le fa xing	1392
+覺了一切法猶如夢幻響	jue le yi qie fa you ru meng huan xiang	1584
+絕勝諸佛	jue sheng zhu fo	2740
+覺未覺故	jue wei jue gu	1329
+絕欲去憂慈心精進	jue yu qu you ci xin jing jin	1653
+決證極果第二十二	jue zheng ji guo di er shi er	1805
+覺諸世間	jue zhu shi jian	3138
+開彼智慧眼	kai bi zhi hui yan	2500
+開導羣生	kai dao qun sheng	3110
+開化顯示眞實之際	kai hua xian shi zhen shi zhi ji	3088
+開廓廣大	kai kuo an da	2467
+開善門	kai shan men	3074
+開神悅體	kai shen yue ti	2004
+開示正道	kai shi zheng dao	1051
+堪受供養	kan shou gong yang	1289
+可得長壽泥洹之道	ke de chang shou ni huan zhi dao	767
+可得極長生	ke de ji chang sheng	1200
+箜篌樂器	kong hou yue qi	529
+口所欲言	kou suo yu yan	1495
+苦口與語	ku kou yu yu	807
+苦心誨喻	ku xin hui yu	680
+苦行學道	ku xing xue dao	3148
+苦樂自當	ku yue zi dang	1148
+會當得之	kuai dang de zhi	1631
+會當尅果	kuai dang kei guo	2869
+會見無期	kuai xian mo qi	1143
+快樂無極	kuai yue mo ji	1028
+寬廣平正	kuan an ping zheng	2309
+曠無他念	kuang mo ta nian	1238
+曠若虛空	kuang ruo xu kong	1326
+虧負經戒	kui fu jing jie	1077
+來無所來	lai mo suo lai	2368
+賴其前世	lai qi qian shi	861
+來生我剎	lai sheng wo cha	2792
+來生我國	lai sheng wo guo	2881
+來我剎土	lai wo cha tu	2670
+來於虛空散作供養	lai yu xu kong san zuo gong yang	525
+欄窗榻座	lan chuang ta zuo	388
+老亦苦痛	lao yi ku tong	1043
+了無所聞	le mo suo wen	1979
+累德所致	lei de suo zhi	1415
+累劫難出	lei jie nuo chu	952
+累念積慮	lei nian ji lv	1187
+禮拜歸命	li bai gui ming	2663
+離塵佛剎	li chen fo cha	272
+禮佛現光第三十八	li fo xian guang di san shi ba	623
+禮供聽法第二十六	li gong ting fa di er shi liu	1624
+利害勝負	li hai sheng fu	930
+立名無量壽	li ming mo liang shou	2515
+離染污故	li ran wu gu	1323
+離五燒	li wu shao	999
+禮義都合	li yi dou he	1230
+利益諸羣品	li yi zhu qun pin	2509
+離欲深正念	li yu shen zheng nian	2508
+利樂有情	li yue you qing	2389
+兩舌	liang she	879
+裂魔見網	lie mo xian wang	3107
+臨時乃悔	lin shi nai hui	800
+臨壽終時	lin shou zhong shi	2696
+林樹	lin shu	507
+令彼諸羣生	ling bi zhu qun sheng	2520
+令持五善	ling chi wu shan	997
+令得安樂	ling de an yue	1688
+令獲五德	ling huo wu de	641
+令捨五惡	ling she wu e	1001
+令生我剎	ling sheng wo cha	2779
+令我等作佛時	ling wo deng zuo fo shi	2343
+令悉作佛	ling xi zuo fo	1444
+令見無量壽佛	ling xian mo liang shou fo	152
+令眾歡喜	ling zhong huan xi	2813
+令眾悅服	ling zhong yue fu	1309
+六不惡口	liu bu e kou	1671
+流布萬種溫雅德香	liu bu wan zhong wen ya de xiang	1858
+六度之行	liu du zhi xing	2419
+琉璃樹	liu li shu	2171
+琉璃為枝	liu li wei zhi	2154
+六千八百比丘	liu qian ba bai bi qiu	40
+六親眷屬	liu qin juan shu	826
+六宿命通願	liu su ming tong yuan	2761
+聾盲	long mang	983
+龍天佛剎	long tian fo cha	275
+樓閣	lou ge	509
+樓觀	lou guan	2565
+樓觀欄楯	lou guan lan dun	2069
+魯扈	lu hu	831
+論法無厭	lun fa mo yan	1314
+輪迴諸趣眾生類	lun hui zhu qu zhong sheng lei	2906
+輪王歡喜	lun wang huan xi	373
+羅覆其上	luo fu qi shang	2113
+瑪瑙樹	ma nao shu	2167
+瑪瑙為果	ma nao wei guo	2150
+滿十由旬	man shi you xun	1536
+滿足無量大願	man zu mo liang da yuan	2807
+滿足五劫	man zu wu jie	2831
+滿足願故	man zu yuan gu	2075
+滿足諸妙願必成如是剎	man zu zhu miao yuan bi cheng ru shi cha	1583
+每於食時	mei yu shi shi	1867
+美玉樹	mei yu shu	2168
+美玉為華	mei yu wei hua	2151
+蒙冥抵突	meng ming di tu	1132
+夢見彼佛	meng xian bi fo	1712
+靡不歡喜	mi bu huan xi	1062
+靡不蒙化	mi bu meng hua	659
+彌覆水上	mi fu shui shang	2017
+彌勒白言	mi le bai yan	1074
+彌勒當知	mi le dang zhi	408
+彌勒菩薩	mi le pu sa	3179
+彌勒菩薩白佛言	mi le pu sa bai fo yan	296
+迷於瞋恚	mi yu chen hui	1128
+面貌形狀	mian mao xing zhuang	1957
+面西合掌	mian xi he zhang	615
+妙飾奇珍	miao shi qi zhen	387
+妙相悉圓滿	miao xiang xi yuan man	2511
+滅諸煩惱闇	mie zhu fan nao an	2501
+愍有情	min you qing	3078
+明好快樂	ming hao kuai yue	1419
+明濟眾厄難	ming ji zhong e nuo	2503
+明了	ming liao	2074
+明了通達	ming liao tong da	2828
+明妙無比	ming miao mo bi	2066
+名世間自在王如來	ming shi jian zi zai wang ru lai	2974
+名數	ming shuo	2588
+明現照耀	ming xian zhao yao	549
+明信佛智	ming xin fo zhi	420
+明行足	ming xing zu	2971
+明曜日月	ming yao ri yue	1820
+明耀顯赫	ming yao xian he	560
+明照世間	ming zhao shi jian	576
+命終不復更三惡道	ming zhong bu fu geng san e dao	2678
+命終即化男子	ming zhong ji hua nan zi	2671
+命終皆得解脫	ming zhong jie de jie tuo	2227
+命終棄捐	ming zhong qi juan	1171
+無礙光佛	mo ai guang fo	2246
+無礙無斷	mo ai mo duan	602
+無愛無厭	mo ai mo yan	1377
+無礙無著	mo ai mo zhu	112
+無邊殊勝剎	mo bian shu sheng cha	1573
+莫不安樂	mo bu an yue	2734
+莫不代之歡喜	mo bu dai zhi huan xi	2329
+無不得解脫者	mo bu de jie tuo zhe	1467
+莫不歡喜	mo bu huan xi	2045
+莫不解脫	mo bu jie tuo	533
+無不具足	mo bu ju zu	1870
+無不滿願	mo bu man yuan	2603
+無不遂者	mo bu sui zhe	2685
+莫不休止	mo bu xiu zhi	535
+無不圓滿	mo bu yuan man	2610
+無不照見	mo bu zhao xian	578
+莫不致敬	mo bu zhi jing	2659
+無差別相	mo cha bie xiang	1962
+無常	mo chang	1861
+無常根本	mo chang gen ben	1133
+無得犯也	mo de fan ye	631
+無得毀失	mo de hui shi	91
+無得貪惜	mo de tan xi	1162
+無得為妄	mo de wei wang	90
+無得疑悔	mo de yi hui	1021
+無得以我滅度	mo de yi wo mie du	148
+無等光佛	mo deng guang fo	2245
+無等無倫最上勝智	mo deng mo lun zui shang sheng zhi	464
+無等智	mo deng zhi	456
+無復苦惱之患	mo fu ku nao zhi huan	1026
+無缚無脱	mo fu mo tuo	1383
+無復曲直	mo fu qu zhi	745
+無復餘習	mo fu yu xi	1402
+無過此難	mo guo ci nuo	131
+無毫髮之惡	mo hao fa zhi e	693
+無極之勝道	mo ji zhi sheng dao	1206
+無極之體	mo ji zhi ti	1973
+無可奈何	mo ke nai he	1101
+無可樂者	mo ke yue zhe	1083
+無量寶藏	mo liang bao cang	2414
+無量功德	mo liang gong de	2325
+無量光明	mo liang guang ming	1889
+無量光炎	mo liang guang yan	2110
+無量苦惱	mo liang ku nao	907
+無量妙華	mo liang miao hua	1521
+無量妙花紛紛而降	mo liang miao hua fen fen er jiang	5
+無量無邊	mo liang mo bian	3065
+無量無數不可思議	mo liang mo shuo bu ke si yi	1628
+無量壽佛	mo liang shou fo	2218
+無量壽佛極樂國土	mo liang shou fo ji yue guo tu	1926
+無量壽國	mo liang shou guo	1268
+無量種色	mo liang zhong se	1827
+無量諸佛咸共護念	mo liang zhu fo xian gong hu nian	3122
+莫令眾生淪墮五趣	mo ling zhong sheng lun hui wu qu	99
+無明貪瞋皆永無	mo ming tan chen jie yong mo	2922
+魔惱之名	mo nao zhi ming	2321
+無能稱量	mo neng cheng liang	2593
+無能踰者	mo neng yu zhe	2945
+無能縱捨	mo neng zong she	1172
+無窮無極	mo qiong mo ji	1413
+無缺減故	mo que jian gu	1508
+無上菩提	mo shang pu ti	1721
+無上士	mo shang shi	2968
+無誰代者	mo shei dai zhe	793
+莫誰隨者	mo shei sui zhe	1170
+無深不照	mo shen bu zhao	2001
+沒深四指	mo shen si zhi	1842
+無生無滅	mo sheng mo mie	2366
+無生無滅聲	mo sheng mo mie sheng	1994
+無衰無變	mo shuai mo bian	2464
+無數劫來	mo shuo jie lai	2336
+無數諸佛	mo shuo zhu fo	2718
+無所罣礙	mo suo gua ai	1052
+無所味著	mo suo wei zhu	1895
+無所障礙	mo suo zhang ai	492
+無所專據	mo suo zhuan ju	450
+無田憂田	mo tian you tian	1185
+無我	mo wo	1860
+無相無為	mo xiang mo wei	1384
+莫相違戾	mo xiang wei li	1160
+無相憎嫉	mo xiang zeng ji	1164
+無央數劫	mo yang shuo jie	2976
+無義無禮	mo yi mo li	828
+無益其人	mo yi qi ren	806
+無一隨者	mo yi sui zhe	921
+無因奉事無量壽佛	mo yin feng shi mo liang shou fo	400
+無有愛貪	mo you ai tan	1247
+無有報償	mo you bao chang	836
+無有出期	mo you chu qi	1091
+無有代者	mo you dai zhe	1147
+無有等等無邊世界	mo you deng deng mo bian shi jie	1627
+無有地獄	mo you di yu	2798
+無有昏闇火光	mo you hun an huo guang	1802
+無有解時	mo you jie shi	1107
+無有虛偽諂曲之心	mo you xu wei chan qu zhi xin	2441
+無有憂思	mo you you si	1237
+無有語者	mo you yu zhe	1122
+無有怨枉	mo you yuan wang	649
+無有雜穢	mo you za hui	547
+無有增減	mo you zeng jian	2988
+無有障礙	mo you zhang ai	2992
+無有智慧	mo you zhi hui	397
+無與等者	mo yu deng zhe	1284
+無造惡之地	mo zao e zhi di	686
+無增缺減	mo zeng que jian	1245
+無宅憂宅	mo zhai you zhai	1184
+無諸分別	mo zhu fen bie	1987
+無諸分别	mo zhu fen bie	1382
+無諸穢惡	mo zhu hui e	361
+無諸惱患	mo zhu nao huan	2090
+無諸障礙	mo zhu zhang ai	1331
+無從捨離	mo zong she li	852
+乃至百千由旬	nai zhi bai qian you xun	2037
+乃至徧覆三千大千世界	nai zhi bian fu san qian da qian shi jie	1534
+乃至梵王	nai zhi fan wang	2407
+乃至獲得一念淨心	nai zhi huo de yi nian jing xin	1705
+乃至無上菩提	nai zhi mo shang pu ti	1742
+乃至無上正等菩提	nai zhi mo shang zheng deng pu ti	1765
+乃至能發一念淨信	nai zhi neng fa yi nian jing xin	1769
+乃至泥犂	nai zhi ni li	575
+乃至七寶	nai zhi qi bao	2163
+乃至色界諸天	nai zhi se jie zhu tian	8
+乃至色無色界	nai zhi se mo se jie	2299
+乃至勝智	nai zhi sheng zhi	419
+乃至十念	nai zhi shi nian	2708
+乃至萬億	nai zhi wan yi	265
+乃至正法滅時	nai zhi zheng fa mie shi	205
+乃至晝夜思惟彼剎	nai zhi zhou ye si wei bi cha	167
+乃作佛	nai zuo fo	2787
+男女	nan nv	1188
+南西北方	nan xi bei fang	2272
+南西北四維	nan xi bei si wei	1610
+內獨駛急	nei du shi ji	1254
+內外明潔	nei wai ming jie	1311
+內心清淨絕塵勞	nei xin qing jing jue chen lao	2925
+能得如是廣大法門	neng de ru shi an da fa men	201
+能救一切諸世間	neng jiu yi qie zhu shi jian	2918
+能生佛法廣大異門	neng sheng fo fa an da yi men	179
+能生一念喜愛之心	neng sheng yi nian xi ai zhi xin	242
+能說法人	neng shuo fa ren	108
+能問如是微妙之義	neng wen ru shi wei miao zhi yi	3019
+能於佛剎	neng yu fo cha	2809
+能於念頃	neng yu nian qing	2991
+能於是法	neng yu shi fa	191
+能於掌中持一切世界	neng yu zhang zhong chi yi qie shi jie	2212
+念道之自然	nian dao zhi zi ran	1262
+年壽旋盡	nian shou xuan jin	1102
+念樹功德	nian shu gong de	2092
+寧可得否	ning ke de fou	2877
+寧可類乎	ning ke lei hu	1956
+寧為增減	ning wei zeng jian	1424
+寧樂此不	ning yue ci bu	381
+努力修善	nu li xiu shan	1141
+努力自求之	nu li zi qiu zhi	1211
+難得誠實	nuo de cheng shi	870
+難得解脫	nuo de jie tuo	951
+難得難聞	nuo de nuo wen	138
+難可降化	nuo ke jiang hua	863
+難可具盡	nuo ke ju jin	779
+難信如來微妙法	nuo xin ru lai wei miao fa	74
+難值難見	nuo zhi nuo xian	3000
+難中之難	nuo zhong zhi nuo	132
+朋友	peng you	676
+朋友無信	peng you mo xin	871
+譬如大海	pi ru da hai	2195
+譬如大海一人斗量	pi ru da hai yi ren dou liang	2874
+譬如大火	pi ru da huo	775
+譬如巨海	pi ru ju hai	1345
+譬如盲人恆處闇	pi ru mang ren heng chu an	73
+譬如日出	pi ru ri chu	577
+譬如世法牢獄	pi ru shi fa lao yu	963
+譬如世間貧苦乞人	pi ru shi jian pin ku qi ren	1959
+譬如須彌山王	pi ru xu mi shan wang	551
+譬如怨家	pi ru yuan jia	839
+譬如轉輪聖王	pi ru zhuan lun sheng wang	394
+譬善幻師	pi shan huan shi	3119
+辟支佛	pi zhi fo	3016
+偏袒右肩	pian tan you jian	3036
+飄華成聚	piao hua cheng ju	1850
+貧富	pin fu	1190
+貧富同然	pin fu tong ran	1169
+平等勤修	ping deng qin xiu	1358
+破癡闇	po chi an	1305
+破除疑網	po chu yi wang	2279
+破煩惱城	po fan nao cheng	3137
+破家亡身	po jia wang shen	928
+破邪執故	po xie zhi gu	1319
+普徧智	pu bian zhi	457
+普等三昧	pu deng san mei	2551
+普濟諸窮苦	pu ji zhu qiong ku	2521
+普念度一切	pu nian du yi qie	1567
+菩薩光明	pu sa guang ming	1489
+菩薩聲聞	pu sa sheng wen	1941
+菩薩往生第四十二	pu sa wang sheng di si shi er	297
+菩薩見此光即證不退位	pu sa xian ci guang ji zheng bu tui wei	1589
+菩薩興至願	pu sa xing zhi yuan	1569
+菩薩修持第三十	pu sa xiu chi di san shi	1410
+普使眾生隨類見	pu shi zhong sheng sui lei xian	2931
+菩提道場第十五	pu ti dao chang di shi wu	2132
+菩提高廣	pu ti gao an	1344
+普為十方說微妙法	pu wei shi fang shuo wei miao fa	1808
+普為一切天人之師	pu wei yi qie tian ren zhi shi	1065
+普照三千大千世界	pu zhao san qian da qian shi jie	1485
+普照十方	pu zhao shi fang	2741
+普照十方剎	pu zhao shi fang cha	2505
+普照十方一切世界	pu zhao shi fang yi qie shi jie	2235
+普照一切諸佛世界	pu zhao yi qie zhu fo shi jie	592
+七寶鉢器	qi bao bo qi	1906
+七寶城中	qi bao cheng zhong	1018
+其本周圍五千由旬	qi ben zhou wei wu qian you xun	2128
+七不兩舌	qi bu liang she	1670
+其第十二佛名無上華	qi di shi er fo ming mo shang hua	264
+其第十三佛名曰無畏	qi di shi san fo ming yue mo wei	253
+其二者	qi er zhe	945
+起發無上殊勝之願	qi fa mo shang shu sheng zhi yuan	2841
+其佛本願力	qi fo ben yuan li	1572
+其佛國土	qi fo guo tu	1868
+其國不逆違	qi guo bu ni wei	1204
+棄國捐王	qi guo juan wang	2958
+其國眾生	qi guo zhong sheng	2288
+其號云何	qi hao yun he	1482
+其華光明	qi hua guang ming	1828
+其華自沒	qi hua zi mo	1838
+七覺聖道	qi jue sheng dao	1400
+起立塔像	qi li ta xiang	1734
+奇妙珍異	qi miao zhen yi	1882
+其名曰	qi ming yue	3188
+其人臨終	qi ren lin zhong	1729
+其人智慧不明	qi ren zhi hui bu ming	426
+其三者	qi san zhe	906
+其上輩者	qi shang bei zhe	1760
+耆阇崛山中	qi she jue shan zhong	3192
+其聲流布	qi sheng liu bu	2103
+稽首禮足	qi shou li zu	2822
+其水一一隨眾生意	qi shui yi yi sui zhong sheng yi	2005
+其數幾何	qi shuo ji he	291
+其四天王天及忉利天	qi si tian wang tian ji dao li tian	2302
+其四者	qi si zhe	881
+其所散華	qi suo san hua	1546
+其所言說	qi suo yan shuo	1310
+其胎生者	qi tai sheng zhe	405
+七天眼通願	qi tian yan tong yuan	2760
+棄位出家	qi wei chu jia	3149
+其五者	qi wu zhe	845
+其下輩者	qi xia bei zhe	1718
+其香普熏無量世界	qi xiang pu xun mo liang shi jie	2399
+其香普熏十方世界	qi xiang pu xun shi fang shi jie	2560
+其心潔白	qi xin jie bai	1340
+其心清淨	qi xin qing jing	1988
+起信心故	qi xin xin gu	367
+其心正直	qi xin zheng zhi	1316
+其一者	qi yi zhe	994
+其有聞者	qi you wen zhe	1857
+其有至心願生彼國	qi you zhi xin yuan sheng bi guo	1762
+其有眾生	qi you zhong sheng	2234
+其有眾生欲於今世見阿彌陀佛者	qi you zhong sheng yu yu jin shi xian a mi tuo fo zhe	1749
+其有尊貴	qi you zun gui	977
+綺語	qi yu	876
+其餘諸樹	qi yu zhu shu	2149
+其願聞者	qi yuan wen zhe	1982
+其智宏深	qi zhi hong shen	1346
+其智難量	qi zhi nuo liang	2993
+其中輩者	qi zhong bei zhe	1741
+其中生者	qi zhong sheng zhe	598
+其中萬物	qi zhong wan wu	569
+其諸眾生	qi zhu zhong sheng	2592
+前後往來	qian hou wang lai	1513
+前所散華終不復落	qian suo san hua zhong bu fu luo	1530
+千萬分中不及一分	qian wan fen zhong bu ji yi fen	2196
+千萬億倍	qian wan yi bei	2738
+千億萬倍	qian yi wan bei	2252
+且自見之	qie zi xian zhi	1115
+勤而行之	qin er xing zhi	1087
+勤身營務	qin shen ying wu	1193
+禽獸	qin shou	2796
+勤行求道德	qin xing qiu dao de	1201
+勤修堅持第四十六	qin xiu jian chi di si shi liu	115
+勤修無懈倦	qin xiu mo xie juan	1599
+侵易于人	qin yi yu ren	866
+清暢哀亮	qing chang ai liang	2101
+清風時發	qing feng shi fa	2138
+清淨安穩	qing jing an wen	1873
+清淨佛國	qing jing fo guo	2862
+清淨佛土	qing jing fo tu	2377
+清淨光	qing jing guang	2242
+清淨歡喜	qing jing huan xi	2539
+清淨無染	qing jing mo ran	2431
+清淨平正	qing jing ping zheng	548
+清淨如水	qing jing ru shui	1336
+清淨若此	qing jing ruo ci	1264
+清淨之行	qing jing zhi xing	2817
+清淨莊嚴	qing jing zhuang yan	2306
+清淨莊嚴不	qing jing zhuang yan bu	505
+輕慢師長	qing man shi chang	872
+青色青光	qing se qing guang	1826
+清信女五百人	qing xin nv wu bai ren	3061
+清信士七千人	qing xin shi qi qian ren	3062
+情執深重	qing zhi shen zhong	306
+請轉法輪	qing zhuan fa lun	3140
+窮劫不盡	qiong jie bu jin	247
+煢煢忪忪	qiong qiong song song	734
+窮微極妙	qiong wei ji miao	2594
+求出輪迴	qiu chu lun hui	305
+求道不休	qiu dao bu xiu	1632
+求道和正	qiu dao he zheng	1244
+求道所願	qiu dao suo yuan	1416
+求法不倦	qiu fa bu juan	1313
+求離彼處	qiu li bi chu	352
+丘陵坑坎	qiu ling keng kan	2316
+求人天果	qiu ren tian guo	322
+求生彼剎	qiu sheng bi cha	1694
+求生淨剎	qiu sheng jing cha	301
+求心所願	qiu xin suo yuan	1022
+求諸近臣	qiu zhu jin chen	375
+去惡就善	qu e jiu shan	669
+趣佛菩提	qu fo pu ti	300
+去來	qu lai	1499
+去來現在佛佛相念	qu lai xian zai fo fo xiang nian	3029
+去無所去	qu mo suo qu	2367
+去五痛	qu wu tong	1000
+取相分別	qu xiang fen bie	307
+去閻浮提百千俱胝那由他佛剎	qu yan fu ti bai qian ju zhi na you ta fo cha	2362
+取願作佛	qu yuan zuo fo	2894
+泉池	quan chi	508
+泉池功德第十七	quan chi gong de di shi qi	2044
+泉池交流	quan chi jiao liu	2042
+勸令聽聞	quan ling ting wen	169
+勸諭策進	quan yu ce jin	2444
+勸諭策進第三十三	quan yu ce jin di san shi san	1196
+卻坐一面聽經	que zuo yi mian ting jing	2345
+然後乃出	ran hou nai chu	349
+然猶續念不絕	ran you xu nian bu jue	449
+然於五百歲中	ran yu wu bai sui zhong	360
+遶佛三匝	rao fo san za	2821
+饒益有情	rao yi you qing	1691
+仁慈博愛	ren ci bo ai	725
+人非人等	ren fei ren deng	557
+人間福報	ren jian fu bao	324
+忍力成就	ren li cheng jiu	2448
+人民諂偽	ren min chan wei	637
+人能自度	ren neng zi du	1035
+忍辱	ren ru	2423
+忍辱精進	ren ru jing jin	699
+忍辱如地	ren ru ru di	1338
+人身難得佛難值	ren shen nuo de fo nuo zhi	57
+仁王佛剎	ren wang fo cha	270
+任心自恣	ren xin zi zi	942
+人有至心求道	ren you zhi xin qiu dao	2871
+人在愛欲之中	ren zai ai yu zhi zhong	1151
+日夜稱說	ri ye cheng shuo	2223
+日月火珠皆匿曜	ri yue huo zhu jie ni yao	2935
+日月清明	ri yue qing ming	657
+日月星曜	ri yue xing yao	1801
+容容虛空	rong rong xu kong	1253
+榮色光曜	rong se guang yao	2140
+容色微妙	rong se wei miao	1965
+容顏廣大	rong yan an da	608
+柔軟光潔	rou ruan guang jie	1845
+肉眼簡擇	rou yan jian zhai	1397
+汝阿逸多	ru a yi duo	344
+如處一尋	ru chu yi xun	589
+如大海水	ru da hai shui	2183
+如忉利天	ru dao li tian	435
+汝等廣植德本	ru deng an zhi de ben	701
+汝等得佛經語	ru deng de fo jing yu	730
+汝等能於此世	ru deng neng yu ci shi	1011
+汝等應當安住無疑	ru deng ying dang an zhu mo yi	186
+汝等轉相教誡	ru deng zhuan xiang jiao jie	633
+如兜羅緜	ru dou luo mian	1844
+如對目前	ru dui mu qian	521
+如法修行	ru fa xiu xing	2890
+入佛法藏	ru fo fa cang	3154
+如佛金色身	ru fo jin se shen	2512
+如佛經法	ru fo jing fa	632
+如佛無礙智	ru fo mo ai zhi	2494
+如佛色相種種莊嚴	ru fo se xiang zhong zhong zhuang yan	1684
+如佛所說	ru fo suo shuo	483
+汝復見不	ru fu xian bu	480
+汝觀彼諸菩薩摩訶薩	ru guan bi zhu pu sa mo he sa	245
+如黃金山	ru huang jin shan	607
+如教奉行	ru jiao feng xing	1014
+如金剛杵	ru jin gang chu	1320
+汝今斯問	ru jin si wen	3018
+汝今所問	ru jin suo wen	2997
+如淨蓮華	ru jing lian hua	1324
+如淨天眼	ru jing tian yan	520
+汝可知耶	ru ke zhi ye	2294
+入空無相無願法門	ru kong mo xiang mo yuan fa men	3104
+如來定慧	ru lai ding hui	2986
+如來功德佛自知	ru lai gong de fo zi zhi	59
+如來深廣智慧海	ru lai shen an zhi hui hai	63
+如來所行	ru lai suo xing	84
+如來微妙色端嚴	ru lai wei miao se duan yan	2938
+如來興世	ru lai xing shi	140
+如來以無盡大悲	ru lai yi mo jin da bei	3006
+如來正覺	ru lai zheng jue	2994
+如毛塵水	ru mao chen shui	2185
+如尼拘樹	ru ni ju shu	1322
+如貧得寶	ru pin de bao	666
+如貧得寶第三十七	ru pin de bao di san shi qi	702
+入其幽冥	ru qi you ming	968
+如融金聚	ru rong jin ju	3053
+入三惡道	ru san e dao	755
+汝身果報	ru shen guo bao	2293
+入生死界	ru sheng si jie	1459
+如實安住	ru shi an zhu	2380
+如是不絕	ru shi bu jue	1518
+如是等法	ru shi deng fa	2853
+如是等類大威德者	ru shi deng lei da wei de zhe	180
+如是等諸大菩薩	ru shi deng zhu da pu sa	3066
+如是佛剎	ru shi fo cha	2082
+如是功德	ru shi gong de	2403
+如是功德莊嚴	ru shi gong de zhuang yan	1925
+如是光明	ru shi guang ming	2236
+如是六反	ru shi liu fan	1832
+如是妙法幸聽聞	ru shi miao fa xing ting wen	51
+如是如是	ru shi ru shi	628
+如是世人	ru shi shi ren	780
+如是我聞	ru shi wo wen	3194
+如是五惡五痛五燒	ru shi wu e wu tong wu shao	776
+如是一心求淨方	ru shi yi xin qiu jing fang	67
+如是願心永不退	ru shi yuan xin yong bu tui	2899
+如是輾轉	ru shi zhan zhuan	1440
+如是之惡	ru shi zhi e	885
+如是至竟	ru shi zhi jing	922
+如是晝夜思惟	ru shi zhou ye si wei	1666
+如是諸佛	ru shi zhu fo	1807
+如是轉倍	ru shi zhuan bei	1535
+如說修行	ru shuo xiu xing	240
+如所修行	ru suo xiu xing	2864
+如鐵圍山	ru tie wei shan	1318
+汝為哀愍利樂諸眾生故	ru wei ai min li yue zhu zhong sheng gu	3020
+汝聞阿彌陀佛大音宣布一切世界	ru wen a mi tuo fo da yin xuan bu yi qie shi jie	498
+汝悉見不	ru xi xian bu	485
+汝見極樂世界	ru xian ji yue shi jie	510
+汝見愚癡之人	ru xian yu chi zhi ren	314
+汝見欲界諸天	ru xian yu jie zhu tian	504
+如夜摩天	ru ye mo tian	477
+如一佛剎	ru yi fo cha	2827
+汝應具說	ru ying ju shuo	2814
+汝應自攝	ru ying zi she	2861
+如優曇花	ru you tan hua	2999
+入于火鑊	ru yu huo huo	850
+汝欲生彼	ru yu sheng bi	596
+如在夢中	ru zai meng zhong	1702
+如諸菩薩	ru zhu pu sa	410
+如轉輪王	ru zhuan lun wang	385
+汝自當知	ru zi dang zhi	2863
+汝自思惟	ru zi si wei	2867
+潤眾生故	run zhong sheng gu	1327
+若廣說者	ruo an shuo zhe	1274
+若彼國土無須彌山	ruo bi guo tu mo xu mi shan	2303
+若比極樂國中	ruo bi ji yue guo zhong	1942
+若彼眾生	ruo bi zhong sheng	2016
+若不爾者	ruo bu er zhe	2732
+若不更以新華重散	ruo bu geng yi xin hua zhong san	1531
+若不共稱嘆我名	ruo bu gong cheng tan wo ming	2717
+若不決定成等正覺	ruo bu jue ding cheng deng zheng jue	2745
+若不生者	ruo bu sheng zhe	2707
+若不往昔修福慧	ruo bu wang xi xiu fu hui	79
+若不悉知億那由他百千佛剎	ruo bu xi zhi yi na you ta bai qian fo cha	2757
+若曹當熟思計	ruo cao dang shu si ji	1090
+若曹當知	ruo cao dang zhi	1049
+若曹欲見無量清淨平等覺	ruo cao yu xian mo liang qing jing ping deng jue	622
+若曹作善	ruo cao zuo shan	720
+若此眾生	ruo ci zhong sheng	355
+若當生	ruo dang sheng	1790
+若多事物不能離家	ruo duo shi wu bu neng li jia	1656
+若化頂上圓光	ruo hua ding shang yuan guang	2270
+若能知其量數者	ruo neng zhi qi liang shuo zhe	2722
+若能自於其中一心制意	ruo neng zi yu qi zhong yi xin zhi yi	773
+若起想念	ruo qi xiang nian	2643
+若聞佛號	ruo wen fo hao	124
+若聞斯經	ruo wen si jing	134
+若聞我名	ruo wen wo ming	2658
+若我得聞	ruo wo de wen	2854
+若現在生	ruo xian zai sheng	24
+若邪定聚	ruo xie ding ju	1787
+若形貌差別	ruo xing mao cha bie	2773
+若以無相智慧	ruo yi mo xiang zhi hui	303
+若已求	ruo yi qiu	190
+若已生	ruo yi sheng	1791
+若有墮於疑悔	ruo you hui yu yi hui	370
+若有急難恐怖	ruo you ji nuo kong bu	1469
+若有女人	ruo you nv ren	2674
+若有善男子	ruo you shan nan zi	1793
+若有宿惡	ruo you su e	2684
+若有眾生	ruo you zhong sheng	2737
+若有眾生得聞佛聲	ruo you zhong sheng de wen fo sheng	130
+若有眾生住大乘者	ruo you zhong sheng zhu da cheng zhe	1709
+若於來世	ruo yu lai shi	206
+若於繩墨	ruo yu sheng mo	1240
+若欲食時	ruo yu shi shi	1907
+若在三途極苦之處	ruo zai san tu ji ku zhi chu	2230
+若諸有情當作佛	ruo zhu you qing dang zuo fo	55
+洒心易行	sa xin yi xing	664
+三輩往生第二十四	san bei wang sheng di er shi si	1764
+三不淫欲	san bu yin yu	1674
+三惡道中	san e dao zhong	2793
+散華燒香	san hua shao xiang	1731
+三昧常寂	san mei chang ji	2437
+三千大千世界	san qian da qian shi jie	2209
+三身悉金色願	san shen xi jin se yuan	2770
+三十八應念受供願	san shi ba ying nian shou gong yuan	2599
+三十二那羅延身願	san shi er na luo yan shen yuan	2626
+三十二相	san shi er xiang	2396
+三十二種	san shi er zhong	2777
+三十九莊嚴無盡願	san shi jiu zhuang yan mo jin yuan	2586
+三十六教化隨意願	san shi liu jiao hua sui yi yuan	2608
+三十七衣食自至願	san shi qi yi shi zi zhi yuan	2600
+三十三光明慧辯願	san shi san guang ming hui bian yuan	2625
+三十四善談法要願	san shi si shan tan fa yao yuan	2624
+三十五一生補處願	san shi wu yi sheng bu chu yuan	2609
+三十一不貪計身願	san shi yi bu tan ji shen yuan	2638
+三十樂如漏盡願	san shi yue ru lou jin yuan	2639
+三者無生法忍	san zhe mo sheng fa ren	2083
+色界天	se jie tian	3059
+色力增長	se li zeng chang	1898
+色色異香	se se yi xiang	1539
+色身諸根	se shen zhu gen	3045
+色相端嚴	se xiang duan yan	2397
+善成就故	shan cheng jiu gu	1505
+善多惡少	shan duo e shao	1007
+善惡報應	shan e bao ying	796
+善惡變化	shan e bian hua	1146
+善惡禍福	shan e huo fu	920
+善惡會當歸之	shan e kuai dang gui zhi	946
+善惡之道	shan e zhi dao	1119
+善根無量	shan gen mo liang	2636
+善根相續	shan gen xiang xu	1509
+善好殊無比	shan hao shu mo bi	1215
+善護口業	shan hu kou ye	2436
+善護身業	shan hu shen ye	2434
+善護意業	shan hu yi ye	2432
+善獲利益	shan huo li yi	244
+善解世間無邊方便	shan jie shi jian mo bian fang bian	1389
+善立方便	shan li fang bian	3103
+善能分別眾生語言	shan neng fen bie zhong sheng yu yan	3089
+善女人	shan nv ren	1792
+善巧決定	shan qiao jue ding	1315
+善人行善	shan ren xing shan	792
+善少惡多	shan shao e duo	684
+善攝取故	shan she qu gu	1506
+善逝	shan shi	2970
+善思念之	shan si nian zhi	2981
+善談諸法秘要	shan tan zhu fa mi yao	2630
+善修習故	shan xiu xi gu	1507
+善哉善哉	shan zai shan zai	3021
+善知集滅	shan zhi ji mie	1367
+尚可窮底	shang ke qiong di	2872
+尚無假設	shang mo jia she	1971
+上下	shang xia	1500
+上下亦復然	shang xia yi fu ran	1609
+上至色究竟天	shang zhi se jiu jing tian	503
+上至虛空	shang zhi xu kong	2567
+少長	shao chang	1189
+燒煩惱薪	shao fan nao xin	1333
+少欲知足	shao yu zhi zu	2452
+捨彼輪迴身	she bi lun hui shen	1565
+捨兜率	she dou lv	3151
+捨家棄欲	she jia qi yu	1759
+捨離一切執著	she li yi qie zhi zhu	1371
+攝取受持	she qu shou chi	200
+設取一毛	she qu yi mao	2193
+設入大火	she ru da huo	217
+攝受導引	she shou dao yin	1723
+攝受殊勝佛剎	she shou shu sheng fo cha	223
+奢婬驕縱	she yin jiao zong	943
+捨諸愛著	she zhu ai zhu	1299
+誰能知者	shei neng zhi zhe	786
+深廣無邊	shen an mo bian	2194
+深大無量	shen da mo liang	1412
+身頂皆有光明照耀	shen ding jie you guang ming zhao yao	2633
+身獨度脫	shen du du tuo	768
+身光一尋	shen guang yi xun	1490
+身及諸根	shen ji zhu gen	2989
+身口常出無量妙香	shen kou chang chu mo liang miao xiang	2401
+神明記識	shen ming ji shi	883
+神明尅識	shen ming kei shi	910
+沈沒不現	shen mo bu xian	568
+深入義味	shen ru yi wei	1387
+深入正慧	shen ru zheng hui	1403
+身色相好	shen se xiang hao	1286
+身色紫金	shen se zi jin	1812
+甚深甚善	shen shen shen shan	1072
+甚深之法	shen shen zhi fa	111
+神通	shen tong	1408
+神通變化	shen tong bian hua	1932
+神通第一	shen tong di yi	2210
+神通華菩薩	shen tong hua pu sa	3171
+神通皆如大目犍連	shen tong jie ru da mu jian lian	2202
+神通已達	shen tong yi da	3189
+神通自在	shen tong zi zai	1915
+甚為大德	shen wei da de	1008
+身相	shen xiang	412
+身心不正	shen xin bu zheng	902
+身心摧碎	shen xin cui sui	849
+身心潔淨	shen xin jie jing	1248
+身心淨潔	shen xin jing jie	714
+身心清淨	shen xin qing jing	302
+身心柔軟	shen xin rou ruan	1896
+身行當專	shen xing dang zhuan	709
+神形苦極	shen xing ku ji	848
+身行所作	shen xing suo zuo	440
+身意柔軟	shen yi rou ruan	2231
+甚於父母念子	shen yu fu mu nian zi	645
+身愚神闇	shen yu shen an	1136
+神智洞達	shen zhi dong da	2214
+深著世樂	shen zhu shi yue	325
+身自當之	shen zi dang zhi	794
+深自悔責	shen zi hui ze	353
+生安樂國	sheng an yue guo	1081
+生寶剎中	sheng bao cha zhong	1683
+生彼邊地	sheng bi bian di	1019
+生彼佛國	sheng bi fo guo	1436
+生彼國土	sheng bi guo tu	280
+生彼國中	sheng bi guo zhong	1743
+生導師想	sheng dao shi xiang	227
+昇灌頂階	sheng guan ding jie	3128
+生老病死眾苦惱	sheng lao bing si zhong ku nao	2917
+勝力佛剎	sheng li fo cha	274
+昇無為之安	sheng mo wei zhi an	640
+生身煩惱	sheng shen fan nao	1361
+生生之處	sheng sheng zhi chu	1449
+生時苦痛	sheng shi ku tong	1044
+生死不休	sheng si bu xiu	782
+聲聞	sheng wen	2180
+聲聞菩薩	sheng wen pu sa	1438
+聲聞億劫思佛智	sheng wen yi jie si fo zhi	61
+聲聞之數	sheng wen zhi shuo	2197
+生我國者	sheng wo guo zhe	2767
+生希有心	sheng xi you xin	3038
+聖賢共住	sheng xian gong zhu	544
+勝於供養一天下阿羅漢	sheng yu gong yang yi tian xia a luo han	3017
+勝于日月之明	sheng yu ri yue zhi ming	2739
+勝於日月之明	sheng yu ri yue zhi ming	2253
+勝於他方諸佛國中	sheng yu ta fang zhu fo guo zhong	690
+勝在無量壽國為善百歲	sheng zai mo liang shou guo wei shan bai sui	695
+生尊貴家	sheng zun gui jia	2656
+十八十念必生願	shi ba shi nian bi sheng yuan	2704
+誓不成等覺	shi bu cheng deng jue	2523
+十不癡	shi bu chi	1667
+是大海水	shi da hai shui	1425
+實當念佛	shi dang nian fo	1057
+適得其中	shi de qi zhong	1252
+十二定成正覺願	shi er ding cheng zheng jue yuan	2743
+十方佛剎	shi fang fo cha	2556
+十方佛讚第二十三	shi fang fo zan di er shi san	1784
+十方來正士吾悉知彼願	shi fang lai zheng shi wu xi zhi bi yuan	1586
+十方人民	shi fang ren min	1048
+十方世界	shi fang shi jie	2781
+十方世界無量剎中	shi fang shi jie mo liang cha zhong	2719
+十方世界音聲之中	shi fang shi jie yin sheng zhi zhong	2099
+十方世界諸佛名號	shi fang shi jie zhu fo ming hao	250
+十方世界諸菩薩眾	shi fang shi jie zhu pu sa zhong	1623
+十方世界諸天人民	shi fang shi jie zhu tian ren min	1763
+十方世界諸往生者	shi fang shi jie zhu wang sheng zhe	1977
+十方世界諸眾生類	shi fang shi jie zhu zhong sheng lei	2669
+十方眾生	shi fang zhong sheng	2714
+十方諸佛	shi fang zhu fo	2602
+示福田	shi fu tian	3130
+是故阿難	shi gu a nuo	1750
+是故彼國名為極樂	shi gu bi guo ming wei ji yue	1968
+是故博聞諸智士	shi gu bo wen zhu zhi shi	53
+是故告汝天人世間阿修羅等	shi gu gao ru tian ren shi jian a xiu luo deng	230
+是故無量壽佛	shi gu mo liang shou fo	2249
+是故汝等	shi gu ru deng	209
+是故應當明信諸佛無上智慧	shi gu ying dang ming xin zhu fo mo shang zhi hui	340
+是故應當專心信受	shi gu ying dang zhuan xin xin shou	156
+是故於彼	shi gu yu bi	422
+釋迦如來	shi jia ru lai	516
+世間解	shi jian jie	2969
+世間人民	shi jian ren min	1167
+世間善男子	shi jian shan nan zi	1470
+世間有此目前現事	shi jian you ci mu qian xian shi	969
+世間之事	shi jian zhi shi	1155
+世間諸眾生類	shi jian zhu zhong sheng lei	993
+世间自在王佛	shi jian zi zai wang fo	2876
+世間自在王佛知其高明	shi jian zi zai wang fo zhi qi gao ming	2850
+十九聞名發心願	shi jiu wen ming fa xin yuan	2691
+時會一切眾互慶生歡喜	shi kuai yi qie zhong hu qing sheng huan xi	1588
+十力無畏	shi li mo wei	113
+十力無畏聲	shi li mo wei sheng	1993
+十六聲聞無數願	shi liu sheng wen mo shuo yuan	2720
+誓滿所願	shi man suo yuan	2851
+嗜美	shi mei	832
+實無可得	shi mo ke de	3116
+世無能喻	shi mo neng yu	2027
+實無食者	shi mo shi zhe	1901
+實無所惑	shi mo suo huo	2281
+使無疑滯	shi mo yi zhi	183
+十七諸佛稱嘆願	shi qi zhu fo cheng tan yuan	2715
+識其罪本	shi qi zui ben	354
+世人惡苦	shi ren e ku	629
+世人共爭不急之務	shi ren gong zheng bu ji zhi wu	1195
+是人臨終	shi ren lin zhong	1660
+是人命終	shi ren ming zhong	1685
+世人善惡自不能見	shi ren shan e zi bu neng xian	1139
+是人已曾值過去佛	shi ren yi ceng zhi guo qu fo	160
+十日十夜	shi ri shi ye	691
+十日十夜乃至一日一夜	shi ri shi ye nai zhi yi ri yi ye	1643
+視若自己	shi ruo zi ji	3072
+十三光明無量願	shi san guang ming mo liang yuan	2731
+十神足通願	shi shen zu tong yuan	2749
+世世累劫	shi shi lei jie	777
+十四觸光安樂願	shi si chu guang an yue yuan	2730
+是王子等	shi wang zi deng	2339
+是為大善	shi wei da shan	1058
+事為非法	shi wei fei fa	896
+是為五大善也	shi wei wu da shan ye	766
+時為諸天及世人民說经講道	shi wei zhu tian ji shi ren min shuo jing jiang dao	2963
+十五壽命無量願	shi wu shou ming mo liang yuan	2721
+示現同彼	shi xian tong bi	1452
+適小具有	shi xiao ju you	1179
+十一徧供諸佛願	shi yi bian gong zhu fo yuan	2748
+是以非樂	shi yi fei yue	333
+事已化去	shi yi hua qu	1894
+時亦難遭	shi yi nuo zao	105
+時至復現	shi zhi fu xian	1893
+示眾見之	shi zhong xian zhi	757
+是諸寶樹	shi zhu bao shu	2134
+飾諸寶柱	shi zhu bao zhu	2117
+時諸比丘聞佛言者	shi zhu bi qiu wen fo yan zhe	2330
+時諸佛國	shi zhu fo guo	591
+是諸人等	shi zhu ren deng	446
+師子佛剎	shi zi fo cha	273
+世尊	shi zun	479
+世尊告言	shi zun gao yan	2370
+世尊今日入大寂定	shi zun jin ri ru da ji ding	3033
+世尊能演一音聲	shi zun neng yan yi yin sheng	2934
+受持	shou chi	172
+受持廣度生死流	shou chi an du sheng si liu	49
+受持讀誦	shou chi du song	1697
+受持如來甚深法藏	shou chi ru lai shen shen fa zang	3081
+授法眼	shou fa yan	3076
+受佛明誨	shou fo ming hui	1016
+受佛重誨	shou fo zhong hui	625
+受記成等覺	shou ji cheng deng jue	1574
+壽量亦爾	shou liang yi er	2178
+壽命長久	shou ming chang jiu	2217
+壽命幾何	shou ming ji he	904
+壽命無量	shou ming mo liang	2729
+壽命亦皆無量	shou ming yi jie mo liang	2727
+壽命終盡	shou ming zhong jin	857
+受菩提記	shou pu ti ji	159
+授菩提記	shou pu ti ji	3127
+受菩提記第四十四	shou pu ti ji di si shi si	207
+壽千萬劫	shou qian wan jie	1025
+壽萬億歲	shou wan yi sui	2203
+受我法化	shou wo fa hua	2791
+受用具足第十九	shou yong ju zu di shi jiu	1924
+受用種種	shou yong zhong zhong	1914
+授與經法	shou yu jing fa	679
+壽樂無極第三十二	shou yue mo ji di san shi er	1271
+壽樂無有極	shou yue mo you ji	1199
+壽終	shou zhong	2657
+手中常出無盡之寶	shou zhong chang chu mo jin zhi bao	2393
+壽終皆得往生其國	shou zhong jie de wang sheng qi guo	1641
+壽眾無量第十三	shou zhong mo liang di shi san	2219
+殊無怪也	shu mo guai ye	1121
+殊勝吉祥	shu sheng ji xiang	1290
+殊勝莊嚴無等倫	shu sheng zhuang yan mo deng lun	2907
+熟思惟之	shu si wei zhi	729
+書寫	shu xie	174
+書寫供養	shu xie gong yang	1696
+水火盜賊	shui huo dao zei	1177
+水晶樹	shui jing shu	2170
+水晶為梢	shui jing wei shao	2153
+順世間故	shun shi jian gu	3146
+說不能盡	shuo bu neng jin	2402
+說誠實言	shuo cheng shi yan	1779
+說此頌已	shuo ci song yi	2481
+說道	shuo dao	2047
+說法師子吼	shuo fa shi zi hou	2490
+說經行道	shuo jing xing dao	2629
+數千百變	shuo qian bai bian	3049
+數如恆河沙	shuo ru heng he sha	1613
+說是法時	shuo shi fa shi	2845
+說我功德國土之善者	shuo wo gong de guo tu zhi shan zhe	2716
+四百萬里	si bai wan li	2582
+四不妄言	si bu wang yan	1673
+思道	si dao	2059
+思道及坐禪者	si dao ji zuo chan zhe	2055
+斯等菩薩	si deng pu sa	255
+死極苦痛	si ji ku tong	1041
+四三十二相願	si san shi er xiang yuan	2769
+死生不得	si sheng bu de	758
+死生之趣	si sheng zhi qu	1120
+四十八現證不退願	si shi ba xian zheng bu tui yuan	2531
+四十二徹照十方願	si shi er che zhao shi fang yuan	2569
+四十六獲陀羅尼願	si shi liu huo tuo luo ni yuan	2533
+四十七聞名得忍願	si shi qi wen ming de ren yuan	2532
+四十三寶香普熏願	si shi san bao xiang pu xun yuan	2557
+四十四普等三昧願	si shi si pu deng san mei yuan	2545
+四十五定中供佛願	si shi wu ding zhong gong fo yuan	2544
+四十億菩薩	si shi yi pu sa	37
+死所趣向	si suo qu xiang	812
+四萬億那由他百千眾生	si wan yi na you ta bai qian zhong sheng	32
+思惟究竟	si wei jiu jing	2838
+四維上下	si wei shang xia	2271
+思惟修習	si wei xiu xi	2852
+思想恩好	si xiang en hao	1106
+斯義宏深	si yi hong shen	2859
+思欲齊等	si yu qi deng	1180
+斯願不滿足	si yuan bu man zu	2524
+斯願若尅果	si yuan ruo kei guo	2486
+誦經者	song jing zhe	2063
+頌曰	song yue	2939
+速成無上正等正覺	su cheng mo shang zheng deng zheng jue	2888
+速到菩提究竟岸	su dao pu ti jiu jing an	2923
+速得聞法	su de wen fa	1682
+速疾安住得不退轉	su ji an zhu de bu tui zhuan	225
+速生我剎受安樂	su sheng wo cha shou an yue	2905
+宿世之時	su shi zhi shi	398
+宿殃未盡	su yang wei jin	119
+雖百千倍	sui bai qian bei	1945
+雖不即時暴應	sui bu ji shi bao ying	947
+雖不臨時	sui bu lin shi	1153
+雖不能大精進禪定	sui bu neng da jing jin chan ding	1679
+雖不能行作沙門	sui bu neng xing zuo sha men	1740
+隨風散馥	sui feng san fu	2026
+隨風四散	sui feng si san	1520
+雖復修福	sui fu xiu fu	323
+隨己修行	sui ji xiu xing	1737
+隨經約令	sui jing yao ling	1242
+雖具天眼	sui ju tian yan	2591
+隨其精進早晚	sui qi jing jin zao wan	1633
+隨其前後	sui qi qian hou	1533
+隨其時節	sui qi shi jie	1835
+隨其所聞	sui qi suo wen	1984
+碎如微塵	sui ru wei chen	2191
+隨色次第	sui se ci di	1847
+雖生彼國	sui sheng bi guo	444
+雖生他方世界	sui sheng ta fang shi jie	2616
+雖生五濁惡世	sui sheng wu zhuo e shi	1453
+隨時悟入華嚴三昧	sui shi wu ru hua yan san mei	3097
+隨順我教	sui shun wo jiao	96
+隨所生處	sui suo sheng chu	2398
+雖萬億倍	sui wan yi bei	1939
+隨心則到	sui xin ze dao	1473
+隨意即至	sui yi ji zhi	2604
+隨以磨滅	sui yi mo mie	737
+雖一世精進勤苦	sui yi shi jing jin qin ku	1031
+隨意所須	sui yi suo xu	1909
+隨意所願	sui yi suo yuan	2221
+雖亦修善	sui yi xiu shan	338
+隨意修習	sui yi xiu xi	2611
+隨意自在	sui yi zi zai	3084
+隨應而現	sui ying er xian	2107
+雖有此食	sui you ci shi	1902
+雖有善根劣者	sui you shan gen lie zhe	2580
+隨願皆生	sui yuan jie sheng	1767
+雖種善根	sui zhong shan gen	309
+隨足舉已	sui zu ju yi	1841
+隨罪趣向	sui zui qu xiang	960
+損害忠良	sun hai zhong liang	938
+所不能及	suo bu neng ji	2274
+所不欲聞	suo bu yu wen	1980
+所處宮殿	suo chu gong dian	1937
+所當求者	suo dang qiu zhe	895
+所當為者	suo dang wei zhe	150
+所發誓願	suo fa shi yuan	2382
+所居佛剎	suo ju fo cha	2801
+所居宮殿	suo ju gong dian	2065
+所居國土	suo ju guo tu	2885
+所居舍宅	suo ju she zhai	1886
+所居舍宅在地	suo ju she zhai zai di	432
+所攝佛國	suo she fo guo	2826
+所生菩薩	suo sheng pu sa	1277
+所生之處	suo sheng zhi chu	2415
+所受快樂	suo shou kuai yue	2645
+所受壽命	suo shou shou ming	959
+所未曾見	suo wei ceng xian	3040
+所謂善思惟菩薩	suo wei shan si wei pu sa	3174
+所謂一不殺生	suo wei yi bu sha sheng	1676
+所未知者	suo wei zhi zhe	2184
+所行慈愍行	suo xing ci min xing	2493
+所修佛國	suo xiu fo guo	2468
+所修善根	suo xiu shan gen	2457
+所須飲食	suo xu yin shi	2607
+所言誠諦	suo yan cheng di	1388
+所以出興於世	suo yi chu xing yu shi	3004
+所以者何	suo yi zhe he	2987
+所有國城	suo you guo cheng	2430
+所有疾苦	suo you ji ku	536
+所有善根	suo you shan gen	2711
+所有現在	suo you xian zai	1464
+所有一切星宿眾生	suo you yi qie xing xiu zhong sheng	2208
+所有一切眾生	suo you yi qie zhong sheng	2795
+所有眾生	suo you zhong sheng	2780
+所願功德大小不同	suo yuan gong de da xiao bu tong	2260
+所願輒得	suo yuan zhe de	662
+所作如犯	suo zuo ru fan	671
+所作善惡	suo zuo shan e	2765
+所作善根	suo zuo shan gen	1690
+所作至誠	suo zuo zhi cheng	770
+他寶化作	ta bao hua zuo	2158
+他方佛國	ta fang fo guo	688
+他方佛土	ta fang fo tu	283
+他方世界諸菩薩眾	ta fang shi jie zhu pu sa zhong	2543
+貪計身者	tan ji shen zhe	2642
+歎未曾有	tan wei ceng you	6
+貪於財色	tan yu cai se	1127
+堂舍樓觀第十六	tang she lou guan di shi liu	2071
+堂宇房閣	tang yu fang ge	1878
+特留此經止住百歲	te liu ci jing zhi zhu bai sui	143
+天道施張	tian dao shi zhang	736
+天地之間	tian di zhi jian	949
+天龍八部	tian long ba bu	558
+天人	tian ren	2179
+天人宮殿	tian ren gong dian	580
+天人歸仰	tian ren gui yang	3141
+天人師	tian ren shi	2966
+天人世間有萬二千那由他億眾生	tian ren shi jian you wan er qian na you ta yi zhong sheng	45
+天下和順	tian xia he shun	658
+天眼通達	tian yan tong da	1396
+天雨妙華	tian yu miao hua	2479
+調伏諸根	tiao fu zhu gen	1404
+調伏自他	tiao fu zi ta	1301
+調御丈夫	tiao yu zhang fu	2967
+調眾生	tiao zhong sheng	3133
+鐵圍	tie wei	2314
+聽此法門	ting ci fa men	220
+聽經者	ting jing zhe	2061
+聽受經法	ting shou jing fa	1618
+聽聞經法	ting wen jing fa	347
+痛不可言	tong bu ke yan	950
+通達善趣門	tong da shan qu men	2497
+通達甚深微妙法	tong da shen shen wei miao fa	2927
+通達諸法性一切空無我	tong da zhu fa xing yi qie kong mo wo	1579
+同名妙音如來	tong ming miao yin ru lai	26
+同所稱讚	tong suo cheng zan	157
+痛哉可傷	tong zai ke shang	731
+通諸法性	tong zhu fa xing	3113
+土石等山	tu shi deng shan	2312
+退轉阿耨多羅三藐三菩提	tui zhuan a nou duo luo san miao san pu ti	176
+外若遲緩	wai ruo chi huan	1255
+萬種伎樂	wan zhong ji yue	1516
+尫狂	wang kuang	980
+往禮無量壽	wang li mo liang shou	1611
+亡其功夫	wang qi gong fu	703
+往生彼國	wang sheng bi guo	1476
+往生無量清淨阿彌陀佛國	wang sheng mo liang qing jing a mi tuo fo guo	1209
+往生正因第二十五	wang sheng zheng yin di er shi wu	1699
+往昔世中	wang xi shi zhong	351
+妄言	wang yan	877
+往詣佛所	wang yi fo suo	2944
+王子得罪	wang zi de zui	392
+惟阿彌陀佛	wei a mi tuo fo	2264
+為彼羣生大導師	wei bi qun sheng da dao shi	2919
+未曾間斷	wei ceng jian duan	2404
+唯曾於佛植眾善	wei ceng yu fo zhi zhong shan	71
+未嘗寧息	wei chang ning xi	682
+唯除大願	wei chu da yuan	1460
+唯除五逆	wei chu wu ni	2706
+唯此世間	wei ci shi jian	685
+唯此五惡世間	wei ci wu e shi jian	1005
+為大導師	wei da dao shi	1302
+未當度脫	wei dang du tuo	118
+為道作善	wei dao zuo shan	2681
+威德	wei de	1407
+未得阿惟越致者	wei de a wei yue zhi zhe	2050
+威德廣大	wei de an da	2378
+威德廣大不思議智	wei de an da bu si yi zhi	455
+威德巍巍	wei de wei wei	554
+為度羣生	wei du qun sheng	1458
+未度有情令得度	wei du you qing ling de du	2914
+微風徐動	wei feng xu dong	2106
+唯佛聖智能證知	wei fo sheng zhi neng zheng zhi	2901
+唯佛與佛乃能知	wei fo yu fo nai neng zhi	62
+威光赫奕	wei guang he yi	3054
+謂己有道	wei ji you dao	868
+為教菩薩	wei jiao pu sa	3126
+為今現在他方世界耶	wei jin xian zai ta fang shi jie ye	2371
+未來	wei lai	1463
+未來佛耶	wei lai fo ye	2372
+微瀾徐迴	wei lan xu hui	2000
+違戾反逆	wei li fan ni	840
+威力自在	wei li zi zai	2213
+微妙宮商	wei miao gong shang	2136
+微妙和雅	wei miao he ya	2100
+微妙快樂	wei miao kuai yue	1872
+微妙難思議	wei miao nuo si yi	1597
+微妙奇麗	wei miao qi li	2307
+謂無有是	wei mo you shi	1117
+未能捨離	wei neng she li	316
+違逆天地	wei ni tian di	1095
+為念過去未來諸佛耶	wei nian guo qu wei lai zhu fo ye	3028
+為念現在他方諸佛耶	wei nian xian zai ta fang zhu fo ye	3027
+為求法故	wei qiu fa gu	219
+唯然已聞	wei ran yi wen	496
+唯然已見	wei ran yi xian	499
+圍繞恭敬	wei rao gong jing	552
+圍繞說法	wei rao shuo fa	514
+為善千歲	wei shan qian sui	689
+威神	wei shen	2225
+威神光明	wei shen guang ming	1486
+威神力故	wei shen li gu	2077
+為失大利	wei shi da li	341
+為是過去佛耶	wei shi guo qu fo ye	2373
+為世明燈	wei shi ming deng	1292
+威勢無幾	wei shi mo ji	738
+唯是眾寶莊嚴	wei shi zhong bao zhuang yan	545
+唯受清淨最上快樂	wei shou qing jing zui shang kuai yue	1794
+為水中王	wei shui zhong wang	1428
+為妄興事	wei wang xing shi	1096
+唯見大水	wei xian da shui	566
+唯見佛光	wei xian fo guang	561
+威相第一	wei xiang di yi	1950
+為心走使	wei xin zou shi	1186
+唯一寶成	wei yi bao cheng	2166
+唯以自然七寶	wei yi zi ran qi bao	2311
+唯有世尊能開示	wei you shi zun neng kai shi	58
+為欲瞻禮	wei yu zhan li	1622
+惟願如來	wei yuan ru lai	2857
+唯願世尊	wei yuan shi zun	2805
+為之不諦	wei zhi bu di	704
+謂之胎生	wei zhi tai sheng	421
+為眾開法藏	wei zhong kai fa zang	2496
+為諸庶類	wei zhu shu lei	3083
+為諸有情長夜利益	wei zhu you qing chang ye li yi	100
+聞彼佛名	wen bi fo ming	1773
+聞此經典	wen ci jing dian	1698
+聞法能行	wen fa neng xing	136
+聞法樂受行	wen fa yue shou xing	1577
+聞佛聖德名	wen fo sheng de ming	1602
+聞佛說法	wen fo shuo fa	2961
+聞佛所說	wen fo suo shuo	2
+聞經獲益第四十八	wen jing huo yi di si shi ba	47
+聞名欲往生	wen ming yu wang sheng	1571
+聞其光明	wen qi guang ming	2226
+聞甚深法	wen shen shen fa	1707
+聞聲	wen sheng	2096
+聞是法已	wen shi fa yi	2811
+文殊師利菩薩	wen shu shi li pu sa	3180
+聞我名號	wen wo ming hao	2713
+聞我名已	wen wo ming yi	2554
+聞我名者	wen wo ming zhe	2542
+聞我名字	wen wo ming zi	2683
+聞已受持及書寫	wen yi shou chi ji shu xie	69
+溫者	wen zhe	2008
+聞之皆大歡喜	wen zhi jie da huan xi	2349
+我哀汝等	wo ai ru deng	646
+我當奉持	wo dang feng chi	2891
+我弟子中大目犍連	wo di zi zhong da mu jian lian	2211
+我法如是	wo fa ru shi	86
+我行決定堅固力	wo hang jue ding jian gu li	2902
+我建超世志	wo jian chao shi zhi	2526
+我今略說	wo jin lue shuo	1278
+我今如理宣說如是廣大微妙法門	wo jin ru li xuan shuo ru shi an da wei miao fa men	104
+我今為菩薩道	wo jin wei pu sa dao	2896
+我今於此作佛	wo jin yu ci zuo fo	1003
+我今願見極樂世界阿彌陀佛	wo jin yuan xian ji yue shi jie a mi tuo fo	613
+我立是願	wo li shi yuan	2879
+我若成正覺	wo ruo cheng zheng jue	2516
+我若證得無上菩提	wo ruo zheng de mo shang pu ti	2803
+我見極樂世界人住胎者	wo xian ji yue shi jie ren zhu tai zhe	478
+我已成就莊嚴佛土	wo yi cheng jiu zhuang yan fo tu	2818
+我以慈悲哀愍	wo yi ci bei ai min	144
+我亦願樂生於彼土	wo yi yuan yue sheng yu bi tu	599
+我於此法	wo yu ci fa	2282
+我於此世作佛	wo yu ci shi zuo fo	644
+我與諸菩薩眾迎現其前	wo yu zhu pu sa zhong ying xian qi qian	2695
+我作佛时	wo zuo fo shi	2637
+我作佛時	wo zuo fo shi	2782
+吾哀汝等	wu ai ru deng	681
+五百歲中	wu bai sui zhong	404
+吾般泥洹	wu ban ni huan	639
+五不綺語	wu bu qi yu	1672
+吾當為汝分別解說	wu dang wei ru fen bie jie shuo	2980
+五道分明	wu dao fen ming	797
+悟道者少	wu dao zhe shao	1099
+勿得隨心所欲	wu de sui xin suo yu	1078
+勿犯道禁	wu fan dao jin	700
+吾今為諸眾生說此經法	wu jin wei zhu zhong sheng shuo ci jing fa	153
+五燒五痛	wu shao wu tong	635
+五身無差別願	wu shen mo cha bie yuan	2768
+勿隨嗜欲	wu sui shi yu	712
+務修禮讓	wu xiu li rang	651
+吾語汝等	wu yu ru deng	764
+悉成阿耨多羅三藐三菩提	xi cheng a nou duo luo san miao san pu ti	2790
+悉成緣覺	xi cheng yuan jue	2725
+悉持思之	xi chi si zhi	678
+洗除心垢	xi chu xin gou	1038
+悉大開闢	xi da kai bi	572
+喜得瞻仰	xi de zhan yang	3039
+悉覩無量諸佛	xi du mo liang zhu fo	3094
+悉覩娑婆世界	xi du suo po shi jie	517
+悉度脫之	xi du tuo zhi	626
+悉奉行之	xi feng xing zhi	677
+悉共大會	xi gong da kuai	3057
+悉共計校	xi gong ji xiao	2723
+悉共推算	xi gong tui suan	2199
+谿谷	xi gu	574
+悉獲諸佛無量功德	xi huo zhu fo mo liang gong de	3069
+悉皆慈心作善	xi jie ci xin zuo shan	532
+悉皆得聞	xi jie de wen	7
+悉皆第一	xi jie di yi	2951
+悉皆洞視	xi jie dong shi	1502
+悉皆具足	xi jie ju zu	2394
+悉皆空寂	xi jie kong ji	1362
+悉皆如念	xi jie ru nian	1908
+悉皆如是	xi jie ru shi	1275
+悉皆隱蔽	xi jie yin bi	562
+悉皆增上	xi jie zeng shang	234
+悉令得泥洹道	xi ling de ni huan dao	1446
+悉令如佛	xi ling ru fo	2893
+繫念我國	xi nian wo guo	2689
+繫其兩足	xi qi liang zu	383
+希求佛智	xi qiu fo zhi	458
+悉捨三途苦	xi she san tu ku	2502
+悉施與之	xi shi yu zhi	1689
+悉受清虛之身	xi shou qing xu zhi shen	1974
+悉同一類	xi tong yi lei	2774
+希望長生	xi wang chang sheng	810
+悕望他利	xi wang ta li	913
+析為百分	xi wei bai fen	2192
+悉現與之	xi xian yu zhi	2846
+熙怡快樂	xi yi kuai yue	1512
+徙倚懈怠	xi yi xie dai	844
+希有出現	xi you chu xian	2998
+悉於寶樹間見	xi yu bao shu jian xian	2577
+喜樂久習	xi yue jiu xi	1259
+悉知其數	xi zhi qi shuo	2206
+洗諸塵垢	xi zhu chen gou	1335
+洗濯垢污	xi zhuo gou wu	3135
+悉作菩薩	xi zuo pu sa	2880
+下入惡道	xia ru e dao	1092
+下從地際	xia zong di ji	2568
+見阿彌陀佛	xian a mi tuo fo	1701
+見阿彌陀佛者	xian a mi tuo fo zhe	22
+先被病殃	xian bei bing yang	759
+見此光明	xian ci guang ming	2229
+現大光明	xian da guang ming	3050
+咸共遵修普賢大士之德	xian gong zun xiu pu xian da shi zhi de	3159
+現居此界	xian ju ci jie	1472
+賢明	xian ming	975
+顯明清白	xian ming qing bai	3134
+現其人前	xian qi ren qian	1724
+現求	xian qiu	189
+先人不善	xian ren bu shan	1124
+陷人冤枉	xian ren yuan wang	939
+顯示三乘	xian shi san cheng	3102
+咸同一類	xian tong yi lei	1963
+咸為道慕	xian wei dao mu	1239
+見我光明	xian wo guang ming	2736
+咸以尊重心	xian yi zun zhong xin	1608
+現在其前	xian zai qi qian	1754
+現在西方	xian zai xi fang	2363
+現在之事	xian zai zhi shi	1498
+現眾異相	xian zhong yi xiang	3118
+向佛合掌	xiang fo he zhang	2942
+降伏魔怨	xiang fu mo yuan	3144
+相好光明	xiang hao guang ming	553
+相好殊特	xiang hao shu te	1811
+香花	xiang hua	1911
+向無量壽	xiang mo liang shou	1708
+香氣普薰	xiang qi pu xun	1538
+香象菩薩	xiang xiang pu sa	3164
+相因寄生	xiang yin ji sheng	905
+相從共生	xiang zong gong sheng	957
+消除三垢冥	xiao chu san gou ming	2504
+消散復取	xiao san fu qu	911
+消散磨滅	xiao san mo mie	1174
+譊譊憂無常	xiao xiao you mo chang	1197
+邪態外逸	xie tai wai yi	898
+邪見業王	xie xian ye wang	317
+心不顛倒	xin bu dian dao	1658
+心不開解	xin bu kai jie	424
+心不中迴	xin bu zhong hui	1257
+心不自在	xin bu zi zai	378
+心常諦住度世之道	xin chang di zhu du shi zhi dao	3086
+心得解脫	xin de jie tuo	38
+心得開明	xin de kai ming	1061
+心得開明第三十四	xin de kai ming di san shi si	1075
+心得清涼	xin de qing liang	2646
+信慧菩薩	xin hui pu sa	3166
+信慧聞法難中難	xin hui wen fa nuo zhong nuo	56
+信己善根	xin ji shan gen	417
+心解得道	xin jie de dao	1523
+信解明記	xin jie ming ji	2952
+心口各異	xin kou ge yi	937
+心勞身苦	xin lao shen ku	923
+心無下劣	xin mo xia lie	237
+心無遠慮	xin mo yuan lv	1130
+心慳意固	xin qian yi gu	1173
+信受奉行	xin shou feng xing	1
+心心迴向	xin xin hui xiang	2710
+信行者少	xin xing zhe shao	783
+心意善惡	xin yi shan e	1496
+信樂受持	xin yue shou chi	133
+心中閉塞	xin zhong bi sai	805
+心中狐疑	xin zhong hu yi	123
+心中願言	xin zhong yuan yan	2344
+心自趣向	xin zi qu xiang	439
+行徧道場	xing bian dao chang	1280
+興兵相伐	xing bing xiang fa	892
+行超普賢登彼岸	xing chao pu xian deng bi an	54
+興大悲	xing da bei	3079
+行道	xing dao	2046
+行寂靜行	xing ji jing xing	2456
+形貌端嚴	xing mao duan yan	1918
+行菩薩道	xing pu sa dao	1640
+行普賢道	xing pu xian dao	2617
+行權方便	xing quan fang bian	3155
+形色殊特	xing se shu te	2595
+行行相值	xing xing xiang zhi	2144
+行作沙門	xing zuo sha men	2957
+兄弟夫婦	xiong di fu fu	1112
+雄猛無畏	xiong meng mo wei	1287
+修何方便	xiu he fang bian	2866
+修菩薩道	xiu pu sa dao	2955
+修菩薩行	xiu pu sa xing	2661
+修菩提行	xiu pu ti xing	2618
+修善積德所致	xiu shan ji de suo zhi	970
+修勝菩提行受記當作佛	xiu sheng pu ti xing shou ji dang zuo fo	1580
+修條密葉	xiu tiao mi ye	2030
+修習功德	xiu xi gong de	2832
+修習善本	xiu xi shan ben	460
+修習攝受	xiu xi she shou	2808
+齅香	xiu xiang	2095
+修行精進	xiu xing jing jin	2946
+修行五眼	xiu xing wu yan	1399
+修諸功德	xiu zhu gong de	2702
+續得往生	xu de wang sheng	447
+虛空無立	xu kong mo li	1235
+虛空諸天神	xu kong zhu tian shen	2484
+須彌	xu mi	2313
+虛妄分別	xu wang fen bie	331
+須臾間耳	xu yu jian er	1030
+須臾之頃	xu yu zhi qing	413
+宣布道化	xuan bu dao hua	1617
+玄黃朱紫	xuan huang zhu zi	1824
+宣妙理	xuan miao li	3132
+宣揚戒定精進門	xuan yang jie ding jing jin men	2928
+懸繒然燈	xuan zeng ran deng	1732
+選擇所欲	xuan zhai suo yu	2836
+懸諸寶鈴	xuan zhu bao ling	1883
+雪山	xue shan	585
+尋發無上眞正道意	xun fa mo shang zhen zheng dao yi	2959
+演暢妙法	yan chang miao fa	1524
+演出無量妙法音聲	yan chu mo liang miao fa yin sheng	2104
+演慈辯	yan ci bian	3077
+厭患女身	yan huan nv shen	2672
+嚴淨	yan jing	2597
+言色常和	yan se chang he	1161
+言色當和	yan se dang he	710
+沿水流芬	yan shui liu fen	2025
+演說苦空	yan shuo ku kong	1862
+演說正法	yan shuo zheng fa	1385
+言行相副	yan xing xiang fu	771
+言行忠信	yan xing zhong xin	1037
+殃惡未盡	yang e wei jin	955
+殃咎牽引	yang jiu qian yin	853
+要當作善	yao dang zuo shan	1677
+矅慧日	yao hui ri	1306
+夜摩兜率	ye mo dou lv	2300
+業因果報	ye yin guo bao	2283
+以阿彌陀佛殊勝光明	yi a mi tuo fo shu sheng guang ming	588
+亦不貢高	yi bu gong gao	236
+意不歡樂	yi bu huan yue	423
+意不開解	yi bu kai jie	804
+亦不可思議	yi bu ke si yi	2291
+已曾供養無量諸佛	yi ceng gong yang mo liang zhu fo	261
+已曾供養無數諸佛	yi ceng gong yang mo shuo zhu fo	288
+已曾供養諸如來	yi ceng gong yang zhu ru lai	77
+已曾親近無量諸佛	yi ceng qin jin mo liang zhu fo	597
+以次化沒	yi ci hua mo	1532
+以此迴向	yi ci hui xiang	1730
+以此為苦	yi ci wei ku	357
+以此義利故	yi ci yi li gu	1629
+以此因緣	yi ci yin yuan	445
+一旦開達明徹	yi dan kai da ming che	1223
+亦得徧供無數無量諸佛	yi de bian gong mo shuo mo liang zhu fo	345
+亦得往生	yi de wang sheng	1711
+以定慧力	yi ding hui li	3145
+已度之者使成佛	yi du zhi zhe shi cheng fo	2913
+已發無上正覺之心	yi fa mo shang zheng jue zhi xin	2895
+以方便智	yi fang bian zhi	1353
+以奉諸佛	yi feng zhu fo	1548
+依佛所行	yi fo suo xing	1401
+以佛威力	yi fo wei li	522
+衣服	yi fu	2606
+亦復如是	yi fu ru shi	3114
+亦複如是	yi fu ru shi	564
+衣服飲食	yi fu yin shi	1936
+宜各精進	yi ge jing jin	1023
+宜各勤精進	yi ge qin jing jin	1212
+一國無惡道願	yi guo mo e dao yuan	2784
+亦號無邊光佛	yi hao mo bian guang fo	2247
+亦號無量光佛	yi hao mo liang guang fo	2248
+亦號智慧光	yi hao zhi hui guang	2244
+依何而住	yi he er zhu	2301
+以宏誓功德	yi hong shi gong de	1455
+以弘誓功德而自莊嚴	yi hong shi gong de er zi zhuang yan	35
+以華蓋上佛已	yi hua ge shang fo yi	2346
+疑惑不信	yi huo bu xin	462
+疑惑所致	yi huo suo zhi	396
+以偈頌曰	yi ji song yue	2527
+以及焰摩羅界	yi ji yan mo luo jie	2794
+以及蜎飛蠕動之類	yi ji yuan fei ru dong zhi lei	1497
+亦皆七寶自然化成	yi jie qi bao zi ran hua cheng	2068
+易可開化	yi ke kai hua	1006
+亦令大眾	yi ling da zhong	2812
+衣毛為起或淚出者	yi mao wei qi huo lei chu zhe	127
+一名大勢至	yi ming da shi zhi	1479
+一名觀世音	yi ming guan shi yin	1480
+以無礙慧	yi mo ai hui	1369
+亦無彼我違怨之想	yi mo bi wo wei yuan zhi xiang	1375
+亦無取舍分別	yi mo qu she fen bie	1795
+亦無四時	yi mo si shi	2320
+亦無歲月劫數之名	yi mo sui yue jie shuo zhi ming	1799
+亦無希求不希求想	yi mo xi qiu bu xi qiu xiang	1376
+意無懈時	yi mo xie shi	1256
+亦能超過	yi neng chao guo	161
+亦能了知	yi neng le zhi	2579
+意念身口	yi nian shen kou	821
+憶念受持	yi nian shou chi	1771
+憶念西方阿彌陀佛	yi nian xi fang a mi tuo fo	1687
+亦難開示	yi nuo kai shi	107
+一切大聖	yi qie da sheng	3190
+一切大眾	yi qie da zhong	3
+一切豐足	yi qie feng zu	1913
+一切光明	yi qie guang ming	563
+一切含靈	yi qie han ling	3009
+一切皆成佛	yi qie jie cheng fo	2487
+一切境界	yi qie jing jie	579
+一切平等	yi qie ping deng	1337
+一切菩薩	yi qie pu sa	1462
+一切如來	yi qie ru lai	158
+一切世間無有等	yi qie shi jian mo you deng	2937
+一切所須	yi qie suo xu	2391
+一切天人	yi qie tian ren	1931
+一切憂惱	yi qie you nao	534
+一切眾寶	yi qie zhong bao	2126
+一切諸佛之所稱讚	yi qie zhu fo zhi suo cheng zan	103
+一切諸天	yi qie zhu tian	2298
+一切莊嚴	yi qie zhuang yan	2108
+以清淨心	yi qing jing xin	2662
+一日一夜	yi ri yi ye	696
+亦如過去無量佛	yi ru guo qu mo liang fo	2920
+以散其上	yi san qi shang	2478
+以善攻惡	yi shan gong e	643
+一時佛在王舍城	yi shi fo zai wang she cheng	3193
+一時來集	yi shi lai ji	3064
+一死一生	yi si yi sheng	1110
+以頭著地	yi tou zhu di	540
+易往而無人	yi wang er mo ren	1205
+以微妙音歌嘆佛德	yi wei miao yin ge tan fo de	1528
+以為瓔珞	yi wei ying luo	2119
+一向專念	yi xiang zhuan nian	1757
+一向專志莊嚴妙土	yi xiang zhuan zhi zhuang yan miao tu	2469
+一心念我	yi xin nian wo	2698
+一一寶華百千億葉	yi yi bao hua bai qian yi ye	1829
+亦以大悲心	yi yi da bei xin	2510
+一一光中	yi yi guang zhong	1814
+一一華中	yi yi hua zhong	1816
+以疑惑心修諸功德	yi yi huo xin xiu zhu gong de	469
+一一皆見	yi yi jie xian	482
+一一界中如恆沙佛	yi yi jie zhong ru heng sha fo	1782
+以一毛塵	yi yi mao chen	2190
+以意為食	yi yi wei shi	1899
+一一緣覺	yi yi yuan jue	2204
+一一諸佛	yi yi zhu fo	1810
+一音響忍	yi yin xiang ren	2085
+亦應隨行	yi ying sui xing	83
+亦有寶池蓮華	yi you bao chi lian hua	438
+依眞諦門	yi zhen di men	2454
+以至誠心	yi zhi cheng xin	1715
+意志猶豫	yi zhi you yu	451
+以至蜎飛蠕動	yi zhi yuan fei ru dong	538
+以諸法藥救療三苦	yi zhu fa yao jiu liao san ku	3129
+以自給濟	yi zi gei ji	1192
+宜自決斷	yi zi jue duan	1039
+引導羣生	yin dao qun sheng	1300
+因發無上心	yin fa mo shang xin	1594
+飲苦食毒	yin ku shi du	683
+音聲方便	yin sheng fang bian	1366
+飲食快樂	yin shi kuai yue	436
+飲食衣服	yin shi yi fu	386
+瘖瘂	yin ya	982
+因緣願力	yin yuan yuan li	1296
+影暢表裏	ying chang biao li	3051
+應常念佛而生喜	ying chang nian fo er sheng xi	50
+應常修習	ying chang xiu xi	184
+應持迴向	ying chi hui xiang	1745
+應當愛樂修習	ying dang ai yue xiu xi	229
+應當一心歸依瞻仰	ying dang yi xin gui yi zhan yang	595
+應發無上菩提之心	ying fa mo shang pu ti zhi xin	1748
+應供	ying gong	2973
+應急想破	ying ji xiang po	1152
+瓔珞	ying luo	1890
+應念即至	ying nian ji zhi	1552
+應念受其供養	ying nian shou qi gong yang	2601
+應念現前	ying nian xian qian	1871
+應起西向	ying qi xi xiang	620
+應其心願	ying qi xin yuan	2847
+應勤修行	ying qin xiu xing	97
+應求此法	ying qiu ci fa	208
+應時不獲一二三忍	ying shi bu huo yi er san ren	2536
+應時無量尊微笑現金容	ying shi mo liang zun wei xiao xian jin rong	1592
+應時普地六種震動	ying shi pu di liu zhong zhen dong	2480
+映飾珍奇	ying shi zhen qi	1821
+應信我教如實言	ying xin wo jiao ru shi yan	52
+應正徧知	ying zheng bian zhi	2856
+永拔生死之本	yong ba sheng si zhi ben	1027
+永不退於阿耨多羅三藐三菩提心	yong bu tui yu a nou duo luo san miao san pu ti xin	1978
+永不退轉	yong bu tui zhuan	1681
+永得解脫	yong de jie tuo	298
+永劫以來	yong jie yi lai	1047
+永離惡趣	yong li e qu	2615
+永離熱惱	yong li re nao	2647
+永離三垢	yong li san gou	1298
+勇猛精進	yong meng jing jin	2470
+永無眾苦	yong mo zhong ku	2324
+踴躍歡喜	yong yue huan xi	128
+踴躍作禮	yong yue zuo li	541
+用自供給	yong zi gong gei	912
+憂愛結縛	you ai jie fu	1108
+又彼佛剎諸聲聞眾	you bi fo cha zhu sheng wen zhong	1491
+猶彼乞人	you bi qi ren	1953
+由彼如來加威力故	you bi ru lai jia wei li gu	202
+優鉢羅華	you bo luo hua	2022
+憂怖苦痛之道	you bu ku tong zhi dao	721
+遊步三界	you bu san jie	1053
+遊步十方	you bu shi fang	3156
+由成如是諸善根故	you cheng ru shi zhu shan gen gu	2416
+遊處虛空	you chu xu kong	494
+由此見佛	you ci xian fo	1744
+有大慈悲利益心故	you da ci bei li yi xin gu	1372
+有大國主名世饒王	you da guo zhu ming shi rao wang	2962
+有二菩薩	you er pu sa	1487
+又放百千光明	you fang bai qian guang ming	1809
+有佛出世	you fo chu shi	2975
+又復池飾七寶	you fu chi shi qi bao	2024
+又復醜劣	you fu chou lie	1948
+有好醜者	you hao chou zhe	2772
+遊戲神通	you hu shen tong	1297
+有化生者	you hua sheng zhe	472
+又或交結聚會	you huo jiao jie ju kuai	893
+又或見善憎謗	you huo xian shan zeng bang	916
+有九十億不退菩薩	you jiu shi yi bu tui pu sa	278
+有空閑時端正身心	you kong xian shi duan zheng shen xin	1654
+憂苦不絕	you ku bu jue	1045
+憂苦萬端	you ku wan duan	1168
+幽冥之處	you ming zhi chu	573
+有無量無數菩薩聲聞之眾	you mo liang mo shuo pu sa sheng wen zhi zhong	2355
+又無量壽佛講堂精舍	you mo liang shou fo jiang tang jing she	2070
+有無同憂	you mo tong you	1182
+有無相通	you mo xiang tong	1163
+有能辨其形色	you neng bian qi xing se	2590
+又能現一妙色身	you neng xian yi miao se shen	2932
+有菩提樹	you pu ti shu	2130
+有七百二十億菩薩	you qi bai er shi yi pu sa	289
+有七寶獄	you qi bao yu	393
+又其道場	you qi dao chang	2131
+又其國土微妙	you qi guo tu wei miao	1266
+又其講堂左右	you qi jiang tang zuo you	2043
+又其名籍	you qi ming ji	855
+有情各各隨類解	you qing ge ge sui lei jie	2933
+猶如比丘得滅盡定	you ru bi qiu de mie jin ding	1852
+猶如大海	you ru da hai	1429
+猶如電光	you ru dian guang	3108
+猶如劫水彌滿世界	you ru jie shui mi man shi jie	570
+猶如漏盡比丘	you ru lou jin bi qiu	2644
+又如明鏡	you ru ming jing	3052
+猶如明鏡	you ru ming jing	2576
+遊入深法門	you ru shen fa men	1603
+猶如他化自在天王	you ru ta hua zi zai tian wang	1935
+猶如雪山	you ru xue shan	1339
+猶如園苑宮殿之想	you ru yuan yuan gong dian zhi xiang	363
+猶如栴檀優鉢羅華	you ru zhan tan you bo luo hua	2400
+遊散	you san	834
+有十八俱胝那由他菩薩摩訶薩	you shi ba ju zhi na you ta pu sa mo he sa	281
+有世界名曰極樂	you shi jie ming yue ji yue	2361
+由是因緣能令無量眾生	you shi yin yuan neng ling mo liang zhong sheng	2388
+有所恚怒	you suo hui nu	1158
+由聞佛名	you wen fo ming	368
+又聞十方世界	you wen shi fang shi jie	605
+又賢護等十六正士	you xian hu deng shi liu zheng shi	3175
+又見眾生	you xian zhong sheng	475
+猶信罪福	you xin zui fu	461
+有一少一	you yi shao yi	1181
+有一億菩薩	you yi yi pu sa	177
+又有比丘尼五百人	you you bi qiu ni wu bai ren	3063
+又憂非常	you you fei chang	1178
+又有無數聲聞之眾	you you mo shuo sheng wen zhi zhong	2215
+又有普賢菩薩	you you pu xian pu sa	3181
+又有殊勝行願	you you shu sheng xing yuan	2950
+由於此法不聽聞故	you yu ci fa bu ting wen gu	178
+有在地經行者	you zai di jing xing zhe	2060
+有在地受經	you zai di shou jing	2062
+有在虛空講誦受聽者	you zai xu kong jiang song shou ting zhe	2057
+又眾寶蓮華周滿世界	you zhong bao lian hua zhou man shi jie	1830
+於百千劫	yu bai qian jie	2724
+於彼二十一俱胝佛土	yu bi er shi yi ju zhi fo tu	2830
+於彼法中	yu bi fa zhong	198
+於彼高座	yu bi gao zuo	555
+於彼天人善惡	yu bi tian ren shan e	2840
+於彼相中	yu bi xiang zhong	3117
+愚癡蒙昧	yu chi meng mei	815
+於此經典	yu ci jing dian	175
+於此經中	yu ci jing zhong	228
+於此劇惡極苦之中	yu ci ju e ji ku zhi zhong	1194
+於此世界	yu ci shi jie	290
+於此世界所有黑山	yu ci shi jie suo you hei shan	586
+於此修善	yu ci xiu shan	692
+於此正法不能聞	yu ci zheng fa bu neng wen	78
+於此中下	yu ci zhong xia	3101
+於此諸智	yu ci zhu zhi	463
+與大比丘眾萬二千人俱	yu da bi qiu zhong wan er qian ren ju	3191
+欲得度脫晝夜常念	yu de du tuo zhou ye chang nian	1645
+與法相應	yu fa xiang ying	1983
+於佛經語	yu fo jing yu	122
+雨甘露法	yu gan lu fa	1328
+欲害眞人	yu hai zhen ren	817
+欲何待乎	yu he dai hu	1140
+欲界天	yu jie tian	3060
+於今十劫	yu jin shi jie	2357
+於蓮華內結跏趺坐	yu lian hua nei jie jia fu zuo	474
+於蓮華中	yu lian hua zhong	366
+欲令無量眾生	yu ling mo liang zhong sheng	226
+欲令他方所有眾生	yu ling ta fang suo you zhong sheng	1774
+欲令我作佛時	yu ling wo zuo fo shi	2887
+雨冥之異	yu ming zhi yi	2318
+於無量劫	yu mo liang jie	2463
+於無上道	yu mo shang dao	165
+於無上菩提未曾發意	yu mo shang pu ti wei ceng fa yi	31
+於無上菩提住不退轉	yu mo shang pu ti zhu bu tui zhuan	36
+於其城中	yu qi cheng zhong	434
+於七日中	yu qi ri zhong	258
+與前無異	yu qian mo yi	1833
+欲求出離	yu qiu chu li	376
+欲人畏敬	yu ren wei jing	865
+語如鐘聲	yu ru zhong sheng	2628
+喻若須彌	yu ruo xu mi	1343
+於三界中	yu san jie zhong	1359
+鬱單成七寶	yu shan cheng qi bao	1218
+與善相應	yu shan xiang ying	713
+遇善知識	yu shan zhi shi	137
+欲生彼國	yu sheng bi guo	1680
+欲生極樂	yu sheng ji yue	2686
+與世超異	yu shi chao yi	2953
+於是世尊	yu shi shi zun	3023
+於世自在王如來前	yu shi zi zai wang ru lai qian	2474
+遇斯光者	yu si guang zhe	2233
+於娑婆界	yu suo po jie	1477
+於所受用	yu suo shou yong	1380
+欲貪多有	yu tan duo you	931
+欲為眾惡	yu wei zhong e	992
+欲聞此經而不能得	yu wen ci jing er bu neng de	210
+於我法中	yu wo fa zhong	232
+與五百大長者	yu wu bai da chang zhe	2350
+於五百歲	yu wu bai sui	430
+於五百歲受諸厄也	yu wu bai sui shou zhu e ye	1017
+欲見諸佛淨國莊嚴	yu xian zhu fo jing guo zhuang yan	2578
+欲相救免	yu xiang jiu mian	318
+於虛空中	yu xu kong zhong	11
+於虛空中共奏天樂	yu xu kong zhong gong zou tian yue	1529
+於須臾頃為他演說	yu xu yu qing wei ta yan shuo	170
+於一念頃	yu yi nian qing	3093
+於一切處	yu yi qie chu	1797
+於一切法	yu yi qie fa	2984
+於一切萬物	yu yi qie wan wu	3085
+於一切眾生	yu yi qie zhong sheng	1373
+於一食頃	yu yi shi qing	1556
+於一晝夜	yu yi zhou ye	2207
+欲於何方佛國作佛	yu yu he fang fo guo zuo fo	1635
+欲拯羣萌	yu zheng qun meng	3002
+欲至頸者	yu zhi jing zhe	2011
+欲至十方無量佛所	yu zhi shi fang mo liang fo suo	1474
+欲至膝者	yu zhi xi zhe	2013
+欲至腰腋	yu zhi yao ye	2012
+欲至足者	yu zhi zu zhe	2014
+與諸大眾前後圍繞	yu zhu da zhong qian hou wei rao	1725
+於諸佛法	yu zhu fo fa	2535
+於諸佛所	yu zhu fo suo	2406
+於諸菩薩為大損害	yu zhu pu sa wei da sun hai	342
+與諸聖眾	yu zhu sheng zhong	1755
+雨諸香華	yu zhu xiang hua	502
+於諸有情	yu zhu you qing	2447
+於諸眾生	yu zhu zhong sheng	3073
+與諸眾生	yu zhu zhong sheng	2080
+欲自厚己	yu zi hou ji	932
+於自善根	yu zi shan gen	454
+遠超聲聞辟支佛地	yuan chao sheng wen pi zhi fo di	3105
+願當安住三摩地	yuan dang an zhu san mo di	2910
+遠二乘境	yuan er cheng jing	1279
+蜎飛蠕動之類	yuan fei ru dong zhi lei	3013
+蜎飛蠕動之屬	yuan fei ru dong zhi shu	964
+願佛為我廣宣經法	yuan fo wei wo an xuan jing fa	2892
+願慧菩薩	yuan hui pu sa	3165
+願己國無異	yuan ji guo mo yi	1568
+怨家債主	yuan jia zhai zhu	1176
+遠離塵垢	yuan li chen gou	44
+遠離顛倒	yuan li dian dao	1381
+遠離分別	yuan li fen bie	2747
+願力宏深第二十九	yuan li hong shen di er shi jiu	1466
+遠離虛妄	yuan li xu wang	2455
+遠離一切殊勝善根	yuan li yi qie shu sheng shan gen	358
+遠離眾惡	yuan li zhong e	1089
+圓滿成就	yuan man cheng jiu	2381
+圓滿成就第九	yuan man cheng jiu di jiu	2386
+圓滿功德者	yuan man gong de zhe	222
+圓滿昔所願	yuan man xi suo yuan	2488
+願生彼國	yuan sheng bi guo	1768
+願生其國	yuan sheng qi guo	1714
+願生我剎	yuan sheng wo cha	2679
+願生我國	yuan sheng wo guo	2709
+願速成菩提	yuan su cheng pu ti	1593
+願為宣說	yuan wei xuan shuo	3024
+願我得佛清淨聲	yuan wo dei fo qing jing sheng	2930
+願我智慧光	yuan wo zhi hui guang	2506
+願於無量世界成等正覺	yuan yu mo liang shi jie cheng deng zheng jue	3152
+願欲往生阿彌陀佛清淨佛國	yuan yu wang sheng a mi tuo fo qing jing fo guo	1644
+悅豫清淨	yue yu qing jing	3044
+樂在正論	yue zai zheng lun	1364
+云何出離生死大難	yun he chu li sheng si da nuo	310
+云何此界一類眾生	yun he ci jie yi lei zhong sheng	339
+云何第一	yun he di yi	719
+雲聚寶鏁	yun ju bao suo	2118
+雜色光茂	za se guang mao	2018
+在帝王邊	zai di wang bian	1958
+在帝王邊也	zai di wang bian ye	1952
+災厲不起	zai li bu qi	655
+在人後也	zai ren hou ye	1076
+在世教授四十二劫	zai shi jiao shou si shi er jie	2964
+在位不正	zai wei bu zheng	940
+則得阿惟越致	ze de a wei yue zhi	2049
+則得道捷	ze de dao jie	87
+則能歡喜信此事	ze neng huan xi xin ci shi	76
+則為廣宣大教	ze wei an xuan da jiao	1525
+則為鄙陋	ze wei bi lou	1954
+則自悔過	ze zi hui guo	670
+增長了知	zeng chang le zhi	1352
+憎嫉善人	zeng ji shan ren	875
+增減經法	zeng jian jing fa	89
+增上其心	zeng shang qi xin	2948
+增益邪心	zeng yi xie xin	311
+齋戒清淨	zhai jie qing jing	697
+擇其善者	zhai qi shan zhe	1088
+沾海一滴	zhan hai yi di	2189
+湛然香潔	zhan ran xiang jie	2036
+輾轉其中	zhan zhuan qi zhong	953
+輾轉五道	zhan zhuan wu dao	1046
+輾轉相生	zhan zhuan xiang sheng	763
+照百由旬	zhao bai you xun	1488
+照觸其身	zhao chu qi shen	2735
+照耀無極	zhao yao mo ji	2109
+照眞達俗	zhao zhen da su	1398
+輒獨聞之	zhe du wen zhi	1981
+珍寶	zhen bao	2427
+珍妙寶網	zhen miao bao wang	2114
+珍妙殊特	zhen miao shu te	1550
+眞實功德	zhen shi gong de	1276
+眞實功德第三十一	zhen shi gong de di san shi yi	1347
+眞眞潔白	zhen zhen jie bai	1226
+證大涅槃者	zheng da nie pan zhe	2744
+拯濟負荷	zheng ji fu he	3071
+證離生法	zheng li sheng fa	2541
+證無所得	zheng mo suo de	1354
+正直平等	zheng zhi ping deng	1986
+至廣大智	zhi an da zhi	369
+至成大怨	zhi cheng da yuan	1156
+至成佛道	zhi cheng fo dao	2088
+至誠忠信當信佛經語深	zhi cheng zhong xin dang xin fo jing yu shen	1648
+智慧	zhi hui	2420
+智慧廣大深如海	zhi hui an da shen ru hai	2926
+智慧光明	zhi hui guang ming	2886
+智慧明達	zhi hui ming da	1080
+智慧明了	zhi hui ming liao	1916
+智慧勝故	zhi hui sheng gu	406
+智慧聖明	zhi hui sheng ming	3068
+智慧微淺	zhi hui wei qian	336
+智慧勇猛	zhi hui yong meng	1751
+知經復少	zhi jing fu shao	425
+志求嚴淨土受記當作佛	zhi qiu yan jing tu shou ji dang zuo fo	1585
+智上菩薩	zhi shang pu sa	3168
+治身修業	zhi shen xiu ye	842
+知十方去來現在之事	zhi shi fang qu lai xian zai zhi shi	2762
+值斯經者	zhi si jing zhe	142
+知土如影像恆發弘誓心	zhi tu ru ying xiang heng fa hong shi xin	1582
+止息寂靜聲	zhi xi ji jing sheng	1995
+至心不斷	zhi xin bu duan	2222
+志心歸依	zhi xin gui yi	1662
+至心迴向	zhi xin hui xiang	2687
+至心精進第五	zhi xin jing jin di wu	2898
+至心求願	zhi xin qiu yuan	1033
+至心信樂	zhi xin xin yue	2712
+制行菩薩	zhi xing pu sa	3161
+枝葉四布二十萬里	zhi ye si bu er shi wan li	2127
+枝葉相向	zhi ye xiang xiang	2142
+知一切法	zhi yi qie fa	1363
+智勇	zhi yong	973
+至於彼岸	zhi yu bi an	1356
+至於成佛	zhi yu cheng fo	2548
+至于威德	zhi yu wei de	1934
+志願安定	zhi yuan an ding	1246
+志願無倦	zhi yuan mo juan	2449
+志願無上	zhi yuan mo shang	1225
+志願深廣	zhi yuan shen an	2849
+直至成佛	zhi zhi cheng fo	1451
+植眾德本	zhi zhong de ben	2688
+植諸善本	zhi zhu shan ben	203
+至作佛時	zhi zuo fo shi	2259
+眾寶之王	zhong bao zhi wang	2120
+中表相應	zhong biao xiang ying	1251
+終不得離	zhong bu de li	954
+終不能得	zhong bu neng de	304
+終不退轉	zhong bu tui zhuan	164
+終不休止	zhong bu xiu zhi	1126
+終不從心	zhong bu zong xin	374
+眾共憎厭	zhong gong zeng yan	887
+眾魔外道不能動故	zhong mo wai dao bu neng dong gu	1317
+鐘磬琴瑟	zhong qing qin se	530
+終入惡道	zhong ru e dao	909
+終身不怠	zhong shen bu dai	727
+眾生覩者	zhong sheng du zhe	2570
+眾生善根	zhong sheng shan gen	2290
+眾生聞此號	zhong sheng wen ci hao	2514
+眾生聞者	zhong sheng wen zhe	2559
+眾生心念者	zhong sheng xin nian zhe	2756
+眾生業報	zhong sheng ye bao	2292
+種修福善	zhong xiu fu shan	82
+中有在地講經	zhong you zai di jiang jing	2064
+種種共成	zhong zhong gong cheng	2146
+種種功德	zhong zhong gong de	1664
+種種供具	zhong zhong gong ju	2605
+種種供養中	zhong zhong gong yang zhong	1600
+種種色光	zhong zhong se guang	1849
+種種莊嚴	zhong zhong zhuang yan	1663
+中住菩薩	zhong zhu pu sa	3162
+種諸善本	zhong zhu shan ben	185
+種諸善根	zhong zhu shan gen	611
+種諸善根願生極樂	zhong zhu shan gen yuan sheng ji yue	29
+周徧其國	zhou bian qi guo	2133
+周徧校飾	zhou bian xiao shi	1881
+周徧巡歷	zhou bian xun li	2751
+晝夜不斷	zhou ye bu duan	2697
+晝夜相續	zhou ye xiang xu	1695
+晝夜之象	zhou ye zhi xiang	1800
+周匝條間	zhou za tiao jian	2115
+諸波羅密	zhu bo luo mi	1859
+住不退轉	zhu bu tui zhuan	2089
+諸惡繞歸	zhu e rao gui	856
+諸佛剎中	zhu fo cha zhong	3121
+諸佛稱讚	zhu fo cheng zan	1775
+諸佛光明	zhu fo guang ming	2267
+諸佛光明所照遠近	zhu fo guang ming suo zhao yuan jin	2262
+諸佛國難比	zhu fo guo nuo bi	1595
+諸佛國中	zhu fo guo zhong	527
+諸佛經道	zhu fo jing dao	139
+諸佛密藏	zhu fo mi cang	1406
+諸佛如來	zhu fo ru lai	1626
+諸佛如來無上之法	zhu fo ru lai mo shang zhi fa	114
+諸佛聖力	zhu fo sheng li	2289
+諸佛世界	zhu fo shi jie	2571
+諸根寂靜	zhu gen ji jing	2746
+諸根無缺	zhu gen mo que	2655
+貯功德	zhu gong de	3131
+諸漏已盡	zhu lou yi jin	39
+住無量億劫	zhu mo liang yi jie	2990
+諸摩尼寶	zhu mo ni bao	2121
+諸難	zhu nuo	2323
+諸菩薩中	zhu pu sa zhong	2581
+諸菩薩眾	zhu pu sa zhong	2555
+住普賢行	zhu pu xian xing	3090
+住奇特法	zhu qi te fa	3032
+住三摩地	zhu san mo di	2549
+諸善功德	zhu shan gong de	1736
+諸善男子	zhu shan nan zi	193
+住深禪定	zhu shen chan ding	3095
+諸深總持	zhu shen zong chi	2550
+諸水流行	zhu shui liu xing	1427
+諸天梵眾	zhu tian fan zhong	3058
+諸天人等	zhu tian ren deng	1269
+諸天人民	zhu tian ren min	3014
+諸天人民及蜎蠕類	zhu tian ren min ji yuan ru lei	2882
+諸天世人	zhu tian shi ren	2660
+諸往生者	zhu wang sheng zhe	1639
+諸小行菩薩	zhu xiao hang pu sa	286
+諸小菩薩及比丘等	zhu xiao pu sa ji bi qiu deng	251
+諸小王子	zhu xiao wang zi	382
+住行業地	zhu xing ye di	2286
+住虛空界	zhu xu kong jie	488
+住於定聚	zhu yu ding ju	2648
+著於無上下	zhu yu mo shang xia	1214
+住於無上眞正之道	zhu yu mo shang zhen zheng zhi dao	2417
+著於人鬼	zhu yu ren gui	884
+住眞實慧	zhu zhen shi hui	2471
+諸眾生類	zhu zhong sheng lei	1437
+住諸佛所住導師之行	zhu zhu fo suo zhu dao shi zhi xing	3031
+轉變最勝	zhuan bian zui sheng	1219
+轉共合成	zhuan gong he cheng	2162
+專精行道	zhuan jing xing dao	1103
+專精修學	zhuan jing xiu xue	1015
+轉劇	zhuan ju	1157
+轉輪聖帝	zhuan lun sheng di	2409
+轉輪聖王	zhuan lun sheng wang	1951
+專求白法	zhuan qiu bai fa	2451
+專求淨佛土必成如是剎	zhuan qiu jing fo tu bi cheng ru shi cha	1578
+轉生受身	zhuan sheng shou shen	967
+轉受餘教	zhuan shou yu jiao	1135
+轉相度脫	zhuan xiang du tuo	1441
+轉相灌注	zhuan xiang guan zhu	1999
+轉相教授	zhuan xiang jiao shou	1442
+轉相教語	zhuan xiang jiao yu	675
+轉相尅賊	zhuan xiang kei zei	990
+轉相拯濟	zhuan xiang zheng ji	1034
+莊嚴之具	zhuang yan zhi ju	2392
+莊嚴眾行	zhuang yan zhong xing	2440
+追命所生	zhui ming suo sheng	919
+追逐所生	zhui zhu suo sheng	1145
+濁世惡苦第三十五	zhuo shi e ku di san shi wu	1012
+自然保守	zi ran bao shou	1227
+自然不起	zi ran bu qi	1855
+自然德風徐起	zi ran de feng xu qi	1866
+自然發應	zi ran fa ying	2413
+自然感降	zi ran gan jiang	663
+自然供養	zi ran gong yang	1519
+自然光色參迴	zi ran guang se cen hui	1220
+自然合成	zi ran he cheng	2125
+自然化生	zi ran hua sheng	1975
+自然糺舉	zi ran jiu ju	735
+自然無為	zi ran mo wei	1236
+自然受身	zi ran shou shen	437
+自然所牽隨	zi ran suo qian sui	1203
+自然相和	zi ran xiang he	2135
+自然嚴整	zi ran yan zheng	1250
+自然音樂空中讚言	zi ran yin yue kong zhong zan yan	2477
+自然盈滿	zi ran ying man	1903
+自然有是	zi ran you shi	948
+自然在前	zi ran zai qian	1905
+自然在身	zi ran zai shen	1887
+自然之有根本	zi ran zhi you gen ben	1221
+自然中自然相	zi ran zhong zi ran xiang	1222
+自入三途	zi ru san tu	882
+自身威光	zi shen wei guang	1342
+自為過咎	zi wei guo jiu	1020
+自為智慧	zi wei zhi hui	814
+自相燋然	zi xiang jiao ran	753
+自相約檢	zi xiang yao jian	674
+恣意罪極	zi yi zui ji	1094
+資用有無	zi yong you mo	825
+自有三途	zi you san tu	908
+自在無礙	zi zai mo ai	1390
+自在隨意	zi zai sui yi	1024
+自在所作	zi zai suo zuo	2257
+自致不退轉	zi zhi bu tui zhuan	1570
+自知無量劫時宿命	zi zhi mo liang jie shi su ming	2766
+縱廣深淺	zong an shen qian	2041
+從本以來	zong ben yi lai	1351
+從苦入苦	zong ku ru ku	788
+從冥入冥	zong ming ru ming	787
+從明入明	zong ming ru ming	790
+從無量音佛剎	zong mo liang yin fo cha	277
+縱使身止諸苦中	zong shi shen zhi zhu ku zhong	2900
+從昔以來	zong xi yi lai	3041
+從小微起	zong xiao wei qi	750
+從心所願	zong xin suo yuan	1634
+從遠照佛剎	zong yuan zhao fo cha	282
+從樂入樂	zong yue ru yue	791
+足履其上	zu lv qi shang	1843
+最上之物	zui shang zhi wu	2390
+最勝福田	zui sheng fu tian	1291
+最勝之道	zui sheng zhi dao	3030
+最為第一	zui wei di yi	2098
+最為獨勝	zui wei du sheng	1418
+最為劇苦	zui wei ju ku	1004
+最尊第一	zui zun di yi	2275
+尊卑	zun bei	1191
+尊卑中外	zun bei zhong wai	935
+尊超羣聖	zun chao qun sheng	1068
+尊貴自大	zun gui zi da	869
+尊聖敬善	zun sheng jing shan	726
+尊者阿難	zun zhe a nuo	3048
+尊者阿難等	zun zhe a nuo deng	3183
+尊者大目犍連	zun zhe da mu jian lian	3185
+尊者迦葉	zun zhe jia ye	3184
+尊者憍陳如	zun zhe jiao chen ru	3187
+尊者舍利弗	zun zhe she li fu	3186
+尊重奉事諸佛	zun zhong feng shi zhu fo	1293
+尊重供養	zun zhong gong yang	2405
+尊重聽聞	zun zhong ting wen	213
+作阿闍黎	zuo a du li	3125
+作阿惟越致菩薩	zuo a wei yue zhi pu sa	2692
+作不請之友	zuo bu qing zhi you	3082
+作大福田	zuo da fu tian	308
+作大利樂	zuo da li yue	1471
+作大守護	zuo da shou hu	101
+作得善願	zuo de shan yuan	1233
+作妙音樂	zuo miao yin yue	10
+作菩薩者	zuo pu sa zhe	1445
+作如是說	zuo ru shi shuo	85
+作事倉卒	zuo shi cang zu	706
+作是語時	zuo shi yu shi	594
+作師子吼	zuo shi zi hou	1457
+作斯示現	zuo si shi xian	3147
+作諸功德	zuo zhu gong de	416

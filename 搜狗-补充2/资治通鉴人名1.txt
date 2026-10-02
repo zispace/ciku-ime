@@ -1,0 +1,1863 @@
+# 词库名称: 资治通鉴人名1
+# 词库分类: 历史名人
+# 词库描述: 搜集的资治通鉴人名
+# 词条样例: 左祝都韩王呴留斯侯、葛逻禄叶护顿毗伽、呼兰若尸逐就单于、屠特若尸逐就单于、仆固都督曳勒歌、丘除车林鞮单于
+# 解析词数: 1856
+# 解析异常: 0
+
+阿拔国	a ba guo	525
+阿薄干	a bo gan	524
+阿波可汗	a bo ke han	1657
+阿卜固	a bu gu	523
+阿布思	a bu si	522
+阿大夫	a dai fu	521
+阿佛和度加	a fo he du jia	1800
+阿富提	a fu ti	520
+阿伏至罗	a fu zhi luo	1656
+阿交罗	a jiao luo	519
+阿了达	a le da	518
+阿利罗引	a li luo yin	1655
+阿罗多	a luo duo	516
+阿罗那顺	a luo na shun	1654
+阿啰王	a luo wang	517
+阿那瓌	a na gui	515
+阿若干	a ruo gan	514
+阿史德时健	a shi de shi jian	1799
+阿史德枢宾	a shi de shu bin	1798
+阿史德温傅	a shi de wen fu	1797
+阿史德乌设	a shi de wu she	1796
+阿史德颉利发	a shi de xie li fa	1830
+阿史德元珍	a shi de yuan zhen	1795
+阿史那薄布	a shi na bo bu	1794
+阿史那步真	a shi na bu zhen	1793
+阿史那车薄	a shi na che bo	1792
+阿史那承庆	a shi na cheng qing	1791
+阿史那从礼	a shi na cong li	1790
+阿史那道真	a shi na dao zhen	1789
+阿史那德	a shi na de	1653
+阿史那都曼	a shi na dou man	1788
+阿史那都支	a shi na dou zhi	1787
+阿史那伏念	a shi na fu nian	1786
+阿史那骨笃禄	a shi na gu du lu	1829
+阿史那贺鲁	a shi na he lu	1785
+阿史那斛瑟罗	a shi na hu se luo	1828
+阿史那怀道	a shi na huai dao	1784
+阿史那皇后	a shi na huang hou	1783
+阿史那揭多	a shi na jie duo	1782
+阿史那矩	a shi na ju	1652
+阿史那弥射	a shi na mi she	1781
+阿史那泥孰	a shi na ni shu	1780
+阿史那泥熟匐	a shi na ni shu fu	1827
+阿史那仆罗	a shi na pu luo	1779
+阿史那社尔	a shi na she er	1778
+阿史那氏	a shi na shi	1651
+阿史那思摩	a shi na si mo	1777
+阿史那俀子	a shi na tui zi	1776
+阿史那献	a shi na xian	1650
+阿史那昕	a shi na xin	1649
+阿史那元庆	a shi na yuan qing	1775
+阿史那忠	a shi na zhong	1648
+阿史那忠节	a shi na zhong jie	1774
+阿思没骨馁	a si mei gu nei	1773
+阿悉吉薄露	a xi ji bo lu	1772
+阿悉烂	a xi lan	513
+安比奴	an bi nu	512
+安成公主	an cheng gong zhu	1647
+安崇阮	an chong ruan	511
+安崇绪	an chong xu	510
+安崇赞	an chong zan	509
+安从贵	an cong gui	508
+安从进	an cong jin	507
+安道买	an dao mai	506
+安定公主	an ding gong zhu	1646
+安国少季	an guo shao ji	1645
+安弘道	an hong dao	504
+安弘义	an hong yi	503
+安伽陀	an jia tuo	505
+安金全	an jin quan	501
+安金藏	an jin zang	502
+安乐	an le	1769
+安乐公主	an le gong zhu	1644
+安犁靡	an li mi	500
+安陵君	an ling jun	499
+安禄山	an lu shan	498
+庵罗辰	an luo chen	465
+安诺槃陀	an nuo pan tuo	1643
+安期生	an qi sheng	497
+安庆绪	an qing xu	496
+安庆宗	an qing zong	495
+安审晖	an shen hui	494
+安审琦	an shen qi	561
+安审通	an shen tong	493
+安审信	an shen xin	492
+安市城主	an shi cheng zhu	1642
+安守忠	an shou zhong	491
+安叔千	an shu qian	490
+安思谦	an si qian	489
+安思顺	an si shun	488
+安思义	an si yi	487
+安遂迦	an sui jia	486
+安太妃	an tai fei	485
+安吐根	an tu gen	484
+安兴贵	an xing gui	483
+安修仁	an xiu ren	482
+安彦进	an yan jin	480
+安彦威	an yan wei	479
+安延偃	an yan yan	481
+安彦之	an yan zhi	478
+安义公主	an yi gong zhu	1641
+安永寿	an yong shou	477
+安友规	an you gui	476
+安友进	an you jin	475
+安元宝	an yuan bao	474
+安元信	an yuan xin	473
+安元贞	an yuan zhen	472
+安重霸	an zhong ba	469
+安重诲	an zhong hui	468
+安重荣	an zhong rong	467
+安忠顺	an zhong shun	471
+安重益	an zhong yi	466
+安忠志	an zhong zhi	470
+奥鞬日逐王	ao jian ri zhu wang	1771
+奥鞬王	ao jian wang	464
+奥射设	ao she she	463
+跋地设	ba di she	462
+拔汗那王阿悉烂达干	ba han na wang a xi lan da gan	1856
+把利步利	ba li bu li	1637
+跋利延	ba li yan	461
+巴陵公主	ba ling gong zhu	1640
+巴西公主	ba xi gong zhu	1639
+拔也恶蚝	ba ye e hao	1638
+跋野纲	ba ye gang	460
+拔曳固都督颉质略	ba ye gu du du xie zhi lue	1854
+白昌裕	bai chang yu	459
+白承福	bai cheng fu	458
+白从晖	bai cong hui	457
+白恶栗斯	bai e li si	1636
+白奉进	bai feng jin	456
+白福进	bai fu jin	454
+白伏愿	bai fu yuan	455
+白广平	bai guang ping	453
+白诃黎布失毕	bai he li bu shi bi	1826
+白虎文	bai hu wen	452
+白可久	bai ke jiu	451
+白眉可汗	bai mei ke han	1635
+白明达	bai ming da	450
+白士让	bai shi rang	449
+白嗣恭	bai si gong	448
+白苏伐叠	bai su fa die	1634
+白素稽	bai su ji	447
+白昙朗	bai tan lang	446
+白铁余	bai tie yu	445
+白吐头	bai tu tou	444
+白文珂	bai wen ke	443
+白延遇	bai yan yu	442
+白羊王	bai yang wang	441
+白叶护	bai ye hu	440
+白瑜娑	bai yu suo	439
+白再荣	bai zai rong	438
+白早生	bai zao sheng	437
+白真陁罗	bai zhen tuo luo	1633
+白仲都	bai zhong dou	436
+白重赞	bai zhong zan	435
+班婕妤	ban jie yu	434
+班景倩	ban jing qian	433
+傍乞铁匆	bang qi tie cong	1632
+傍时昔	bang shi xi	432
+包法荣	bao fa rong	431
+褒国公主	bao guo gong zhu	1631
+包洪实	bao hong shi	430
+鲍邈之	bao miao zhi	426
+鲍僧睿	bao seng rui	425
+暴胜之	bao sheng zhi	420
+鲍思恭	bao si gong	424
+鲍思润	bao si run	423
+鲍嗣之	bao si zhi	422
+鲍修让	bao xiu rang	421
+北宫伯玉	bei gong bo yu	1630
+北宫纯	bei gong chun	417
+倍侯利	bei hou li	416
+卑路斯	bei lu si	419
+卑爰疐	bei yuan zhi	418
+坌达延	ben da yan	414
+奔洪进	ben hong jin	415
+毕善昭	bi shan zhao	412
+毕思琛	bi si chen	411
+比粟毒	bi su du	413
+沘阳公主	bi yang gong zhu	1629
+毕义绪	bi yi xu	410
+毕义云	bi yi yun	409
+毕元宾	bi yuan bin	408
+毕元福	bi yuan fu	407
+毕正义	bi zheng yi	406
+毕众敬	bi zhong jing	405
+毕祖晖	bi zu hui	404
+毕祖朽	bi zu xiu	403
+卞白龙	bian bai long	398
+卞承之	bian cheng zhi	397
+卞范之	bian fan zhi	396
+卞夫人	bian fu ren	395
+卞皇后	bian huang hou	394
+边继威	bian ji wei	402
+边令诚	bian ling cheng	401
+边王后	bian wang hou	400
+汴王李邕	bian wang li yong	1628
+边彦温	bian yan wen	399
+别丛卧施	bie cong wo shi	1627
+宾客张光	bin ke zhang guang	1626
+邴元真	bing yuan zhen	393
+勃德支	bo de zhi	390
+帛氐奴	bo di nu	392
+薄皇后	bo huang hou	429
+薄句大	bo ju da	428
+博士赐	bo shi ci	389
+博士申咸	bo shi shen xian	1625
+勃特没	bo te mei	544
+帛乌祝	bo wu zhu	391
+薄胥堂	bo xu tang	427
+卜伯兴	bu bo xing	388
+步大汗萨	bu da han sa	1624
+步度根	bu du gen	383
+步夫人	bu fu ren	382
+不居征	bu ju zheng	384
+步离可汗	bu li ke han	1623
+步利设	bu li she	381
+步鹿真	bu lu zhen	380
+步尼公	bu ni gong	379
+卜天生	bu tian sheng	387
+卜天与	bu tian yu	386
+卜檐莫	bu yan mo	385
+蔡伯龙	cai bo long	378
+蔡大宝	cai da bao	377
+蔡大业	cai da ye	376
+蔡大有	cai da you	375
+蔡道福	cai dao fu	374
+蔡道恭	cai dao gong	373
+蔡道人	cai dao ren	372
+蔡道渊	cai dao yuan	371
+蔡道遵	cai dao zun	370
+蔡法度	cai fa du	369
+蔡弘裔	cai hong yi	368
+蔡景历	cai jing li	367
+蔡敬思	cai jing si	366
+蔡灵恩	cai ling en	365
+蔡路养	cai lu yang	364
+蔡三虎	cai san hu	363
+蔡僧勰	cai seng xie	362
+蔡少公	cai shao gong	361
+蔡寿乐	cai shou le	359
+蔡守蒙	cai shou meng	360
+蔡脱儿	cai tuo er	358
+蔡希德	cai xi de	357
+蔡行遇	cai xing yu	356
+蔡兴宗	cai xing zong	355
+蔡秀成	cai xiu cheng	354
+蔡允恭	cai yun gong	353
+蔡仲赟	cai zhong yun	352
+苍头子密	cang tou zi mi	1622
+曹阿各拔	cao a ge ba	1621
+曹般陁	cao ban tuo	350
+曹道刚	cao dao gang	349
+曹德昌	cao de chang	348
+曹伏驹	cao fu ju	346
+曹夫人	cao fu ren	347
+曹光裔	cao guang yi	344
+曹纥真	cao he zhen	345
+曹怀舜	cao huai shun	343
+曹皇后	cao huang hou	342
+曹回公	cao hui gong	341
+曹继叔	cao ji shu	340
+曹进金	cao jin jin	339
+曹靖之	cao jing zhi	337
+曹景宗	cao jing zong	338
+曹令则	cao ling ze	336
+曹龙牙	cao long ya	335
+曹妙达	cao miao da	334
+曹平乐	cao ping le	333
+曹仆浑	cao pu hun	332
+曹仁师	cao ren shi	331
+曹桑生	cao sang sheng	330
+曹世表	cao shi biao	329
+操师乞	cao shi qi	351
+曹世宗	cao shi zong	328
+曹孙念	cao sun nian	327
+曹太妃	cao tai fei	326
+曹万期	cao wan qi	325
+曹文皎	cao wen jiao	324
+曹文叔	cao wen shu	323
+曹无伤	cao wu shang	322
+曹孝远	cao xiao yuan	321
+曹欣之	cao xin zhi	320
+曹玄静	cao xuan jing	319
+曹义金	cao yi jin	318
+曹义宗	cao yi zong	317
+曹仲达	cao zhong da	316
+曹仲宗	cao zhong zong	315
+曹子郢	cao zi ying	314
+岑长倩	cen chang qian	310
+岑灵原	cen ling yuan	313
+岑文本	cen wen ben	312
+岑文昭	cen wen zhao	311
+曾方平	ceng fang ping	309
+柴皇后	chai huang hou	307
+柴克宏	chai ke hong	306
+柴令武	chai ling wu	305
+柴庆宗	chai qing zong	304
+柴守礼	chai shou li	303
+柴熙诲	chai xi hui	302
+柴熙谨	chai xi jin	301
+柴孝和	chai xiao he	300
+柴再用	chai zai yong	299
+柴重厚	chai zhong hou	298
+柴宗让	chai zong rang	297
+柴宗训	chai zong xun	296
+镡长生	chan chang sheng	294
+禅奴利	chan nu li	295
+长安公主	chang an gong zhu	640
+常伯夫	chang bo fu	288
+苌从简	chang cong jian	289
+常德玄	chang de xuan	287
+长广公主	chang guang gong zhu	639
+常季贤	chang ji xian	286
+常乐公主	chang le gong zhu	1620
+长乐公主	chang le gong zhu	638
+常梦锡	chang meng xi	285
+长宁公主	chang ning gong zhu	637
+昌平君	chang ping jun	293
+常僧景	chang seng jing	284
+常山公主	chang shan gong zhu	1619
+昌师益	chang shi yi	292
+长孙子彦	chang sun zi yan	624
+常太后	chang tai hou	283
+昌文君	chang wen jun	291
+长信县主	chang xin xian zhu	623
+常彦卿	chang yan qing	282
+昌义之	chang yi zhi	290
+常邕和	chang yong he	281
+长御倚华	chang yu yi hua	622
+常元楷	chang yuan kai	280
+常元真	chang yuan zhen	279
+常珍奇	chang zhen qi	278
+常众爱	chang zhong ai	276
+常仲兴	chang zhong xing	277
+晁错父	chao cuo fu	275
+巢尚之	chao shang zhi	274
+朝兴安	chao xing an	273
+车鼻可汗	che bi ke han	1618
+车夫人	che fu ren	272
+车犁单于	che li chan yu	1617
+车利涿兵	che li zhuo bing	1616
+车路头	che lu tou	271
+车僧朗	che seng lang	270
+车伊洛	che yi luo	269
+陈霸先	chen ba xian	268
+陈宝应	chen bao ying	267
+陈伯恭	chen bo gong	266
+陈伯固	chen bo gu	265
+陈伯礼	chen bo li	264
+陈伯茂	chen bo mao	263
+陈伯谋	chen bo mou	262
+陈伯仁	chen bo ren	261
+陈伯山	chen bo shan	260
+陈伯绍	chen bo shao	259
+陈伯信	chen bo xin	258
+陈伯义	chen bo yi	257
+陈伯之	chen bo zhi	256
+陈伯智	chen bo zhi	255
+陈伯宗	chen bo zong	254
+陈步乐	chen bu le	253
+陈承伯	chen cheng bo	252
+陈承昭	chen cheng zhao	251
+陈处尧	chen chu yao	250
+陈大慈	chen da ci	248
+陈大德	chen da de	247
+陈达及	chen da ji	249
+陈当世	chen dang shi	246
+陈道谭	chen dao tan	245
+陈道庠	chen dao xiang	244
+陈德诚	chen de cheng	243
+陈德信	chen de xin	242
+陈法武	chen fa wu	241
+陈方泰	chen fang tai	240
+陈奉伯	chen feng bo	239
+陈佛智	chen fo zhi	237
+陈夫人	chen fu ren	238
+陈公昭	chen gong zhao	236
+陈光静	chen guang jing	235
+陈光穗	chen guang sui	234
+陈光逸	chen guang yi	233
+陈光裕	chen guang yu	232
+陈贵妃	chen gui fei	231
+陈果仁	chen guo ren	230
+陈行范	chen hang fan	152
+陈洪进	chen hong jin	229
+陈虎牙	chen hu ya	228
+陈慧纪	chen hui ji	227
+陈继善	chen ji shan	226
+陈继珣	chen ji xun	225
+陈建孙	chen jian sun	224
+陈金凤	chen jin feng	223
+陈敬迁	chen jing qian	222
+陈敬佺	chen jing quan	221
+陈敬泰	chen jing tai	220
+陈敬之	chen jing zhi	219
+陈君宾	chen jun bin	218
+陈君范	chen jun fan	217
+陈匡范	chen kuang fan	216
+陈匡胜	chen kuang sheng	215
+陈良夫	chen liang fu	214
+陈灵宝	chen ling bao	213
+陈令英	chen ling ying	212
+陈普环	chen pu huan	211
+陈庆国	chen qing guo	210
+陈庆之	chen qing zhi	209
+陈扫静	chen sao jing	208
+陈山提	chen shan ti	207
+陈善意	chen shan yi	206
+陈绍宗	chen shao zong	205
+陈世范	chen shi fan	204
+陈守恩	chen shou en	203
+陈守习	chen shou xi	202
+陈守元	chen shou yuan	201
+陈叔敖	chen shu ao	200
+陈叔宝	chen shu bao	199
+陈叔彪	chen shu biao	198
+陈叔澄	chen shu cheng	197
+陈叔纯	chen shu chun	196
+陈叔达	chen shu da	195
+陈叔儿	chen shu er	194
+陈叔俭	chen shu jian	192
+陈叔坚	chen shu jian	193
+陈叔匡	chen shu kuang	191
+陈叔陵	chen shu ling	190
+陈叔隆	chen shu long	189
+陈叔明	chen shu ming	188
+陈叔谟	chen shu mo	187
+陈叔穆	chen shu mu	186
+陈叔平	chen shu ping	185
+陈叔齐	chen shu qi	184
+陈叔卿	chen shu qing	183
+陈叔荣	chen shu rong	182
+陈叔韶	chen shu shao	181
+陈叔慎	chen shu shen	180
+陈叔坦	chen shu tan	179
+陈叔文	chen shu wen	178
+陈叔显	chen shu xian	177
+陈叔献	chen shu xian	176
+陈叔兴	chen shu xing	175
+陈叔熊	chen shu xiong	174
+陈叔宣	chen shu xuan	173
+陈叔俨	chen shu yan	172
+陈叔英	chen shu ying	171
+陈叔虞	chen shu yu	170
+陈淑媛	chen shu yuan	168
+陈叔重	chen shu zhong	169
+陈双炽	chen shuang chi	167
+陈硕真	chen shuo zhen	166
+陈思让	chen si rang	165
+陈太后	chen tai hou	164
+陈昙朗	chen tan lang	163
+陈谈之	chen tan zhi	162
+陈桃根	chen tao gen	161
+陈天福	chen tian fu	160
+陈天与	chen tian yu	159
+陈万年	chen wan nian	158
+陈文彻	chen wen che	157
+陈文赞	chen wen zan	156
+陈希烈	chen xi lie	155
+陈显达	chen xian da	154
+陈孝意	chen xiao yi	153
+陈休尚	chen xiu shang	151
+陈秀之	chen xiu zhi	150
+陈玄礼	chen xuan li	149
+陈玄运	chen xuan yun	148
+陈延晖	chen yan hui	147
+陈彦谦	chen yan qian	145
+陈演寿	chen yan shou	146
+陈彦威	chen yan wei	144
+陈彦禧	chen yan xi	143
+陈胤叔	chen yin shu	142
+陈咏之	chen yong zhi	141
+陈元达	chen yuan da	140
+陈元康	chen yuan kang	139
+陈元璹	chen yuan shu	138
+陈昭华	chen zhao hua	137
+陈贞节	chen zhen jie	136
+陈正理	chen zheng li	135
+陈政通	chen zheng tong	132
+陈正通	chen zheng tong	134
+陈正业	chen zheng ye	133
+陈智略	chen zhi lue	128
+陈智深	chen zhi shen	127
+陈智伟	chen zhi wei	126
+陈知新	chen zhi xin	131
+陈知隐	chen zhi yin	130
+陈至泽	chen zhi ze	129
+陈智祖	chen zhi zu	125
+陈仲华	chen zhong hua	124
+陈仲儒	chen zhong ru	123
+陈子昂	chen zi ang	122
+成安公主	cheng an gong zhu	1615
+成霸卿	cheng ba qing	121
+程伯献	cheng bo xian	103
+程不识	cheng bu shi	102
+程昌裔	cheng chang yi	101
+成次安	cheng ci an	120
+程大买	cheng da mai	100
+程道惠	cheng dao hui	99
+程道养	cheng dao yang	98
+程道助	cheng dao zhu	97
+成德钦	cheng de qin	119
+程法度	cheng fa du	96
+成方遂	cheng fang sui	118
+程奉琏	cheng feng lian	95
+程夫人	cheng fu ren	94
+成公段	cheng gong duan	117
+成公期	cheng gong qi	116
+成公绥	cheng gong sui	115
+成公绪	cheng gong xu	114
+成公英	cheng gong ying	113
+程公颖	cheng gong ying	93
+成固公	cheng gu gong	112
+程捍宗	cheng han zong	92
+程嘉会	cheng jia hui	91
+成景隽	cheng jing juan	111
+程灵洗	cheng ling xi	90
+乘马延年	cheng ma yan nian	1611
+程名振	cheng ming zhen	89
+程千里	cheng qian li	88
+程全晖	cheng quan hui	87
+程让能	cheng rang neng	86
+成仁重	cheng ren zhong	110
+成如璆	cheng ru qiu	109
+成三朗	cheng san lang	108
+程尚贤	cheng shang xian	85
+程太妃	cheng tai fei	84
+程天祚	cheng tian zuo	83
+城头子路	cheng tou zi lu	1613
+程文季	cheng wen ji	82
+程文纬	cheng wen wei	81
+程务挺	cheng wu ting	80
+程行湛	cheng xing zhan	79
+成休宁	cheng xiu ning	107
+成延龟	cheng yan gui	106
+成彦温	cheng yan wen	105
+城阳公主	cheng yang gong zhu	1612
+程咬金	cheng yao jin	78
+成翊世	cheng yi shi	104
+程邕之	cheng yong zhi	77
+程元冲	cheng yuan chong	76
+程昭悦	cheng zhao yue	75
+成庄皇后	cheng zhuang huang hou	1614
+叱干阿利	chi gan a li	1610
+叱干宝乐	chi gan bao le	1609
+叱干麒麟	chi gan qi lin	1608
+叱吉设	chi ji she	72
+叱利骚	chi li sao	70
+叱力延	chi li yan	71
+叱列长叉	chi lie chang cha	1604
+叱列杀鬼	chi lie sha gui	1607
+叱列延庆	chi lie yan qing	1606
+叱列元崇	chi lie yuan chong	1605
+叱卢犍	chi lu jian	69
+叱洛侯	chi luo hou	66
+叱罗晖	chi luo hui	68
+叱罗协	chi luo xie	67
+叱罗子通	chi luo zi tong	1603
+叱吕勤	chi lv qin	65
+叱奴根	chi nu gen	64
+叱奴侯提	chi nu hou ti	1602
+叱奴太后	chi nu tai hou	1601
+迟受信	chi shou xin	74
+叱以鞬	chi yi jian	63
+迟昭平	chi zhao ping	73
+崇义夫人	chong yi fu ren	1600
+仇弘超	chou hong chao	62
+仇尼道盛	chou ni dao sheng	1599
+仇尼归	chou ni gui	61
+仇尼慕	chou ni mu	60
+仇傉檀	chou nu tan	59
+楚哀王	chu ai wang	51
+储大伯	chu da bo	53
+褚淡之	chu dan zhi	41
+楚悼王	chu dao wang	50
+储德源	chu de yuan	52
+褚飞燕	chu fei yan	40
+楚怀王	chu huai wang	49
+褚皇后	chu huang hou	39
+楚考烈王	chu kao lie wang	1596
+楚匡祚	chu kuang zuo	48
+樗里疾	chu li ji	55
+出力犍	chu li jian	58
+樗里子	chu li zi	54
+出连辅政	chu lian fu zheng	1598
+出连乞都	chu lian qi dou	1597
+出连虔	chu lian qian	57
+褚令璩	chu ling qu	37
+褚灵嗣	chu ling si	38
+处罗可汗	chu luo ke han	1593
+处那啜	chu na chuo	25
+楚顷襄王	chu qing xiang wang	1595
+褚仁规	chu ren gui	36
+楚声王	chu sheng wang	47
+褚叔度	chu shu du	35
+楚肃王	chu su wang	46
+褚蒜子	chu suan zi	34
+褚遂良	chu sui liang	33
+楚王负刍	chu wang fu chu	1594
+厨唯姑夕	chu wei gu xi	1668
+楚威王	chu wei wang	45
+褚无量	chu wu liang	32
+褚秀之	chu xiu zhi	31
+楚宣王	chu xuan wang	44
+褚彦冲	chu yan chong	30
+褚彦甫	chu yan fu	29
+楚义帝	chu yi di	43
+出以眷	chu yi juan	56
+楚幽王	chu you wang	42
+褚裕之	chu yu zhi	28
+褚湛之	chu zhan zhi	27
+褚仲都	chu zhong dou	26
+淳于伯	chun yu bo	23
+淳于长	chun yu chang	6
+淳于处平	chun yu chu ping	1592
+淳于诞	chun yu dan	22
+淳于登	chun yu deng	21
+淳于定	chun yu ding	20
+淳于恭	chun yu gong	19
+淳于嘉	chun yu jia	18
+淳于量	chun yu liang	17
+淳于陵	chun yu ling	16
+淳于难	chun yu nan	15
+淳于覃	chun yu qin	10
+淳于琼	chun yu qiong	14
+淳于赏	chun yu shang	13
+淳于式	chun yu shi	11
+淳于氏	chun yu shi	12
+淳于文祖	chun yu wen zu	1591
+淳于晏	chun yu yan	8
+淳于衍	chun yu yan	9
+淳于意	chun yu yi	7
+啜俟友	chuo si you	24
+雌栗靡	ci li mi	5
+猝跋韩且万能	cu ba han qie wan neng	1825
+爨宝璧	cuan bao bi	4
+爨宏达	cuan hong da	3
+爨松子	cuan song zi	2
+崔安石	cui an shi	1
+崔伯	cui bo	1590
+崔弘度	cui hong du	1589
+崔玄	cui xuan	1588
+大豆得一育鞠	da dou de yi yu ju	1824
+大梁贵人	da liang gui ren	1584
+大且渠须卜奢	da qie qu xu bu she	1823
+大宋贵人	da song gui ren	1583
+达头可汗	da tou ke han	1587
+达奚长儒	da xi chang ru	1585
+达奚善意	da xi shan yi	1586
+当于居次	dang yu ju ci	1582
+悼武王后	dao wu wang hou	1581
+登利可汗	deng li ke han	1579
+登里伊罗蜜施	deng li yi luo mi shi	1822
+登注俟利	deng zhu si li	1578
+第二可汗	di er ke han	1575
+弟妇君之	di fu jun zhi	1576
+地头可汗	di tou ke han	1580
+第五英儿	di wu ying er	1666
+雕陶莫皋	diao tao mo gao	1574
+叠掘河内	die jue he nei	1572
+牒云具仁	die yun ju ren	1573
+定安公主	ding an gong zhu	1571
+东方白额	dong fang bai e	1570
+东光公主	dong guang gong zhu	1569
+东郭咸阳	dong guo xian yang	1568
+东海公主	dong hai gong zhu	1567
+东海王摇	dong hai wang yao	1566
+东华公主	dong hua gong zhu	1565
+东郡京房	dong jun jing fang	1564
+东平公主	dong ping gong zhu	1563
+董悉奉求	dong xi feng qiu	1560
+东周文君	dong zhou wen jun	1562
+东周武公	dong zhou wu gong	1561
+都蓝可汗	dou lan ke han	1559
+都犁胡次	dou li hu ci	1558
+豆卢	dou lu	1555
+豆卢钦望	dou lu qin wang	1554
+豆卢行褒	dou lu xing bao	1553
+都涂吾西	dou tu wu xi	1557
+独孤怀恩	du gu huai en	1552
+独孤皇后	du gu huang hou	1551
+独孤开远	du gu kai yuan	1550
+独孤匹蹄	du gu pi ti	1549
+独孤卿云	du gu qing yun	1548
+独孤思庄	du gu si zhuang	1547
+独孤王后	du gu wang hou	1546
+独孤武都	du gu wu du	1545
+独孤修德	du gu xiu de	1544
+独孤须达	du gu xu da	1543
+独孤祎之	du gu yi zhi	1542
+独孤永业	du gu yong ye	1541
+笃萨波提	du sa bo ti	1663
+杜朔周	du shuo zhou	529
+都尉万年	du wei wan nian	1556
+段疾陆眷	duan ji lu juan	1540
+段乞特真	duan qi te zhen	1539
+段涉复辰	duan she fu chen	1538
+段务勿尘	duan wu wu chen	1537
+多滥葛末	duo lan ge mo	1536
+多利思比孤	duo li si bi gu	1768
+鄂邑公主	e yi gong zhu	1535
+尔微特勒	er wei te le	1534
+尔朱代勤	er zhu dai qin	1533
+尔朱度律	er zhu du lv	1532
+尔朱拂律归	er zhu fu lv gui	1767
+尔朱皇后	er zhu huang hou	1531
+尔朱菩提	er zhu pu ti	1530
+尔朱世承	er zhu shi cheng	1529
+尔朱世隆	er zhu shi long	1528
+尔朱天光	er zhu tian guang	1527
+尔朱吐没儿	er zhu tu mei er	1766
+尔朱文畅	er zhu wen chang	1526
+尔朱文殊	er zhu wen shu	1525
+尔朱显寿	er zhu xian shou	1524
+尔朱新兴	er zhu xin xing	1523
+尔朱彦伯	er zhu yan bo	1522
+尔朱阳睹	er zhu yang du	1521
+尔朱义罗	er zhu yi luo	1520
+尔朱羽健	er zhu yu jian	1519
+尔朱御女	er zhu yu nv	1517
+尔朱羽生	er zhu yu sheng	1518
+尔朱智虎	er zhu zhi hu	1516
+尔朱仲远	er zhu zhong yuan	1515
+繁昌公主	fan chang gong zhu	1514
+范当根纯	fan dang gen chun	1513
+范毗沙达	fan pi sha da	1512
+范头利	fan tou li	584
+范晔妹妹	fan ye mei mei	1511
+范晔母亲	fan ye mu qin	1510
+房崇吉	fang chong ji	552
+费也利进	fei ye li jin	1509
+费也头牧子	fei ye tou mu zi	1765
+汾阴巫锦	fen yin wu jin	1508
+丰安公主	feng an gong zhu	1507
+逢侯单于	feng hou chan yu	1505
+冯左昭仪	feng zuo zhao yi	1506
+夫蒙灵察	fu meng ling cha	1504
+夫蒙令卿	fu meng ling qing	1503
+扶余文思	fu yu wen si	1502
+扶余璋	fu yu zhang	555
+扶余忠胜	fu yu zhong sheng	1501
+扶余忠志	fu yu zhong zhi	1500
+高阿那肱	gao a na gong	1499
+高德政妻	gao de zheng qi	1498
+高句丽王	gao gou li wang	1497
+高句丽王安	gao gou li wang an	1762
+高句骊侯驺	gao ju li hou zou	1764
+高句骊王宫	gao ju li wang gong	1763
+皋林温禺犊王	gao lin wen yu du wang	1821
+高陵君显	gao ling jun xian	1496
+高武侯鳃	gao wu hou sai	1495
+高行周	gao xing zhou	583
+高阳公主	gao yang gong zhu	1494
+高元海妻	gao yuan hai qi	1493
+哥解颉利发	ge jie xie li fa	1758
+歌滥拔延	ge lan ba yan	1488
+葛勒可汗	ge le ke han	1487
+葛卢孟光	ge lu meng guang	1486
+葛逻禄叶护顿毗伽	ge luo lu ye hu dun pi jia	1853
+个失密	ge shi mi	582
+宫长李南	gong chang li nan	1470
+宫女李氏	gong nv li shi	1473
+公丘懿子	gong qiu yi zi	1485
+宫人王氏	gong ren wang shi	1472
+宫人元氏	gong ren yuan shi	1471
+公上延孙	gong shang yan sun	1484
+共松共赞	gong song gong zan	1469
+公孙方平	gong sun fang ping	1483
+公孙夫人	gong sun fu ren	1482
+公孙敬声	gong sun jing sheng	1481
+公孙庆曰	gong sun qing yue	1480
+公孙琼岩	gong sun qiong yan	1479
+公孙戎奴	gong sun rong nu	1478
+公孙武达	gong sun wu da	1476
+公孙五楼	gong sun wu lou	1477
+公孙益寿	gong sun yi shou	1475
+公子少官	gong zi shao guan	1474
+钩町王禹	gou ding wang yu	1468
+苟晞姨母	gou xi yi mu	1467
+固安公主	gu an gong zhu	1462
+骨都侯喜为	gu dou hou xi wei	1757
+骨咄禄特勒	gu duo lu te le	1756
+骨咄叶护	gu duo ye hu	1464
+骨力裴罗	gu li pei luo	1463
+姑瞀楼头	gu mao lou tou	1466
+姑臧夫人	gu zang fu ren	1465
+官婢张弃	guan bi zhang qi	1461
+馆陶公主	guan tao gong zhu	1460
+广川王妃	guang chuan wang fei	1455
+光化公主	guang hua gong zhu	1458
+广平公主	guang ping gong zhu	1454
+光王李涺	guang wang li ju	1457
+光懿皇后	guang yi huang hou	1456
+鬼谷子	gui gu zi	527
+贵人屠墨	gui ren tu mo	1451
+鬼室福信	gui shi fu xin	1452
+桂阳公主	gui yang gong zhu	1450
+郭汜之妻	guo si zhi qi	1449
+韩国夫人	han guo fu ren	1448
+韩宣惠王	han xuan hui wang	1447
+和阿干子	he a gan zi	1446
+贺拔度拔	he ba du ba	1440
+贺拔伏恩	he ba fu en	1439
+贺拔文兴	he ba wen xing	1438
+贺拔行威	he ba xing wei	1437
+贺拔焉过儿	he ba yan guo er	1755
+河东公主	he dong gong zhu	1444
+纥豆陵步蕃	he dou ling bu fan	1761
+纥豆陵惠	he dou ling hui	1492
+纥豆陵伊利	he dou ling yi li	1760
+纥干承基	he gan cheng ji	1491
+河间王开	he jian wang kai	1443
+贺兰豹子	he lan bao zi	1436
+贺兰楚石	he lan chu shi	1435
+贺兰德愿	he lan de yuan	1434
+贺兰进明	he lan jin ming	1433
+贺兰敏之	he lan min zhi	1432
+贺兰愿德	he lan yuan de	1431
+贺兰越石	he lan yue shi	1430
+赫连勃勃	he lian bo bo	1427
+赫连昌母	he lian chang mu	1426
+赫连达	he lian da	528
+赫连度洛孤	he lian du luo gu	1754
+赫连辅玄	he lian fu xuan	1425
+赫连皇后	he lian huang hou	1424
+赫连蒙逊	he lian meng xun	1423
+赫连社干	he lian she gan	1422
+赫连秃骨	he lian tu gu	1421
+赫连谓以代	he lian wei yi dai	1753
+赫连乌视拔	he lian wu shi ba	1752
+赫连阳顺	he lian yang shun	1420
+赫连助兴	he lian zhu xing	1419
+赫连子悦	he lian zi yue	1418
+贺娄子干	he lou zi gan	1429
+河南向秀	he nan xiang xiu	1442
+河内山涛	he nei shan tao	1441
+贺若怀广	he ruo huai guang	1428
+纥奚舍乐	he xi she le	1490
+纥奚勿六跋	he xi wu liu ba	1759
+纥奚永安	he xi yong an	1489
+和义公主	he yi gong zhu	1445
+黑齿常之	hei chi chang zhi	1417
+黑匿郁鞠	hei ni yu ju	1416
+衡山公主	heng shan gong zhu	1415
+衡阳公主	heng yang gong zhu	1414
+弘德皇后	hong de huang hou	1413
+弘化公主	hong hua gong zhu	1412
+弘孝皇后	hong xiao huang hou	1411
+后汉隐帝	hou han yin di	1399
+侯几长贵	hou ji chang gui	1410
+侯吕陵始	hou lv ling shi	1409
+候吕陵氏	hou lv ling shi	1398
+侯莫陈崇	hou mo chen chong	1408
+侯莫陈凯	hou mo chen kai	1407
+侯莫陈琼	hou mo chen qiong	1406
+侯莫陈芮	hou mo chen rui	1405
+侯莫陈顺	hou mo chen shun	1404
+侯莫陈相	hou mo chen xiang	1403
+侯莫陈乂	hou mo chen yi	1402
+侯莫陈悦	hou mo chen yue	1401
+侯医垔石洛候	hou yi yin shi luo hou	1820
+侯引七突	hou yin qi tu	1400
+斛阿列罗	hu a lie luo	1388
+斛拔俄弥突	hu ba e mi tu	1747
+斛拔弥俄突	hu ba mi e tu	1746
+呼厨泉单于	hu chu quan chan yu	1751
+胡都大博	hu dou da bo	1393
+壶关三老	hu guan san lao	1679
+呼韩邪单于	hu han xie chan yu	1750
+呼揭单于	hu jie chan yu	1397
+呼兰若尸逐就单于	hu lan ruo shi zhu jiu chan yu	1852
+呼留若王胜之	hu liu ruo wang sheng zhi	1819
+胡禄达干	hu lu da gan	1392
+狐鹿姑单于	hu lu gu chan yu	1749
+斛律丰乐	hu lv feng le	1387
+斛律伏护	hu lv fu hu	1386
+斛律恒伽	hu lv heng jia	1385
+斛律皇后	hu lv huang hou	1384
+斛律洛阳	hu lv luo yang	1383
+斛律羌举	hu lv qiang ju	1382
+斛律沙门	hu lv sha men	1381
+斛律世辨	hu lv shi bian	1380
+斛律世达	hu lv shi da	1379
+斛律世迁	hu lv shi qian	1378
+斛律世酋	hu lv shi qiu	1377
+斛律世雄	hu lv shi xiong	1376
+斛律武都	hu lv wu du	1375
+斛律孝卿	hu lv xiao qing	1374
+护密王罗真檀	hu mi wang luo zhen tan	1818
+斛斯文略	hu si wen lue	1373
+斛斯元寿	hu si yuan shou	1372
+胡太阿厚	hu tai e hou	1391
+胡毋辅之	hu wu fu zhi	1389
+胡巫檀何	hu wu tan he	1390
+湖邪尸逐侯鞮单于	hu xie shi zhu hou di chan yu	1851
+壶衍鞮单于	hu yan di chan yu	1748
+呼延皇后	hu yan huang hou	1396
+呼延青人	hu yan qing ren	1395
+湖阳公主	hu yang gong zhu	1371
+呼征单于	hu zheng chan yu	1394
+华容公主	hua rong gong zhu	1370
+华阳夫人	hua yang fu ren	1369
+化政公主	hua zheng gong zhu	1368
+桓振妹	huan zhen mei	531
+黄法	huang fa	1350
+皇甫道烈	huang fu dao lie	1367
+皇甫德参	huang fu de can	1366
+皇甫德仪	huang fu de yi	1365
+皇甫方回	huang fu fang hui	1364
+皇甫惟明	huang fu wei ming	1363
+皇甫文备	huang fu wen bei	1362
+皇甫无逸	huang fu wu yi	1361
+皇甫希之	huang fu xi zhi	1360
+皇甫孝谐	huang fu xiao xie	1359
+皇甫仲达	huang fu zhong da	1358
+皇甫仲贤	huang fu zhong xian	1357
+皇后冯氏	huang hou feng shi	1356
+皇后傅氏	huang hou fu shi	1355
+皇后胡氏	huang hou hu shi	1354
+皇后刘氏	huang hou liu shi	1353
+皇后张氏	huang hou zhang shi	1352
+黄龙左校	huang long zuo xiao	1349
+皇太子妃	huang tai zi fei	1351
+惠德皇后	hui de huang hou	1347
+回纥承宗	hui he cheng zong	1348
+回纥伏帝难	hui he fu di nan	1745
+火拔归仁	huo ba gui ren	1346
+火拔颉利发	huo ba xie li fa	1744
+霍国公主	huo guo gong zhu	1344
+获嘉公主	huo jia gong zhu	1345
+济北王寿	ji bei wang shou	1340
+即墨大夫	ji mo dai fu	1342
+级失特勒	ji shi te le	1343
+济王李溢	ji wang li yi	1339
+籍兄子咸	ji xiong zi xian	1341
+贾爱仁	jia ai ren	545
+迦叶志忠	jia ye zhi zhong	1338
+姜叙之母	jiang xu zhi mu	1336
+交河公主	jiao he gong zhu	1335
+角里先生	jiao li xian sheng	1334
+解万年	jie wan nian	558
+晋安公主	jin an gong zhu	1329
+金城公主	jin cheng gong zhu	1332
+金华敬妃	jin hua jing fei	1331
+晋陵公主	jin ling gong zhu	1328
+金山公主	jin shan gong zhu	1330
+静乐公主	jing le gong zhu	1326
+敬武公主	jing wu gong zhu	1327
+鸠摩罗什	jiu mo luo shen	1325
+鸠尸卑那	jiu shi bei na	1669
+句町王承	ju ding wang cheng	1290
+句町王邯	ju ding wang han	1289
+句龙王吾斯	ju long wang wu si	1741
+拘弥王成国	ju mi wang cheng guo	1743
+拘弥王定兴	ju mi wang ding xing	1742
+俱密王那罗延	ju mi wang na luo yan	1815
+拘弥王兴	ju mi wang xing	1324
+沮渠安周	ju qu an zhou	1322
+沮渠百年	ju qu bai nian	1320
+沮渠白蹄	ju qu bai ti	1321
+沮渠成都	ju qu cheng dou	1319
+沮渠董来	ju qu dong lai	1318
+沮渠封坛	ju qu feng tan	1317
+沮渠伏奴	ju qu fu nu	1316
+沮渠富占	ju qu fu zhan	1315
+沮渠干寿	ju qu gan shou	1314
+沮渠苟生	ju qu gou sheng	1313
+沮渠广宗	ju qu guang zong	1312
+沮渠汉平	ju qu han ping	1311
+沮渠孔笃	ju qu kong du	1310
+沮渠孔遮	ju qu kong zhe	1309
+沮渠罗仇	ju qu luo chou	1308
+沮渠蒙逊	ju qu meng xun	1307
+沮渠牧犍	ju qu mu jian	1306
+沮渠男成	ju qu nan cheng	1305
+沮渠旁周	ju qu pang zhou	1304
+沮渠菩提	ju qu pu ti	1303
+沮渠亲信	ju qu qin xin	1302
+沮渠麹粥	ju qu qu zhou	1301
+沮渠鄯善	ju qu shan shan	1300
+沮渠鄯善苟子	ju qu shan shan gou zi	1816
+沮渠唐儿	ju qu tang er	1299
+沮渠天周	ju qu tian zhou	1298
+沮渠万年	ju qu wan nian	1297
+沮渠无讳	ju qu wu hui	1296
+沮渠奚念	ju qu xi nian	1295
+沮渠兴国	ju qu xing guo	1294
+沮渠宜得	ju qu yi de	1293
+沮渠昭仪	ju qu zhao yi	1292
+沮渠政德	ju qu zheng de	1291
+驹于利受	ju yu li shou	1323
+军臣单于	jun chen chan yu	1288
+康国王乌勒伽	kang guo wang wu le jia	1814
+康惠皇后	kang hui huang hou	1287
+康居副王抱阗	kang ju fu wang bao tian	1813
+康乐公主	kang le gong zhu	1286
+康木子烧香	kang mu zi shao xiang	1740
+渴刺兜	ke ci dou	546
+可朱浑道裕	ke zhu hun dao yu	1739
+可朱浑道元	ke zhu hun dao yuan	1738
+可朱浑定远	ke zhu hun ding yuan	1737
+可朱浑天和	ke zhu hun tian he	1736
+可足浑皇后	ke zu hun huang hou	1735
+可足浑潭	ke zu hun tan	1285
+可足浑翼	ke zu hun yi	1284
+库狄伏连	ku di fu lian	1283
+库狄式和	ku di shi he	1282
+库狄显安	ku di xian an	1281
+库狄仲锜	ku di zhong qi	1280
+库傉官斌	ku nu guan bin	1279
+库傉官昌	ku nu guan chang	1278
+库傉官骥	ku nu guan ji	1277
+库傉官提	ku nu guan ti	1276
+库傉官伟	ku nu guan wei	1275
+赖丹	lai dan	567
+兰陵公主	lan ling gong zhu	1274
+浪我利波	lang wo li bo	1271
+琅邪公主	lang xie gong zhu	1273
+琅邪王戎	lang xie wang rong	1272
+老上单于	lao shang chan yu	1270
+乐浪公主	le lang gong zhu	1269
+李安俨父	li an yan fu	1268
+李澄丰王	li cheng feng wang	1267
+李初古拔	li chu gu ba	1266
+李泚义王	li ci yi wang	1265
+李漎梁王	li cong liang wang	1264
+李漼陈王	li cui chen wang	1263
+利富多塞	li fu duo sai	1672
+李潓恒王	li hui heng wang	1262
+李沔信王	li mian xin wang	1261
+李诗琐高	li shi suo gao	1260
+李滔汴王	li tao bian wang	1259
+李彦	li yan	1258
+溧阳公主	li yang gong zhu	1255
+郦邑公主	li yi gong zhu	1256
+李瑗姬妾	li yuan ji qie	1257
+两骨都侯	liang gu dou hou	1251
+梁国夫人	liang guo fu ren	1254
+梁山泊	liang shan po	1253
+梁王刘立	liang wang liu li	1252
+辽东长史	liao dong zhang shi	1250
+廖匡齐母	liao kuang qi mu	1248
+缭嫈侯福	liao xing hou fu	1249
+临洮县主	lin tao xian zhu	1247
+令狐德棻	ling hu de fen	1246
+令狐行达	ling hu xing da	1245
+令狐智通	ling hu zhi tong	1244
+刘成都	liu cheng du	565
+刘道济母	liu dao ji mu	1243
+刘道济妻	liu dao ji qi	1242
+刘广汉	liu guang han	550
+刘弘	liu hong	1241
+刘开明	liu kai ming	553
+刘蠡升	liu li sheng	547
+刘如意	liu ru yi	549
+刘文静妾	liu wen jing qie	1240
+刘悉勿祈	liu xi wu qi	1239
+刘云客	liu yun ke	551
+刘直力鞮	liu zhi li di	1238
+刘左皇后	liu zuo huang hou	1237
+隆昌公主	long chang gong zhu	1233
+龙栗婆准	long li po zhun	1236
+龙雒思侯	long luo si hou	1667
+隆虑公主	long lv gong zhu	1232
+龙突骑支	long tu qi zhi	1235
+龙先那准	long xian na zhun	1234
+龙薛婆阿那支	long xue po a na zhi	1812
+漏卧侯俞	lou wo hou yu	1231
+卢迦逸多	lu jia yi duo	1230
+鲁王刘闵	lu wang liu min	1229
+鲁元公主	lu yuan gong zhu	1228
+路中大夫	lu zhong da fu	1227
+论弥萨来	lun mi sa lai	1226
+论名悉猎	lun ming xi lie	1225
+论塞调傍	lun sai tiao bang	1224
+论尚它硉	lun shang ta lu	1223
+论吐浑弥	lun tu hun mi	1222
+落尸逐鞮单于	luo shi zhu di chan yu	1836
+闾左昭仪	lv zuo zhao yi	1221
+芒松芒赞	mang song mang zan	1220
+没贺咄设	mei he duo she	1219
+梅老季素	mei lao ji su	1218
+梅老鞋里	mei lao xie li	1217
+蜜多道人	mi duo dao ren	1215
+弥姐元进	mi jie yuan jin	1216
+明德太后	ming de tai hou	1214
+莫多娄贷文	mo duo lou dai wen	1734
+莫多娄敬显	mo duo lou jing xian	1733
+莫贺达干	mo he da gan	1212
+莫贺咄可汗	mo he duo ke han	1732
+莫贺弗勿干	mo he fu wu gan	1731
+莫何可汗	mo he ke han	1213
+莫侯悌眷	mo hou ti juan	1211
+秣陵老人	mo ling lao ren	1205
+万俟丑奴	mo qi chou nu	850
+万俟道洛	mo qi dao luo	849
+万俟受洛干	mo qi shou luo gan	1698
+莫折大提	mo zhe da ti	1210
+莫者羖羝	mo zhe gu di	1207
+莫折念生	mo zhe nian sheng	1209
+莫折天生	mo zhe tian sheng	1208
+莫者幼眷	mo zhe you juan	1206
+木杆可汗	mu gan ke han	1204
+慕容	mu rong	1172
+慕容白曜	mu rong bai yao	1203
+慕容伯儿	mu rong bo er	1202
+慕容大逸豆归	mu rong da yi dou gui	1811
+慕容道成	mu rong dao cheng	1201
+慕容伏念	mu rong fu nian	1200
+慕容伏允	mu rong fu yun	1199
+慕容皇后	mu rong huang hou	1198
+慕容继勋	mu rong ji xun	1197
+慕容罗睺	mu rong luo hou	1196
+慕容买得	mu rong mai de	1195
+慕容莫昌	mu rong mo chang	1670
+慕容木延	mu rong mu yan	1194
+慕容平城	mu rong ping cheng	1193
+慕容如意	mu rong ru yi	1192
+慕容三藏	mu rong san zang	1191
+慕容绍宗	mu rong shao zong	1190
+慕容涉归	mu rong she gui	1189
+慕容什归	mu rong shen gui	1188
+慕容恃德	mu rong shi de	1186
+慕容世伏	mu rong shi fu	1187
+慕容树归	mu rong shu gui	1185
+慕容思庆	mu rong si qing	1184
+慕容吐谷浑	mu rong tu yu hun	1730
+慕容王后	mu rong wang hou	1183
+慕容握逵	mu rong wo kui	1181
+慕容倭奴	mu rong wo nu	1182
+慕容无素	mu rong wu su	1180
+慕容悉达	mu rong xi da	1179
+慕容孝干	mu rong xiao gan	1178
+慕容小逸豆归	mu rong xiao yi dou gui	1810
+慕容兴宗	mu rong xing zong	1177
+慕容宣超	mu rong xuan chao	1176
+慕容玄崱	mu rong xuan ze	1175
+慕容彦超	mu rong yan chao	1173
+慕容延钊	mu rong yan zhao	1174
+慕容尹国	mu rong yin guo	1171
+慕容元绪	mu rong yuan xu	1170
+慕容子会	mu rong zi hui	1169
+慕舆长卿	mu yu chang qing	1167
+慕舆贺辛	mu yu he xin	1168
+那罗迩婆娑寐	na luo er po suo mei	1809
+南海王织	nan hai wang zhi	1166
+南汉中宗	nan han zhong zong	1165
+南和县主	nan he xian zhu	1164
+南康公主	nan kang gong zhu	1163
+南平公主	nan ping gong zhu	1162
+南阳公主	nan yang gong zhu	1161
+囊知牙斯	nang zhi ya si	1160
+内黄公主	nei huang gong zhu	1159
+泥利可汗	ni li ke han	1157
+尼洛周	ni luo zhou	554
+泥熟俟斤	ni shu si jin	1156
+尼谿相参	ni xi xiang can	1158
+宁亲公主	ning qin gong zhu	1155
+女巫杨氏	nv wu yang shi	1154
+欧阳	ou yang	1153
+判阙特勒	pan que te le	1152
+袍笏梅老	pao hu mei lao	1151
+彭城公主	peng cheng gong zhu	1150
+毗伽可敦	pi jia ke dun	1149
+毘黎伽特勒	pi li jia te le	1729
+辟闾道秀	pi lv dao xiu	1148
+平昌公主	ping chang gong zhu	1147
+平阳公主	ping yang gong zhu	1146
+平原公主	ping yuan gong zhu	1145
+破六韩拔陵	po liu han ba ling	1728
+破六韩伯升	po liu han bo sheng	1727
+破六韩常	po liu han chang	1143
+破六韩裒	po liu han pou	1142
+婆实特勒	po shi te le	1144
+普慈公主	pu ci gong zhu	1139
+仆固都督曳勒歌	pu gu du du ye le ge	1840
+仆固怀恩	pu gu huai en	1141
+普宁公主	pu ning gong zhu	1138
+菩萨俟斤	pu sa si jin	1140
+契苾承明	qi bi cheng ming	1084
+契苾哥楞	qi bi ge leng	1083
+契苾歌楞	qi bi ge leng	1082
+契苾何力	qi bi he li	1081
+契苾沙门	qi bi sha men	1080
+乞伏阿柴	qi fu a chai	1134
+乞伏跋跋	qi fu ba ba	1133
+乞伏白养	qi fu bai yang	1132
+乞伏步颓	qi fu bu tui	1131
+乞伏成龙	qi fu cheng long	1130
+乞伏敕勃	qi fu chi bo	1128
+乞伏炽磐	qi fu chi pan	1129
+乞伏出累	qi fu chu lei	1127
+乞伏触状	qi fu chu zhuang	1126
+乞伏干归	qi fu gan gui	1125
+乞伏公府	qi fu gong fu	1124
+乞伏贵和	qi fu gui he	1123
+乞伏国仁	qi fu guo ren	1122
+乞伏吉毗	qi fu ji pi	1121
+乞伏诘归	qi fu jie gui	1120
+乞伏捷虔	qi fu jie qian	1119
+乞伏轲弹	qi fu ke dan	1118
+乞伏轲殊罗	qi fu ke shu luo	1726
+乞伏孔子	qi fu kong zi	1117
+乞伏娄机	qi fu lou ji	1116
+乞伏马居	qi fu ma ju	1115
+乞伏莫于	qi fu mo yu	1114
+乞伏暮末	qi fu mu mo	1112
+乞伏慕兀	qi fu mu wu	1113
+乞伏木奕干	qi fu mu yi gan	1725
+乞伏傉大寒	qi fu nu da han	1724
+乞伏匹达	qi fu pi da	1111
+乞伏千年	qi fu qian nian	1110
+乞伏谦屯	qi fu qian tun	1109
+乞伏屈眷	qi fu qu juan	1108
+乞伏去列	qi fu qu lie	1107
+乞伏审虔	qi fu shen qian	1105
+乞伏什寅	qi fu shen yin	1106
+乞伏是辰	qi fu shi chen	1104
+乞伏述延	qi fu shu yan	1103
+乞伏司繁	qi fu si fan	1102
+乞伏昙达	qi fu tan da	1101
+乞伏吐雷	qi fu tu lei	1100
+乞伏魋尼寅	qi fu tui ni yin	1723
+乞伏万年	qi fu wan nian	1099
+乞伏万载	qi fu wan zai	1098
+乞伏沃陵	qi fu wo ling	1097
+乞伏渥头	qi fu wo tou	1096
+乞伏无劳	qi fu wu lao	1095
+乞伏信帝	qi fu xin di	1094
+乞伏延祚	qi fu yan zuo	1093
+乞伏义受	qi fu yi shou	1092
+乞伏益州	qi fu yi zhou	1091
+乞伏元基	qi fu yuan ji	1090
+乞伏智达	qi fu zhi da	1089
+齐国公主	qi guo gong zhu	1137
+契汗秃真	qi han tu zhen	1079
+乞梨苏笼猎赞	qi li su long lie zan	1808
+弃隶蹜赞	qi li su zan	1086
+启民可汗	qi min ke han	1087
+启母神	qi mu shen	526
+器弩悉弄	qi nu xi nong	1078
+乞四北羽	qi si bei yu	1088
+綦毌珍之	qi wan zhen zhi	1135
+齐长公主	qi zhang gong zhu	1136
+弃宗弄赞	qi zong nong zan	1085
+千金公主	qian jin gong zhu	1077
+钱仁俊母	qian ren jun mu	1076
+犍为左姬	qian wei zuo ji	1337
+羌渠单于	qiang qu chan yu	1075
+桥玄幼子	qiao xuan you zi	1074
+且鞮侯单于	qie di hou chan yu	1722
+且渠伯德	qie qu bo de	1073
+秦惠文王	qin hui wen wang	1072
+沁水公主	qin shui gong zhu	1068
+秦王子婴	qin wang zi ying	1071
+秦孝文王	qin xiao wen wang	1070
+秦庄襄王	qin zhuang xiang wang	1069
+清河公主	qing he gong zhu	1067
+丘除车林鞮单于	qiu chu che lin di chan yu	1839
+龟兹王建	qiu ci wang jian	1453
+丘浮尤鞮单于	qiu fu you di chan yu	1807
+丘神	qiu shen	1066
+曲阿弘氏	qu a hong shi	1065
+麹莽布支	qu mang bu zhi	1063
+去特若尸逐就单于	qu te ruo shi zhu jiu chan yu	1850
+屈突仲翔	qu tu zhong xiang	1064
+泉盖苏文	quan gai su wen	1062
+阙啜忠节	que chuo zhong jie	1061
+任右昭仪	ren you zhao yi	1060
+荣国夫人	rong guo fu ren	1059
+容华夫人	rong hua fu ren	1057
+容屈王子	rong qu wang zi	1659
+荣义郡主	rong yi jun zhu	1058
+褥但可汗	ru dan ke han	1054
+乳母刘氏	ru mu liu shi	1055
+蠕蠕公主	ru ru gong zhu	1056
+闰振单于	run zhen chan yu	1053
+若罗拔能	ruo luo ba neng	1052
+桑干朱瑞	sang gan zhu rui	1051
+沙钵略可汗	sha bo lue ke han	1720
+沙钵罗泥熟俟斤	sha bo luo ni shu si jin	1838
+沙钵罗特勒	sha bo luo te le	1721
+莎车王康	sha che wang kang	1046
+莎车王贤	sha che wang xian	1045
+莎车王延	sha che wang yan	1044
+刹利摩诃	sha li mo he	1674
+沙门宝志	sha men bao zhi	1050
+沙门真觉	sha men zhen jue	1049
+沙吒相如	sha zha xiang ru	1048
+沙吒忠义	sha zha zhong yi	1047
+鄯善王安	shan shan wang an	1042
+鄯善王广	shan shan wang guang	1041
+山阴公主	shan yin gong zhu	1043
+尚宫柴氏	shang gong chai shi	1036
+尚宫贺娄氏	shang gong he lou shi	1719
+上官怀仁	shang guan huai ren	1040
+上官皇后	shang guan huang hou	1039
+上官庭芝	shang guan ting zhi	1038
+上官婉儿	shang guan wan er	1037
+舍人无且	she ren wu qie	1035
+申师厚	shen shi hou	581
+沈攸之	shen you zhi	543
+神岳天中王	shen yue tian zhong wang	1718
+盛王李沐	sheng wang li mu	1034
+石阿失毕	shi a shi bi	1032
+始安公主	shi an gong zhu	1028
+始毕可汗	shi bi ke han	1027
+侍婢明珠	shi bi ming zhu	1025
+失钵屈阿栈	shi bo qu a zhan	1717
+石奉	shi feng	1031
+史弘肇	shi hong zhao	542
+是兰安定	shi lan an ding	1022
+侍郎马通	shi lang ma tong	1024
+是连子畅	shi lian zi chang	1021
+适柳氏	shi liu shi	557
+尸罗逸多	shi luo yi duo	1033
+始平公主	shi ping gong zhu	1026
+史蜀胡悉	shi shu hu xi	1029
+石真若留	shi zhen ruo liu	1030
+侍中王沈	shi zhong wang shen	1023
+寿王李清	shou wang li qing	1020
+寿阳公主	shou yang gong zhu	1019
+疏勒王安国	shu le wang an guo	1716
+疏勒王忠	shu le wang zhong	1016
+叔孙俊	shu sun jun	541
+叔孙普洛	shu sun pu luo	1018
+叔孙无忌	shu sun wu ji	1017
+水丘昭券	shui qiu zhao quan	1015
+顺阳公主	shun yang gong zhu	1014
+泗川监平	si chuan jian ping	952
+泗川守壮	si chuan shou zhuang	951
+嗣道王李微	si dao wang li wei	1714
+思结归国	si jie gui guo	957
+思结进明	si jie jin ming	956
+思结磨散	si jie mo san	955
+思结俟斤	si jie si jin	954
+思力俟斤	si li si jin	953
+司马爱之	si ma ai zhi	1013
+司马百年	si ma bai nian	1012
+司马昌明	si ma chang ming	1011
+司马承祯	si ma cheng zhen	1010
+司马楚之	si ma chu zhi	1009
+司马道赐	si ma dao ci	1008
+司马道恭	si ma dao gong	1007
+司马道生	si ma dao sheng	1006
+司马道子	si ma dao zi	1005
+司马德戡	si ma de kan	1004
+司马德文	si ma de wen	1003
+司马德宗	si ma de zong	1002
+司马飞龙	si ma fei long	1662
+司马轨之	si ma gui zhi	1001
+司马国璠	si ma guo fan	1000
+司马皇后	si ma huang hou	999
+司马恢之	si ma hui zhi	998
+司马季之	si ma ji zhi	997
+司马景度	si ma jing du	996
+司马朗之	si ma lang zhi	995
+司马良娣	si ma liang di	994
+司马茂英	si ma mao ying	993
+司马明素	si ma ming su	992
+司马荣期	si ma rong qi	991
+司马柔之	si ma rou zhi	990
+司马尚之	si ma shang zhi	989
+司马始宾	si ma shi bin	988
+司马世云	si ma shi yun	987
+司马叔道	si ma shu dao	986
+司马叔璠	si ma shu fan	985
+司马顺明	si ma shun ming	984
+司马顺宰	si ma shun zai	983
+司马顺则	si ma shun ze	982
+司马天流	si ma tian liu	981
+司马天助	si ma tian zhu	980
+司马文宝	si ma wen bao	979
+司马文荣	si ma wen rong	978
+司马文思	si ma wen si	977
+司马文祖	si ma wen zu	976
+司马无忌	si ma wu ji	975
+司马相如	si ma xiang ru	974
+司马消难	si ma xiao nan	973
+司马秀	si ma xiu	532
+司马休之	si ma xiu zhi	972
+司马宣期	si ma xuan qi	971
+司马彦璋	si ma yan zhang	969
+司马延祚	si ma yan zuo	970
+司马幼之	si ma you zhi	968
+司马俞生	si ma yu sheng	967
+司马元显	si ma yuan xian	966
+司马越	si ma yue	580
+司马允之	si ma yun zhi	965
+司马珍之	si ma zhen zhi	963
+司马贞之	si ma zhen zhi	964
+司马朱生	si ma zhu sheng	962
+司马子如	si ma zi ru	961
+司马子瑞	si ma zi rui	960
+司马遵之	si ma zun zhi	959
+肆叶护可汗	si ye hu ke han	1715
+司衣王氏	si yi wang shi	958
+宋公剔成	song gong ti cheng	950
+宋王偃	song wang yan	539
+宿勤明达	su qin ming da	949
+宿勤乌过仁	su qin wu guo ren	1713
+苏禹珪	su yu gui	538
+遂安夫人	sui an fu ren	948
+娑悉笼猎赞	suo xi long lie zan	1712
+他吾无鹿胡	ta wu wu lu hu	1711
+太华公主	tai hua gong zhu	893
+太穆皇后	tai mu huang hou	892
+太宁王沤僧	tai ning wang ou seng	1707
+太医监充国	tai yi jian chong guo	1706
+太原尹	tai yuan yin	891
+太祖皇帝	tai zu huang di	890
+檀道济	tan dao ji	540
+昙度道人	tan du dao ren	888
+贪汗可汗	tan han ke han	889
+谭骐	tan qi	887
+唐昭宣帝	tang zhao xuan di	886
+滕王李峤	teng wang li qiao	885
+题除渠堂	ti chu qu tang	884
+天皇王后	tian huang wang hou	883
+天竺迦毗黎王月爱	tian zhu jia pi li wang yue ai	1843
+铁刃悉诺罗	tie ren xi nuo luo	1705
+同安公主	tong an gong zhu	882
+同俄特勒	tong e te le	881
+同罗都督毗伽末啜	tong luo du du pi jia mo chuo	1849
+僮尸逐侯鞮单于	tong shi zhu hou di chan yu	1847
+统叶护可汗	tong ye hu ke han	1704
+秃发安周	tu fa an zhou	879
+秃发保周	tu fa bao zhou	878
+秃发承钵	tu fa cheng bo	877
+秃发樊尼	tu fa fan ni	876
+秃发赴单	tu fa fu dan	875
+秃发覆龙	tu fa fu long	873
+秃发副周	tu fa fu zhou	874
+秃发纥勃	tu fa he bo	872
+秃发虎台	tu fa hu tai	871
+秃发敬归	tu fa jing gui	870
+秃发俱延	tu fa ju yan	869
+秃发利鹿孤	tu fa li lu gu	1703
+秃发洛肱	tu fa luo gong	868
+秃发洛回	tu fa luo hui	867
+秃发傉檀	tu fa nu tan	866
+秃发染干	tu fa ran gan	865
+秃发若留	tu fa ruo liu	864
+秃发树机能	tu fa shu ji neng	1702
+秃发思复鞬	tu fa si fu jian	1701
+秃发素渥	tu fa su wo	863
+秃发替引	tu fa ti yin	862
+秃发吐雷	tu fa tu lei	861
+秃发吐若留	tu fa tu ruo liu	1700
+秃发王后	tu fa wang hou	860
+秃发文真	tu fa wen zhen	859
+秃发文支	tu fa wen zhi	858
+秃发乌孤	tu fa wu gu	857
+秃发奚于	tu fa xi yu	856
+秃发椎斤	tu fa zhui jin	855
+吐火仙可汗	tu huo xian ke han	1699
+突利可汗	tu li ke han	854
+屠特若尸逐就单于	tu te ruo shi zhu jiu chan yu	1848
+吐谷浑斤	tu yu hun jin	853
+拓跋比延	tuo ba bi yan	947
+拓跋长乐	tuo ba chang le	896
+拓跋长寿	tuo ba chang shou	895
+拓跋承谦	tuo ba cheng qian	946
+拓跋赤辞	tuo ba chi ci	945
+拓跋崇斌	tuo ba chong bin	944
+拓跋处文	tuo ba chu wen	943
+拓跋处真	tuo ba chu zhen	942
+拓跋处直	tuo ba chu zhi	941
+拓跋大毗	tuo ba da pi	940
+拓跋道符	tuo ba dao fu	939
+拓跋地干	tuo ba di gan	938
+拓跋伏罗	tuo ba fu luo	936
+拓跋伏真	tuo ba fu zhen	935
+拓跋纥根	tuo ba he gen	934
+拓跋纥罗	tuo ba he luo	933
+拓跋纥那	tuo ba he na	932
+拓跋贺傉	tuo ba he nu	931
+拓跋惠寿	tuo ba hui shou	930
+拓跋羯儿	tuo ba jie er	928
+拓跋诘汾	tuo ba jie fen	929
+拓跋俊母	tuo ba jun mu	927
+拓跋窟咄	tuo ba ku duo	926
+拓跋乐真	tuo ba le zhen	925
+拓跋力微	tuo ba li wei	924
+拓跋力真	tuo ba li zhen	923
+拓跋六修	tuo ba liu xiu	922
+拓跋禄官	tuo ba lu guan	921
+拓跋洛侯	tuo ba luo hou	920
+拓跋磨浑	tuo ba mo hun	919
+拓跋目辰	tuo ba mu chen	917
+拓跋木弥	tuo ba mu mi	918
+拓跋平原	tuo ba ping yuan	916
+拓跋普根	tuo ba pu gen	1665
+拓跋仆兰	tuo ba pu lan	915
+拓跋沙漠汗	tuo ba sha mo han	1710
+拓跋涉延	tuo ba she yan	914
+拓跋什翼犍	tuo ba shen yi jian	1709
+拓跋寔君	tuo ba shi jun	913
+拓跋寿鸠	tuo ba shou jiu	912
+拓跋寿乐	tuo ba shou le	911
+拓跋素延	tuo ba su yan	910
+拓跋他	tuo ba ta	537
+拓跋太洛	tuo ba tai luo	909
+拓跋天赐	tuo ba tian ci	908
+拓跋推寅	tuo ba tui yin	907
+拓跋万寿	tuo ba wan shou	906
+拓跋隗归	tuo ba wei gui	905
+拓跋悉禄	tuo ba xi lu	904
+拓跋小新成	tuo ba xiao xin cheng	1708
+拓跋新成	tuo ba xin cheng	903
+拓跋彦超	tuo ba yan chao	902
+拓跋阏婆	tuo ba yan po	937
+拓跋猗	tuo ba yi	900
+拓跋翳槐	tuo ba yi huai	898
+拓跋猗卢	tuo ba yi lu	901
+拓跋意头	tuo ba yi tou	899
+拓跋郁律	tuo ba yu lv	897
+拓跋子推	tuo ba zi tui	894
+佗钵可汗	tuo bo ke han	852
+万安公主	wan an gong zhu	851
+毌丘	wan qiu	1459
+万氏尸逐鞮单于	wan shi shi zhu di chan yu	1837
+万于乞真	wan yu qi zhen	848
+王继严	wang ji yan	536
+王继裕	wang ji yu	535
+望气王朔	wang qi wang shuo	845
+王左皇后	wang zuo huang hou	847
+王左昭仪	wang zuo zhao yi	846
+魏	wei	838
+魏安僖王	wei an xi wang	837
+尉卑大	wei bei da	559
+魏国夫人	wei guo fu ren	836
+魏景湣王	wei jing min wang	835
+唯犁当户	wei li dang hu	844
+卫审	wei shen	843
+魏氏司宫	wei shi si gong	834
+卫长公主	wei zhang gong zhu	842
+文成公主	wen cheng gong zhu	832
+文定皇后	wen ding huang hou	831
+文惠皇后	wen hui huang hou	830
+闻人遂安	wen ren sui an	829
+温禺犊王	wen yu du wang	833
+握衍朐鞮单于	wo yan qu di chan yu	1806
+武安公主	wu an gong zhu	813
+乌达鞮侯	wu da di hou	828
+五大夫绾	wu dai fu wan	815
+乌籍单于	wu ji chan yu	827
+乌稽侯尸逐鞮单于	wu ji hou shi zhu di chan yu	1842
+吴郡公主	wu jun gong zhu	817
+武康公主	wu kang gong zhu	812
+乌厉温敦	wu li wen dun	826
+五鹿充宗	wu lu chong zong	814
+勿仑	wu lun	880
+乌那罗受工伐	wu na luo shou gong fa	1805
+武平君畔	wu ping jun pan	811
+吾丘寿王	wu qiu shou wang	818
+武群勇士	wu qun yong shi	810
+乌氏公主	wu shi gong zhu	825
+乌苏米施	wu su mi shi	1676
+乌孙昆莫	wu sun kun mo	824
+吴提染干	wu ti ran gan	816
+乌头劳	wu tou lao	548
+乌维单于	wu wei chan yu	823
+武威公主	wu wei gong zhu	809
+屋引阿洛	wu yin a luo	821
+屋引出支	wu yin chu zhi	820
+屋引破光	wu yin po guang	819
+乌朱驾颓	wu zhu jia tui	822
+西城公主	xi cheng gong zhu	808
+霫都督	xi du du	534
+悉烦库结	xi fan ku jie	801
+细封步赖	xi feng bu lai	799
+西海公主	xi hai gong zhu	807
+翕侯难栖	xi hou nan qi	800
+西门君惠	xi men jun hui	806
+西门君仪	xi men jun yi	805
+西平公主	xi ping gong zhu	804
+奚王去诸	xi wang qu zhu	802
+西周文公	xi zhou wen gong	803
+夏侯道迁	xia hou dao qian	798
+夏侯公韵	xia hou gong yun	797
+夏侯令女	xia hou ling nv	796
+夏侯明彻	xia hou ming che	795
+夏侯僧辩	xia hou seng bian	794
+夏侯文宁	xia hou wen ning	793
+夏侯献之	xia hou xian zhi	792
+夏侯宗之	xia hou zong zhi	791
+夏侯祖欢	xia hou zu huan	790
+下濑将军	xia lai jiang jun	1678
+羡门子高	xian men zi gao	779
+咸宜公主	xian yi gong zhu	780
+献幽皇后	xian you huang hou	778
+鲜于阿胡	xian yu a hu	788
+鲜于世荣	xian yu shi rong	787
+鲜于台阳	xian yu tai yang	786
+鲜于桃枝	xian yu tao zhi	785
+鲜于文粲	xian yu wen can	784
+鲜于修礼	xian yu xiu li	783
+鲜于修之	xian yu xiu zhi	782
+鲜于仲通	xian yu zhong tong	781
+仙源公主	xian yuan gong zhu	789
+襄城公主	xiang cheng gong zhu	776
+相里玄奖	xiang li xuan jiang	777
+向五子王	xiang wu zi wang	774
+襄阳公主	xiang yang gong zhu	775
+小勃律王	xiao bo lv wang	773
+小勃律王没谨忙	xiao bo lv wang mei jin mang	1835
+小梁贵人	xiao liang gui ren	772
+小刘贵人	xiao liu gui ren	771
+小宋贵人	xiao song gui ren	770
+萧子良	xiao zi liang	570
+颉跌伊施可汗	xie die yi shi ke han	1817
+颉吉里匐	xie ji li fu	1671
+颉利可汗	xie li ke han	1333
+新都公主	xin du gong zhu	769
+新平郡君	xin ping jun jun	768
+新兴公主	xin xing gong zhu	767
+兴平公主	xing ping gong zhu	766
+休兰尸逐侯鞮单于	xiu lan shi zhu hou di chan yu	1846
+须卜骨都侯	xu bu gu dou hou	1697
+须卜骨都侯单于	xu bu gu dou hou chan yu	1834
+须卜居次	xu bu ju ci	765
+虚除权渠	xu chu quan qu	764
+呴犁湖单于	xu li hu chan yu	1696
+虚闾权渠单于	xu lv quan qu chan yu	1804
+许穆之	xu mu zhi	530
+许善心	xu shan xin	569
+徐世	xu shi	763
+徐庶之母	xu shu zhi mu	762
+许文稹	xu wen zhen	533
+许许太后	xu xu tai hou	761
+宣城公主	xuan cheng gong zhu	760
+宣华夫人	xuan hua fu ren	759
+宣曲任氏	xuan qu ren shi	758
+宣中皇后	xuan zhong huang hou	757
+宣庄皇后	xuan zhuang huang hou	756
+宣祖皇帝	xuan zu huang di	755
+薛安都	xue an du	556
+薛孤康买	xue gu kang mai	754
+薛孤吴仁	xue gu wu ren	753
+厌怛纥干	yan da he gan	749
+燕郡公主	yan jun gong zhu	748
+燕太子丹	yan tai zi dan	747
+延陀梯真	yan tuo ti zhen	752
+延王李洄	yan wang li hui	751
+燕王述轧	yan wang shu ya	746
+燕武成后	yan wu cheng hou	745
+燕武成王	yan wu cheng wang	744
+严延年母	yan yan nian mu	750
+阳阿公主	yang a gong zhu	741
+杨敞夫人	yang chang fu ren	738
+羊侃之女	yang kan zhi nv	742
+杨难当	yang nan dang	568
+杨婆罗阿卜珍	yang po luo a bu zhen	1803
+阳石公主	yang shi gong zhu	740
+鞅素特勒	yang su te le	743
+阳羡公主	yang xian gong zhu	739
+杨昭恽女	yang zhao yun nv	737
+遥辇钦德	yao nian qin de	736
+谒舅伍宏	ye jiu wu hong	722
+夜郎王兴	ye lang wang xing	723
+耶律阿保机	ye lv a bao ji	1695
+耶律安端	ye lv an duan	735
+耶律德光	ye lv de guang	734
+耶律解里	ye lv jie li	733
+耶律郎五	ye lv lang wu	732
+耶律李胡	ye lv li hu	731
+耶律留珪	ye lv liu gui	730
+耶律麻荅	ye lv ma ta	729
+耶律撒剌阿拨	ye lv sa la a bo	1802
+耶律述律	ye lv shu lv	728
+耶律述轧	ye lv shu ya	727
+耶律突欲	ye lv tu yu	726
+耶律兀欲	ye lv wu yu	725
+也咥可汗	ye xi ke han	724
+夷安公主	yi an gong zhu	717
+义成公主	yi cheng gong zhu	707
+宜城公主	yi cheng gong zhu	716
+伊伐于虑鞮单于	yi fa yu lv di chan yu	1833
+宜芳公主	yi fang gong zhu	715
+乙弗皇后	yi fu huang hou	714
+乙弗窟干	yi fu ku gan	713
+乙弗乌地延	yi fu wu di yan	1690
+义归公主	yi gui gong zhu	706
+乙利可汗	yi li ke han	712
+伊蠡王	yi li wang	578
+伊力延侯	yi li yan hou	721
+伊陵尸逐就单于	yi ling shi zhu jiu chan yu	1832
+伊墨居次云	yi mo ju ci yun	1694
+伊莫訾王	yi mo zi wang	720
+义宁公主	yi ning gong zhu	705
+伊奴毒	yi nu du	560
+乙郍娄冯	yi nuo lou feng	711
+乙毗射匮可汗	yi pi she kui ke han	1801
+义渠安国	yi qu an guo	704
+伊然可汗	yi ran ke han	719
+伊屠于闾鞮单于	yi tu yu lv di chan yu	1831
+伊屠智牙师	yi tu zhi ya shi	1693
+仪王李潍	yi wang li wei	718
+伊吾吐屯设	yi wu tu tun she	1692
+乙息记可汗	yi xi ji ke han	1689
+伊邪莫演	yi xie mo yan	1673
+义阳公主	yi yang gong zhu	703
+乙旃达官	yi zhan da guan	710
+乙旃童泥	yi zhan tong ni	709
+乙支文德	yi zhi wen de	708
+伊稚斜单于	yi zhi xie chan yu	1691
+殷不害母	yin bu hai mu	701
+阴城公主	yin cheng gong zhu	702
+颍王李沄	ying wang li yun	700
+庸部牧史熊	yong bu mu shi xiong	1688
+永嘉公主	yong jia gong zhu	699
+永乐公主	yong le gong zhu	698
+永穆公主	yong mu gong zhu	697
+永宁公主	yong ning gong zhu	696
+永泰公主	yong tai gong zhu	695
+永王李泽	yong wang li ze	694
+永兴公主	yong xing gong zhu	693
+右大且渠蒲呼卢訾	you da qie qu pu hu lu zi	1844
+右温禺犊王乌居战	you wen yu du wang wu ju zhan	1845
+右贤王舆	you xian wang yu	692
+右伊秩訾王呼卢訾	you yi zhi zi wang hu lu zi	1841
+尉迟敬德	yu chi jing de	841
+尉迟菩萨	yu chi pu sa	840
+邘侯李寿	yu hou li shou	690
+薁鞬左贤王	yu jian zuo xian wang	1770
+玉京太后	yu jing tai hou	1658
+郁久闾	yu jiu lv	577
+于客子	yu ke zi	576
+尉犁王泛	yu li wang fan	839
+御史丁玄	yu shi ding xuan	657
+于阗王建	yu tian wang jian	691
+宇文禅师	yu wen chan shi	688
+宇文承基	yu wen cheng ji	687
+宇文承趾	yu wen cheng zhi	686
+宇文导师	yu wen dao shi	685
+宇文娥英	yu wen e ying	684
+宇文干恽	yu wen gan yun	683
+宇文护	yu wen hu	566
+宇文化及	yu wen hua ji	682
+宇文洛生	yu wen luo sheng	681
+宇文明达	yu wen ming da	680
+宇文莫圭	yu wen mo gui	679
+宇文莫那	yu wen mo na	678
+宇文普拨	yu wen pu bo	677
+宇文乞得归	yu wen qi de gui	1687
+宇文乾光	yu wen qian guang	676
+宇文乾基	yu wen qian ji	675
+宇文乾嘉	yu wen qian jia	674
+宇文乾威	yu wen qian wei	673
+宇文乾蔚	yu wen qian wei	672
+宇文乾祖	yu wen qian zu	671
+宇文屈云	yu wen qu yun	670
+宇文仁恕	yu wen ren shu	669
+宇文儒童	yu wen ru tong	668
+宇文神举	yu wen shen ju	667
+宇文神庆	yu wen shen qing	666
+宇文士及	yu wen shi ji	665
+宇文素延	yu wen su yan	664
+宇文悉拔雄	yu wen xi ba xiong	1686
+宇文悉独官	yu wen xi du guan	1685
+宇文显和	yu wen xian he	663
+宇文宪女	yu wen xian nv	662
+宇文孝伯	yu wen xiao bo	661
+宇文逸豆归	yu wen yi dou gui	1684
+宇文智及	yu wen zhi ji	660
+宇文仲和	yu wen zhong he	659
+宇文仲鸾	yu wen zhong luan	658
+馀姚县主	yu yao xian zhu	689
+豫章公主	yu zhang gong zhu	656
+袁纥树者	yuan he shu zhe	654
+元禧李妃	yuan xi li fei	655
+元子攸	yuan zi you	575
+悦代大那	yue dai da na	653
+越人勇之	yue ren yong zhi	652
+越王无彊	yue wang wu jiang	651
+越质叱黎	yue zhi chi li	650
+越质诘归	yue zhi jie gui	649
+越质洛城	yue zhi luo cheng	648
+越质屈机	yue zhi qu ji	647
+增城公主	zeng cheng gong zhu	646
+查文徽	zha wen hui	308
+翟蜀洛支	zhai shu luo zhi	1577
+章仇兼琼	zhang chou jian qiong	643
+章仇太翼	zhang chou tai yi	642
+章仇子佗	zhang chou zi tuo	641
+张富昌	zhang fu chang	579
+张伏利度	zhang fu li du	645
+张敬儿	zhang jing er	574
+张是连提	zhang shi lian ti	644
+长孙安世	zhang sun an shi	636
+长孙安业	zhang sun an ye	635
+长孙百年	zhang sun bai nian	634
+长孙道生	zhang sun dao sheng	633
+长孙洪略	zhang sun hong lue	632
+长孙皇后	zhang sun huang hou	631
+长孙渴侯	zhang sun ke hou	630
+长孙顺德	zhang sun shun de	629
+长孙无忌	zhang sun wu ji	628
+长孙邪利	zhang sun xie li	627
+长孙行布	zhang sun xing bu	626
+长孙知人	zhang sun zhi ren	625
+赵悼襄王	zhao dao xiang wang	621
+赵惠文王	zhao hui wen wang	620
+赵王杨杲	zhao wang yang gao	619
+赵武灵王	zhao wu ling wang	618
+赵相建德	zhao xiang jian de	617
+赵孝成王	zhao xiao cheng wang	616
+折逋嘉施	zhe bu jia shi	615
+折掘奇镇	zhe jue qi zhen	614
+折掘王后	zhe jue wang hou	613
+真珠叶护	zhen zhu ye hu	612
+郑公	zheng gong	611
+执失思力	zhi shi si li	610
+郅支单于	zhi zhi chan yu	609
+中郎右	zhong lang you	573
+钟离祖愿	zhong li zu yuan	607
+中山甄氏	zhong shan zhen shi	608
+钟绍京	zhong shao jing	564
+周承休侯	zhou cheng xiu hou	606
+周慎靓王	zhou shen jing wang	1664
+周威烈王	zhou wei lie wang	605
+周主之姑	zhou zhu zhi gu	604
+周子南君	zhou zi nan jun	603
+诸葛长民	zhu ge chang min	596
+诸葛德威	zhu ge de wei	600
+诸葛黎民	zhu ge li min	599
+诸葛秀之	zhu ge xiu zhi	598
+诸葛幼民	zhu ge you min	597
+朱洪实	zhu hong shi	572
+烛龙莽布支	zhu long mang bu zhi	1683
+铢娄渠堂	zhu lou qu tang	594
+朱邪孤注	zhu xie gu zhu	602
+朱邪执宜	zhu xie zhi yi	601
+诸邑公主	zhu yi gong zhu	595
+朱友谦	zhu you qian	563
+朱友文	zhu you wen	562
+拽剌梅里	zhuai la mei li	593
+颛渠阏氏	zhuan qu yan zhi	1661
+斫骨光弁	zhuo gu guang bian	592
+子后兰卿	zi hou lan qing	591
+自田	zi tian	590
+宗俄因矛	zong e yin mao	589
+宗正刘长	zong zheng liu chang	588
+宗正珍孙	zong zheng zhen sun	587
+驺马猥佐成	zou ma wei zuo cheng	1682
+左奥鞬台耆	zuo ao jian tai qi	1681
+左大且渠	zuo da qie qu	1660
+左姑夕侯苏	zuo gu xi hou su	1680
+左犁污王咸	zuo li wu wang xian	1677
+左贤王乐	zuo xian wang le	586
+左贤王信	zuo xian wang xin	585
+左伊秩訾王	zuo yi zhi zi wang	1675
+左祝都韩王呴留斯侯	zuo zhu dou han wang xu liu si hou	1855
+左髭丈八	zuo zi zhang ba	571

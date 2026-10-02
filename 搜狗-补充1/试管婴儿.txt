@@ -1,0 +1,2565 @@
+# 词库名称: 试管婴儿
+# 词库分类: 医疗
+# 词库描述: 收录试管婴儿辅助生殖技术相关专业术语及常用词汇，涵盖促排卵、胚胎移植、实验室操作、临床用药等全流程名词，便于医护工作者及有需人群快速输入，提高沟通效率。
+# 词条样例: 体外受精、人工授精、胚胎、受精卵、胚胎学家、妊娠
+# 解析词数: 2558
+# 解析异常: 0
+
+阿莫西林	a mo xi lin	2232
+阿奇霉素	a qi mei su	2230
+阿舍曼综合征	a she man zong he zheng	1379
+阿司匹林	a si pi lin	2253
+爱德华兹综合征	ai de hua zi zong he zheng	1038
+艾迪森病	ai di sen bing	957
+艾灸	ai jiu	1648
+埃勒斯丹洛斯综合征	ai le si dan luo si zong he zheng	880
+爱乐维	ai le wei	2215
+爱心助孕	ai xin zhu yun	1583
+艾泽	ai ze	2281
+安宫黄体酮	an gong huang ti tong	2261
+安吉尔曼综合征	an ji er man zong he zheng	1022
+氨基酸代谢病	an ji suan dai xie bing	871
+安琪坦	an qi tan	2378
+安全期	an quan qi	1524
+安苏萌	an su meng	2217
+安胎	an tai	2359
+巴戟天	ba ji tian	2195
+巴氏染色液	ba shi ran se ye	1974
+白带常规	bai dai chang gui	745
+白蛋白	bai dan bai	622
+白化病	bai hua bing	997
+白细胞计数	bai xi bao ji shu	640
+白细胞介素	bai xi bao jie su	770
+白细胞介素异常	bai xi bao jie su yi chang	962
+白细胞精子症	bai xi bao jing zi zheng	1204
+白血病	bai xue bing	925
+败血症	bai xue zheng	503
+白术	bai zhu	2199
+扳机	ban ji	2420
+扳机失败	ban ji shi bai	526
+扳机药物反应不良	ban ji yao wu fan ying bu liang	525
+保护后代的原则	bao hu hou dai de yuan ze	1874
+胞浆内注射	bao jiang nei zhu she	2518
+暴露	bao lu	1072
+保密义务	bao mi yi wu	1816
+保密原则	bao mi yuan ze	1872
+保胎	bao tai	2360
+保胎丸	bao tai wan	2209
+保险顾问	bao xian gu wen	1549
+薄型子宫内膜	bao xing zi gong nei mo	1377
+暴饮暴食	bao yin bao shi	178
+贝克肌营养不良	bei ke ji ying yang bu liang	1010
+贝克威思威德曼综合征	bei ke wei si wei de man zong he zheng	892
+备忘录	bei wang lu	1512
+贝威综合征	bei wei zong he zheng	218
+贝依	bei yi	2319
+备用电故障	bei yong dian gu zhang	207
+苯丙酮尿症	ben bing tong niao zheng	1008
+本地花粉源	ben di hua fen yuan	84
+臂间倒位	bi jian dao wei	1033
+避免辐射	bi mian fu she	1630
+避免高温	bi mian gao wen	1631
+避免化学毒物	bi mian hua xue du wu	1629
+臂内倒位	bi nei dao wei	1032
+鼻腔给药	bi qiang gei yao	2172
+比值	bi zhi	775
+变更登记	bian geng deng ji	1798
+标本标签错误	biao ben biao qian cuo wu	214
+标本标识错误	biao ben biao zhi cuo wu	411
+标本丢失	biao ben diu shi	412
+标本解冻事故	biao ben jie dong shi gu	211
+标本运输事故	biao ben yun shu shi gu	202
+表观遗传异常	biao guan yi chuan yi chang	221
+表观遗传影响	biao guan yi chuan ying xiang	1615
+标记染色体	biao ji ran se ti	1029
+病案管理制度	bing an guan li zhi du	1835
+丙氨酸氨基转移酶	bing an suan an ji zhuan yi mei	626
+病案信息	bing an xin xi	1770
+并蒂果	bing di guo	63
+病毒感染	bing du gan ran	898
+病毒抗体	bing du kang ti	644
+丙肝病毒检测	bing gan bing du jian ce	668
+冰晶损伤	bing jing sun shang	416
+病例对照研究	bing li dui zhao yan jiu	1496
+丙酸血症	bing suan xue zheng	977
+丙酮酸钠	bing tong suan na	1941
+丙型肝炎病毒感染	bing xing gan yan bing du gan ran	1260
+丙型肝炎病毒抗体	bing xing gan yan bing du kang ti	650
+病友交流	bing you jiao liu	1694
+丙种球蛋白	bing zhong qiu dan bai	2238
+玻璃化解冻液	bo li hua jie dong ye	1953
+玻璃化冷冻失败	bo li hua leng dong shi bai	418
+玻璃化冷冻液	bo li hua leng dong ye	1954
+玻璃化冷冻仪	bo li hua leng dong yi	2109
+玻璃化冷冻载杆	bo li hua leng dong zai gan	2007
+勃起功能障碍	bo qi gong neng zhang ai	1180
+不动精子百分比	bu dong jing zi bai fen bi	723
+部分受精失败	bu fen shou jing shi bai	468
+不规则抗体筛查	bu gui ze kang ti shai cha	609
+补佳乐	bu jia le	2265
+卟啉病	bu lin bing	857
+不明原因不孕	bu ming yuan yin bu yun	1097
+不明原因不孕症	bu ming yuan yin bu yun zheng	1094
+不明原因性不育	bu ming yuan yin xing bu yu	1092
+不能完成同房	bu neng wan cheng tong fang	1172
+不排卵	bu pai luan	1431
+不全流产	bu quan liu chan	373
+不伤害原则	bu shang hai yuan ze	1865
+不射精症	bu she jing zheng	1211
+布舍瑞林	bu she rui lin	2314
+补体系统异常	bu ti xi tong yi chang	1333
+不完全流产	bu wan quan liu chan	951
+不完全型雄激素不敏感综合征	bu wan quan xing xiong ji su bu min gan zong he zheng	918
+不完全纵隔子宫	bu wan quan zong ge zi gong	1362
+不孕不育科	bu yun bu yu ke	2162
+不孕症治疗失败	bu yun zheng zhi liao shi bai	96
+采后护理	cai hou hu li	39
+采摘	cai zhai	3
+采种	cai zhong	40
+餐后小时血糖	can hou xiao shi xue tang	840
+操作失败	cao zuo shi bai	134
+操作液	cao zuo ye	1950
+测量	ce liang	570
+测序文库构建试剂盒	ce xu wen ku gou jian shi ji he	1925
+层流净化系统	ceng liu jing hua xi tong	2124
+查结荚进度	cha jie jia jin du	41
+产后出血	chan hou chu xie	269
+产后甲状腺炎	chan hou jia zhuang xian yan	256
+产后焦虑症	chan hou jiao lv zheng	257
+产后康复	chan hou kang fu	1538
+产后随访	chan hou sui fang	1627
+产后抑郁症	chan hou yi yu zheng	258
+产前超声筛查	chan qian chao sheng shai cha	571
+产前诊断中心	chan qian zhen duan zhong xin	2143
+长方案	chang fang an	2435
+肠管损伤	chang guan sun shang	493
+常规受精	chang gui shou jing	2520
+常规体外受精胚胎移植	chang gui ti wai shou jing pei tai yi zhi	2537
+常见变异型免疫缺陷病	chang jian bian yi xing mian yi que xian bing	859
+长期失眠	chang qi shi mian	1240
+长期随访	chang qi sui fang	1617
+常染色体显性多囊肾病	chang ran se ti xian xing duo nang shen bing	1002
+常染色体异常	chang ran se ti yi chang	1287
+常染色体隐性多囊肾病	chang ran se ti yin xing duo nang shen bing	1001
+超长方案	chao chang fang an	2430
+超雌综合征	chao ci zong he zheng	1036
+超低出生体重	chao di chu sheng ti zhong	253
+超低温冰箱	chao di wen bing xiang	2101
+超短方案	chao duan fang an	2184
+超范围开展技术服务	chao fan wei kai zhan ji shu fu wu	1751
+超监测系统	chao jian ce xi tong	2077
+超净工作台	chao jing gong zuo tai	2094
+超声科	chao sheng ke	2147
+超声心动图	chao sheng xin dong tu	605
+超声医师	chao sheng yi shi	2137
+超声诊断仪	chao sheng zhen duan yi	2080
+超声子宫造影	chao sheng zi gong zao ying	811
+超雄综合征	chao xiong zong he zheng	1035
+超引导移植	chao yin dao yi zhi	2386
+成本效益分析	cheng ben xiao yi fen xi	1501
+成骨不全症	cheng gu bu quan zheng	995
+程序降温盒	cheng xu jiang wen he	1991
+程序冷冻仪	cheng xu leng dong yi	2108
+持续妊娠	chi xu ren shen	2540
+冲洗泵	chong xi beng	2070
+冲洗吸引设备	chong xi xi yin she bei	2059
+冲洗液	chong xi ye	2036
+重组促卵泡素	chong zu cu luan pao su	2437
+重组人促黄体激素	chong zu ren cu huang ti ji su	2291
+重组人促卵泡激素	chong zu ren cu luan pao ji su	2298
+重组人绒促性素	chong zu ren rong cu xing su	2280
+重组人生长激素	chong zu ren sheng zhang ji su	2219
+抽血验孕	chou xue yan yun	2368
+除颤仪	chu chan yi	2072
+初苗	chu miao	69
+处女膜闭锁	chu nv mo bi suo	1330
+出生结局登记	chu sheng jie ju deng ji	1605
+出生缺陷	chu sheng que xian	224
+出生缺陷筛查	chu sheng que xian shai cha	1623
+出生人口素质	chu sheng ren kou su zhi	1710
+出生体重	chu sheng ti zhong	1611
+出生医学证明	chu sheng yi xue zheng ming	1732
+穿刺点出血	chuan ci dian chu xie	515
+穿刺路径感染	chuan ci lu jing gan ran	482
+穿刺失败	chuan ci shi bai	133
+穿刺引导器	chuan ci yin dao qi	2054
+窗口期	chuang kou qi	45
+创伤后应激障碍	chuang shang hou ying ji zhang ai	163
+垂体磁共振	chui ti ci gong zhen	805
+垂体瘤	chui ti liu	928
+垂体性闭经	chui ti xing bi jing	1402
+唇腭裂	chun e lie	231
+纯化试剂盒	chun hua shi ji he	1924
+雌二醇	ci er chun	2425
+雌二醇测定	ci er chun ce ding	583
+雌二醇地屈孕酮片	ci er chun di qu yun tong pian	2262
+雌二醇片	ci er chun pian	2263
+雌二醇水平过低	ci er chun shui ping guo di	522
+雌二醇水平过高	ci er chun shui ping guo gao	521
+雌二醇下降	ci er chun xia jiang	356
+雌激素	ci ji su	2266
+雌激素类药物不良反应	ci ji su lei yao wu bu liang fan ying	153
+雌激素受体	ci ji su shou ti	825
+雌激素水平升高	ci ji su shui ping sheng gao	1136
+雌激素水平异常	ci ji su shui ping yi chang	1317
+慈善基金	ci shan ji jin	1671
+慈善捐赠	ci shan juan zeng	1581
+雌雄原核融合异常	ci xiong yuan he rong he yi chang	463
+促黄体生成素	cu huang ti sheng cheng su	2424
+促黄体生成素提前峰值	cu huang ti sheng cheng su ti qian feng zhi	518
+促甲状腺激素	cu jia zhuang xian ji su	847
+促卵泡激素	cu luan pao ji su	2300
+促排卵	cu pai luan	2441
+促排卵方案	cu pai luan fang an	2436
+促排卵药物过敏	cu pai luan yao wu guo min	156
+促排卵药物过敏反应	cu pai luan yao wu guo min fan ying	539
+促排卵药物局部注射反应	cu pai luan yao wu ju bu zhu she fan ying	538
+促排卵药物全身不良反应	cu pai luan yao wu quan shen bu liang fan ying	534
+促排卵周期取消	cu pai luan zhou qi qu xiao	533
+促排针	cu pai zhen	2440
+促肾上腺皮质激素	cu shen shang xian pi zhi ji su	833
+醋酸加尼瑞克注射液	cu suan jia ni rui ke zhu she ye	2308
+醋酸甲羟孕酮	cu suan jia qiang yun tong	2260
+醋酸曲普瑞林	cu suan qu pu rui lin	2277
+促性腺激素	cu xing xian ji su	2439
+促性腺激素释放激素激动剂	cu xing xian ji su shi fang ji su ji dong ji	2416
+促性腺激素释放激素拮抗剂	cu xing xian ji su shi fang ji su jie kang ji	2312
+促性腺激素水平异常	cu xing xian ji su shui ping yi chang	1139
+催荚剂	cui jia ji	44
+催乳素	cui ru su	852
+催熟剂	cui shu ji	42
+达必佳	da bi jia	2320
+达菲林	da fei lin	2321
+达芙通	da fu tong	2270
+达肝素	da gan su	2246
+达力新	da li xin	2234
+大排畸	da pai ji	569
+大疱性表皮松解症	da pao xing biao pi song jie zheng	879
+大田	da tian	72
+大头精子症	da tou jing zi zheng	1194
+达英	da ying	2255
+大于胎龄儿	da yu tai ling er	249
+打针教程	da zhen jiao cheng	2445
+代培农户	dai pei nong hu	82
+代谢综合征	dai xie zong he zheng	1613
+代孕	dai yun	1752
+代孕伦理讨论	dai yun lun li tao lun	1469
+带状疱疹病毒感染	dai zhuang pao zhen bing du gan ran	897
+单步培养液	dan bu pei yang ye	1964
+单侧输卵管切除	dan ce shu luan guan qie chu	1447
+单侧输卵管缺如	dan ce shu luan guan que ru	1449
+单侧输卵管阻塞	dan ce shu luan guan zu se	1461
+单侧隐睾	dan ce yin gao	1163
+单纯畸形精子症	dan chun ji xing jing zi zheng	1228
+单纯疱疹病毒感染	dan chun pao zhen bing du gan ran	899
+单纯疱疹病毒检测	dan chun pao zhen bing du jian ce	671
+单纯疱疹病毒抗体	dan chun pao zhen bing du kang ti	734
+单纯性腺发育不全	dan chun xing xian fa yu bu quan	910
+单核苷酸多态性微阵列	dan he gan suan duo tai xing wei zhen lie	765
+胆红素	dan hong su	623
+胆红素脑病	dan hong su nao bing	239
+单极电切	dan ji dian qie	2060
+单基因病携带者筛查	dan ji yin bing xie dai zhe shai cha	663
+单基因遗传病	dan ji yin yi chuan bing	1279
+单基因遗传病携带者筛查	dan ji yin yi chuan bing xie dai zhe shai cha	687
+单角子宫	dan jiao zi gong	1365
+单精子注射	dan jing zi zhu she	2519
+单卵双胎	dan luan shuang tai	344
+单腔取卵针	dan qiang qu luan zhen	2057
+单绒毛膜双胎	dan rong mao mo shuang tai	346
+单绒毛膜双胎并发症	dan rong mao mo shuang tai bing fa zheng	338
+丹参	dan shen	2193
+单身生育	dan shen sheng yu	1471
+单细胞基因组学	dan xi bao ji yin zu xue	2462
+单细胞裂解液	dan xi bao lie jie ye	1923
+单原核受精	dan yuan he shou jing	465
+单周期费用	dan zhou qi fei yong	1680
+档案保密	dang an bao mi	1766
+当归	dang gui	2198
+党参	dang shen	2200
+倒苗	dao miao	8
+导医服务	dao yi fu wu	1552
+倒置显微镜	dao zhi xian wei jing	2118
+等离子消毒机	deng li zi xiao du ji	1916
+滴虫检测	di chong jian ce	739
+低出生体重	di chu sheng ti zhong	255
+低促性腺激素性性腺功能减退	di cu xing xian ji su xing xing xian gong neng jian tui	1406
+第二代试管婴儿	di er dai shi guan ying er	2536
+低分子肝素	di fen zi gan su	2252
+低分子肝素注射部位淤青	di fen zi gan su zhu she bu wei yu qing	141
+滴灌	di guan	43
+低密度脂蛋白	di mi du zhi dan bai	614
+迪乔治综合征	di qiao zhi zong he zheng	1025
+地屈孕酮	di qu yun tong	2380
+第三代试管婴儿	di san dai shi guan ying er	2534
+低糖饮食	di tang yin shi	1656
+低体重	di ti zhong	1308
+第一代试管婴儿	di yi dai shi guan ying er	2538
+低预后	di yu hou	313
+地中海贫血	di zhong hai pin xue	1014
+地中海贫血基因筛查	di zhong hai pin xue ji yin shai cha	662
+地中海贫血携带者筛查	di zhong hai pin xue xie dai zhe shai cha	758
+电磁辐射	dian ci fu she	1066
+碘伏	dian fu	1911
+电解质	dian jie zhi	613
+电离辐射	dian li fu she	1067
+电力中断	dian li zhong duan	209
+电凝器	dian ning qi	2062
+碘油造影	dian you zao ying	808
+电子病历系统	dian zi bing li xi tong	2088
+电子健康记录	dian zi jian kang ji lu	1606
+定方案	ding fang an	2457
+定时取卵	ding shi qu luan	2415
+顶体酶活性低下	ding ti mei huo xing di xia	1183
+顶体缺陷	ding ti que xian	1197
+顶体完整率	ding ti wan zheng lv	715
+定向选育	ding xiang xuan yu	2
+定向资助	ding xiang zi zhu	1567
+定植	ding zhi	19
+冻存管	dong cun guan	2001
+冻存盒	dong cun he	2000
+冻存记录	dong cun ji lu	1759
+冻存架	dong cun jia	1999
+冻存提篮	dong cun ti lan	1998
+冻干粉针剂	dong gan fen zhen ji	2171
+洞巾	dong jin	2042
+冻卵社会话题	dong luan she hui hua ti	1470
+冻卵移植	dong luan yi zhi	2329
+动脉导管未闭	dong mai dao guan wei bi	234
+冻胚移植周期	dong pei yi zhi zhou qi	2341
+冻融胚胎移植	dong rong pei tai yi zhi	2499
+动态监管	dong tai jian guan	1849
+窦卵泡计数	dou luan pao ji shu	2448
+杜氏肌营养不良症	du shi ji ying yang bu liang zheng	1011
+杜仲	du zhong	2202
+短方案	duan fang an	2434
+短视频科普	duan shi pin ke pu	1597
+短尾精子症	duan wei jing zi zheng	1192
+断针仪	duan zhen yi	2015
+队列研究	dui lie yan jiu	1497
+多次人工流产史	duo ci ren gong liu chan shi	1253
+多发性肌炎	duo fa xing ji yan	968
+多发性子宫肌瘤	duo fa xing zi gong ji liu	1384
+多基因遗传倾向	duo ji yin yi chuan qing xiang	1277
+多精受精	duo jing shou jing	467
+多囊卵巢综合征	duo nang luan chao zong he zheng	1424
+多囊肾基因突变携带者	duo nang shen ji yin tu bian xie dai zhe	1124
+多胎产后出血	duo tai chan hou chu xie	330
+多态畸形	duo tai ji xing	1227
+多胎率	duo tai lv	1507
+多胎妊娠肝功能损害	duo tai ren shen gan gong neng sun hai	327
+多胎妊娠贫血	duo tai ren shen pin xue	326
+多胎妊娠期高血压	duo tai ren shen qi gao xue ya	332
+多胎妊娠期糖尿病	duo tai ren shen qi tang niao bing	331
+多胎妊娠心力衰竭	duo tai ren shen xin li shuai jie	328
+多胎妊娠血栓栓塞	duo tai ren shen xue shuan shuan se	325
+多胎妊娠子宫破裂	duo tai ren shen zi gong po lie	329
+多西环素	duo xi huan su	2223
+多学科协作	duo xue ke xie zuo	1566
+多元家庭	duo yuan jia ting	1473
+恶心呕吐	e xin ou tu	151
+二超	er chao	2352
+二聚体	er ju ti	628
+儿童保健	er tong bao jian	1625
+儿童肿瘤放疗后性腺损伤	er tong zhong liu fang liao hou xing xian sun shang	921
+二氧化碳检测仪	er yang hua tan jian ce yi	2091
+二氧化碳浓度异常	er yang hua tan nong du yi chang	407
+法安明	fa an ming	2251
+法布里病	fa bu li bing	980
+法地兰	fa di lan	2303
+罚款	fa kuan	1828
+法洛四联症基因相关	fa luo si lian zheng ji yin xiang guan	993
+法律援助	fa lv yuan zhu	1550
+发热	fa re	501
+发育迟缓	fa yu chi huan	225
+翻倍	fan bei	2362
+翻地	fan di	49
+翻地完成	fan di wan cheng	47
+翻地作业	fan di zuo ye	48
+反复促排卵失败	fan fu cu pai luan shi bai	323
+反复冻融失败	fan fu dong rong shi bai	318
+反复流产	fan fu liu chan	2333
+反复胚胎停育	fan fu pei tai ting yu	316
+反复胚胎质量差	fan fu pei tai zhi liang cha	320
+反复取卵失败	fan fu qu luan shi bai	324
+反复妊娠失败	fan fu ren shen shi bai	317
+反复生化妊娠	fan fu sheng hua ren shen	948
+反复受精障碍	fan fu shou jing zhang ai	321
+反复无可移植胚胎	fan fu wu ke yi zhi pei tai	319
+反复种植失败	fan fu zhong zhi shi bai	2334
+反复周期取消	fan fu zhou qi qu xiao	322
+反复自然流产	fan fu zi ran liu chan	1258
+范可尼贫血	fan ke ni pin xue	885
+翻译服务	fan yi fu wu	1551
+翻译陪诊	fan yi pei zhen	1527
+方案	fang an	2179
+房间隔缺损	fang jian ge que sun	233
+放疗史	fang liao shi	1249
+放弃治疗	fang qi zhi liao	157
+放松训练	fang song xun lian	1690
+芳香化酶活性异常	fang xiang hua mei huo xing yi chang	1135
+芳香化酶缺乏症	fang xiang hua mei que fa zheng	909
+非法采供精	fei fa cai gong jing	1755
+非法采供卵	fei fa cai gong luan	1754
+非法开展人类辅助生殖技术	fei fa kai zhan ren lei fu zhu sheng zhi ji shu	1756
+非法行医	fei fa xing yi	1745
+非梗阻性无精子症	fei geng zu xing wu jing zi zheng	1224
+非婚生子女落户	fei hun sheng zi nv luo hu	1728
+非霍奇金淋巴瘤	fei huo qi jin lin ba liu	922
+非精原细胞瘤	fei jing yuan xi bao liu	930
+肥胖	fei pang	1310
+废弃胚胎	fei qi pei tai	2394
+非前向运动精子百分比	fei qian xiang yun dong jing zi bai fen bi	724
+肺栓塞	fei shuan sai	261
+非医学需要性别鉴定	fei yi xue xu yao xing bie jian ding	1753
+费用清单	fei yong qing dan	1669
+费用预算	fei yong yu suan	1662
+芬吗通	fen ma tong	2264
+分泌性无精子症	fen mi xing wu jing zi zheng	1223
+分期付款	fen qi fu kuan	1667
+分型检测	fen xing jian ce	747
+封闭抗体	feng bi kang ti	2335
+封闭抗体阴性	feng bi kang ti yin xing	1344
+风湿免疫科	feng shi mian yi ke	1560
+丰原	feng yuan	2278
+风疹病毒感染	feng zhen bing du gan ran	1263
+风疹病毒抗体	feng zhen bing du kang ti	736
+腹部超声	fu bu chao sheng	604
+腹部超声探头	fu bu chao sheng tan tou	2078
+妇产科	fu chan ke	1565
+复发性流产	fu fa xing liu chan	1257
+复方口服避孕药	fu fang kou fu bi yun yao	2259
+夫妇血型不合	fu fu xue xing bu he	1103
+附睾超声	fu gao chao sheng	684
+附睾穿刺术后	fu gao chuan ci shu hou	1144
+附睾梗阻	fu gao geng zu	1151
+附睾炎	fu gao yan	1156
+复合维生素	fu he wei sheng su	2214
+附件炎	fu jian yan	1274
+夫精人工授精	fu jing ren gong shou jing	2492
+夫精人工授精审批	fu jing ren gong shou jing shen pi	1809
+妇科检查床	fu ke jian cha chuang	2082
+福利政策	fu li zheng ce	1576
+腹膜型内异症	fu mo xing nei yi zheng	1392
+妇女儿童基金会	fu nv er tong ji jin hui	1574
+夫妻关系	fu qi guan xi	1699
+夫妻关系紧张	fu qi guan xi jin zhang	176
+夫妻双方检查均未见明显异常	fu qi shuang fang jian cha jun wei jian ming xian yi chang	1091
+夫妻双方免疫因素	fu qi shuang fang mian yi yin su	1101
+夫妻双方染色体异常	fu qi shuang fang ran se ti yi chang	1106
+夫妻双方体检	fu qi shuang fang ti jian	2454
+夫妻双方同一单基因病携带	fu qi shuang fang tong yi dan ji yin bing xie dai	1104
+夫妻双方遗传病携带者	fu qi shuang fang yi chuan bing xie dai zhe	1105
+腹腔镜手术并发症	fu qiang jing shou shu bing fa zheng	123
+腹腔镜系统	fu qiang jing xi tong	2063
+腹腔镜下卵巢活检	fu qiang jing xia luan chao huo jian	788
+腹腔镜下囊肿剥除	fu qiang jing xia nang zhong bo chu	786
+腹腔镜下输卵管通液	fu qiang jing xia shu luan guan tong ye	789
+腹腔镜下子宫内膜异位病灶电灼	fu qiang jing xia zi gong nei mo yi wei bing zao dian zhuo	787
+腹腔内出血	fu qiang nei chu xie	513
+芙瑞	fu rui	2301
+辐射暴露	fu she bao lu	1112
+复苏	fu su	2500
+复苏后胚胎全部死亡	fu su hou pei tai quan bu si wang	419
+福特蒙	fu te meng	2292
+腹痛	fu tong	2355
+服务质量	fu wu zhi liang	1488
+辅助孵化	fu zhu fu hua	2516
+辅助生殖技术	fu zhu sheng zhi ji shu	2558
+辅助生殖科	fu zhu sheng zhi ke	2164
+辅助生殖旅游	fu zhu sheng zhi lv you	1531
+辅助生殖药品零售	fu zhu sheng zhi yao pin ling shou	1547
+盖玻片	gai bo pian	1971
+钙剂	gai ji	1653
+改良巴氏染色液	gai liang ba shi ran se ye	1973
+改良自然周期	gai liang zi ran zhou qi	2183
+钙片	gai pian	2212
+改土	gai tu	24
+改土剂	gai tu ji	28
+改土凝胶	gai tu ning jiao	26
+改土贴	gai tu tie	27
+肝豆状核变性	gan dou zhuang he bian xing	986
+感染	gan ran	1265
+干扰素	gan rao su	771
+肝肾功能	gan shen gong neng	627
+肝素钠注射液	gan su na zhu she ye	2037
+肝素诱导的血小板减少症	gan su you dao de xue xiao ban jian shao zheng	142
+干细胞衍生配子	gan xi bao yan sheng pei zi	2465
+甘油三酯	gan you san zhi	616
+干燥综合征	gan zao zong he zheng	1340
+高纯度矿物油	gao chun du kuang wu you	1946
+高促性腺激素性性腺功能减退	gao cu xing xian ji su xing xing xian gong neng jian tui	1142
+高催乳素血症	gao cui ru su xue zheng	1417
+高蛋白饮食	gao dan bai yin shi	1657
+高端医疗保险	gao duan yi liao bao xian	1673
+高分辨率染色体分析	gao fen bian lv ran se ti fen xi	665
+高龄	gao ling	1303
+高龄产妇	gao ling chan fu	1302
+高龄生育	gao ling sheng yu	1475
+高龄生育风险	gao ling sheng yu feng xian	1296
+高密度脂蛋白	gao mi du zhi dan bai	615
+高泌乳素血症	gao mi ru su xue zheng	1418
+高速冷冻离心机	gao su leng dong li xin ji	2096
+睾酮	gao tong	853
+高通量测序仪	gao tong liang ce xu yi	1935
+睾酮偏低	gao tong pian di	1140
+高同型半胱氨酸血症	gao tong xing ban guang an suan xue zheng	941
+睾丸超声	gao wan chao sheng	685
+睾丸穿刺无精子	gao wan chuan ci wu jing zi	472
+睾丸发育不良	gao wan fa yu bu liang	1160
+睾丸过小	gao wan guo xiao	1159
+睾丸精子抽吸	gao wan jing zi chou xi	2484
+睾丸取精	gao wan qu jing	2486
+睾丸生殖细胞肿瘤	gao wan sheng zhi xi bao zhong liu	932
+睾丸萎缩	gao wan wei suo	1165
+睾丸炎	gao wan yan	1158
+高温干热灭菌器	gao wen gan re mie jun qi	1919
+高温职业	gao wen zhi ye	1113
+高雄激素血症	gao xiong ji su xue zheng	1318
+高序多胎妊娠	gao xu duo tai ren shen	351
+高压蒸汽灭菌器	gao ya zheng qi mie jun qi	1920
+高胰岛素血症	gao yi dao su xue zheng	1311
+高孕激素状态下促排卵方案	gao yun ji su zhuang tai xia cu pai luan fang an	2180
+个案管理	ge an guan li	1553
+个案管理师	ge an guan li shi	2129
+镉暴露	ge bao lu	1068
+格里夫斯病	ge li fu si bing	965
+戈舍瑞林	ge she rui lin	2316
+歌舞伎综合征	ge wu ji zong he zheng	890
+戈谢病	ge xie bing	982
+梗阻性无精子症	geng zu xing wu jing zi zheng	1225
+宫角妊娠	gong jiao ren shen	366
+供精标本质量问题	gong jing biao ben zhi liang wen ti	195
+宫颈长度测量	gong jing chang du ce liang	559
+宫颈出血	gong jing chu xie	389
+宫颈发育不良	gong jing fa yu bu liang	1324
+宫颈刮片	gong jing gua pian	750
+宫颈管狭窄	gong jing guan xia zhai	396
+宫颈机能不全	gong jing ji neng bu quan	1357
+供精解冻后活力不足	gong jing jie dong hou huo li bu zu	196
+宫颈口过紧	gong jing kou guo jin	397
+宫颈扩张	gong jing kuo zhang	280
+宫颈内口松弛	gong jing nei kou song chi	1356
+宫颈黏液检查	gong jing nian ye jian cha	752
+宫颈评分	gong jing ping fen	751
+供精人工授精	gong jing ren gong shou jing	2491
+供精人工授审批	gong jing ren gong shou shen pi	1808
+宫颈妊娠	gong jing ren shen	367
+宫颈上皮内瘤变	gong jing shang pi nei liu bian	937
+宫颈撕裂	gong jing si lie	395
+宫颈缩短	gong jing suo duan	281
+宫颈息肉	gong jing xi rou	1381
+宫颈狭窄	gong jing xia zhai	1355
+供精协议	gong jing xie yi	1788
+宫颈炎	gong jing yan	1272
+供精运输记录	gong jing yun shu ji lu	1758
+宫颈粘连	gong jing zhan lian	1354
+供精者多次供精	gong jing zhe duo ci gong jing	186
+供精者健康检查	gong jing zhe jian kang jian cha	1794
+供精者年龄周岁	gong jing zhe nian ling zhou sui	1792
+供精者取消资格	gong jing zhe qu xiao zi ge	1786
+供精者筛查	gong jing zhe shai cha	1795
+供精者随访	gong jing zhe sui fang	1787
+供精者只能在一个精子库供精	gong jing zhe zhi neng zai yi ge jing zi ku gong jing	1791
+供精者知情同意	gong jing zhe zhi qing tong yi	1793
+供精周期	gong jing zhou qi	2327
+供卵法律纠纷	gong luan fa lv jiu fen	191
+供卵卵巢反应不良	gong luan luan chao fan ying bu liang	198
+供卵伦理纠纷	gong luan lun li jiu fen	192
+供卵无成熟卵子	gong luan wu cheng shu luan zi	197
+供卵周期	gong luan zhou qi	2328
+供卵周期取消	gong luan zhou qi qu xiao	199
+宫内外孕排查	gong nei wai yun pai cha	2351
+宫内孕	gong nei yun	2349
+功能性下丘脑闭经	gong neng xing xia qiu nao bi jing	1404
+宫腔操作史	gong qiang cao zuo shi	1252
+宫腔灌注	gong qiang guan zhu	2337
+宫腔灌注管	gong qiang guan zhu guan	2046
+宫腔灌注药物	gong qiang guan zhu yao wu	2188
+宫腔积血	gong qiang ji xue	386
+宫腔积液	gong qiang ji ye	943
+宫腔积液检测	gong qiang ji ye jian ce	593
+宫腔镜	gong qiang jing	2065
+宫腔镜操作器械	gong qiang jing cao zuo qi xie	2064
+宫腔镜定位活检	gong qiang jing ding wei huo jian	799
+宫腔镜手术并发症	gong qiang jing shou shu bing fa zheng	126
+宫腔镜下肌瘤剔除	gong qiang jing xia ji liu ti chu	796
+宫腔镜下粘连分离	gong qiang jing xia zhan lian fen li	797
+宫腔镜下子宫内膜息肉切除	gong qiang jing xia zi gong nei mo xi rou qie chu	798
+宫腔菌群检测	gong qiang jun qun jian ce	791
+宫腔内人工授精	gong qiang nei ren gong shou jing	2493
+宫腔三维超声	gong qiang san wei chao sheng	813
+宫腔粘连	gong qiang zhan lian	1380
+宫腔粘连术后复发	gong qiang zhan lian shu hou fu fa	127
+宫缩乏力	gong suo fa li	268
+宫缩过频	gong suo guo pin	385
+宫外孕	gong wai yun	2348
+弓形虫感染	gong xing chong gan ran	1262
+弓形虫抗体	gong xing chong kang ti	737
+弓形子宫	gong xing zi gong	1363
+公益补助	gong yi bu zhu	1670
+公益广告	gong yi guang gao	1590
+公益基金	gong yi ji jin	1582
+公益组织	gong yi zu zhi	1569
+公正原则	gong zheng yuan ze	1864
+工作协调	gong zuo xie tiao	1519
+工作压力	gong zuo ya li	1077
+工作压力调适	gong zuo ya li tiao shi	1628
+枸杞子	gou qi zi	2196
+谷氨酰胺添加剂	gu an xian an tian jia ji	1942
+谷氨酰转肽酶	gu an xian zhuan tai mei	624
+固根剂	gu gen ji	17
+瓜氨酸血症	gua an suan xue zheng	975
+管理信息系统	guan li xin xi xi tong	1767
+管理中止	guan li zhong zhi	38
+规律作息	gui lv zuo xi	1640
+过度运动	guo du yun dong	1239
+国家人口和计划生育政策	guo jia ren kou he ji hua sheng yu zheng ce	1739
+果纳芬	guo na fen	2297
+果品合格证	guo pin he ge zheng	7
+果实	guo shi	64
+过氧化氢	guo yang hua qing	1909
+过氧化物酶体病	guo yang hua wu mei ti bing	868
+海外代购	hai wai dai gou	1544
+含蛋白培养液	han dan bai pei yang ye	1963
+罕见病救助	han jian bing jiu zhu	1573
+寒战	han zhan	137
+耗材质量不合格	hao cai zhi liang bu he ge	205
+合成输卵管液	he cheng shu luan guan ye	1961
+赫尔辛基宣言	he er xin ji xuan yan	1860
+贺美奇	he mei qi	2286
+核酸提取仪	he suan ti qu yi	1932
+合子	he zi	2553
+合子输卵管内移植	he zi shu luan guan nei yi zhi	2494
+亨廷顿舞蹈症	heng ting dun wu dao zheng	1009
+横位	heng wei	274
+恒温加热台	heng wen jia re tai	2099
+恒温输液泵	heng wen shu ye beng	2069
+恒温水浴箱	heng wen shui yu xiang	2100
+红十字援助	hong shi zi yuan zhu	1575
+红细胞计数	hong xi bao ji shu	642
+后代安全	hou dai an quan	1711
+后代法律权利告知义务	hou dai fa lv quan li gao zhi yi wu	1812
+后续用药	hou xu yong yao	2357
+户籍政策	hu ji zheng ce	1730
+户口登记	hu kou deng ji	1731
+护理部	hu li bu	2150
+护理团队	hu li tuan dui	1554
+护理员	hu li yuan	2128
+互盲和保密的原则	hu mang he bao mi de yuan ze	1868
+护士工作站	hu shi gong zuo zhan	1892
+护士长	hu shi zhang	2135
+呼吸机	hu xi ji	2073
+互助小组	hu zhu xiao zu	1695
+花粉	hua fen	73
+花粉提纯	hua fen ti chun	36
+化疗后性腺功能衰竭	hua liao hou xing xian gong neng shuai jie	920
+化疗史	hua liao shi	1248
+化疗药物	hua liao yao wu	1064
+化学毒物暴露	hua xue du wu bao lu	1111
+化学辅助孵化	hua xue fu zhu fu hua	2514
+环孢素	huan bao su	2242
+缓冲液	huan chong ye	1949
+环境毒素暴露	huan jing du su bao lu	1245
+环境高温暴露	huan jing gao wen bao lu	1114
+环境污染物	huan jing wu ran wu	1076
+环境因素	huan jing yin su	1632
+缓释凝胶	huan shi ning jiao	2168
+环氧乙烷灭菌器	huan yang yi wan mie jun qi	1914
+还原酶缺乏症	huan yuan mei que fa zheng	1041
+患者管理系统	huan zhe guan li xi tong	1891
+患者教育手册	huan zhe jiao yu shou ce	1601
+患者满意度	huan zhe man yi du	1489
+黄芪	huang qi	2201
+黄素化未破裂卵泡综合征	huang su hua wei po lie luan pao zong he zheng	1048
+黄体功能不全	huang ti gong neng bu quan	1407
+黄体功能不足	huang ti gong neng bu zu	1408
+黄体功能支持不足	huang ti gong neng zhi chi bu zu	355
+黄体期长方案	huang ti qi chang fang an	2185
+黄体期促排方案	huang ti qi cu pai fang an	2431
+黄体期促排卵	huang ti qi cu pai luan	2182
+黄体酮	huang ti tong	2381
+黄体酮胶丸	huang ti tong jiao wan	2269
+黄体酮类不良反应	huang ti tong lei bu liang fan ying	148
+黄体酮软胶囊	huang ti tong ruan jiao nang	2272
+黄体酮阴道缓释凝胶	huang ti tong yin dao huan shi ning jiao	2274
+黄体酮注射液	huang ti tong zhu she ye	2276
+黄体支持	huang ti zhi chi	2382
+回温苗	hui wen miao	66
+回温醒苗	hui wen xing miao	21
+混合抗球蛋白反应	hun he kang qiu dan bai fan ying	701
+混合性性腺发育不全	hun he xing xing xian fa yu bu quan	911
+婚姻冲突	hun yin chong tu	175
+婚育情况说明	hun yu qing kuang shuo ming	1727
+活产	huo chan	2539
+活产率	huo chan lv	1510
+活产失败	huo chan shi bai	98
+获得性易栓症	huo de xing yi shuan zheng	1052
+活化部分凝血活酶时间	huo hua bu fen ning xue huo mei shi jian	631
+活检培养皿	huo jian pei yang min	2029
+活检针	huo jian zhen	2019
+霍奇金淋巴瘤	huo qi jin lin ba liu	923
+基本医疗保险	ji ben yi liao bao xian	1676
+肌壁间肌瘤	ji bi jian ji liu	1386
+基础卵泡监测	ji chu luan pao jian ce	2449
+基础内分泌检查	ji chu nei fen mi jian cha	2450
+基础体温测定	ji chu ti wen ce ding	753
+基础种源	ji chu zhong yuan	87
+极低出生体重	ji di chu sheng ti zhong	254
+极低预后	ji di yu hou	312
+激动剂	ji dong ji	2323
+吉尔伯特综合征	ji er bo te zong he zheng	855
+继发性闭经	ji fa xing bi jing	907
+机构设置标准	ji gou she zhi biao zhun	1842
+激光辅助孵化	ji guang fu zhu fu hua	2515
+激光辅助孵化仪	ji guang fu zhu fu hua yi	2110
+计划生育书面承诺	ji hua sheng yu shu mian cheng nuo	1733
+稽留流产	ji liu liu chan	953
+肌肉注射	ji rou zhu she	2176
+计数板	ji shu ban	1976
+技术备案	ji shu bei an	1799
+技术档案	ji shu dang an	1773
+技术档案管理制度	ji shu dang an guan li zhi du	1836
+技术更新	ji shu geng xin	1481
+技术项目审批	ji shu xiang mu shen pi	1805
+技术准入	ji shu zhun ru	1843
+技术准入评审	ji shu zhun ru ping shen	1804
+激素监测	ji su jian ce	2426
+激素水平异常波动	ji su shui ping yi chang bo dong	523
+激素替代周期	ji su ti dai zhou qi	2372
+脊髓性肌萎缩症	ji sui xing ji wei suo zheng	1012
+脊髓性肌萎缩症基因筛查	ji sui xing ji wei suo zheng ji yin shai cha	661
+脊髓性肌萎缩症携带者筛查	ji sui xing ji wei suo zheng xie dai zhe shai cha	759
+极体活检	ji ti huo jian	2509
+极体异常	ji ti yi chang	462
+既往放疗史	ji wang fang liao shi	1116
+既往化疗史	ji wang hua liao shi	1117
+既往清宫手术史	ji wang qing gong shou shu shi	1254
+机械辅助孵化	ji xie fu zhu fu hua	2513
+畸形精子症	ji xing jing zi zheng	1229
+继续教育	ji xu jiao yu	1491
+鸡血藤	ji xue teng	2192
+基因测序仪	ji yin ce xu yi	1936
+基因检测	ji yin jian ce	755
+基因检测公司	ji yin jian ce gong si	1541
+基因检测中心	ji yin jian ce zhong xin	2144
+基因突变	ji yin tu bian	1126
+基因突变耳聋	ji yin tu bian er long	999
+基因突变位点验证	ji yin tu bian wei dian yan zheng	654
+基因突变携带者	ji yin tu bian xie dai zhe	1281
+基因芯片分析系统	ji yin xin pian fen xi xi tong	1933
+基因修复	ji yin xiu fu	2467
+极早产	ji zao chan	334
+极早产儿	ji zao chan er	251
+极重度少精子症	ji zhong du shao jing zi zheng	1234
+脊柱裂	ji zhu lie	229
+价格公示	jia ge gong shi	1668
+甲基丙二酸血症	jia ji bing er suan xue zheng	978
+甲基化异常	jia ji hua yi chang	220
+甲减	jia jian	1412
+甲亢	jia kang	1414
+假两性畸形	jia liang xing ji xing	915
+加尼瑞克	jia ni rui ke	2307
+甲泼尼龙	jia po ni long	2244
+甲泼尼松龙	jia po ni song long	2243
+甲醛熏蒸箱	jia quan xun zheng xiang	1915
+家庭	jia ting	1472
+家庭教育	jia ting jiao yu	1467
+家庭压力	jia ting ya li	1078
+家庭支持	jia ting zhi chi	1698
+甲硝唑	jia xiao zuo	2226
+假性泌乳素血症	jia xing mi ru su xue zheng	1396
+假阳性	jia yang xing	109
+假阴性	jia yin xing	108
+甲状腺超声	jia zhuang xian chao sheng	803
+甲状腺功能	jia zhuang xian gong neng	692
+甲状腺功能减退	jia zhuang xian gong neng jian tui	1413
+甲状腺功能亢进	jia zhuang xian gong neng kang jin	1415
+甲状腺功能全套	jia zhuang xian gong neng quan tao	848
+甲状腺过氧化物酶抗体	jia zhuang xian guo yang hua wu mei kang ti	844
+甲状腺疾病	jia zhuang xian ji bing	1306
+甲状腺球蛋白抗体	jia zhuang xian qiu dan bai kang ti	843
+家族性高胆固醇血症	jia zu xing gao dan gu chun xue zheng	971
+检测	jian ce	2340
+检测服务公司	jian ce fu wu gong si	1542
+建档	jian dang	2459
+监督管理体系	jian du guan li ti xi	1833
+监督检查	jian du jian cha	1831
+减肥	jian fei	1634
+健康档案	jian kang dang an	1607
+健康管理公司	jian kang guan li gong si	1540
+健康讲座	jian kang jiang zuo	1600
+健康日活动	jian kang ri huo dong	1589
+健康宣传教育	jian kang xuan chuan jiao yu	1714
+减免费用	jian mian fei yong	1579
+减胎后感染	jian tai hou gan ran	349
+减胎后宫内感染	jian tai hou gong nei gan ran	347
+减胎后流产	jian tai hou liu chan	348
+减胎后胎儿残留	jian tai hou tai er can liu	112
+减胎技术	jian tai ji shu	1779
+减胎术并发症	jian tai shu bing fa zheng	350
+减胎术不全	jian tai shu bu quan	111
+减胎术后胎儿保留	jian tai shu hou tai er bao liu	113
+见新叶	jian xin ye	13
+检验技师	jian yan ji shi	2127
+检验科	jian yan ke	2148
+间质部妊娠	jian zhi bu ren shen	365
+降低	jiang di	1138
+降调激素替代	jiang diao ji su ti dai	2371
+降调针	jiang diao zhen	2442
+僵苗	jiang miao	15
+浆膜下肌瘤	jiang mo xia ji liu	1385
+降调节	jiang tiao jie	2443
+降压药	jiang ya yao	1060
+交叉配血试验	jiao cha pei xue shi yan	608
+交叉污染	jiao cha wu ran	204
+焦虑	jiao lv	1705
+交通出行	jiao tong chu xing	1518
+校验不合格	jiao yan bu he ge	1851
+校验合格	jiao yan he ge	1852
+校验申请书	jiao yan shen qing shu	1796
+解冻后存活率低	jie dong hou cun huo lv di	421
+解冻后胚胎退化	jie dong hou pei tai tui hua	423
+解冻后胚胎质量下降	jie dong hou pei tai zhi liang xia jiang	420
+解冻后无存活胚胎	jie dong hou wu cun huo pei tai	422
+解冻液	jie dong ye	1994
+结核感染	jie he gan ran	1267
+结核感染筛查	jie he gan ran shai cha	607
+结核菌素试验	jie he jun su shi yan	733
+结婚证	jie hun zheng	1737
+结荚过多	jie jia guo duo	50
+结荚数	jie jia shu	51
+戒酒	jie jiu	1638
+戒咖啡因	jie ka fei yin	1637
+拮抗剂	jie kang ji	2311
+拮抗剂方案	jie kang ji fang an	2433
+解剖因素复发性流产	jie pou yin su fu fa xing liu chan	1056
+戒烟	jie yan	1639
+进口花粉源	jin kou hua fen yuan	83
+进口优种源	jin kou you zhong yuan	85
+金赛恒	jin sai heng	2295
+进行性肌营养不良	jin xing xing ji ying yang bu liang	974
+进行性假肥大性肌营养不良	jin xing xing jia fei da xing ji ying yang bu liang	1003
+禁止供精与供卵商业化	jin zhi gong jing yu gong luan shang ye hua	1821
+禁止克隆人	jin zhi ke long ren	1824
+禁止滥用辅助生殖技术	jin zhi lan yong fu zhu sheng zhi ji shu	1777
+禁止人类与异种配子的杂交	jin zhi ren lei yu yi zhong pei zi de za jiao	1822
+禁止实施胚胎赠送	jin zhi shi shi pei tai zeng song	1823
+禁止实施任何形式的代孕技术	jin zhi shi shi ren he xing shi de dai yun ji shu	1826
+禁止无医学指征的性别选择	jin zhi wu yi xue zhi zheng de xing bie xuan ze	1825
+进周	jin zhou	2458
+颈部和中段畸形率	jing bu he zhong duan ji xing lv	718
+警告	jing gao	1829
+精浆果糖	jing jiang guo tang	708
+精浆葡萄糖苷酶	jing jiang pu tao tang gan mei	707
+精浆肉碱	jing jiang rou jian	704
+精浆生化检查	jing jiang sheng hua jian cha	709
+精浆酸性磷酸酶	jing jiang suan xing lin suan mei	706
+精浆锌	jing jiang xin	705
+精卵结合障碍	jing luan jie he zhang ai	1184
+精囊超声	jing nang chao sheng	680
+精囊炎	jing nang yan	1155
+经皮附睾精子抽吸	jing pi fu gao jing zi chou xi	2485
+精神紧张	jing shen jin zhang	1079
+精神心理压力	jing shen xin li ya li	1107
+精神心理因素	jing shen xin li yin su	1241
+精神压力性闭经	jing shen ya li xing bi jing	1400
+精索静脉超声	jing suo jing mai chao sheng	683
+精索静脉曲张	jing suo jing mai qu zhang	1153
+境外辅助生殖	jing wai fu zhu sheng zhi	1530
+经销	jing xiao	80
+精液标本污染	jing ye biao ben wu ran	477
+精液不液化	jing ye bu ye hua	1207
+精液采集杯	jing ye cai ji bei	1988
+精液采集导管	jing ye cai ji dao guan	1970
+精液采集记录	jing ye cai ji ji lu	1760
+精液常规分析	jing ye chang gui fen xi	732
+精液冻存管	jing ye dong cun guan	1979
+精液分析玻片	jing ye fen xi bo pian	1978
+精液分析室	jing ye fen xi shi	2158
+精液量	jing ye liang	731
+精液量过多	jing ye liang guo duo	1214
+精液量过少	jing ye liang guo shao	1215
+精液黏稠度	jing ye nian chou du	729
+精液微生物培养	jing ye wei sheng wu pei yang	667
+精液液化不良	jing ye ye hua bu liang	1209
+精液液化瓶	jing ye ye hua ping	1986
+精液液化时间	jing ye ye hua shi jian	730
+精液液化异常	jing ye ye hua yi chang	1208
+精液优化处理	jing ye you hua chu li	2407
+精液中无精子	jing ye zhong wu jing zi	478
+经阴道彩色多普勒超声	jing yin dao cai se duo pu le chao sheng	823
+经阴道穿刺取卵	jing yin dao chuan ci qu luan	2413
+精原细胞瘤	jing yuan xi bao liu	931
+经直肠超声	jing zhi chang chao sheng	682
+精子	jing zi	2550
+精子鞭毛多发形态异常	jing zi bian mao duo fa xing tai yi chang	1045
+精子标本混淆	jing zi biao ben hun xiao	216
+精子玻璃化冷冻	jing zi bo li hua leng dong	2503
+精子成活率低	jing zi cheng huo lv di	1216
+精子穿透卵丘能力差	jing zi chuan tou luan qiu neng li cha	1188
+精子穿透障碍	jing zi chuan tou zhang ai	1189
+精子存活率	jing zi cun huo lv	722
+精子存活率低	jing zi cun huo lv di	1199
+精子顶体反应	jing zi ding ti fan ying	713
+精子顶体反应异常	jing zi ding ti fan ying yi chang	1198
+精子顶体酶活性	jing zi ding ti mei huo xing	712
+精子分离液	jing zi fen li ye	1984
+精子宫颈黏液穿透试验	jing zi gong jing nian ye chuan tou shi yan	710
+精子核蛋白成熟度	jing zi he dan bai cheng shu du	714
+精子活动力过低无法处理	jing zi huo dong li guo di wu fa chu li	476
+精子活力	jing zi huo li	726
+精子活力低下	jing zi huo li di xia	1201
+精子获能障碍	jing zi huo neng zhang ai	1182
+精子计数板	jing zi ji shu ban	1977
+精子检验合格证明	jing zi jian yan he ge zheng ming	1789
+精子聚集	jing zi ju ji	1205
+精子库供精者筛选档案	jing zi ku gong jing zhe shai xuan dang an	1761
+精子库考核	jing zi ku kao he	1783
+精子库批准证书校验	jing zi ku pi zhun zheng shu jiao yan	1785
+精子库设置规划	jing zi ku she zhi gui hua	1784
+精子冷冻	jing zi leng dong	2487
+精子冷冻个月复检	jing zi leng dong ge yue fu jian	1790
+精子冷冻液	jing zi leng dong ye	1980
+精子卵膜融合障碍	jing zi luan mo rong he zhang ai	1186
+精子凝集	jing zi ning ji	1206
+精子凝集试验	jing zi ning ji shi yan	702
+精子浓度	jing zi nong du	728
+精子培养液	jing zi pei yang ye	1981
+精子趋化性异常	jing zi qu hua xing yi chang	1181
+精子染色液	jing zi ran se ye	1975
+精子数量过少无法常规受精	jing zi shu liang guo shao wu fa chang gui shou jing	475
+精子梯度离心	jing zi ti du li xin	2523
+精子梯度离心液	jing zi ti du li xin ye	1985
+精子透明带结合异常	jing zi tou ming dai jie he yi chang	1187
+精子透明质酸结合试验	jing zi tou ming zhi suan jie he shi yan	711
+精子洗涤液	jing zi xi di ye	1982
+精子形态学分析	jing zi xing tai xue fen xi	721
+精子形态学载玻片	jing zi xing tai xue zai bo pian	1972
+精子优选	jing zi you xuan	2524
+精子注射损伤	jing zi zhu she sun shang	450
+精子总数	jing zi zong shu	727
+就医体验	jiu yi ti yan	1487
+拒绝配合治疗	ju jue pei he zhi liao	158
+巨细胞病毒感染	ju xi bao bing du gan ran	1264
+巨细胞病毒抗体	ju xi bao bing du kang ti	735
+枸橼酸氯米芬	ju yuan suan lv mi fen	2304
+捐赠胚胎解冻失败	juan zeng pei tai jie dong shi bai	194
+捐赠胚胎质量差	juan zeng pei tai zhi liang cha	193
+捐赠者传染病窗口期漏检	juan zeng zhe chuan ran bing chuang kou qi lou jian	187
+捐赠者隐瞒遗传病史	juan zeng zhe yin man yi chuan bing shi	188
+绝望感	jue wang gan	166
+菌血症	jun xue zheng	502
+卡尔曼综合征	ka er man zong he zheng	1405
+卡尔曼综合征基因检测	ka er man zong he zheng ji yin jian ce	688
+卡尔曼综合征基因突变	ka er man zong he zheng ji yin tu bian	1128
+卡塔格内综合征	ka ta ge nei zong he zheng	1043
+开奖	kai jiang	2366
+看长势	kan zhang shi	14
+康复科	kang fu ke	1555
+抗核抗体	kang he kang ti	782
+抗精神病药	kang jing shen bing yao	1061
+抗精子抗体	kang jing zi kang ti	1352
+抗精子抗体精液血清	kang jing zi kang ti jing ye xue qing	703
+抗精子抗体阳性	kang jing zi kang ti yang xing	1123
+抗可提取性核抗原抗体	kang ke ti qu xing he kang yuan kang ti	781
+抗磷脂抗体	kang lin zhi kang ti	1348
+抗磷脂抗体全套	kang lin zhi kang ti quan tao	783
+抗磷脂抗体综合征	kang lin zhi kang ti zong he zheng	1347
+抗卵巢抗体	kang luan chao kang ti	1350
+抗卵子抗体	kang luan zi kang ti	1349
+抗苗勒管激素	kang miao le guan ji su	849
+抗凝因子异常	kang ning yin zi yi chang	939
+抗生素过敏	kang sheng su guo min	143
+抗生素添加剂	kang sheng su tian jia ji	1943
+抗体	kang ti	649
+抗体谱	kang ti pu	780
+抗透明带抗体	kang tou ming dai kang ti	784
+抗心磷脂抗体	kang xin lin zhi kang ti	1346
+抗雄激素药物	kang xiong ji su yao wu	1059
+抗抑郁药	kang yi yu yao	1062
+抗原抗体联合检测	kang yuan kang ti lian he jian ce	648
+抗子宫内膜抗体	kang zi gong nei mo kang ti	1351
+科恩综合征	ke en zong he zheng	884
+可供全国	ke gong quan guo	59
+克拉伯病	ke la bo bing	872
+克拉维酸	ke la wei suan	2231
+可乐必妥	ke le bi tuo	2227
+克林霉素	ke lin mei su	2224
+克罗米芬	ke luo mi fen	2305
+克洛综合征	ke luo zong he zheng	883
+克霉唑	ke mei zuo	2222
+柯妮利亚德兰格综合征	ke ni li ya de lan ge zong he zheng	889
+克赛	ke sai	2250
+克氏综合征	ke shi zong he zheng	1134
+克氏综合征基因检测	ke shi zong he zheng ji yin jian ce	689
+克氏综合征嵌合体	ke shi zong he zheng qian he ti	1133
+可行性报告	ke xing xing bao gao	1855
+科学辟谣	ke xue pi yao	1585
+可用胚胎	ke yong pei tai	2395
+空腹血糖	kong fu xue tang	841
+空腹胰岛素	kong fu yi dao su	838
+空气沉降皿	kong qi chen jiang min	1903
+空气污染	kong qi wu ran	1075
+空气消毒机	kong qi xiao du ji	1917
+空孕囊	kong yun nang	377
+控制	kong zhi	1635
+控制多胎妊娠	kong zhi duo tai ren shen	1780
+口服	kou fu	2177
+口服避孕药	kou fu bi yun yao	2258
+口服葡萄糖耐量试验	kou fu pu tao tang nai liang shi yan	837
+库欣综合征	ku xin zong he zheng	1409
+跨境医疗	kua jing yi liao	1529
+扩展性携带者筛查	kuo zhan xing xie dai zhe shai cha	756
+扩展性携带者筛查双方	kuo zhan xing xie dai zhe shai cha shuang fang	664
+拉塞尔西尔弗综合征	la sai er xi er fu zong he zheng	891
+拉针仪	la zhen yi	2017
+来曲唑	lai qu zuo	2302
+来婷	lai ting	2267
+滥用性别鉴定技术	lan yong xing bie jian ding ji shu	1746
+狼疮抗凝物	lang chuang kang ning wu	1345
+狼疮抗凝物阳性	lang chuang kang ning wu yang xing	963
+乐宝得	le bao de	2288
+乐芮	le rui	2290
+累次失败	lei ci shi bai	311
+类风湿关节炎	lei feng shi guan jie yan	1341
+类风湿因子	lei feng shi yin zi	779
+累计费用	lei ji fei yong	1679
+累计妊娠率	lei ji ren shen lv	1509
+冷藏苗	leng cang miao	67
+冷冻保护剂	leng dong bao hu ji	1993
+冷冻杯	leng dong bei	2003
+冷冻标签	leng dong biao qian	1996
+冷冻标签打印机	leng dong biao qian da yin ji	2105
+冷冻储存室	leng dong chu cun shi	2154
+冷冻防护套	leng dong fang hu tao	1997
+冷冻复苏率	leng dong fu su lv	1502
+冷冻环	leng dong huan	2004
+冷冻胶条	leng dong jiao tiao	1995
+冷冻麦管	leng dong mai guan	2005
+冷冻损伤	leng dong sun shang	417
+冷冻液套装	leng dong ye tao zhuang	1992
+冷冻载管	leng dong zai guan	2006
+冷冻载体断裂	leng dong zai ti duan lie	414
+冷冻支架	leng dong zhi jia	2002
+丽申宝	li shen bao	2294
+粒细胞集落刺激因子	li xi bao ji luo ci ji yin zi	2187
+离心管	li xin guan	2026
+离心机	li xin ji	2098
+炼苗	lian miao	33
+连锁无丙种球蛋白血症	lian suo wu bing zhong qiu dan bai xue zheng	860
+镰状细胞贫血	lian zhuang xi bao pin xue	1007
+亮丙瑞林	liang bing rui lin	2317
+两年校验	liang nian jiao yan	1853
+裂手裂足综合征	lie shou lie zu zong he zheng	888
+淋巴瘤	lin ba liu	924
+淋巴细胞	lin ba xi bao	774
+淋巴细胞计数	lin ba xi bao ji shu	637
+淋巴细胞亚群	lin ba xi bao ya qun	776
+临床妊娠	lin chuang ren shen	2541
+临床妊娠率	lin chuang ren shen lv	1511
+临床妊娠失败	lin chuang ren shen shi bai	378
+临床研究	lin chuang yan jiu	1499
+邻近器官损伤	lin jin qi guan sun shang	495
+林奇综合征	lin qi zong he zheng	1005
+淋球菌感染	lin qiu jun gan ran	1268
+淋球菌感染后遗症	lin qiu jun gan ran hou yi zheng	901
+淋球菌培养	lin qiu jun pei yang	742
+流产率	liu chan lv	1508
+六孔培养皿	liu kong pei yang min	2032
+硫酸脱氢表雄酮	liu suan tuo qing biao xiong tong	850
+颅咽管瘤	lu yan guan liu	927
+卵胞浆内单精子注射	luan bao jiang nei dan jing zi zhu she	2535
+卵巢储备功能减退	luan chao chu bei gong neng jian tui	1421
+卵巢储备功能下降	luan chao chu bei gong neng xia jiang	1420
+卵巢出血	luan chao chu xie	511
+卵巢大小测量	luan chao da xiao ce liang	818
+卵巢低反应	luan chao di fan ying	1299
+卵巢抵抗综合征	luan chao di kang zong he zheng	1049
+卵巢蒂扭转	luan chao di niu zhuan	541
+卵巢反应低下	luan chao fan ying di xia	1300
+卵巢高反应	luan chao gao fan ying	1298
+卵巢功能不全	luan chao gong neng bu quan	1422
+卵巢过度刺激综合征	luan chao guo du ci ji zong he zheng	555
+卵巢过度刺激综合征伴低钠血症	luan chao guo du ci ji zong he zheng ban di na xue zheng	548
+卵巢过度刺激综合征伴腹水	luan chao guo du ci ji zong he zheng ban fu shui	551
+卵巢过度刺激综合征伴呼吸困难	luan chao guo du ci ji zong he zheng ban hu xi kun nan	545
+卵巢过度刺激综合征伴少尿	luan chao guo du ci ji zong he zheng ban shao niao	544
+卵巢过度刺激综合征伴无尿	luan chao guo du ci ji zong he zheng ban wu niao	543
+卵巢过度刺激综合征伴心包积液	luan chao guo du ci ji zong he zheng ban xin bao ji ye	549
+卵巢过度刺激综合征伴胸水	luan chao guo du ci ji zong he zheng ban xiong shui	550
+卵巢过度刺激综合征伴血栓形成	luan chao guo du ci ji zong he zheng ban xue shuan xing cheng	546
+卵巢过度刺激综合征伴血液浓缩	luan chao guo du ci ji zong he zheng ban xue ye nong suo	547
+卵巢交界性肿瘤	luan chao jiao jie xing zhong liu	934
+卵巢慢反应	luan chao man fan ying	556
+卵巢囊肿剥除术后	luan chao nang zhong bo chu shu hou	1251
+卵巢囊肿破裂	luan chao nang zhong po lie	540
+卵巢扭转	luan chao niu zhuan	542
+卵巢扭转病史	luan chao niu zhuan bing shi	1250
+卵巢脓肿	luan chao nong zhong	506
+卵巢巧克力囊肿	luan chao qiao ke li nang zhong	1393
+卵巢生殖细胞肿瘤	luan chao sheng zhi xi bao zhong liu	933
+卵巢体积	luan chao ti ji	817
+卵巢性闭经	luan chao xing bi jing	1401
+卵巢血流阻力指数	luan chao xue liu zu li zhi shu	816
+卵巢血肿	luan chao xue zhong	510
+卵巢炎	luan chao yan	1273
+卵巢早衰	luan chao zao shuai	1423
+卵巢轴功能紊乱	luan chao zhou gong neng wen luan	1322
+卵巢组织冷冻	luan chao zu zhi leng dong	2502
+卵黄囊缺失	luan huang nang que shi	375
+卵裂率	luan lie lv	1504
+卵裂期胚胎	luan lie qi pei tai	2400
+卵裂期胚胎移植	luan lie qi pei tai yi zhi	2496
+卵裂球活检	luan lie qiu huo jian	2508
+卵母细胞变性	luan mu xi bao bian xing	456
+卵母细胞采集	luan mu xi bao cai ji	2527
+卵母细胞第一极体未排出	luan mu xi bao di yi ji ti wei pai chu	457
+卵母细胞老化	luan mu xi bao lao hua	1295
+卵母细胞裂解	luan mu xi bao lie jie	448
+卵母细胞培养液	luan mu xi bao pei yang ye	1968
+卵母细胞收集器	luan mu xi bao shou ji qi	2008
+卵母细胞体外成熟	luan mu xi bao ti wai cheng shu	2490
+卵母细胞退化率高	luan mu xi bao tui hua lv gao	130
+卵母细胞异常	luan mu xi bao yi chang	455
+卵泡成熟	luan pao cheng shu	2421
+卵泡冲洗网	luan pao chong xi wang	2010
+卵泡冲洗液	luan pao chong xi ye	1958
+卵泡刺激素	luan pao ci ji su	2299
+卵泡发育	luan pao fa yu	2422
+卵泡发育不良	luan pao fa yu bu liang	1430
+卵泡发育迟缓	luan pao fa yu chi huan	1429
+卵泡发育停滞	luan pao fa yu ting zhi	532
+卵泡过早黄素化	luan pao guo zao huang su hua	527
+卵泡黄素化	luan pao huang su hua	530
+卵泡黄素化不破裂	luan pao huang su hua bu po lie	1425
+卵泡黄素化不破裂综合征	luan pao huang su hua bu po lie zong he zheng	1047
+卵泡监测	luan pao jian ce	2427
+卵泡期长方案	luan pao qi chang fang an	2186
+卵泡未破裂综合征	luan pao wei po lie zong he zheng	1426
+卵泡萎缩	luan pao wei suo	531
+卵子	luan zi	2551
+卵子标本混淆	luan zi biao ben hun xiao	215
+卵子玻璃化冷冻	luan zi bo li hua leng dong	2504
+卵子成熟度不足	luan zi cheng shu du bu zu	458
+卵子激活失败	luan zi ji huo shi bai	452
+卵子冷冻	luan zi leng dong	2488
+卵子破裂	luan zi po lie	460
+卵子拾取器	luan zi shi qu qi	2009
+卵子退化	luan zi tui hua	461
+卵子细胞质异常	luan zi xi bao zhi yi chang	459
+伦理监督	lun li jian du	1838
+伦理监督原则	lun li jian du yuan ze	1870
+伦理审查	lun li shen cha	1839
+伦理学知识培训	lun li xue zhi shi pei xun	1775
+论坛讨论	lun tan tao lun	1594
+罗红霉素	luo hong mei su	2229
+罗氏易位	luo shi yi wei	1285
+驴胶补血颗粒	lv jiao bu xue ke li	2206
+滤芯吸头	lv xin xi tou	2021
+马凡综合征	ma fan zong he zheng	1004
+妈富隆	ma fu long	2257
+麻醉并发症	ma zui bing fa zheng	490
+麻醉过敏	ma zui guo min	489
+麻醉机	ma zui ji	2074
+麻醉取卵	ma zui qu luan	2411
+麻醉医师	ma zui yi shi	2136
+麻醉意外	ma zui yi wai	488
+买卖合子	mai mai he zi	1748
+买卖胚胎	mai mai pei tai	1747
+买卖配子	mai mai pei zi	1749
+曼芙新	man fu xin	2283
+慢速解冻液	man su jie dong ye	1951
+慢速冷冻液	man su leng dong ye	1952
+慢性肉芽肿病	man xing rou ya zhong bing	862
+慢性子宫内膜炎	man xing zi gong nei mo yan	1371
+猫叫综合征	mao jiao zong he zheng	1021
+梅毒	mei du	900
+梅毒感染	mei du gan ran	1259
+梅毒螺旋体明胶凝集试验	mei du luo xuan ti ming jiao ning ji shi yan	647
+梅毒血清学检测	mei du xue qing xue jian ce	670
+酶活性检测	mei huo xing jian ce	655
+媒体宣传	mei ti xuan chuan	1591
+门禁系统	men jin xi tong	1895
+泌尿系统超声	mi niao xi tong chao sheng	603
+泌乳素瘤	mi ru su liu	1416
+迷走神经反射	mi zou shen jing fan she	485
+免费筛查	mian fei shai cha	1580
+棉签	mian qian	2040
+免疫科	mian yi ke	1561
+免疫球蛋白	mian yi qiu dan bai	2239
+免疫球蛋白输注反应	mian yi qiu dan bai shu zhu fan ying	138
+免疫细胞紊乱	mian yi xi bao wen luan	1335
+免疫性不孕	mian yi xing bu yun	1353
+免疫性复发性流产	mian yi xing fu fa xing liu chan	964
+免疫抑制剂	mian yi yi zhi ji	1063
+免疫抑制剂副作用	mian yi yi zhi ji fu zuo yong	139
+免疫治疗	mian yi zhi liao	2336
+免疫珠试验	mian yi zhu shi yan	699
+苗圃	miao pu	76
+苗圃地力	miao pu di li	52
+苗株分级	miao zhu fen ji	29
+冥想	ming xiang	1689
+磨针仪	mo zhen yi	2016
+目标区域捕获测序	mu biao qu yu bu huo ce xu	762
+母婴用品	mu ying yong pin	1537
+那法瑞林	na fa rui lin	2313
+那屈肝素	na qu gan su	2247
+男科	nan ke	1564
+男科实验室	nan ke shi yan shi	2159
+男科医师	nan ke yi shi	2138
+难免流产	nan mian liu chan	2345
+男性假两性畸形	nan xing jia liang xing ji xing	913
+难治性不孕	nan zhi xing bu yun	315
+囊胚	nang pei	2548
+囊胚等级	nang pei deng ji	2398
+囊胚孵化失败	nang pei fu hua shi bai	430
+囊胚冷冻	nang pei leng dong	2393
+囊胚培养	nang pei pei yang	2512
+囊胚培养皿	nang pei pei yang min	2030
+囊胚培养液	nang pei pei yang ye	1966
+囊胚评分	nang pei ping fen	2478
+囊胚腔塌陷	nang pei qiang ta xian	431
+囊胚未形成	nang pei wei xing cheng	433
+囊胚形成率	nang pei xing cheng lv	1503
+囊胚移植	nang pei yi zhi	2497
+囊胚移植前基因筛查	nang pei yi zhi qian ji yin shai cha	2331
+囊胚质量差	nang pei zhi liang cha	432
+囊胚滋养层活检	nang pei zi yang ceng huo jian	2391
+囊性纤维化基因筛查	nang xing xian wei hua ji yin shai cha	660
+囊性纤维化基因突变	nang xing xian wei hua ji yin tu bian	1127
+囊性纤维化携带者筛查	nang xing xian wei hua xie dai zhe shai cha	757
+脑卒中	nao cu zhong	260
+脑积水	nao ji shui	228
+脑瘫	nao tan	93
+内毒素检测试剂	nei du su jian ce shi ji	1907
+内分泌科	nei fen mi ke	1563
+内分泌失调	nei fen mi shi tiao	1323
+内分泌因素复发性流产	nei fen mi yin su fu fa xing liu chan	1055
+内疚感	nei jiu gan	165
+内膜基因芯片检测	nei mo ji yin xin pian jian ce	2472
+内膜轻刮	nei mo qing gua	2338
+内膜容受性受损	nei mo rong shou xing shou sun	304
+内膜转化	nei mo zhuan hua	2376
+内膜准备	nei mo zhun bei	2375
+内细胞团发育不良	nei xi bao tuan fa yu bu liang	429
+内异症	nei yi zheng	1394
+尼曼匹克病	ni man pi ke bing	981
+匿名捐赠信息泄露	ni ming juan zeng xin xi xie lou	189
+逆行射精	ni xing she jing	1212
+逆行射精采集失败	ni xing she jing cai ji shi bai	479
+黏多糖贮积症	nian duo tang zhu ji zheng	984
+年龄相关生育力下降	nian ling xiang guan sheng yu li xia jiang	1301
+年龄增长	nian ling zeng zhang	1088
+黏膜下肌瘤	nian mo xia ji liu	1387
+念珠菌检测	nian zhu jun jian ce	740
+念珠菌性阴道炎反复发作	nian zhu jun xing yin dao yan fan fu fa zuo	896
+鸟氨酸氨甲酰转移酶缺乏症	niao an suan an jia xian zhuan yi mei que fa zheng	976
+尿常规	niao chang gui	674
+尿促性素	niao cu xing su	2438
+尿道分泌物检查	niao dao fen mi wu jian cha	672
+尿道上裂	niao dao shang lie	1168
+尿道下裂	niao dao xia lie	1169
+尿道炎	niao dao yan	1119
+尿培养	niao pei yang	673
+尿酸	niao suan	619
+尿液分析	niao ye fen xi	675
+凝血功能	ning xue gong neng	633
+凝血功能异常	ning xue gong neng yi chang	1051
+凝血酶时间	ning xue mei shi jian	629
+凝血酶原基因突变	ning xue mei yuan ji yin tu bian	942
+凝血酶原时间	ning xue mei yuan shi jian	632
+凝血因子基因突变检测	ning xue yin zi ji yin tu bian jian ce	754
+农技检测站	nong ji jian ce zhan	58
+脓精症	nong jing zheng	1203
+农药残留	nong yao can liu	1071
+努南综合征	nu nan zong he zheng	894
+诺雷德	nuo lei de	2315
+女性假两性畸形	nv xing jia liang xing ji xing	914
+帕陶综合征	pa tao zong he zheng	1037
+排队等候	pai dui deng hou	1521
+排卵功能障碍	pai luan gong neng zhang ai	1434
+排卵期	pai luan qi	1525
+庞贝病	pang bei bing	979
+膀胱损伤	pang guang sun shang	494
+胚胎	pei tai	2552
+胚胎标本混淆	pei tai biao ben hun xiao	217
+胚胎标记笔	pei tai biao ji bi	2014
+胚胎玻璃化冷冻	pei tai bo li hua leng dong	2506
+胚胎玻璃化冷冻载体	pei tai bo li hua leng dong zai ti	2107
+胚胎不对称卵裂	pei tai bu dui chen luan lie	441
+胚胎代谢物检测	pei tai dai xie wu jian ce	2460
+胚胎代谢组学分析	pei tai dai xie zu xue fen xi	2475
+胚胎蛋白组学分析	pei tai dan bai zu xue fen xi	2474
+胚胎单基因病检测	pei tai dan ji yin bing jian ce	589
+胚胎多核现象	pei tai duo he xian xiang	440
+胚胎发育迟缓	pei tai fa yu chi huan	447
+胚胎发育停滞	pei tai fa yu ting zhi	446
+胚胎非整倍体率增高	pei tai fei zheng bei ti lv zeng gao	1294
+胚胎分级	pei tai fen ji	2479
+胚胎辅助孵化再移植	pei tai fu zhu fu hua zai yi zhi	2324
+胚胎刮匙	pei tai gua chi	2012
+胚胎环	pei tai huan	2013
+胚胎回流	pei tai hui liu	390
+胚胎活检	pei tai huo jian	2510
+胚胎活检细胞全基因组扩增	pei tai huo jian xi bao quan ji yin zu kuo zeng	587
+胚胎激光孵化	pei tai ji guang fu hua	2390
+胚胎基因编辑	pei tai ji yin bian ji	2468
+胚胎基因检测	pei tai ji yin jian ce	2477
+胚胎监测系统	pei tai jian ce xi tong	2089
+胚胎胶	pei tai jiao	2385
+胚胎解冻	pei tai jie dong	2501
+胚胎捐赠	pei tai juan zeng	2326
+胚胎空泡	pei tai kong pao	439
+胚胎冷冻复苏失败	pei tai leng dong fu su shi bai	424
+胚胎冷冻支架	pei tai leng dong zhi jia	2106
+胚胎慢速冷冻	pei tai man su leng dong	2505
+胚胎培养	pei tai pei yang	2401
+胚胎培养箱	pei tai pei yang xiang	2123
+胚胎培养液	pei tai pei yang ye	1967
+胚胎去向记录	pei tai qu xiang ji lu	1768
+胚胎全部退化	pei tai quan bu tui hua	427
+胚胎染色体结构重排检测	pei tai ran se ti jie gou chong pai jian ce	588
+胚胎染色体筛查	pei tai ran se ti shai cha	2476
+胚胎人工智能筛选	pei tai ren gong zhi neng shai xuan	2463
+胚胎时差培养	pei tai shi cha pei yang	2482
+胚胎实时监控参数	pei tai shi shi jian kong can shu	591
+胚胎实时监控系统	pei tai shi shi jian kong xi tong	2481
+胚胎实验室	pei tai shi yan shi	2544
+胚胎实验室技术员	pei tai shi yan shi ji shu yuan	2140
+胚胎碎裂	pei tai sui lie	445
+胚胎碎片过多	pei tai sui pian guo duo	442
+胚胎停育	pei tai ting yu	2347
+胚胎透明带	pei tai tou ming dai	2389
+胚胎透明带异常	pei tai tou ming dai yi chang	437
+胚胎图像管理软件	pei tai tu xiang guan li ruan jian	1901
+胚胎图像管理系统	pei tai tu xiang guan li xi tong	2087
+胚胎退化	pei tai tui hua	444
+胚胎吞噬现象	pei tai tun shi xian xiang	434
+胚胎未完全推出	pei tai wei wan quan tui chu	392
+胚胎细胞质异常	pei tai xi bao zhi yi chang	438
+胚胎形态学评估	pei tai xing tai xue ping gu	2480
+胚胎形态异常	pei tai xing tai yi chang	443
+胚胎学家	pei tai xue jia	2546
+胚胎学实验室	pei tai xue shi yan shi	2161
+胚胎遗传学检测报告	pei tai yi chuan xue jian ce bao gao	586
+胚胎异位移植	pei tai yi wei yi zhi	382
+胚胎移植	pei tai yi zhi	2556
+胚胎移植导管	pei tai yi zhi dao guan	2053
+胚胎移植后未着床	pei tai yi zhi hou wei zhuo chuang	107
+胚胎移植手术室	pei tai yi zhi shou shu shi	2156
+胚胎移植液	pei tai yi zhi ye	1956
+胚胎质量评估	pei tai zhi liang ping gu	2397
+胚胎滞留移植管	pei tai zhi liu yi zhi guan	391
+胚胎植入前单基因病检测	pei tai zhi ru qian dan ji yin bing jian ce	2528
+胚胎植入前非整倍体筛查	pei tai zhi ru qian fei zheng bei ti shai cha	2530
+胚胎植入前染色体结构重排检测	pei tai zhi ru qian ran se ti jie gou chong pai jian ce	2529
+胚胎植入前遗传学检测	pei tai zhi ru qian yi chuan xue jian ce	2533
+胚胎植入前遗传学筛查	pei tai zhi ru qian yi chuan xue shai cha	2531
+胚胎植入前遗传学诊断	pei tai zhi ru qian yi chuan xue zhen duan	2532
+胚胎着床障碍	pei tai zhuo chuang zhang ai	949
+培养皿	pei yang min	2034
+培养皿盖	pei yang min gai	2028
+培养皿污染	pei yang min wu ran	403
+培养瓶	pei yang ping	2027
+培养条件异常	pei yang tiao jian yi chang	408
+培养箱故障	pei yang xiang gu zhang	410
+培养液	pei yang ye	1960
+培养液配制错误	pei yang ye pei zhi cuo wu	206
+培养液污染	pei yang ye wu ran	409
+配置规划	pei zhi gui hua	1856
+配子	pei zi	2554
+配子胚胎处置权	pei zi pei tai chu zhi quan	1813
+配子去向记录	pei zi qu xiang ji lu	1769
+配子输卵管内移植	pei zi shu luan guan nei yi zhi	2495
+配子运输障碍	pei zi yun shu zhang ai	1435
+盆腔磁共振	pen qiang ci gong zhen	806
+盆腔放疗史	pen qiang fang liao shi	1247
+盆腔腹膜炎	pen qiang fu mo yan	504
+盆腔感染	pen qiang gan ran	1276
+盆腔结核	pen qiang jie he	904
+盆腔内出血	pen qiang nei chu xue	512
+盆腔脓肿	pen qiang nong zhong	505
+盆腔三维超声	pen qiang san wei chao sheng	814
+盆腔痛	pen qiang tong	497
+盆腔血肿	pen qiang xue zhong	509
+盆腔炎性疾病	pen qiang yan xing ji bing	1437
+盆腔炎性疾病后遗症	pen qiang yan xing ji bing hou yi zheng	1436
+盆腔粘连	pen qiang zhan lian	1438
+盆腔粘连松解术	pen qiang zhan lian song jie shu	785
+皮肤松弛症	pi fu song chi zheng	881
+皮肌炎	pi ji yan	969
+皮下气肿	pi xia qi zhong	121
+皮下注射	pi xia zhu she	2175
+皮质醇	pi zhi chun	834
+批准证书	pi zhun zheng shu	1854
+批准证书校验申请	pi zhun zheng shu jiao yan shen qing	1797
+片剂	pian ji	2166
+贫困家庭补助	pin kun jia ting bu zhu	1665
+品相	pin xiang	62
+平衡失调	ping heng shi tiao	1334
+平均红细胞体积	ping jun hong xi bao ti ji	635
+平均红细胞血红蛋白量	ping jun hong xi bao xue hong dan bai liang	634
+破卵针	po luan zhen	2418
+泼尼松	po ni song	2245
+普拉德威利综合征	pu la de wei li zong he zheng	1023
+普丽康	pu li kang	2296
+普罗兰	pu luo lan	2279
+脐带扭转	qi dai niu zhuan	271
+脐带绕颈	qi dai rao jing	272
+脐带脱垂	qi dai tuo chui	270
+期刊科普	qi kan ke pu	1592
+琪宁	qi ning	2268
+气体混合器	qi ti hun he qi	2090
+气体浓度监控系统	qi ti nong du jian kong xi tong	1896
+气体栓塞	qi ti shuan se	122
+器械托盘	qi xie tuo pan	2067
+脐血穿刺	qi xue chuan ci	572
+企业社会责任	qi ye she hui ze ren	1570
+企业员工福利	qi ye yuan gong fu li	1664
+铅暴露	qian bao lu	1069
+嵌合体特纳	qian he ti te na	1289
+嵌合体综合征	qian he ti zong he zheng	1018
+前列腺癌	qian lie xian ai	929
+前列腺超声	qian lie xian chao sheng	681
+前列腺炎	qian lie xian yan	1154
+前向运动精子百分比	qian xiang yun dong jing zi bai fen bi	725
+前向运动精子比例低	qian xiang yun dong jing zi bi li di	1200
+签证服务	qian zheng fu wu	1528
+签知情同意书	qian zhi qing tong yi shu	2456
+前置胎盘	qian zhi tai pan	288
+羟化酶缺乏症	qiang hua mei que fa zheng	958
+羟基类固醇脱氢酶缺乏症	qiang ji lei gu chun tuo qing mei que fa zheng	917
+羟氯喹	qiang lv kui	2240
+羟孕酮	qiang yun tong	831
+强直性肌营养不良	qiang zhi xing ji ying yang bu liang	973
+桥本甲状腺炎	qiao ben jia zhuang xian yan	966
+切口疝	qie kou shan	120
+亲子鉴定证明	qin zi jian ding zheng ming	1729
+青春期发育延迟	qing chun qi fa yu yan chi	906
+青春期发育异常	qing chun qi fa yu yi chang	905
+轻度卵巢过度刺激综合征	qing du luan chao guo du ci ji zong he zheng	554
+轻度弱精子症	qing du ruo jing zi zheng	1232
+轻度少精子症	qing du shao jing zi zheng	1237
+请假调休	qing jia tiao xiu	1520
+情绪波动	qing xu bo dong	1703
+轻质矿物油	qing zhi kuang wu you	1947
+球细胞脑白质营养不良	qiu xi bao nao bai zhi ying yang bu liang	873
+取精	qu jing	2525
+取精当日精子异常	qu jing dang ri jing zi yi chang	474
+取精困难	qu jing kun nan	481
+取卵	qu luan	2526
+取卵不足	qu luan bu zu	131
+取卵冲洗液	qu luan chong xi ye	2035
+取卵床	qu luan chuang	2083
+取卵后出血	qu luan hou chu xie	516
+取卵后盆腔粘连加重	qu luan hou pen qiang zhan lian jia zhong	483
+取卵后疼痛	qu luan hou teng tong	499
+取卵护士	qu luan hu shi	2132
+取卵滤网	qu luan lv wang	2011
+取卵日	qu luan ri	2412
+取卵手术	qu luan shou shu	2414
+取卵手术室	qu luan shou shu shi	2157
+取卵术后休克	qu luan shu hou xiu ke	486
+取卵液	qu luan ye	1957
+取卵针	qu luan zhen	2058
+取卵针导管	qu luan zhen dao guan	2055
+屈他维林	qu ta wei lin	2189
+区域卫生规划	qu yu wei sheng gui hua	1857
+全基因组测序	quan ji yin zu ce xu	763
+全基因组扩增试剂盒	quan ji yin zu kuo zeng shi ji he	1926
+全面两孩政策	quan mian liang hai zheng ce	1738
+全套	quan tao	738
+全外显子组测序	quan wai xian zi zu ce xu	764
+缺失	que shi	1131
+缺失筛查	que shi shai cha	690
+染色体插入	ran se ti cha ru	1031
+染色体重复	ran se ti chong fu	1282
+染色体脆性位点	ran se ti cui xing wei dian	1017
+染色体倒位	ran se ti dao wei	1284
+染色体多态性	ran se ti duo tai xing	1028
+染色体高分辨分析	ran se ti gao fen bian fen xi	768
+染色体核型异常	ran se ti he xing yi chang	1292
+染色体环状	ran se ti huan zhuang	1030
+染色体结构异常	ran se ti jie gou yi chang	1288
+染色体罗氏易位	ran se ti luo shi yi wei	1129
+染色体平衡易位	ran se ti ping heng yi wei	1286
+染色体缺失	ran se ti que shi	1283
+染色体微缺失	ran se ti wei que shi	1132
+染色体微缺失检测	ran se ti wei que shi jian ce	691
+染色体微阵列分析	ran se ti wei zhen lie fen xi	766
+染色体相互易位	ran se ti xiang hu yi wei	1034
+染色体异常	ran se ti yi chang	1293
+染色体易位	ran se ti yi wei	1130
+人工采摘	ren gong cai zhai	5
+人工卵子激活失败	ren gong luan zi ji huo shi bai	451
+人工配子	ren gong pei zi	2466
+人工授粉	ren gong shou fen	31
+人工授精	ren gong shou jing	2555
+人工授精管	ren gong shou jing guan	2047
+人工授精室	ren gong shou jing shi	2155
+人工周期	ren gong zhou qi	2374
+人绝经后促性腺激素	ren jue jing hou cu xing xian ji su	2289
+人口政策	ren kou zheng ce	1478
+人类辅助生殖技术管理办法	ren lei fu zhu sheng zhi ji shu guan li ban fa	1884
+人类辅助生殖技术规范	ren lei fu zhu sheng zhi ji shu gui fan	1882
+人类精子库管理办法	ren lei jing zi ku guan li ban fa	1883
+人类精子库基本标准和技术规范	ren lei jing zi ku ji ben biao zhun he ji shu gui fan	1881
+人类精子库设置审批	ren lei jing zi ku she zhi shen pi	1806
+人绒毛膜促性腺激素	ren rong mao mo cu xing xian ji su	2417
+人绒毛膜促性腺激素定量	ren rong mao mo cu xing xian ji su ding liang	585
+人乳头瘤病毒检测	ren ru tou liu bing du jian ce	748
+妊娠	ren shen	2542
+妊娠合并肝功能不全	ren shen he bing gan gong neng bu quan	263
+妊娠合并肾功能不全	ren shen he bing shen gong neng bu quan	264
+妊娠合并心力衰竭	ren shen he bing xin li shuai jie	265
+妊娠结局反馈	ren shen jie ju fan kui	1763
+妊娠期肝内胆汁淤积症	ren shen qi gan nei dan zhi yu ji zheng	290
+妊娠期高血压疾病	ren shen qi gao xue ya ji bing	294
+妊娠期急性脂肪肝	ren shen qi ji xing zhi fang gan	289
+妊娠期糖尿病病史	ren shen qi tang niao bing bing shi	1313
+妊娠期糖尿病筛查	ren shen qi tang niao bing shai cha	564
+人血清白蛋白	ren xue qing bai dan bai	1945
+人员资质	ren yuan zi zhi	1844
+人造子宫	ren zao zi gong	2464
+认知行为疗法	ren zhi xing wei liao fa	1691
+日常监督管理	ri chang jian du guan li	1832
+日程管理	ri cheng guan li	1513
+绒促性素	rong cu xing su	2282
+绒毛穿刺	rong mao chuan ci	575
+绒毛膜下出血	rong mao mo xia chu xie	370
+绒毛膜下血肿	rong mao mo xia xue zhong	946
+乳房胀痛	ru fang zhang tong	152
+乳酸钠	ru suan na	1940
+乳腺超声	ru xian chao sheng	804
+软骨发育不全	ruan gu fa yu bu quan	991
+软胶囊	ruan jiao nang	2167
+软移植管	ruan yi zhi guan	2052
+润滑剂使用不当	run hua ji shi yong bu dang	1082
+弱精子症	ruo jing zi zheng	1233
+塞克综合征	sai ke zong he zheng	882
+赛能	sai neng	2241
+腮腺炎后睾丸炎	sai xian yan hou gao wan yan	1120
+腮腺炎性睾丸炎	sai xian yan xing gao wan yan	1157
+赛增	sai zeng	2218
+散步	san bu	1642
+三气培养箱	san qi pei yang xiang	2122
+三亲婴儿	san qin ying er	2469
+三胎妊娠	san tai ren shen	353
+三体综合征	san ti zong he zheng	1039
+三原核受精	san yuan he shou jing	466
+桑寄生	sang ji sheng	2204
+桑葚胚	sang shen pei	2547
+膳食均衡	shan shi jun heng	1658
+上升缓慢	shang sheng huan man	361
+商业保险	shang ye bao xian	1675
+上游法	shang you fa	2522
+上游法洗精液	shang you fa xi jing ye	1983
+少精子症	shao jing zi zheng	1238
+少弱畸精子症	shao ruo ji jing zi zheng	1219
+少弱精子症	shao ruo jing zi zheng	1220
+设备故障	she bei gu zhang	208
+社工服务	she gong fu wu	1685
+社会公益	she hui gong yi	1713
+社会公益原则	she hui gong yi yuan ze	1873
+社会监督	she hui jian du	1740
+社会认知	she hui ren zhi	1466
+社会援助	she hui yuan zhu	1577
+社会支持	she hui zhi chi	1697
+社交隔离	she jiao ge li	172
+社交退缩	she jiao tui suo	173
+射精管超声	she jing guan chao sheng	679
+射精管梗阻	she jing guan geng zu	1147
+射精延迟	she jing yan chi	1177
+射精障碍	she jing zhang ai	1210
+社区支持	she qu zhi chi	1571
+深部浸润型内异症	shen bu jin run xing nei yi zheng	1391
+身份证	shen fen zheng	1736
+神经管畸形	shen jing guan ji xing	230
+深静脉血栓	shen jing mai xue shuan	259
+神经性厌食症	shen jing xing yan shi zheng	1397
+审批管理程序	shen pi guan li cheng xu	1858
+参芪寿胎丸	shen qi shou tai wan	2207
+肾上腺功能异常	shen shang xian gong neng yi chang	1305
+肾上腺脑白质营养不良	shen shang xian nao bai zhi ying yang bu liang	985
+肾上腺皮质功能亢进	shen shang xian pi zhi gong neng kang jin	1410
+肾上腺皮质功能异常	shen shang xian pi zhi gong neng yi chang	1137
+渗透性损伤	shen tou xing sun shang	415
+渗透压仪	shen tou ya yi	2092
+渗透压异常	shen tou ya yi chang	404
+肾脏超声	shen zang chao sheng	802
+升高	sheng gao	1309
+生化妊娠	sheng hua ren shen	2363
+生化妊娠病史	sheng hua ren shen bing shi	1255
+生化妊娠流产	sheng hua ren shen liu chan	380
+生精功能障碍	sheng jing gong neng zhang ai	1222
+生命教育	sheng ming jiao yu	1468
+生命伦理尊严	sheng ming lun li zun yan	1712
+生物安全柜	sheng wu an quan gui	2095
+生物样本库	sheng wu yang ben ku	2102
+生育保险	sheng yu bao xian	1674
+生育窗口期缩短	sheng yu chuang kou qi suo duan	1297
+生育登记	sheng yu deng ji	1734
+生育关怀行动	sheng yu guan huai xing dong	1572
+生育间隔过长	sheng yu jian ge guo chang	1086
+生育力保存	sheng yu li bao cun	2489
+生育力受损子代	sheng yu li shou sun zi dai	88
+生育能力低下原因不明	sheng yu neng li di xia yuan yin bu ming	1089
+生育年龄推迟	sheng yu nian ling tui chi	1087
+生育身份危机	sheng yu shen fen wei ji	171
+生育压力	sheng yu ya li	1700
+生育意愿	sheng yu yi yuan	1477
+生育证明	sheng yu zheng ming	1735
+生长发育监测	sheng zhang fa yu jian ce	1624
+生长激素	sheng zhang ji su	2220
+生长激素缺乏	sheng zhang ji su que fa	89
+生殖道感染	sheng zhi dao gan ran	1275
+生殖道感染后梗阻	sheng zhi dao gan ran hou geng zu	1146
+生殖道损伤	sheng zhi dao sun shang	1121
+生殖健康教育	sheng zhi jian kang jiao yu	1603
+生殖科医师	sheng zhi ke yi shi	2142
+生殖内分泌科	sheng zhi nei fen mi ke	2163
+生殖器畸形	sheng zhi qi ji xing	1170
+生殖器结核	sheng zhi qi jie he	1118
+生殖器疱疹	sheng zhi qi pao zhen	1266
+生殖医学伦理委员会	sheng zhi yi xue lun li wei yuan hui	1840
+生殖医学中心	sheng zhi yi xue zhong xin	2165
+生殖医学专家	sheng zhi yi xue zhuan jia	2141
+生殖中心	sheng zhi zhong xin	2545
+时差培养监控系统	shi cha pei yang jian kong xi tong	1900
+时差培养箱	shi cha pei yang xiang	2120
+适度运动	shi du yun dong	1644
+试管婴儿费用	shi guan ying er fei yong	1681
+试管婴儿科普	shi guan ying er ke pu	1602
+试管智库	shi guan zhi ku	1
+试剂盒	shi ji he	1927
+室间隔缺损	shi jian ge que sun	232
+世界医学大会赫尔辛基宣言	shi jie yi xue da hui he er xin ji xuan yan	1726
+视力筛查	shi li shai cha	1620
+视力障碍	shi li zhang ai	90
+史密斯马吉利综合征	shi mi si ma ji li zong he zheng	893
+失眠	shi mian	1702
+视频监控系统	shi pin jian kong xi tong	1894
+视网膜色素变性	shi wang mo se su bian xing	998
+噬血细胞性淋巴组织细胞增生症	shi xue xi bao xing lin ba zu zhi xi bao zeng sheng zheng	863
+失血性休克	shi xue xing xiu ke	507
+试验	shi yan	700
+实验室信息管理系统	shi yan shi xin xi guan li xi tong	1902
+试运行	shi yun xing	1800
+授粉	shou fen	35
+授粉选育	shou fen xuan yu	30
+收获	shou huo	4
+受精卵	shou jing luan	2549
+受精率	shou jing lv	1505
+受精评估	shou jing ping gu	2406
+受精失败	shou jing shi bai	2403
+受精障碍	shou jing zhang ai	1185
+受精者妊娠结局记录	shou jing zhe ren shen jie ju ji lu	1757
+手术床	shou shu chuang	2084
+手术恐惧	shou shu kong ju	160
+手术麻醉科	shou shu ma zui ke	2146
+手术铺巾	shou shu pu jin	2043
+手术器械台	shou shu qi xie tai	2068
+手术取精	shou shu qu jing	2408
+手术取精未获精子	shou shu qu jing wei huo jing zi	473
+手术室护士	shou shu shi hu shi	2133
+手术术后肠梗阻	shou shu shu hou chang geng zu	119
+手术无影灯	shou shu wu ying deng	2081
+手术显微镜	shou shu xian wei jing	2066
+手术性宫腔镜	shou shu xing gong qiang jing	800
+寿胎丸	shou tai wan	2208
+首席农艺师	shou xi nong yi shi	79
+手淫取精	shou yin qu jing	2409
+手淫取精失败	shou yin qu jing shi bai	480
+熟地黄	shu di huang	2197
+术后便秘	shu hou bian mi	302
+术后恶心呕吐	shu hou e xin ou tu	487
+术后发热	shu hou fa re	500
+术后肺栓塞	shu hou fei shuan sai	297
+术后肺炎	shu hou fei yan	118
+术后卵巢血供障碍	shu hou luan chao xue gong zhang ai	295
+术后泌尿系感染	shu hou mi niao xi gan ran	117
+术后尿潴留	shu hou niao zhu liu	303
+术后盆腔静脉淤血	shu hou pen qiang jing mai yu xue	296
+术后皮下气肿	shu hou pi xia qi zhong	300
+术后切口感染	shu hou qie kou gan ran	115
+术后切口愈合不良	shu hou qie kou yu he bu liang	116
+术后伤口感染	shu hou shang kou gan ran	301
+术后深静脉血栓	shu hou shen jing mai xue shuan	298
+术后脏器穿刺伤	shu hou zang qi chuan ci shang	299
+术后粘连加重	shu hou zhan lian jia zhong	114
+术后镇痛不全	shu hou zhen tong bu quan	496
+输精管超声	shu jing guan chao sheng	678
+输精管梗阻	shu jing guan geng zu	1150
+输精管结扎术后	shu jing guan jie zha shu hou	1145
+数据共享	shu ju gong xiang	1495
+输卵管不通	shu luan guan bu tong	1459
+输卵管超声造影	shu luan guan chao sheng zao ying	812
+输卵管梗阻	shu luan guan geng zu	1460
+输卵管积水	shu luan guan ji shui	1457
+输卵管结核	shu luan guan jie he	1441
+输卵管结扎	shu luan guan jie za	1445
+输卵管结扎术后	shu luan guan jie za shu hou	1444
+输卵管扭曲	shu luan guan niu qu	1452
+输卵管切除术	shu luan guan qie chu shu	1448
+输卵管缺如	shu luan guan que ru	1451
+输卵管妊娠术后	shu luan guan ren shen shu hou	1440
+输卵管伞端粘连	shu luan guan san duan zhan lian	1453
+输卵管通而不畅	shu luan guan tong er bu chang	1458
+输卵管吻合术后	shu luan guan wen he shu hou	1443
+输卵管炎	shu luan guan yan	1442
+输卵管粘连	shu luan guan zhan lian	1455
+输卵管周围粘连	shu luan guan zhou wei zhan lian	1454
+输卵管阻塞	shu luan guan zu se	1463
+书面知情同意	shu mian zhi qing tong yi	1810
+输尿管损伤	shu niao guan sun shang	492
+术前检查	shu qian jian cha	2455
+双侧精索静脉曲张	shuang ce jing suo jing mai qu zhang	1152
+双侧输精管缺如	shuang ce shu jing guan que ru	1148
+双侧输卵管积水	shuang ce shu luan guan ji shui	1456
+双侧输卵管切除	shuang ce shu luan guan qie chu	1446
+双侧输卵管阻塞	shuang ce shu luan guan zu se	1462
+双侧隐睾	shuang ce yin gao	1162
+双刺激方案	shuang ci ji fang an	2181
+双方环境暴露	shuang fang huan jing bao lu	1098
+双方年龄因素	shuang fang nian ling yin su	1100
+双方生活方式因素	shuang fang sheng huo fang shi yin su	1099
+双极电凝	shuang ji dian ning	2061
+双角子宫	shuang jiao zi gong	1366
+双卵双胎	shuang luan shuang tai	343
+双腔取卵针	shuang qiang qu luan zhen	2056
+双绒毛膜双胎	shuang rong mao mo shuang tai	345
+双胎反向动脉灌注序列	shuang tai fan xiang dong mai guan zhu xu lie	340
+双胎贫血多血序列	shuang tai pin xue duo xue xu lie	339
+双胎妊娠	shuang tai ren shen	354
+双胎输血综合征	shuang tai shu xue zong he zheng	342
+双原核	shuang yuan he	2404
+双子宫	shuang zi gong	1364
+睡眠管理	shui mian guan li	1641
+睡眠障碍	shui mian zhang ai	180
+水钠潴留	shui na zhu liu	149
+水平不翻倍	shui ping bu fan bei	360
+水平异常	shui ping yi chang	961
+水溶性造影剂造影	shui rong xing zao ying ji zao ying	807
+水源污染	shui yuan wu ran	1074
+水针剂	shui zhen ji	2170
+死产	si chan	101
+死精子症	si jing zi zheng	1217
+四孔培养皿	si kong pei yang min	2033
+四胎及以上妊娠	si tai ji yi shang ren shen	352
+思则凯	si ze kai	2309
+速碧林	su bi lin	2249
+塑化剂暴露	su hua ji bao lu	1073
+随访记录	sui fang ji lu	1764
+随访义务	sui fang yi wu	1811
+随机对照试验	sui ji dui zhao shi yan	1498
+随机监督抽查	sui ji jian du chou cha	1720
+胎动计数	tai dong ji shu	562
+胎儿磁共振	tai er ci gong zhen	566
+胎儿窘迫	tai er jiong po	278
+胎儿生物物理评分	tai er sheng wu wu li ping fen	558
+胎儿生长监测	tai er sheng zhang jian ce	557
+胎儿生长受限	tai er sheng zhang shou xian	279
+胎儿心脏超声	tai er xin zang chao sheng	567
+胎膜早破	tai mo zao po	283
+胎盘位置	tai pan wei zhi	560
+胎盘血栓形成	tai pan xue shuan xing cheng	945
+胎盘早剥	tai pan zao bo	287
+胎盘粘连	tai pan zhan lian	285
+胎盘植入	tai pan zhi ru	286
+台式离心机	tai shi li xin ji	2097
+胎死宫内	tai si gong nei	277
+胎停育病史	tai ting yu bing shi	1256
+胎停育综合征	tai ting yu zong he zheng	947
+胎位不正	tai wei bu zheng	275
+胎位异常	tai wei yi chang	276
+胎心搏动消失	tai xin bo dong xiao shi	374
+胎心监护	tai xin jian hu	563
+胎心胎芽	tai xin tai ya	2350
+胎心胎芽监测	tai xin tai ya jian ce	581
+碳酸氢钠溶液	tan suan qing na rong ye	1939
+探针	tan zhen	1921
+糖化血红蛋白	tang hua xue hong dan bai	835
+糖耐量试验	tang nai liang shi yan	565
+糖尿病	tang niao bing	1315
+糖皮质激素	tang pi zhi ji su	1058
+糖皮质激素副作用	tang pi zhi ji su fu zuo yong	140
+唐氏儿	tang shi er	226
+唐氏综合征	tang shi zong he zheng	1040
+糖原贮积症	tang yuan zhu ji zheng	983
+特定基因突变检测	te ding ji yin tu bian jian ce	761
+特发性不孕	te fa xing bu yun	1095
+特纳综合征	te na zong he zheng	1290
+体格发育评估	ti ge fa yu ping gu	1618
+提前排卵	ti qian pai luan	529
+体视显微镜	ti shi xian wei jing	2117
+体外受精	ti wai shou jing	2557
+体外受精胚胎移植审批	ti wai shou jing pei tai yi zhi shen pi	1807
+体外受精培养液	ti wai shou jing pei yang ye	1969
+体外受精失败	ti wai shou jing shi bai	470
+提醒服务	ti xing fu wu	1514
+体重管理	ti zhong guan li	1636
+体重相关性闭经	ti zhong xiang guan xing bi jing	1398
+体重增加	ti zhong zeng jia	150
+天冬氨酸氨基转移酶	tian dong an suan an ji zhuan yi mei	625
+田间管理员	tian jian guan li yuan	77
+田间巡查	tian jian xun cha	10
+条码扫描仪	tiao ma sao miao yi	2086
+铁蛋白	tie dan bai	611
+铁剂	tie ji	1652
+听力筛查	ting li shai cha	1621
+听力障碍	ting li zhang ai	91
+同伴支持	tong ban zhi chi	1696
+同房困难	tong fang kun nan	1171
+通风橱	tong feng chu	2093
+统计分析	tong ji fen xi	1494
+同型半胱氨酸	tong xing ban guang an suan	612
+同种免疫型复发性流产	tong zhong mian yi xing fu fa xing liu chan	1057
+头孢地尼	tou bao di ni	2236
+头孢呋辛	tou bao fu xin	2233
+头孢拉定	tou bao la ding	2235
+头孢类抗生素	tou bao lei kang sheng su	2237
+头部畸形率	tou bu ji xing lv	719
+透明带打孔	tou ming dai da kong	2517
+透明带打孔针	tou ming dai da kong zhen	2018
+透明带破裂	tou ming dai po lie	449
+透明带破碎	tou ming dai po sui	435
+透明带增厚	tou ming dai zeng hou	436
+投诉建议	tou su jian yi	1484
+投诉举报	tou su ju bao	1741
+突变	tu bian	940
+土层厚度	tu ceng hou du	70
+土层厚度达标	tu ceng hou du da biao	22
+土地平整	tu di ping zheng	46
+菟丝子	tu si zi	2205
+土质	tu zhi	71
+土质好	tu zhi hao	23
+退出机制	tui chu ji zhi	1848
+退苗	tui miao	37
+推拿	tui na	1649
+臀位	tun wei	273
+脱氢表雄酮	tuo qing biao xiong tong	2211
+外商投资企业批准证书	wai shang tou zi qi ye pi zhun zheng shu	1846
+外周血染色体核型分析	wai zhou xue ran se ti he xing fen xi	769
+外周血染色体核型分析双方	wai zhou xue ran se ti he xing fen xi shuang fang	666
+晚婚晚育	wan hun wan yu	1476
+晚期流产	wan qi liu chan	282
+晚期妊娠丢失	wan qi ren shen diu shi	104
+完全流产	wan quan liu chan	950
+完全受精失败	wan quan shou jing shi bai	469
+完全型雄激素不敏感综合征	wan quan xing xiong ji su bu min gan zong he zheng	919
+完全纵隔子宫	wan quan zong ge zi gong	1361
+网络谣言应对	wang luo yao yan ying dui	1584
+尾部畸形率	wei bu ji xing lv	717
+尾部卷曲	wei bu juan qu	1190
+未查明原因	wei cha ming yuan yin	1093
+未成熟卵体外成熟	wei cheng shu luan ti wai cheng shu	2325
+微重复综合征	wei chong fu zong he zheng	1020
+微刺激方案	wei ci ji fang an	2432
+微滴培养皿	wei di pei yang min	2031
+威尔森病	wei er sen bing	987
+违法违规机构黑名单	wei fa wei gui ji gou hei ming dan	1744
+未分化结缔组织病	wei fen hua jie di zu zhi bing	1338
+维护供受双方和后代利益的原则	wei hu gong shou shuang fang he hou dai li yi de yuan ze	1869
+未婚生育	wei hun sheng yu	1474
+未见新叶	wei jian xin ye	12
+卫科教发号	wei ke jiao fa hao	1877
+微粒化黄体酮胶囊	wei li hua huang ti tong jiao nang	2271
+威廉姆斯综合征	wei lian mu si zong he zheng	1024
+微量分光光度计	wei liang fen guang guang du ji	1931
+微量移液器	wei liang yi ye qi	2022
+未破裂卵泡黄素化综合征	wei po lie luan pao huang su hua zong he zheng	1427
+未取得资质非法开展	wei qu de zi zhi fei fa kai zhan	1750
+微缺失	wei que shi	1019
+微缺失综合征	wei que shi zong he zheng	1026
+卫生部令第号	wei sheng bu ling di hao	1878
+卫生监督执法	wei sheng jian du zhi fa	1722
+卫生健康主管部门	wei sheng jian kang zhu guan bu men	1723
+卫生经济学	wei sheng jing ji xue	1500
+维生素补充	wei sheng su bu chong	1654
+微信公众号	wei xin gong zhong hao	1598
+喂养指导	wei yang zhi dao	1609
+问答社区	wen da she qu	1595
+温度波动	wen du bo dong	406
+温度监控系统	wen du jian kong xi tong	1897
+温度异常警报	wen du yi chang jing bao	210
+稳根剂	wen gen ji	18
+温和刺激方案	wen he ci ji fang an	2428
+卧床休息	wo chuang xiu xi	2358
+沃尔弗拉姆综合征	wo er fu la mu zong he zheng	864
+无尘吸头	wu chen xi tou	2020
+无创产前基因检测	wu chuang chan qian ji yin jian ce	576
+无创产前检测	wu chuang chan qian jian ce	577
+无创胚胎染色体检测	wu chuang pei tai ran se ti jian ce	2461
+无蛋白培养液	wu dan bai pei yang ye	1962
+戊二醛	wu er quan	1910
+无法取到卵子	wu fa qu dao luan zi	132
+无法射精	wu fa she jing	1173
+无活产结局	wu huo chan jie ju	97
+无精液症	wu jing ye zheng	1213
+无精子症	wu jing zi zheng	1226
+无菌检测试剂	wu jun jian ce shi ji	1906
+无菌取精杯	wu jun qu jing bei	1987
+无菌纱布	wu jun sha bu	2041
+无菌生理盐水	wu jun sheng li yan shui	2038
+无菌试管	wu jun shi guan	2025
+无菌手套	wu jun shou tao	2044
+无菌注射用水	wu jun zhu she yong shui	1938
+无可移植胚胎	wu ke yi zhi pei tai	426
+无可用囊胚	wu ke yong nang pei	425
+无排卵	wu pai luan	1433
+无胚芽妊娠	wu pei ya ren shen	376
+戊酸雌二醇	wu suan ci er chun	2377
+无痛取卵	wu tong qu luan	2410
+无尾精子症	wu wei jing zi zheng	1191
+无原核受精	wu yuan he shou jing	464
+无助感	wu zhu gan	167
+细胞	xi bao	598
+细胞表面受体	xi bao biao mian shou ti	777
+细胞功能异常	xi bao gong neng yi chang	959
+细胞活性增高	xi bao huo xing zeng gao	1336
+细胞因子谱	xi bao yin zi pu	773
+细胞因子失衡	xi bao yin zi shi heng	960
+吸毒	xi du	1110
+稀发排卵	xi fa pai luan	1432
+习惯性流产	xi guan xing liu chan	954
+细菌培养皿	xi jun pei yang min	1904
+细菌污染	xi jun wu ran	401
+细菌性阴道病反复发作	xi jun xing yin dao bing fan fu fa zuo	895
+细菌性阴道病检测	xi jun xing yin dao bing jian ce	741
+系列培养液	xi lie pei yang ye	1959
+喜美康	xi mei kang	2284
+西曲瑞克	xi qu rui ke	2306
+硒缺乏	xi que fa	1108
+系统性红斑狼疮	xi tong xing hong ban lang chuang	1342
+吸烟	xi yan	1243
+吸引器	xi yin qi	2071
+下次周期	xia ci zhou qi	2342
+下腹痛	xia fu tong	498
+下降	xia jiang	359
+下丘脑垂体卵巢轴异常	xia qiu nao chui ti luan chao zhou yi chang	1321
+下丘脑垂体性腺轴功能异常	xia qiu nao chui ti xing xian zhou gong neng yi chang	1143
+下丘脑性闭经	xia qiu nao xing bi jing	1403
+下丘脑肿瘤	xia qiu nao zhong liu	926
+下游法	xia you fa	2521
+线粒体病	xian li ti bing	867
+线粒体遗传病	xian li ti yi chuan bing	1278
+线粒体置换技术	xian li ti zhi huan ji shu	2470
+限期整改	xian qi zheng gai	1850
+线上课程	xian shang ke cheng	1599
+先天性白内障综合征	xian tian xing bai nei zhang zong he zheng	876
+先天性红细胞生成异常性贫血	xian tian xing hong xi bao sheng cheng yi chang xing pin xue	886
+先天性肌强直	xian tian xing ji qiang zhi	972
+先天性畸形	xian tian xing ji xing	223
+先天性肾上腺皮质增生	xian tian xing shen shang xian pi zhi zeng sheng	1304
+先天性生殖道畸形	xian tian xing sheng zhi dao ji xing	1332
+先天性输精管缺如	xian tian xing shu jing guan que ru	1149
+先天性输卵管缺如	xian tian xing shu luan guan que ru	1450
+先天性外胚层发育不良	xian tian xing wai pei ceng fa yu bu liang	887
+先天性无阴道	xian tian xing wu yin dao	1326
+先天性无子宫	xian tian xing wu zi gong	1358
+先天性心脏病	xian tian xing xin zang bing	994
+先天性遗传病	xian tian xing yi chuan bing	222
+先天性子宫畸形	xian tian xing zi gong ji xing	1369
+先天愚型	xian tian yu xing	227
+显微操作台	xian wei cao zuo tai	2115
+显微操作仪	xian wei cao zuo yi	2116
+纤维蛋白原	xian wei dan bai yuan	630
+显微睾丸取精	xian wei gao wan qu jing	2483
+显微固定针	xian wei gu ding zhen	2112
+显微镜	xian wei jing	2119
+显微切割仪	xian wei qie ge yi	2111
+显微取精未找到精子	xian wei qu jing wei zhao dao jing zi	471
+显微注射系统	xian wei zhu she xi tong	2114
+显微注射针	xian wei zhu she zhen	2113
+先兆流产	xian zhao liu chan	952
+消毒供应中心	xiao du gong ying zhong xin	2145
+消毒剂	xiao du ji	1913
+消毒液	xiao du ye	2039
+硝呋太尔	xiao fu tai er	2225
+小卵泡排卵	xiao luan pao pai luan	1428
+小排畸	xiao pai ji	568
+小时尿游离皮质醇	xiao shi niao you li pi zhi chun	832
+小头精子症	xiao tou jing zi zheng	1195
+小型液氮容器	xiao xing ye dan rong qi	2103
+小阴茎	xiao yin jing	1167
+小于胎龄儿	xiao yu tai ling er	250
+心电监护仪	xin dian jian hu yi	2075
+心电图	xin dian tu	606
+心电图机	xin dian tu ji	2076
+心动过速	xin dong guo su	135
+心理辅导	xin li fu dao	1708
+心理健康	xin li jian kang	1706
+心理科	xin li ke	1558
+心理评估	xin li ping gu	1707
+心理热线	xin li re xian	1684
+心理疏导	xin li shu dao	1693
+心理因素	xin li yin su	1080
+心理咨询	xin li zi xun	1709
+心理咨询门诊	xin li zi xun men zhen	2151
+心理咨询师	xin li zi xun shi	2125
+芯片扫描仪	xin pian sao miao yi	1934
+锌缺乏	xin que fa	1109
+新生儿败血症	xin sheng er bai xue zheng	243
+新生儿低钙血症	xin sheng er di gai xue zheng	237
+新生儿低血糖	xin sheng er di xue tang	238
+新生儿肺炎	xin sheng er fei yan	244
+新生儿高胆红素血症	xin sheng er gao dan hong su xue zheng	240
+新生儿寒冷损伤综合征	xin sheng er han leng sun shang zong he zheng	236
+新生儿呼吸窘迫综合征	xin sheng er hu xi jiong po zong he zheng	245
+新生儿坏死性小肠结肠炎	xin sheng er huai si xing xiao chang jie chang yan	235
+新生儿黄疸	xin sheng er huang dan	242
+新生儿疾病筛查	xin sheng er ji bing shai cha	1622
+新生儿颅内出血	xin sheng er lu nei chu xue	246
+新生儿缺氧缺血性脑病	xin sheng er que yang que xue xing nao bing	247
+新生儿溶血症	xin sheng er rong xue zheng	241
+新生儿死亡	xin sheng er si wang	100
+新生儿随访	xin sheng er sui fang	1626
+新生儿糖尿病	xin sheng er tang niao bing	866
+新生儿窒息	xin sheng er zhi xi	248
+新闻媒体监督	xin wen mei ti jian du	1715
+信息安全	xin xi an quan	1485
+信息透明	xin xi tou ming	1586
+信息泄漏禁止	xin xi xie lou jin zhi	1765
+新鲜胚胎移植	xin xian pei tai yi zhi	2498
+心血管健康	xin xue guan jian kang	1614
+新药研发	xin yao yan fa	1480
+信用制度	xin yong zhi du	1743
+性发育延迟	xing fa yu yan chi	955
+性功能障碍	xing gong neng zhang ai	174
+性激素结合球蛋白	xing ji su jie he qiu dan bai	829
+性激素六项	xing ji su liu xiang	854
+性激素水平异常	xing ji su shui ping yi chang	1320
+性价比	xing jia bi	1661
+性染色体结构异常	xing ran se ti jie gou yi chang	1015
+性染色体数目异常	xing ran se ti shu mu yi chang	1016
+性染色体异常	xing ran se ti yi chang	1291
+行善原则	xing shan yuan ze	1861
+性生活频次过多	xing sheng huo pin ci guo duo	1083
+性生活频次过少	xing sheng huo pin ci guo shao	1084
+性生活失调	xing sheng huo shi tiao	1085
+形态学	xing tai xue	590
+型糖尿病	xing tang niao bing	1314
+性腺发育不全	xing xian fa yu bu quan	912
+性欲低下	xing yu di xia	1176
+性欲减退	xing yu jian tui	1175
+性早熟	xing zao shu	956
+行政处罚	xing zheng chu fa	1830
+行政处罚自由裁量权	xing zheng chu fa zi you cai liang quan	1719
+行政检查	xing zheng jian cha	1718
+性知识缺乏	xing zhi shi que fa	1081
+雄激素不敏感综合征	xiong ji su bu min gan zong he zheng	1042
+雄激素过高	xiong ji su guo gao	1319
+雄激素结合蛋白	xiong ji su jie he dan bai	830
+雄激素受体基因突变	xiong ji su shou ti ji yin tu bian	1125
+雄激素水平低下	xiong ji su shui ping di xia	1141
+雄烯二酮	xiong xi er tong	851
+凶险性前置胎盘	xiong xian xing qian zhi tai pan	284
+羞耻感	xiu chi gan	164
+休米根	xiu mi gen	2285
+溴隐亭	xiu yin ting	2190
+续断	xu duan	2203
+序贯培养液	xu guan pei yang ye	1965
+酗酒	xu jiu	1242
+宣教护士	xuan jiao hu shi	2130
+选择性减胎	xuan ze xing jian tai	1778
+选择性胎儿生长受限	xuan ze xing tai er sheng zhang shou xian	341
+血常规	xue chang gui	643
+血睾屏障破坏	xue gao ping zhang po huai	1122
+血管迷走性晕厥	xue guan mi zou xing yun jue	484
+血管损伤	xue guan sun shang	491
+血红蛋白	xue hong dan bai	641
+血肌酐	xue ji gan	621
+血精症	xue jing zheng	1202
+血尿素氮	xue niao su dan	620
+雪诺同	xue nuo tong	2273
+雪诺酮	xue nuo tong	2379
+血清雌二醇	xue qing ci er chun	696
+血清泌乳素	xue qing mi ru su	695
+血清替代品	xue qing ti dai pin	1944
+血清性激素结合球蛋白	xue qing xing ji su jie he qiu dan bai	693
+血清游离睾酮	xue qing you li gao tong	697
+血清孕酮	xue qing yun tong	694
+血清总睾酮	xue qing zong gao tong	698
+血色素沉着症	xue se su chen zhuo zheng	856
+学术论文	xue shu lun wen	1493
+血栓前状态	xue shuan qian zhuang tai	1054
+血栓性微血管病	xue shuan xing wei xue guan bing	262
+血糖	xue tang	842
+血细胞比容	xue xi bao bi rong	636
+血小板功能异常	xue xiao ban gong neng yi chang	1050
+血小板计数	xue xiao ban ji shu	639
+血小板聚集功能异常	xue xiao ban ju ji gong neng yi chang	938
+血型	xue xing	610
+血型不合	xue xing bu he	1102
+血压波动	xue ya bo dong	136
+血液科	xue ye ke	1559
+血友病基因筛查	xue you bing ji yin shai cha	659
+血脂	xue zhi	618
+压力管理	ya li guan li	1701
+亚临床甲减	ya lin chuang jia jian	1411
+延长培养	yan chang pei yang	2511
+严防商业化原则	yan fang shang ye hua yuan ze	1871
+严格掌握适应证	yan ge zhang wo shi ying zheng	1781
+严禁私自采精	yan jin si zi cai jing	1820
+眼脑肾综合征	yan nao shen zong he zheng	875
+眼皮肤白化病	yan pi fu bai hua bing	996
+厌食	yan shi	177
+盐水灌注超声子宫造影	yan shui guan zhu chao sheng zi gong zao ying	810
+验孕	yan yun	2369
+样本保存失败	yang ben bao cun shi bai	203
+样本管理系统	yang ben guan li xi tong	1899
+羊膜腔穿刺	yang mo qiang chuan ci	573
+养囊	yang nang	2399
+羊水穿刺	yang shui chuan ci	574
+羊水过多	yang shui guo duo	337
+羊水过少	yang shui guo shao	336
+羊水量监测	yang shui liang jian ce	561
+羊水栓塞	yang shui shuan se	266
+阳痿	yang wei	1179
+阳性	yang xing	2365
+药店	yao dian	1546
+药剂科	yao ji ke	2149
+药剂师	yao ji shi	2126
+药物临床试验质量管理规范	yao wu lin chuang shi yan zhi liang guan li gui fan	1725
+药物性肝损伤	yao wu xing gan sun shang	155
+药物性精液损伤	yao wu xing jing ye sun shang	1115
+药物性卵巢损伤	yao wu xing luan chao sun shang	1246
+药物性皮疹	yao wu xing pi zhen	146
+药物性情绪波动	yao wu xing qing xu bo dong	144
+药物性肾损伤	yao wu xing shen sun shang	154
+药物性头晕头痛	yao wu xing tou yun tou tong	145
+药物因素	yao wu yin su	1065
+液氮补给罐	ye dan bu gei guan	1989
+液氮存储库	ye dan cun chu ku	2153
+液氮罐	ye dan guan	2104
+液氮罐爆裂	ye dan guan bao lie	212
+液氮罐事故	ye dan guan shi gu	413
+液氮泄漏	ye dan xie lou	213
+液氮液位监控系统	ye dan ye wei jian kong xi tong	1898
+液氮运输罐	ye dan yun shu guan	1990
+液基薄层细胞学检查	ye ji bao ceng xi bao xue jian cha	749
+叶酸	ye suan	2213
+叶酸补充	ye suan bu chong	1655
+液体溢出事故	ye ti yi chu shi gu	201
+夜针	ye zhen	2419
+夜针后未取到卵	ye zhen hou wei qu dao luan	524
+医保报销	yi bao bao xiao	1677
+异常	yi chang	405
+异常受精	yi chang shou jing	2402
+一超	yi chao	2353
+遗传病高风险	yi chuan bing gao feng xian	1280
+遗传病携带者筛查	yi chuan bing xie dai zhe shai cha	760
+遗传代谢病筛查	yi chuan dai xie bing shai cha	656
+遗传科	yi chuan ke	1562
+遗传性耳聋	yi chuan xing er long	1000
+遗传性耳聋基因筛查	yi chuan xing er long ji yin shai cha	658
+遗传性非息肉性结直肠癌	yi chuan xing fei xi rou xing jie zhi chang ai	1006
+遗传性卵巢癌	yi chuan xing luan chao ai	988
+遗传性乳腺癌	yi chuan xing ru xian ai	989
+遗传性血管神经性水肿	yi chuan xing xue guan shen jing xing shui zhong	858
+遗传性血栓性血小板减少性紫癜	yi chuan xing xue shuan xing xue xiao ban jian shao xing zi dian	970
+遗传性眼病基因筛查	yi chuan xing yan bing ji yin shai cha	657
+遗传性易栓症	yi chuan xing yi shuan zheng	1053
+遗传学检测	yi chuan xue jian ce	2392
+遗传学实验室	yi chuan xue shi yan shi	2160
+遗传咨询门诊	yi chuan zi xun men zhen	2152
+遗传咨询师	yi chuan zi xun shi	2139
+胰岛素	yi dao su	839
+胰岛素抵抗	yi dao su di kang	1312
+胰岛素释放试验	yi dao su shi fang shi yan	836
+异地就医	yi di jiu yi	1517
+依法查处违法行为	yi fa cha chu wei fa xing wei	1717
+依法依规执业	yi fa yi gui zhi ye	1774
+乙肝表面抗体	yi gan biao mian kang ti	652
+乙肝病毒检测	yi gan bing du jian ce	669
+乙肝核心抗体	yi gan he xin kang ti	651
+医患沟通	yi huan gou tong	1587
+医疗贷款	yi liao dai kuan	1663
+医疗费用	yi liao fei yong	1682
+医疗公平	yi liao gong ping	1465
+医疗机构病历管理规定	yi liao ji gou bing li guan li gui ding	1880
+医疗机构管理条例	yi liao ji gou guan li tiao li	1885
+医疗机构执业许可证	yi liao ji gou zhi ye xu ke zheng	1847
+医疗监督执法	yi liao jian du zhi fa	1721
+医疗救助	yi liao jiu zhu	1672
+医疗旅游顾问	yi liao lv you gu wen	1548
+医疗器械供应商	yi liao qi xie gong ying shang	1543
+医疗器械临床试验规定	yi liao qi xie lin chuang shi yan gui ding	1724
+医疗文书	yi liao wen shu	1772
+医疗依从性差	yi liao yi cong xing cha	159
+疫苗接种	yi miao jie zhong	1608
+益母草	yi mu cao	2191
+抑那通	yi na tong	2318
+依诺肝素	yi nuo gan su	2248
+异染性脑白质营养不良	yi ran xing nao bai zhi ying yang bu liang	874
+医生口碑	yi sheng kou bei	1483
+艺术治疗	yi shu zhi liao	1687
+意外排卵	yi wai pai luan	528
+异位妊娠大出血	yi wei ren shen da chu xue	362
+异位妊娠破裂	yi wei ren shen po lie	363
+异位妊娠术后	yi wei ren shen shu hou	1439
+乙型肝炎病毒表面抗原	yi xing gan yan bing du biao mian kang yuan	653
+乙型肝炎病毒感染	yi xing gan yan bing du gan ran	1261
+医学会议	yi xue hui yi	1492
+医学伦理委员会	yi xue lun li wei yuan hui	1841
+医学业务培训	yi xue ye wu pei xun	1776
+医学资讯	yi xue zi xun	1593
+医药电商	yi yao dian shang	1545
+移液管	yi ye guan	2024
+移液器	yi ye qi	2023
+以医疗为目的	yi yi liao wei mu di	1782
+医用酒精	yi yong jiu jing	1912
+抑郁	yi yu	1704
+抑郁发作	yi yu fa zuo	183
+医院排名	yi yuan pai ming	1482
+衣原体感染	yi yuan ti gan ran	1270
+衣原体感染后遗症	yi yuan ti gan ran hou yi zheng	903
+衣原体检测	yi yuan ti jian ce	743
+衣原体抗体	yi yuan ti kang ti	646
+移栽	yi zai	20
+移植窗偏移	yi zhi chuang pian yi	308
+移植导管无法通过宫颈	yi zhi dao guan wu fa tong guo gong jing	129
+移植管	yi zhi guan	2387
+移植管尖端堵塞	yi zhi guan jian duan du se	393
+移植管损伤子宫内膜	yi zhi guan sun shang zi gong nei mo	394
+移植管无法置入	yi zhi guan wu fa zhi ru	398
+移植后出血	yi zhi hou chu xie	2356
+移植后导管带血	yi zhi hou dao guan dai xue	128
+移植后第几天	yi zhi hou di ji tian	2370
+移植后反复着床障碍	yi zhi hou fan fu zhuo chuang zhang ai	309
+移植后腹痛	yi zhi hou fu tong	387
+移植后感染	yi zhi hou gan ran	383
+移植后休息	yi zhi hou xiu xi	2384
+移植后用药	yi zhi hou yong yao	2383
+移植护士	yi zhi hu shi	2131
+移植胶	yi zhi jiao	1955
+移植困难	yi zhi kun nan	399
+移植内管	yi zhi nei guan	2049
+移植胚胎丢失	yi zhi pei tai diu shi	381
+移植前遗传学诊断	yi zhi qian yi chuan xue zhen duan	2330
+移植日	yi zhi ri	2388
+移植外管	yi zhi wai guan	2050
+移植针芯	yi zhi zhen xin	2048
+医嘱	yi zhu	2447
+医嘱系统	yi zhu xi tong	1893
+阴道壁穿刺出血	yin dao bi chuan ci chu xie	514
+阴道闭锁	yin dao bi suo	1331
+阴道超声	yin dao chao sheng	824
+阴道超声探头	yin dao chao sheng tan tou	2079
+阴道分泌物常规	yin dao fen mi wu chang gui	746
+阴道给药	yin dao gei yao	2174
+阴道横隔	yin dao heng ge	1329
+阴道流血	yin dao liu xue	372
+阴道塞药	yin dao sai yao	2173
+阴道斜隔	yin dao xie ge	1327
+阴道炎	yin dao yan	1271
+阴道纵隔	yin dao zong ge	1328
+隐睾术后	yin gao shu hou	1161
+隐睾症	yin gao zheng	1164
+印记基因缺陷	yin ji ji yin que xian	219
+阴茎海绵体超声	yin jing hai mian ti chao sheng	676
+阴茎弯曲	yin jing wan qu	1166
+阴茎异常勃起	yin jing yi chang bo qi	1174
+阴囊彩色多普勒超声	yin nang cai se duo pu le chao sheng	677
+阴囊超声	yin nang chao sheng	686
+隐匿精子症	yin ni jing zi zheng	1221
+隐匿性流产	yin ni xing liu chan	379
+饮食调理	yin shi tiao li	1660
+饮食外送	yin shi wai song	1515
+饮食障碍	yin shi zhang ai	179
+隐私保护	yin si bao hu	1486
+隐私权	yin si quan	1817
+引物	yin wu	1922
+阴性	yin xing	2364
+阴性结果	yin xing jie guo	110
+淫羊藿	yin yang huo	2194
+音乐治疗	yin yue zhi liao	1686
+婴儿出生后残疾	ying er chu sheng hou can ji	95
+婴儿服饰	ying er fu shi	1534
+婴儿奶粉	ying er nai fen	1536
+婴儿死亡	ying er si wang	99
+荧光显微镜	ying guang xian wei jing	1930
+荧光原位杂交	ying guang yuan wei za jiao	767
+荧光原位杂交探针	ying guang yuan wei za jiao tan zhen	1929
+硬化性苔藓	ying hua xing tai xian	1046
+硬皮病	ying pi bing	1339
+营养保健品	ying yang bao jian pin	1532
+营养建议	ying yang jian yi	1659
+营养科	ying yang ke	1557
+营养缺乏	ying yang que fa	1307
+硬移植管	ying yi zhi guan	2051
+永久保存	yong jiu bao cun	1771
+永久性新生儿糖尿病	yong jiu xing xin sheng er tang niao bing	865
+用药指导	yong yao zhi dao	2446
+油层矿物油	you ceng kuang wu you	1948
+幼果	you guo	65
+有机酸代谢病	you ji suan dai xie bing	870
+游离睾酮	you li gao tong	828
+游离甲状腺素	you li jia zhuang xian su	845
+游离三碘甲状腺原氨酸	you li san dian jia zhuang xian yuan an suan	846
+有利于患者的原则	you li yu huan zhe de yuan ze	1876
+优思明	you si ming	2256
+有氧运动	you yang yun dong	1643
+优质胚胎	you zhi pei tai	2396
+幼稚子宫	you zhi zi gong	1359
+优种源	you zhong yuan	86
+预充注射液笔	yu chong zhu she ye bi	2169
+预处理	yu chu li	2444
+预计收获期	yu ji shou huo qi	9
+瑜伽	yu jia	1688
+鱼鳞病	yu lin bing	878
+育苗	yu miao	34
+育苗车间	yu miao che jian	32
+育苗技术员	yu miao ji shu yuan	78
+预约挂号	yu yue gua hao	1522
+预准入评审	yu zhun ru ping shen	1802
+原发性闭经	yuan fa xing bi jing	908
+原发性纤毛运动障碍	yuan fa xing xian mao yun dong zhang ai	1044
+原核观察	yuan he guan cha	2405
+圆头精子比例	yuan tou jing zi bi li	716
+圆头精子症	yuan tou jing zi zheng	1196
+原位癌	yuan wei ai	936
+院校农学背景	yuan xiao nong xue bei jing	61
+原因不明性不孕	yuan yin bu ming xing bu yun	1096
+月经第天	yue jing di tian	2451
+月经周期	yue jing zhou qi	1526
+月子中心	yue zi zhong xin	1539
+运动性闭经	yun dong xing bi jing	1399
+运动指导	yun dong zhi dao	1645
+孕激素	yun ji su	2254
+孕激素水平不足	yun ji su shui ping bu zu	1316
+孕囊偏低	yun nang pian di	368
+孕囊位置	yun nang wei zhi	580
+孕囊位置异常	yun nang wei zhi yi chang	369
+孕期护肤品	yun qi hu fu pin	1533
+孕酮	yun tong	2423
+孕酮测定	yun tong ce ding	584
+孕酮持续性低水平	yun tong chi xu xing di shui ping	357
+孕酮过低	yun tong guo di	358
+孕酮受体	yun tong shou ti	826
+孕酮提前升高	yun tong ti qian sheng gao	520
+孕酮值	yun tong zhi	2361
+孕晚期流产	yun wan qi liu chan	102
+孕中期流产	yun zhong qi liu chan	103
+在线心理援助	zai xian xin li yuan zhu	1683
+早产	zao chan	335
+早产儿	zao chan er	252
+早产儿护理	zao chan er hu li	1610
+早产胎膜早破	zao chan tai mo zao po	333
+早发性卵巢功能不全	zao fa xing luan chao gong neng bu quan	1419
+早发性孕酮升高	zao fa xing yun tong sheng gao	519
+早期妊娠丢失	zao qi ren shen diu shi	105
+早期唐氏筛查	zao qi tang shi shai cha	579
+早泄	zao xie	1178
+早孕反应	zao yun fan ying	2354
+早孕期超声	zao yun qi chao sheng	582
+早孕期阴道出血	zao yun qi yin dao chu xue	371
+早孕试纸	zao yun shi zhi	2367
+增重	zeng zhong	1633
+扎根	zha gen	16
+长势稳健	zhang shi wen jian	11
+掌跖角化病	zhang zhi jiao hua bing	877
+针刺恐惧	zhen ci kong ju	161
+诊断性腹腔镜	zhen duan xing fu qiang jing	790
+诊断性宫腔镜	zhen duan xing gong qiang jing	801
+针灸	zhen jiu	1650
+真菌污染	zhen jun wu ran	400
+真两性畸形	zhen liang xing ji xing	916
+阵列比较基因组杂交试剂	zhen lie bi jiao ji yin zu za jiao shi ji	1928
+针形精子症	zhen xing jing zi zheng	1193
+珍怡	zhen yi	2216
+政策风向	zheng ce feng xiang	1479
+正常检查结果但未孕	zheng chang jian cha jie guo dan wei yun	1090
+正常形态精子百分比	zheng chang xing tai jing zi bai fen bi	720
+整地	zheng di	25
+证件审核	zheng jian shen he	2453
+正念疗法	zheng nian liao fa	1692
+正式准入评审	zheng shi zhun ru ping shen	1801
+致病性微缺失综合征	zhi bing xing wei que shi zong he zheng	1027
+脂肪酸氧化障碍	zhi fang suan yang hua zhang ai	869
+质控试剂	zhi kong shi ji	1908
+质控失控	zhi kong shi kong	200
+质控样品	zhi kong yang pin	1937
+智力发育迟滞	zhi li fa yu chi zhi	94
+智力发育评估	zhi li fa yu ping gu	1619
+质量控制与评价	zhi liang kong zhi yu ping jia	1834
+治疗抵抗	zhi liao di kang	314
+治疗过程焦虑	zhi liao guo cheng jiao lv	185
+治疗恐惧	zhi liao kong ju	162
+治疗时间表	zhi liao shi jian biao	1523
+治疗相关强迫行为	zhi liao xiang guan qiang po xing wei	181
+制霉菌素	zhi mei jun su	2221
+纸尿裤	zhi niao ku	1535
+知情权	zhi qing quan	1818
+知情同意不充分	zhi qing tong yi bu chong fen	190
+知情同意的原则	zhi qing tong yi de yuan ze	1875
+知情同意电子签章系统	zhi qing tong yi dian zi qian zhang xi tong	1890
+知情同意权	zhi qing tong yi quan	1819
+知情同意书	zhi qing tong yi shu	1837
+知情选择的自愿原则	zhi qing xuan ze de zi yuan yuan ze	1867
+知识竞赛	zhi shi jing sai	1588
+致死性侏儒症	zhi si xing zhu ru zheng	990
+职业暴露	zhi ye bao lu	1244
+支原体感染	zhi yuan ti gan ran	1269
+支原体感染后遗症	zhi yuan ti gan ran hou yi zheng	902
+支原体检测试剂盒	zhi yuan ti jian ce shi ji he	1905
+支原体抗体	zhi yuan ti kang ti	645
+支原体培养	zhi yuan ti pei yang	744
+支原体污染	zhi yuan ti wu ran	402
+志愿者服务	zhi yuan zhe fu wu	1578
+众筹平台	zhong chou ping tai	1568
+重大案件查处	zhong da an jian cha chu	1716
+重度腹腔内出血	zhong du fu qiang nei chu xie	508
+重度焦虑	zhong du jiao lv	184
+中度卵巢过度刺激综合征	zhong du luan chao guo du ci ji zong he zheng	553
+重度卵巢过度刺激综合征	zhong du luan chao guo du ci ji zong he zheng	552
+中度弱精子症	zhong du ruo jing zi zheng	1231
+重度弱精子症	zhong du ruo jing zi zheng	1230
+中度少精子症	zhong du shao jing zi zheng	1236
+重度少精子症	zhong du shao jing zi zheng	1235
+重度少弱畸精子症	zhong du shao ruo ji jing zi zheng	1218
+重度抑郁	zhong du yi yu	182
+重度子痫前期	zhong du zi xian qian qi	292
+中国反对拐卖人口行动计划	zhong guo fan dui guai mai ren kou xing dong ji hua	1879
+中华人民共和国个人信息保护法	zhong hua ren min gong he guo ge ren xin xi bao hu fa	1886
+中华人民共和国居民身份证法	zhong hua ren min gong he guo ju min shen fen zheng fa	1887
+中华人民共和国民法典	zhong hua ren min gong he guo min fa dian	1889
+中华人民共和国母婴保健法	zhong hua ren min gong he guo mu ying bao jian fa	1888
+种荚	zhong jia	75
+重金属暴露	zhong jin shu bao lu	1070
+肿瘤坏死因子	zhong liu huai si yin zi	772
+中期唐氏筛查	zhong qi tang shi shai cha	578
+重型地中海贫血	zhong xing di zhong hai pin xue	1013
+中性粒细胞计数	zhong xing li xi bao ji shu	638
+中药调理	zhong yao tiao li	1647
+中医科	zhong yi ke	1556
+中医调理	zhong yi tiao li	1651
+种源测序	zhong yuan ce xu	54
+种源地	zhong yuan di	60
+种源合格	zhong yuan he ge	56
+种源溯源	zhong yuan su yuan	53
+种源有瑕疵	zhong yuan you xia ci	55
+种源质量检测	zhong yuan zhi liang jian ce	57
+重症联合免疫缺陷	zhong zheng lian he mian yi que xian	861
+种植窗后移	zhong zhi chuang hou yi	306
+种植窗口期	zhong zhi chuang kou qi	2332
+种植窗口前移	zhong zhi chuang kou qian yi	307
+中止治疗权	zhong zhi zhi liao quan	1814
+终止周期	zhong zhi zhou qi	2343
+种子	zhong zi	74
+周期方案	zhou qi fang an	2178
+周期累积失败	zhou qi lei ji shi bai	310
+周期启动	zhou qi qi dong	2452
+周期取消	zhou qi qu xiao	2344
+周期取消率	zhou qi qu xiao lv	1506
+主动脉瓣二叶畸形	zhu dong mai ban er ye ji xing	992
+注射部位感染	zhu she bu wei gan ran	535
+注射部位红肿	zhu she bu wei hong zhong	537
+注射部位疼痛	zhu she bu wei teng tong	147
+注射部位硬结	zhu she bu wei ying jie	536
+注射后卵子崩解	zhu she hou luan zi beng jie	454
+注射后卵子退化	zhu she hou luan zi tui hua	453
+注射器	zhu she qi	2045
+注射用醋酸曲普瑞林	zhu she yong cu suan qu pu rui lin	2322
+注射用醋酸西曲瑞克	zhu she yong cu suan xi qu rui ke	2310
+注射用黄体酮	zhu she yong huang ti tong	2275
+注射用尿促卵泡素	zhu she yong niao cu luan pao su	2293
+注射用尿促性素	zhu she yong niao cu xing su	2287
+住宿安排	zhu su an pai	1516
+专家访谈	zhuan jia fang tan	1596
+专家论证	zhuan jia lun zheng	1803
+专科护士	zhuan ke hu shi	2134
+专项基金	zhuan xiang ji jin	1666
+专项整治	zhuan xiang zheng zhi	1742
+专业培训	zhuan ye pei xun	1490
+壮苗	zhuang miao	68
+追究刑事责任	zhui jiu xing shi ze ren	1827
+准入审批	zhun ru shen pi	1859
+着床	zhuo chuang	2543
+着床期出血	zhuo chuang qi chu xie	388
+着床失败	zhuo chuang shi bai	106
+桌面培养箱	zhuo mian pei yang xiang	2121
+自卑	zi bei	169
+自闭症风险	zi bi zheng feng xian	1612
+自闭症谱系障碍	zi bi zheng pu xi zhang ai	92
+子代健康	zi dai jian kang	1616
+子代信息登记	zi dai xin xi deng ji	1604
+子代信息反馈	zi dai xin xi fan kui	1762
+自动配液器	zi dong pei ye qi	2085
+自发排卵	zi fa pai luan	517
+自费项目	zi fei xiang mu	1678
+子宫瘢痕妊娠	zi gong ban hen ren shen	364
+子宫穿孔	zi gong chuan kong	125
+子宫动脉血流	zi gong dong mai xue liu	815
+子宫发育异常	zi gong fa yu yi chang	1368
+子宫附件超声	zi gong fu jian chao sheng	822
+子宫肌瘤	zi gong ji liu	1388
+子宫痉挛	zi gong jing luan	384
+子宫内环境异常	zi gong nei huan jing yi chang	944
+子宫内膜白血病抑制因子	zi gong nei mo bai xue bing yi zhi yin zi	595
+子宫内膜薄	zi gong nei mo bo	1378
+子宫内膜非典型增生	zi gong nei mo fei dian xing zeng sheng	1373
+子宫内膜复杂性增生	zi gong nei mo fu za xing zeng sheng	935
+子宫内膜骨桥蛋白	zi gong nei mo gu qiao dan bai	594
+子宫内膜刮取术	zi gong nei mo gua qu shu	794
+子宫内膜厚度测量	zi gong nei mo hou du ce liang	821
+子宫内膜活检	zi gong nei mo huo jian	795
+子宫内膜活检病理	zi gong nei mo huo jian bing li	600
+子宫内膜基因芯片检测	zi gong nei mo ji yin xin pian jian ce	602
+子宫内膜结核	zi gong nei mo jie he	1370
+子宫内膜菌群检测	zi gong nei mo jun qun jian ce	2471
+子宫内膜慢性炎症检测	zi gong nei mo man xing yan zheng jian ce	792
+子宫内膜容受性差	zi gong nei mo rong shou xing cha	305
+子宫内膜容受性检测	zi gong nei mo rong shou xing jian ce	2473
+子宫内膜容受性芯片	zi gong nei mo rong shou xing xin pian	601
+子宫内膜蠕动波检测	zi gong nei mo ru dong bo jian ce	592
+子宫内膜损伤	zi gong nei mo sun shang	1376
+子宫内膜损伤过重	zi gong nei mo sun shang guo zhong	124
+子宫内膜细胞因子检测	zi gong nei mo xi bao yin zi jian ce	597
+子宫内膜息肉	zi gong nei mo xi rou	1382
+子宫内膜形态分型	zi gong nei mo xing tai fen xing	820
+子宫内膜血流检测	zi gong nei mo xue liu jian ce	819
+子宫内膜炎	zi gong nei mo yan	1372
+子宫内膜异位症	zi gong nei mo yi wei zheng	1395
+子宫内膜增生	zi gong nei mo zeng sheng	1375
+子宫内膜增生过长	zi gong nei mo zeng sheng guo chang	1374
+子宫内膜整合素检测	zi gong nei mo zheng he su jian ce	596
+子宫内膜组织病理检查	zi gong nei mo zu zhi bing li jian cha	793
+子宫破裂	zi gong po lie	267
+子宫腔过小	zi gong qiang guo xiao	1360
+子宫搔刮	zi gong sao gua	2339
+子宫输卵管造影	zi gong shu luan guan zao ying	809
+子宫息肉	zi gong xi rou	1383
+子宫腺肌瘤	zi gong xian ji liu	1389
+子宫腺肌症	zi gong xian ji zheng	1390
+子宫自然杀伤细胞检测	zi gong zi ran sha shang xi bao jian ce	599
+自然流产	zi ran liu chan	2346
+自然杀伤细胞活性	zi ran sha shang xi bao huo xing	778
+自然杀伤细胞活性异常	zi ran sha shang xi bao huo xing yi chang	1337
+自然熟落	zi ran shu luo	6
+自然周期	zi ran zhou qi	2373
+自然周期方案	zi ran zhou qi fang an	2429
+自身免疫性疾病	zi shen mian yi xing ji bing	1343
+自身免疫性甲状腺炎	zi shen mian yi xing jia zhuang xian yan	967
+滋肾育胎丸	zi shen yu tai wan	2210
+紫外线消毒灯	zi wai xian xiao du deng	1918
+自我否定	zi wo fou ding	170
+子痫	zi xian	291
+子痫前期	zi xian qian qi	293
+滋养层细胞发育不良	zi yang ceng xi bao fa yu bu liang	428
+滋养外胚层活检	zi yang wai pei ceng huo jian	2507
+自营	zi ying	81
+资源分配	zi yuan fen pei	1464
+资质审查	zi zhi shen cha	1845
+自主选择权	zi zhu xuan ze quan	1815
+自主原则	zi zhu yuan ze	1862
+自尊心低下	zi zun xin di xia	168
+总胆固醇	zong dan gu chun	617
+总睾酮	zong gao tong	827
+纵隔子宫	zong ge zi gong	1367
+综合征	zong he zheng	1325
+足浴	zu yu	1646
+尊重患者隐私权原则	zun zhong huan zhe yin si quan yuan ze	1866
+尊重原则	zun zhong yuan ze	1863
+左氧氟沙星	zuo yang fu sha xing	2228

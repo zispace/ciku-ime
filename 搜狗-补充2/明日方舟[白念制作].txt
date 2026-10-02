@@ -1,0 +1,1061 @@
+# 词库名称: 明日方舟[白念制作]
+# 词库分类: 其他
+# 词库描述: 手游《明日方舟》全干员及其他相关词条
+# 词条样例: 黑角、翎羽、泡普卡、月见夜、斑点、卡提
+# 解析词数: 1054
+# 解析异常: 0
+
+阿格尼尔神父	a ge ni er shen fu	91
+阿兰娜	a lan na	720
+阿利斯泰尔帝国余晖	a li si tai er di guo yu hui	487
+阿罗玛	a luo ma	877
+阿米娅	a mi ya	975
+阿米娅炉芯终曲	a mi ya lu xin zhong qu	450
+阿斯卡纶	a si ka lun	753
+阿消	a xiao	1023
+阿咬	a yao	51
+爱国者	ai guo zhe	524
+艾拉	ai la	752
+埃拉托	ai la tuo	893
+艾丽妮	ai li ni	798
+爱丽丝	ai li si	876
+艾斯黛尔	ai si dai er	1012
+艾雅法拉	ai ya fa la	807
+安比尔	an bi er	1025
+安德切尔	an de qie er	1033
+安魂的弥撒	an hun de mi sa	322
+安洁莉娜	an jie li na	802
+安眠伴随兽	an mian ban sui shou	20
+安纳斯塔西奥赎罪者	an na si ta xi ao shu zui zhe	486
+安赛尔	an sai er	1036
+暗索	an suo	1018
+暗夜无明	an ye wu ming	318
+安哲拉	an zhe la	892
+奥达	ao da	930
+奥斯塔	ao si ta	891
+八臂电锯侠	ba bi dian ju xia	221
+巴别塔	ba bie ta	567
+八幡海铃	ba fan hai ling	706
+巴普洛维奇枢密官	ba pu luo wei qi shu mi guan	437
+靶向药物	ba xiang yao wu	181
+摆渡人	bai du ren	690
+白垩尘世遗骸	bai e chen shi yi hai	507
+柏喙	bai hui	963
+白金	bai jin	890
+百炼嘉维尔	bai lian jia wei er	783
+白马醇	bai ma chun	408
+白面鸮	bai mian xiao	970
+拜松	bai song	909
+白铁	bai tie	756
+白雪	bai xue	1024
+斑点	ban dian	1043
+办公室	ban gong shi	350
+半自然溶剂	ban zi ran rong ji	415
+爆发剂榴莲味	bao fa ji liu lian wei	255
+饱和迸射	bao he beng she	278
+饱和复仇	bao he fu chou	338
+保护性拒止	bao hu xing ju zhi	188
+爆裂黎明	bao lie li ming	337
+暴鸰	bao ling	170
+暴行	bao xing	929
+暴雨	bao yu	908
+暴走食虫花	bao zou shi chong hua	70
+被关押的学生	bei guan ya de xue sheng	9
+贝洛内	bei luo nei	684
+贝娜	bei na	835
+本源近卫	ben yuan jin wei	665
+本源术师	ben yuan shu shi	629
+本源铁卫	ben yuan tie wei	646
+闭膛连发	bi tang lian fa	295
+必须开辟的通路	bi xu kai pi de tong lu	281
+便符	bian fu	15
+变革已至	bian ge yi zhi	197
+鞭刃	bian ren	928
+变形者集群	bian xing zhe ji qun	499
+变异巨岩蛛	bian yi ju yan zhu	131
+编织泪水的术师	bian zhi lei shui de shu shi	457
+并流连锁	bing liu lian suo	201
+冰酿	bing niang	889
+冰原秩序	bing yuan zhi xu	307
+波卜	bo bu	849
+波登可	bo deng ke	984
+钵海收割者	bo hai shou ge zhe	128
+博览者的狂语	bo lan zhe de kuang yu	266
+薄绿	bo lv	875
+搏命养家者	bo ming yang jia zhe	11
+博萨克风暴	bo sa ke feng bao	253
+博卓卡斯替圣卫铳骑	bo zhuo ka si ti sheng wei chong qi	452
+布丁	bu ding	991
+布洛卡	bu luo ka	927
+不屈者	bu qu zhe	653
+不死的黑蛇	bu si de hei she	519
+不义之财	bu yi zhi cai	572
+裁度	cai duo	834
+采购凭证	cai gou ping zheng	366
+残党小提琴家	can dang xiao ti qin jia	106
+残月的余响	can yue de yu xiang	204
+苍苔	cang tai	926
+策略超负荷	ce lue chao fu he	223
+策略熔毁	ce lue rong hui	224
+策士	ce shi	667
+缠丸	chan wan	1011
+常态事务代理卡	chang tai shi wu dai li ka	364
+长夜临光	chang ye lin guang	587
+潮涌悲歌	chao yong bei ge	283
+潮涌潮枯	chao yong chao ku	296
+车尔尼	che er ni	907
+沉沦者的黑流树海	chen lun zhe de hei liu shu hai	540
+沉沙	chen sha	114
+尘影余音	chen ying yu yin	582
+骋风	cheng feng	721
+澄净闪耀	cheng jing shan yao	267
+澄闪	cheng shan	763
+承曦格雷伊	cheng xi ge lei yi	888
+赤冬	chi dong	925
+炽合金	chi he jin	411
+炽合金块	chi he jin kuai	412
+赤金	chi jin	370
+赤刃明霄陈	chi ren ming xiao chen	686
+赤霄拔刀	chi xiao ba dao	289
+赤霄天喟	chi xiao tian kui	194
+斥罪	chi zui	775
+冲锋手	chong feng shou	672
+崇岳	chong yue	795
+重装五十夫长	chong zhuang wu shi fu zhang	169
+仇白	chou bai	782
+出苍白海	chu cang bai hai	561
+处决者	chu jue zhe	612
+初雪	chu xue	848
+纯烬艾雅法拉	chun jin ai ya fa la	791
+慈悲灯塔	ci bei deng ta	172
+慈悲愿景	ci bei yuan jing	229
+刺玫	ci mei	859
+辞岁行	ci sui xing	545
+丛林症结	cong lin zheng jie	541
+丛林之魂	cong lin zhi hun	290
+淬火尘霾	cui huo chen mai	175
+崔林特尔梅之金	cui lin te er mei zhi jin	571
+淬羽赫默	cui yu he mo	734
+嵯峨	cuo e	722
+大鲍勃	da bao bo	538
+达格达	da ge da	924
+大个子	da ge zi	79
+大君之触	da jun zhi chu	45
+大亚当	da ya dang	537
+戴菲恩	dai fei en	874
+代糖	dai tang	388
+但书	dan shu	847
+岛火索	dao huo suo	923
+得见光芒	de jian guang mang	270
+德克萨斯	de ke sa si	978
+得意	de yi	50
+灯火不灭	deng huo bu mie	262
+登临意	deng lin yi	577
+蒂比	di bi	715
+帝国火炮先兆者	di guo huo pao xian zhao zhe	139
+帝国前锋精锐	di guo qian feng jing rui	138
+涤火杰西卡	di huo jie xi ka	774
+地灵	di ling	983
+地狱变相	di yu bian xiang	206
+电弧	dian hu	711
+电极单元	dian ji dan yuan	2
+点燃	dian ran	336
+凋零骑士	diao ling qi shi	521
+迭代的怪物	die dai de guai wu	454
+定点清算	ding dian qing suan	339
+冬灵血巫	dong ling xue wu	145
+冬时	dong shi	702
+豆苗	dou miao	1031
+斗士	dou shi	661
+斗士塔露拉	dou shi ta lu la	535
+杜宾	du bin	1010
+杜卡雷君主之红	du ka lei jun zhu zhi hong	494
+杜林	du lin	1049
+渡桥	du qiao	973
+独影归途	du ying gui tu	317
+断崖	duan ya	922
+断罪者	duan zui zhe	1009
+多利羊之主	duo li yang zhi zhu	496
+铎铃	duo ling	921
+多萝西	duo luo xi	751
+多索雷斯假日	duo suo lei si jia ri	588
+堕天使福尔图娜	duo tian shi fu er tu na	80
+恶业苦果	e ye ku guo	207
+恶兆湍流	e zhao tuan liu	173
+二次呼吸	er ci hu xi	183
+儿时的舞乐	er shi de wu le	257
+发电站	fa dian zhan	355
+伐木老手	fa mu lao shou	164
+发条仆从	fa tiao pu cong	16
+反常光谱	fan chang guang pu	549
+反派阵营角色	fan pai zhen ying jue se	22
+芳汀	fang ting	1008
+绯红歌伶	fei hong ge ling	61
+菲莱	fei lai	906
+沸腾爆裂	fei teng bao lie	286
+沸血骑士团学徒	fei xue qi shi tuan xue tu	141
+菲亚梅塔	fei ya mei ta	769
+粉碎攻坚组长	fen sui gong jian zu zhang	160
+风暴瞭望	feng bao liao wang	177
+丰川祥子	feng chuan xiang zi	703
+风笛	feng di	788
+封冻高山驮兽	feng dong gao shan tuo shou	76
+风情街星术师	feng qing jie xing shu shi	78
+风丸	feng wan	833
+风絮	feng xu	687
+风雪过境	feng xue guo jing	586
+腐败骑士	fu bai qi shi	522
+覆潮之下	fu chao zhi xia	589
+复仇者	fu chou zhe	500
+伏击客	fu ji ke	614
+弗莱蒙特诸思之解答	fu lai meng te zhu si zhi jie da	453
+芙兰卡	fu lan ka	920
+芙蓉	fu rong	1035
+浮士德	fu shi de	526
+复奏	fu zou	685
+改量装置	gai liang zhuang zhi	398
+钙质化	gai zhi hua	275
+钢铁冲浪教练	gang tie chong lang jiao lian	102
+高级凭证	gao ji ping zheng	368
+高级武装人员	gao ji wu zhuang ren yuan	162
+高级作战记录	gao ji zuo zhan ji lu	359
+高阶术师组长	gao jie shu shi zu zhang	171
+高普尼克	gao pu ni ke	65
+高速共振排障	gao su gong zhen pai zhang	252
+格拉尼	ge la ni	941
+格劳克斯	ge lao ke si	943
+歌蕾蒂娅	ge lei di ya	750
+格雷伊	ge lei yi	990
+格罗莫夫	ge luo mo fu	10
+格特鲁德女士	ge te lu de nv shi	105
+攻城手	gong cheng shou	644
+工匠	gong jiang	617
+钩索师	gou suo shi	608
+孤岛风云	gu dao feng yun	593
+古米	gu mi	1027
+孤星	gu xing	575
+固源岩	gu yuan yan	400
+固源岩组	gu yuan yan zu	401
+怪杰	guai jie	611
+冠死以冕	guan si yi mian	225
+光辉旗帜	guang hui qi zhi	293
+光羽箭	guang yu jian	230
+贵客盈门	gui ke ying men	248
+归溟幽灵鲨	gui ming you ling sha	749
+归乡邀约	gui xiang yao yue	220
+瑰盐	gui yan	858
+归于宁静	gui yu ning jing	346
+裹骸死士	guo hai si shi	73
+过载模式	guo zai mo shi	268
+哈蒂娅	ha di ya	698
+哈兰杜汗大地之鞭	ha lan du han da di zhi bian	459
+哈洛德	ha luo de	857
+海蒂	hai di	846
+海沫	hai mo	972
+海霓	hai ni	845
+骇笑看客	hai xiao kan ke	62
+撼地者	han di zhe	654
+寒芒克洛丝	han mang ke luo si	950
+寒霜	han shuang	161
+寒檀	han tan	873
+寒灾回响	han zai hui xiang	29
+号角	hao jiao	773
+浩气长存	hao qi chang cun	214
+合成玉	he cheng yu	373
+赫德雷	he de lei	781
+赫尔昏佐伦巫王	he er hun zuo lun wu wang	493
+褐果	he guo	986
+赫拉格	he la ge	732
+赫默	he mo	957
+褐素纤维	he su xian wei	418
+和弦	he xian	872
+黑键	hei jian	806
+黑角	hei jiao	1051
+很冰的斧	hen bing de fu	305
+很热的刀	hen re de dao	304
+很重的枪	hen zhong de qiang	303
+横扫架势	heng sao jia shi	285
+衡沙	heng sha	844
+红标渗透者	hong biao shen tou zhe	129
+红豆	hong dou	1014
+轰击术师	hong ji shu shi	633
+红丝绒	hong si rong	556
+红隼	hong sun	940
+鸿雪	hong xue	768
+红云	hong yun	997
+厚礼上宾	hou li shang bin	226
+后兽	hou shou	444
+狐火渺然	hu huo miao ran	256
+护佑者	hu you zhe	616
+华法琳	hua fa lin	969
+花匠	hua jiang	497
+画中人	hua zhong ren	592
+槐琥	huai hu	832
+怀黍离	huai shu li	569
+环烃聚质	huan ting ju zhi	421
+环烃预制体	huan ting yu zhi ti	422
+唤醒	huan xing	506
+环形鳞地	huan xing lin di	210
+皇帝的利刃	huang di de li ren	536
+黄昏	huang hun	284
+黄金的狂喜	huang jin de kuang xi	323
+荒芜回想	huang wu hui xiang	334
+荒芜拉普兰德	huang wu la pu lan de	805
+灰毫	hui hao	905
+灰喉	hui hou	965
+回环射手	hui huan she shou	637
+辉煌裂片	hui huang lie pian	236
+灰烬	hui jin	767
+灰烬造物	hui jin zao wu	31
+会客室	hui ke shi	348
+灰礼帽	hui li mao	83
+灰尾	hui wei	155
+混沌的本质	hun dun de ben zhi	185
+霍尔海雅	huo er hai ya	762
+火蓝之心	huo lan zhi xin	599
+火龙	huo long	501
+火山	huo shan	335
+火山回想	huo shan hui xiang	300
+火山旅梦	huo shan lv meng	573
+火哨	huo shao	904
+火神	huo shen	903
+畸变赘生物	ji bian zhui sheng wu	49
+棘刺	ji ci	812
+极光	ji guang	902
+极境	ji jing	952
+寂静之声	ji jing zhi sheng	333
+棘兽	ji shou	88
+机械师	ji xie shi	673
+吉星	ji xing	709
+急性衰竭	ji xing shuai jie	182
+加工站	jia gong zhan	351
+加急许可	jia ji xu ke	360
+家具零件	jia ju ling jian	379
+假日风暴	jia ri feng bao	340
+假日威龙陈	jia ri wei long chen	809
+家庭专用轿车	jia ting zhuan yong jiao che	94
+贾维	jia wei	939
+嘉维尔	jia wei er	1021
+家族角头	jia zu jiao tou	93
+家族灭迹人	jia zu mie ji ren	92
+尖兵	jian bing	671
+剑豪	jian hao	666
+坚雷	jian lei	1000
+缄默德克萨斯	jian mo de ke sa si	800
+箭矢暴风	jian shi bao feng	244
+见行者	jian xing zhe	942
+剑雨滂沱	jian yu pang tuo	319
+浆果磐蟹	jiang guo pan xie	69
+降临	jiang lin	254
+角峰	jiao feng	999
+教官	jiao guan	662
+狡兽	jiao shou	87
+角兽	jiao shou	41
+教条立场	jiao tiao li chang	261
+接潮蔑死体	jie chao mie si ti	471
+接潮主教	jie chao zhu jiao	472
+解放者	jie fang zhe	657
+结构畸变体	jie gou ji bian ti	82
+杰克	jie ke	1007
+揭幕者们	jie mu zhe men	562
+节日气球	jie ri qi qiu	39
+杰斯顿威廉姆斯	jie si dun wei lian mu si	518
+杰西卡	jie xi ka	1017
+截云	jie yun	887
+进化的本质	jin hua de ben zhi	516
+靳天师	jin tian shi	14
+镜花水月	jing hua shui yue	245
+精炼溶剂	jing lian rong ji	416
+晶体电路	jing ti dian lu	414
+晶体电子单元	jing ti dian zi dan yuan	425
+晶体元件	jing ti yuan jian	413
+惊霆无声	jing ting wu sheng	174
+惊蛰	jing zhe	871
+纠缠藤蔓	jiu chan teng wan	463
+旧日绽放	jiu ri zhan fang	195
+九色鹿	jiu se lu	843
+酒神	jiu shen	714
+局部坏死	ju bu huai si	180
+巨大的丑东西	ju da de chou dong xi	523
+聚合剂	ju he ji	423
+聚合凝胶	ju he ning jiao	410
+巨壳藤蔓	ju ke teng wan	57
+聚能动力单元	ju neng dong li dan yuan	1
+矩兽	ju shou	443
+聚酸酯	ju suan zhi	392
+聚酸酯块	ju suan zhi kuai	394
+聚酸酯组	ju suan zhi zu	393
+剧团喉舌	ju tuan hou she	475
+俱以我之名	ju yi wo zhi ming	282
+剧作家	ju zuo jia	474
+卷心籽	juan xin zi	32
+决战者	jue zhan zhe	652
+卡达	ka da	989
+卡夫卡	ka fu ka	831
+卡涅利安	ka nie li an	736
+卡提	ka ti	1042
+凯尔希	kai er xi	803
+凯尔希思衡托	kai er xi si heng tuo	678
+开怀畅饮	kai huai chang yin	68
+开火成瘾症	kai huo cheng yin zheng	218
+凯瑟琳	kai se lin	842
+坎诺特	kan nuo te	465
+刻刀	ke dao	1006
+刻俄柏	ke e bai	793
+壳海狂奔者	ke hai kuang ben zhe	48
+克丽斯腾	ke li si teng	498
+可露希尔	ke lu xi er	679
+克洛丝	ke luo si	1040
+可颂	ke song	901
+渴血的子裔	ke xue de zi yi	44
+空爆	kong bao	1039
+空构	kong gou	830
+空剧场	kong ju chang	215
+恐卡兹	kong ka zi	37
+空弦	kong xian	744
+空想花庭	kong xiang hua ting	574
+控制中枢	kong zhi zhong shu	356
+空中回旋乱舞	kong zhong hui xuan luan wu	246
+苦艾	ku ai	870
+苦难摇篮	ku nan yao lan	179
+枯朽萃聚使徒	ku xiu cui ju shi tu	84
+狂暴宿主士兵	kuang bao su zhu shi bing	153
+狂暴宿主投掷手	kuang bao su zhu tou zhi shou	152
+矿工游击队	kuang gong you ji dui	433
+狂徒	kuang tu	156
+狂躁异质裂兽	kuang zao yi zhi lie shou	442
+傀儡师	kui lei shi	613
+奎隆摩诃萨埵权化	kui long mo he sa duo quan hua	451
+傀影	kui ying	748
+傀影与猩红孤钻	kui ying yu xing hong gu zuan	555
+扩散术师	kuo san shu shi	635
+拉普兰德	la pu lan de	977
+莱恩哈特	lai en ha te	869
+莱欧斯	lai ou si	919
+莱伊	lai yi	766
+蓝毒	lan du	958
+浪里玄条	lang li xuan tiao	13
+老鲤	lao li	747
+蕾缪安	lei miu an	717
+类凝结核	lei ning jie he	417
+雷蛇	lei she	900
+雷之主	lei zhi zhu	431
+离解复合	li jie fu he	558
+离离枯荣	li li ku rong	308
+礼炮强制追思	li pao qiang zhi zhui si	219
+理想城长夏狂欢季	li xiang cheng chang xia kuang huan ji	580
+历阵锐枪芬	li zhen rui qiang fen	938
+理智	li zhi	377
+力之锯	li zhi ju	274
+炼金师	lian jin shi	606
+链术师	lian shu shi	632
+链愈师	lian yu shi	622
+疗养师	liao yang shi	625
+猎蜂	lie feng	1005
+裂空炮手	lie kong pao shou	603
+猎手	lie shou	638
+烈夏	lie xia	918
+裂响	lie xiang	681
+凛冬	lin dong	937
+临光	lin guang	959
+临界瞬爆	lin jie shun bao	186
+琳琅诗怀雅	lin lang shi huai ya	746
+凛视	lin shi	947
+凛御银灰	lin yu yin hui	694
+铃兰	ling lan	754
+领袖	ling xiu	502
+领袖的尊严	ling xiu de zun yan	240
+聆音	ling yin	719
+翎羽	ling yu	1048
+灵幛	ling zhang	71
+灵知	ling zhi	755
+领主	ling zhu	655
+流光乍裂	liu guang zha lie	302
+流泪小子	liu lei xiao zi	64
+流明	liu ming	759
+流星	liu xing	996
+龙门币	long men bi	371
+龙舌兰	long she lan	962
+路加萨尔古斯历法之王	lu jia sa er gu si li fa zhi wang	458
+露托	lu tuo	1032
+录武官	lu wu guan	713
+卢西恩猩红血钻	lu xi en xing hong xue zuan	477
+掠风	lue feng	841
+掠海漂移体	lue hai piao yi ti	59
+伦蒂尼姆城防自行炮	lun di ni mu cheng fang zi xing pao	96
+罗比菈塔	luo bi la ta	982
+罗宾	luo bin	829
+罗德岛隐秘队	luo de dao yin mi dui	677
+逻各斯	luo ge si	804
+洛洛	luo luo	868
+罗小黑	luo xiao hei	1026
+落叶逐火	luo ye zhu huo	576
+绿野幻梦	lv ye huan meng	581
+玛恩纳	ma en na	811
+玛利图斯海嗣	ma li tu si hai si	490
+玛莉娅临光	ma li ya lin guang	594
+玛露希尔	ma lu xi er	729
+马特奥上尉	ma te ao shang wei	492
+码头水手	ma tou shui shou	124
+麦哲伦	mai zhe lun	728
+曼德拉	man de la	513
+曼弗雷德	man fu lei de	509
+满月的舞会	man yue de wu hui	205
+贸易站	mao yi zhan	353
+梅尔	mei er	840
+梅菲斯特	mei fei si te	527
+梅菲斯特歌者	mei fei si te ge zhe	520
+玫拉	mei la	886
+玫兰莎	mei lan sha	1046
+迷迭香	mi die xiang	737
+米格鲁	mi ge lu	1041
+蜜蜡	mi la	867
+密林悍将归来	mi lin han jiang gui lai	595
+蜜莓	mi mei	956
+蜜酿级醒酒助手	mi niang ji xing jiu zhu shou	100
+秘术师	mi shu shi	634
+谜图	mi tu	951
+秘杖反重力模式	mi zhang fan zhong li mo shi	325
+迷阵飞械	mi zhen fei xie	55
+迷珍巧械	mi zhen qiao xie	56
+明椒	ming jiao	856
+明灭	ming mie	243
+明日渺远不及	ming ri miao yuan bu ji	234
+缪尔赛思	miu er sai si	787
+谬因	miu yin	674
+莫菲丝	mo fei si	480
+摩根	mo gen	917
+墨浪	mo lang	116
+莫斯提马	mo si ti ma	761
+殁亡	mo wang	331
+魔王	mo wang	733
+模型扩展	mo xing kuo zhan	189
+末药	mo yao	1015
+模组数据块	mo zu shu ju kuai	430
+木裂埃克提尔尼尔	mu lie ai ke ti er ni er	461
+暮落	mu luo	961
+钼铅	mu qian	816
+牧首	mu shou	24
+慕斯	mu si	1004
+娜仁图亚	na ren tu ya	765
+娜斯提	na si ti	691
+囊海爬行者	nang hai pa xing zhe	127
+内测版自助出餐终端	nei ce ban zi zhu chu can zhong duan	28
+能天使	neng tian shi	764
+妮芙	ni fu	760
+拟态机械	ni tai ji xie	483
+你需偿还	ni xu chang huan	273
+泥岩	ni yan	772
+泥岩巨像	ni yan ju xiang	144
+孽罪奇美拉	nie zui qi mei la	72
+凝胶	ning jiao	409
+凝滞师	ning zhi shi	621
+宁作吾	ning zuo wu	324
+扭转醇	niu zhuan chun	407
+怒潮凛冬	nu chao lin dong	682
+怒号光明	nu hao guang ming	178
+诺伯特平民	nuo bo te ping min	86
+诺威尔	nuo wei er	818
+女妖河谷的拂哀菈	nv yao he gu de fu ai la	438
+帕拉斯	pa la si	731
+判决	pan jue	316
+潘乔萨拉斯	pan qiao sa la si	514
+庞贝	pang bei	532
+泡泡	pao pao	998
+泡普卡	pao pu ka	1045
+炮手	pao shou	642
+泡影苍霆	pao ying cang ting	542
+佩德洛	pei de luo	675
+佩佩	pei pei	738
+烹泉	peng quan	47
+披挂冰雪的少女	pi gua bing xue de shao nv	440
+披荆斩棘	pi jing zhan ji	279
+偏执泡影	pian zhi pao ying	469
+漂泊颂偶	piao bo song ou	478
+破梏重生	po gu chong sheng	187
+破碎日冕	po sui ri mian	176
+破损装置	po sun zhuang zhi	395
+普罗旺斯	pu luo wang si	953
+骑兵与猎人	qi bing yu lie ren	600
+齐尔查克	qi er cha ke	936
+起风	qi feng	315
+栖脚地	qi jiao di	196
+绮良	qi liang	828
+欺凌者	qi ling zhe	157
+浅层非熵适应	qian ceng fei shang shi ying	294
+铅踝	qian huai	995
+千金一掷	qian jin yi zhi	247
+虔修对决	qian xiu dui jue	242
+强攻手	qiang gong shou	664
+将进酒	qiang jin jiu	585
+强壮囚犯	qiang zhuang qiu fan	136
+桥夹克里夫	qiao jia ke li fu	495
+切削原液	qie xiao yuan ye	419
+琴柳	qin liu	786
+情报官	qing bao guan	670
+情报凭证	qing bao ping zheng	365
+清道夫	qing dao fu	1013
+青花	qing hua	115
+青金罗伊	qing jin luo yi	120
+青金莫妮克	qing jin mo ni ke	121
+清流	qing liu	985
+轻锰矿	qing meng kuang	405
+清明	qing ming	113
+清算	qing suan	192
+青枳	qing zhi	935
+全封闭沙滩车	quan feng bi sha tan che	101
+拳手囚犯	quan shou qiu fan	137
+全新装置	quan xin zhuang zhi	397
+缺水的大洋裂断	que shui de da yang lie duan	251
+群山俯首	qun shan fu shou	199
+群体性谵妄	qun ti xing zhan wang	216
+群愈师	qun yu shi	624
+忍冬	ren dong	785
+人间烟火	ren jian yan huo	34
+人们我们	ren men wo men	544
+熔泉	rong quan	885
+如你所愿	ru ni suo yuan	237
+锐笔速写	rui bi su xie	272
+若叶睦	ruo ye mu	705
+萨卡兹百夫长	sa ka zi bai fu zhang	539
+萨卡兹穿刺手	sa ka zi chuan ci shou	149
+萨卡兹大剑手	sa ka zi da jian shou	167
+萨卡兹的无终奇语	sa ka zi de wu zhong qi yu	552
+萨卡兹积怨者	sa ka zi ji yuan zhe	148
+萨卡兹狙击手	sa ka zi ju ji shou	166
+萨卡兹枯朽吞噬者	sa ka zi ku xiu tun shi zhe	98
+萨卡兹枯朽战车	sa ka zi ku xiu zhan che	97
+萨卡兹哨兵	sa ka zi shao bing	53
+萨卡兹术师	sa ka zi shu shi	165
+萨卡兹之鳍	sa ka zi zhi qi	26
+萨米的意志	sa mi de yi zhi	462
+塞雷娅	sai lei ya	771
+三船光平	san chuan guang ping	481
+三角初华	san jiao chu hua	704
+散射手	san she shou	643
+三生花	san sheng hua	6
+三水锰矿	san shui meng kuang	406
+三头犬	san tou quan	489
+桑葚	sang shen	964
+森蚺	sen ran	726
+森西	sen xi	899
+闪击	shan ji	898
+闪灵	shan ling	758
+山雪鬼	shan xue gui	118
+伤心的大锁	shang xin de da suo	476
+烧结核凝晶	shao jie he ning jing	427
+哨戒铁卫	shao jie tie wei	651
+慑砂	she sha	884
+蛇屠箱	she tu xiang	1022
+深池焚毁者	shen chi fen hui zhe	122
+深池逐火护卫	shen chi zhu huo hu wei	90
+深靛	shen dian	988
+身观	shen guan	117
+深海色	shen hai se	981
+深律	shen lv	897
+深溟潮涌者	shen ming chao yong zhe	108
+深溟奠基者	shen ming dian ji zhe	110
+深溟裂礁者	shen ming lie jiao zhe	107
+深溟猎食者	shen ming lie shi zhe	43
+深溟喷溅者	shen ming pen jian zhe	42
+深溟引痕者	shen ming yin hen zhe	109
+神射手	shen she shou	641
+深巡	shen xun	896
+生存的渴望	sheng cun de ke wang	250
+圣聆初雪	sheng ling chu xue	695
+生路	sheng lu	566
+生命火种	sheng ming huo zhong	299
+盛怒	sheng nu	132
+圣堂保育员	sheng tang bao yu yuan	25
+圣堂剑士	sheng tang jian shi	17
+圣徒	sheng tu	482
+圣徒卡门	sheng tu ka men	473
+圣域	sheng yu	260
+圣愚	sheng yu	441
+生于黑夜	sheng yu hei ye	597
+圣约决裁	sheng yue jue cai	341
+圣约送葬人	sheng yue song zang ren	810
+史都华德	shi du hua de	1038
+史尔特尔	shi er te er	780
+食腐使徒	shi fu shi tu	99
+时光震荡	shi guang zhen dang	238
+始海穿刺者	shi hai chuan ci zhe	126
+诗怀雅	shi huai ya	916
+弑君者	shi jun zhe	723
+十连寻访凭证	shi lian xun fang ping zheng	363
+石棉	shi mian	895
+使命必达	shi ming bi da	217
+蚀清	shi qing	966
+食铁兽	shi tie shou	826
+失温症	shi wen zheng	258
+事相结晶	shi xiang jie jing	376
+狮蝎	shi xie	827
+石英	shi ying	1003
+十字路口量产型	shi zi lu kou liang chan xing	81
+师祖	shi zu	445
+收割者	shou ge zhe	663
+守护者	shou hu zhe	650
+守林人	shou lin ren	883
+守墓石像	shou mu shi xiang	123
+手牵手	shou qian shou	211
+守望者	shou wang zhe	602
+手性屈光体	shou xing qu guang ti	420
+首言者	shou yan zhe	125
+数据增补条	shu ju zeng bu tiao	428
+数据增补仪	shu ju zeng bu yi	429
+鼠王	shu wang	525
+术战者	shu zhan zhe	659
+霜华	shuang hua	825
+双极纳米片	shuang ji na mi pian	424
+霜涛覆岭	shuang tao fu ling	200
+双酮	shuang tong	380
+霜星	shuang xing	529
+霜星冬痕	shuang xing dong hen	528
+霜叶	shuang ye	1002
+双月	shuang yue	968
+水灯心	shui deng xin	817
+水遁忍者	shui dun ren zhe	21
+水晶箭行动	shui jing jian xing dong	568
+水泡模式	shui pao mo shi	241
+水月	shui yue	745
+水月与深蓝之树	shui yue yu shen lan zhi shu	554
+死境硝烟	si jing xiao yan	287
+斯卡蒂	si ka di	779
+死芒	si mang	815
+似兽	si shou	18
+司霆惊蛰	si ting jing zhe	712
+伺夜	si ye	740
+四月	si yue	882
+松果	song guo	994
+松桐	song tong	710
+送葬人	song zang ren	881
+溯光星源	su guang xing yuan	696
+塑灵术师	su ling shu shi	628
+塑路者	su lu zhe	470
+宿舍	su she	352
+速射手	su she shou	640
+苏苏洛	su su luo	1020
+塑心	su xin	801
+宿主重装士兵	su zhu chong zhuang shi bing	154
+酸糖	suan tang	993
+岁的界园志异	sui de jie yuan zhi yi	551
+碎骨	sui gu	531
+燧石	sui shi	915
+岁相	sui xiang	511
+碎岩者组长	sui yan zhe zu zhang	159
+莎草	suo cao	855
+塔露拉	ta lu la	530
+泰拉大陆调查团	tai la da lu diao cha tuan	1054
+泰拉饭	tai la fan	564
+太阳甩在身后	tai yang shuai zai shen hou	565
+炭长矛	tan chang mao	446
+探索者的银淞止境	tan suo zhe de yin song zhi jing	553
+糖果车	tang guo che	46
+糖聚块	tang ju kuai	390
+糖组	tang zu	389
+桃金娘	tao jin niang	1030
+特工	te gong	158
+特克诺	te ke nuo	866
+特雷西斯	te lei xi si	534
+特蕾西娅	te lei xi ya	533
+特米米	te mi mi	865
+提纯源岩	ti chun yuan yan	402
+提丰	ti feng	794
+缇缇	ti ti	688
+提亚卡乌勇士	ti ya ka wu yong shi	142
+提喻	ti yu	330
+天地通明	tian di tong ming	212
+天火	tian huo	954
+天空盒	tian kong he	693
+天下劫	tian xia jie	193
+调香师	tiao xiang shi	1029
+铁钳号	tie qian hao	259
+铁卫	tie wei	648
+铁御	tie yu	309
+同归殊途之吟	tong gui shu tu zhi yin	298
+酮凝集	tong ning ji	381
+酮凝集组	tong ning ji zu	382
+通用凭证	tong yong ping zheng	369
+同葬无光之愿	tong zang wu guang zhi yuan	297
+酮阵列	tong zhen lie	383
+投嗣育母	tou si yu mu	60
+偷闲	tou xian	134
+投掷手	tou zhi shou	645
+突击动力装甲	tu ji dong li zhuang jia	103
+突击战术	tu ji zhan shu	271
+图耶	tu ye	854
+屠谕者大群意志	tu yu zhe da qun yi zhi	508
+屠宰老手	tu zai lao shou	163
+推击手	tui ji shou	610
+推进之王	tui jin zhi wang	784
+退休前步道	tui xiu qian bu dao	222
+吞日	tun ri	269
+挽歌燃烧殆尽	wan ge ran shao dai jin	559
+万国信使奥伦	wan guo xin shi ao lun	111
+万火归一	wan huo gui yi	479
+万顷	wan qing	934
+苇草	wei cao	933
+维荻	wei di	980
+微风	wei feng	853
+未宽解的悲哀	wei kuan jie de bei ai	343
+威龙	wei long	168
+维娜维多利亚	wei na wei duo li ya	778
+维什戴尔	wei shen dai er	808
+未声张的怒火	wei sheng zhang de nu huo	344
+薇薇安娜	wei wei an na	743
+未许之地	wei xu zhi di	547
+维伊	wei yi	680
+未照耀的荣光	wei zhao yao de rong guang	342
+温蒂	wen di	741
+稳定态萨卡兹术师结晶	wen ding tai sa ka zi shu shi jie jing	27
+温米	wen mi	864
+温顺的武装驮兽	wen shun de wu zhuang tuo shou	75
+问雪	wen xue	288
+我的海疆	wo de hai jiang	231
+沃尔夫之影	wo er fu zhi ying	19
+沃伦姆德的薄暮	wo lun mu de de bo mu	596
+我无	wo wu	310
+吾导先路	wu dao xian lu	584
+乌尔比安	wu er bi an	777
+乌啾	wu jiu	683
+无可抵挡	wu ke di dang	191
+巫恋	wu lian	960
+乌萨斯平民	wu sa si ping min	85
+乌萨斯战争术士	wu sa si zhan zheng shu shi	5
+无声的嘲笑	wu sheng de chao xiao	345
+巫术巨像	wu shu ju xiang	143
+五水研磨石	wu shui yan mo shi	404
+无谓	wu wei	35
+无畏者	wu wei zhe	660
+无畏者协议	wu wei zhe xie yi	235
+无餍	wu yan	485
+无言为真	wu yan wei zhen	202
+巫役	wu yi	615
+无垠回荡克雷松	wu yin hui dang ke lei song	460
+乌有	wu you	824
+无忧梦呓	wu you meng yi	550
+物欲拮抗者	wu yu jie kang zhe	505
+武者	wu zhe	658
+夕娥	xi e	449
+锡兰	xi lan	852
+锡人	xi ren	974
+稀音	xi yin	839
+瑕光	xia guang	725
+夏栎	xia li	838
+夏末游鳞	xia mo you lin	208
+陷阱师	xian jing shi	607
+陷落雪祀	xian luo xue si	464
+相变临界	xiang bian lin jie	543
+香草	xiang cao	1047
+相见欢	xiang jian huan	560
+响石	xiang shi	692
+箱型恐鱼	xiang xing kong yu	58
+晓歌	xiao ge	967
+校官	xiao guan	89
+小满	xiao man	837
+协律	xie lv	699
+写意胜形	xie yi sheng xing	263
+撷英调香师	xie ying tiao xiang shi	689
+心防溃决	xin fang kui jue	264
+信仰搅拌机	xin yang jiao ban ji	718
+信用	xin yong	378
+新月的苏醒	xin yue de su xing	203
+新约能天使	xin yue neng tian shi	716
+星极	xing ji	955
+杏仁	xing ren	823
+行商	xing shang	609
+星熊	xing xiong	770
+行医	xing yi	623
+星源	xing yuan	863
+行箸	xing zhu	820
+修道院居民	xiu dao yuan ju min	40
+休谟斯	xiu mo si	1001
+虚幻	xu huan	150
+叙拉古人	xu la gu ren	579
+序时之匙	xu shi zhi chi	265
+絮雨	xu yu	851
+喧闹法则	xuan nao fa ze	598
+雪怪小队凿冰人	xue guai xiao dui zao bing ren	151
+雪孩子	xue hai zi	435
+雪境生存法则	xue jing sheng cun fa ze	311
+雪猎	xue lie	697
+血骑士狄开俄波利斯	xue qi shi di kai e bo li si	512
+雪绒	xue rong	971
+削弱者	xue ruo zhe	620
+血色乐章	xue se yue zhang	249
+雪山降临	xue shan jiang lin	548
+血腥厨子	xue xing chu zi	67
+雪稚	xue zhi	822
+殉道者安多恩	xun dao zhe an duo en	510
+寻访凭证	xun fang ping zheng	362
+巡空者	xun kong zhe	605
+寻澜	xun lan	819
+训练室	xun lian shi	349
+巡林者	xun lin zhe	1050
+寻路者甜品商	xun lu zhe tian pin shang	112
+讯使	xun shi	1019
+鸭爵	ya jue	66
+亚赛努斯复仇记	ya sai nu si fu chou ji	546
+崖心	ya xin	821
+亚叶	ya ye	850
+岩崩锤	yan beng chui	276
+盐风主教昆图斯	yan feng zhu jiao kun tu si	515
+焰狐龙梓兰	yan hu long zi lan	676
+炎客	yan ke	914
+研磨石	yan mo shi	403
+炎熔	yan rong	1037
+焰尾	yan wei	739
+演习券	yan xi quan	375
+焰心	yan xin	239
+延异视阈	yan yi shi yu	329
+焰影苇草	yan ying wei cao	790
+炎狱炎熔	yan yu yan rong	949
+洋灰	yang hui	894
+耀骑士临光	yao qi shi lin guang	797
+要塞	yao sai	649
+耀阳颔首	yao yang han shou	313
+夜半	ye ban	931
+夜刀	ye dao	1052
+液化高能气体	ye hua gao neng qi ti	4
+液化醚吸聚体	ye hua mi xi ju ti	3
+耶拉	ye la	862
+耶拉冈德	ye la gang de	439
+夜魔	ye mo	861
+夜烟	ye yan	987
+夜莺	ye ying	757
+野鬃	ye zong	932
+遗尘漫步	yi chen man bu	590
+伊芙利特	yi fu li te	792
+异构体	yi gou ti	7
+异客	yi ke	735
+异卵同生	yi luan tong sheng	184
+伊内丝	yi nei si	799
+伊桑	yi sang	1028
+伊莎玛拉腐化之心	yi sha ma la fu hua zhi xin	467
+医生	yi sheng	913
+医师	yi shi	627
+异兽熔火蜗	yi shou rong huo wo	432
+伊斯贝塔	yi si bei ta	434
+异铁	yi tie	385
+异铁块	yi tie kuai	387
+异铁碎片	yi tie sui pian	384
+异铁组	yi tie zu	386
+遗忘创伤的战士	yi wang chuang shang de zhan shi	456
+异质源石虫	yi zhi yuan shi chong	436
+伊祖米克的子代	yi zu mi ke de zi dai	38
+伊祖米克生态泉源	yi zu mi ke sheng tai quan yuan	466
+隐德来希	yin de lai xi	814
+隐狐之艺	yin hu zhi yi	292
+银灰	yin hui	796
+引火的死魂灵	yin huo de si hun ling	491
+饮露餐风	yin lu can feng	33
+因陀罗	yin tuo luo	912
+隐现	yin xian	880
+银心湖列车	yin xin hu lie che	570
+引星棘刺	yin xing ji ci	727
+吟游者	yin you zhe	618
+饮啄	yin zhuo	36
+应急理智加强剂	ying ji li zhi jia qiang ji	357
+应急理智浓缩液	ying ji li zhi nong suo ye	358
+佣兵	yong bing	604
+用赤铁铭记	yong chi tie ming ji	190
+永恒狩猎	yong heng shou lie	306
+游击队盾卫	you ji dui dun wei	147
+游击队迫击炮兵	you ji dui pai ji pao bing	146
+游击手	you ji shou	601
+幽灵鲨	you ling sha	911
+祐天寺若麦	you tian si ruo mai	707
+幽隙栖萤	you xi qi ying	209
+佑序有炎	you xu you yan	280
+御敌的锋锐	yu di de feng rui	198
+驭法铁卫	yu fa tie wei	647
+预见末日的贤人	yu jian mo ri de xian ren	455
+羽毛笔	yu mao bi	976
+愚人号	yu ren hao	583
+玉双剑	yu shuang jian	448
+驭械术师	yu xie shu shi	630
+源代码	yuan dai ma	484
+远山	yuan shan	1016
+源石尘行动	yuan shi chen xing dong	591
+源石虫	yuan shi chong	54
+源石畸变体	yuan shi ji bian ti	130
+源石碎片	yuan shi sui pian	372
+远牙	yuan ya	724
+源岩	yuan yan	399
+圆仔	yuan zai	63
+月禾	yue he	946
+月见夜	yue jian ye	1044
+跃空锤	yue kong chui	291
+跃跃	yue yue	992
+云迹	yun ji	979
+陨星	yun xing	879
+赞助无人机	zan zhu wu ren ji	52
+枣大刀	zao da dao	447
+灶里乾坤	zao li qian kun	227
+早露	zao lu	730
+扎罗狼之主	zha luo lang zhi zhu	503
+战车	zhan che	945
+战术的终结	zhan shu de zhong jie	233
+战术家	zhan shu jia	669
+斩业星熊	zhan ye xing xiong	708
+召唤师	zhao huan shi	619
+召唤使魔	zhao huan shi mo	232
+招聘许可	zhao pin xu ke	361
+照我以火	zhao wo yi huo	578
+折光	zhe guang	860
+遮目	zhe mu	133
+折桠	zhe ya	701
+阵法术师	zhen fa shu shi	631
+真理	zhen li	836
+真言	zhen yan	700
+真银斩	zhen yin zhan	312
+阵雨连绵	zhen yu lian mian	320
+蒸汽战车	zheng qi zhan che	95
+正霆摄威	zheng ting she wei	213
+正义骑士号	zheng yi qi shi hao	1053
+执白者	zhi bai zhe	12
+至纯源石	zhi chun yuan shi	374
+至高之术	zhi gao zhi shu	347
+指挥官厄尔苏拉	zhi hui guan e er su la	77
+至简	zhi jian	948
+指令结构加固	zhi ling jie gou jia gu	328
+指令熔毁	zhi ling rong hui	326
+指令战术协同	zhi ling zhan shu xie tong	327
+执旗手	zhi qi shou	668
+止颂	zhi song	742
+酯原料	zhi yuan liao	391
+制造站	zhi zao zhan	354
+终点	zhong dian	30
+众恶的焚场	zhong e de fen chang	228
+重犯	zhong fan	135
+终极防线	zhong ji fang xian	277
+重剑手	zhong jian shou	656
+中坚术师	zhong jian shu shi	636
+终幕浩劫	zhong mu hao jie	332
+重射手	zhong she shou	639
+众生行记	zhong sheng xing ji	557
+终始	zhong shi	8
+重相位对映体	zhong xiang wei dui ying ti	426
+重型动力装甲	zhong xing dong li zhuang jia	104
+咒愈师	zhou yu shi	626
+烛煌	zhu huang	813
+主角阵营角色	zhu jue zhen ying jue se	23
+铸铁	zhu tie	910
+逐夜烁光	zhu ye shuo guang	314
+装置	zhuang zhi	396
+追迹日落以西	zhui ji ri luo yi xi	563
+濯尘芙蓉	zhuo chen fu rong	944
+灼地	zhuo di	301
+浊心斯卡蒂	zhuo xin si ka di	789
+梓兰	zi lan	1034
+自由的探戈	zi you de tan ge	321
+自由佣兵贝斯	zi you yong bing bei si	74
+子月	zi yue	878
+自在	zi zai	517
+资质凭证	zi zhi ping zheng	367
+祖巴伊达姆从往昔来	zu ba yi da mu cong wang xi lai	488
+最后的骑士	zui hou de qi shi	468
+最后的怯薛拓拉	zui hou de qie xue tuo la	119
+最后的蒸汽骑士	zui hou de zheng qi qi shi	504
+左乐	zuo le	776
+左手泰特斯白杨	zuo shou tai te si bai yang	140

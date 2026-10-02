@@ -1,0 +1,1491 @@
+# 词库名称: 商旅词库
+# 词库分类: 旅游
+# 词库描述: 商旅常用术语
+# 词条样例: 差旅出行总称、企业管理职能、商务出差、公务出行、单程票
+# 解析词数: 1484
+# 解析异常: 0
+
+按表现将供应商划分为不同层级	an biao xian jiang gong ying shang hua fen wei bu tong ceng ji	613
+按出差天数发放的固定补助	an chu chai tian shu fa fang de gu ding bu zhu	878
+按飞行距离或票价累积会员里程	an fei xing ju li huo piao jia lei ji hui yuan li cheng	470
+按岗位角色分配操作范围的设置	an gang wei jue se fen pei cao zuo fan wei de she zhi	710
+按价格从低到高排序展示的方案	an jia ge cong di dao gao pai xu zhan shi de fang an	127
+安检	an jian	197
+安检排队时长	an jian pai dui shi chang	195
+按累积业绩划分的会员层级	an lei ji ye ji hua fen de hui yuan ceng ji	462
+安全风险	an quan feng xian	387
+安全管理	an quan guan li	973
+安全提醒	an quan ti xing	980
+按小时计费的租车方式	an xiao shi ji fei de zu che fang shi	1121
+按行程计算的出行总次数	an xing cheng ji suan de chu xing zong ci shu	753
+按月汇总的对账与付款清单	an yue hui zong de dui zhang yu fu kuan qing dan	825
+按整体业务规模收取的管理报酬	an zheng ti ye wu gui mo shou qu de guan li bao chou	627
+按周期不断更新预测的做法	an zhou qi bu duan geng xin yu ce de zuo fa	328
+按自然日计费的租车方式	an zi ran ri ji fei de zu che fang shi	1123
+摆渡车	bai du che	199
+白金卡会员	bai jin ka hui yuan	456
+白名单	bai ming dan	704
+班车	ban che	1132
+办公生态	ban gong sheng tai	685
+办理入住	ban li ru zhu	1261
+报案	bao an	992
+报表	bao biao	743
+包车	bao che	1131
+保底量	bao di liang	624
+保额	bao e	987
+包机	bao ji	1369
+保理	bao li	43
+保留房	bao liu fang	71
+保密条款	bao mi tiao kuan	621
+包位	bao wei	68
+保险产品	bao xian chan pin	1006
+保险服务	bao xian fu wu	1000
+保险合同覆盖的风险与责任边界	bao xian he tong fu gai de feng xian yu ze ren bian jie	984
+保险合同约定的最高赔付金额	bao xian he tong yue ding de zui gao pei fu jin e	986
+保险理赔	bao xian li pei	994
+保险流程	bao xian liu cheng	993
+保险条款	bao xian tiao kuan	988
+保险责任	bao xian ze ren	2
+报销	bao xiao	867
+报销单	bao xiao dan	866
+报销凭证	bao xiao ping zheng	1061
+保障范围	bao zhang fan wei	985
+保障系统稳定运行的技术人员	bao zhang xi tong wen ding yun xing de ji shu ren yuan	570
+备付金	bei fu jin	36
+比价	bi jia	1263
+比价采购	bi jia cai gou	637
+比价承诺	bi jia cheng nuo	404
+比价基准	bi jia ji zhun	784
+比价引擎	bi jia yin qing	700
+变更乘车日期车次或席别的操作	bian geng cheng che ri qi che ci huo xi bie de cao zuo	1169
+边检	bian jian	193
+标签体系	biao qian ti xi	338
+标识参会者身份与信息的证件	biao zhi can hui zhe shen fen yu xin xi de zheng jian	505
+标识费用归属客户的内部编码	biao zhi fei yong gui shu ke hu de nei bu bian ma	808
+标识具体航班的编号组合	biao zhi ju ti hang ban de bian hao zu he	237
+标准间	biao zhun jian	1325
+补办旅行证件	bu ban lv xing zheng jian	943
+部分国家入境前要求接种的疫苗	bu fen guo jia ru jing qian yao qiu jie zhong de yi miao	1011
+不分配座位仅允许乘车的票种	bu fen pei zuo wei jin yun xu cheng che di piao zhong	1182
+不含佣金与税费的结算基础价格	bu han yong jin yu shui fei de jie suan ji chu jia ge	1302
+不含早价	bu han zao jia	1305
+不计免赔	bu ji mian pei	1103
+不可取消	bu ke qu xiao	1286
+采购策略	cai gou ce lue	136
+采购方式	cai gou fang shi	638
+采购管理	cai gou guan li	641
+采购经理	cai gou jing li	588
+采购流程	cai gou liu cheng	643
+财务材料	cai wu cai liao	860
+财务处理	cai wu chu li	852
+财务单据	cai wu dan ju	865
+财务动作	cai wu dong zuo	857
+财务方法	cai wu fang fa	329
+财务负责人	cai wu fu ze ren	587
+财务概念	cai wu gai nian	791
+财务规划	cai wu gui hua	801
+财务规则	cai wu gui ze	805
+财务口径	cai wu kou jing	786
+财务流程	cai wu liu cheng	1221
+财务凭证	cai wu ping zheng	1228
+财务维度	cai wu wei du	814
+财务系统对接	cai wu xi tong dui jie	679
+财务要求	cai wu yao qiu	37
+财务要素	cai wu yao su	850
+财务影响	cai wu ying xiang	952
+财务指标	cai wu zhi biao	799
+财务状态	cai wu zhuang tai	796
+餐补	can bu	882
+参会规模较大需统筹食宿的活动	can hui gui mo jiao da xu tong chou shi su de huo dong	520
+参会者到场登记的环节	can hui zhe dao chang deng ji de huan jie	508
+参会证件的排版与打印	can hui zheng jian de pai ban yu da yin	26
+餐饮费	can yin fei	884
+餐饮服务	can yin fu wu	497
+参与出差的员工人数累计	can yu chu chai de yuan gong ren shu lei ji	755
+舱位代码	cang wei dai ma	1435
+舱位等级	cang wei deng ji	1442
+舱位升级	cang wei sheng ji	454
+舱位选择率	cang wei xuan ze lv	771
+曾被收购整合的商旅服务品牌	ceng bei shou gou zheng he de shang lv fu wu pin pai	257
+差标内推荐	cha biao nei tui jian	124
+差错赔付	cha cuo pei fu	600
+茶歇	cha xie	498
+差异调整	cha yi tiao zheng	822
+拆单报销	chai dan bao xiao	908
+差旅安全政策	chai lv an quan zheng ce	969
+差旅保险	chai lv bao xian	1007
+差旅标准	chai lv biao zhun	917
+差旅采购	chai lv cai gou	566
+差旅操作向手机端迁移的方向	chai lv cao zuo xiang shou ji duan qian yi de fang xiang	357
+差旅出行总称	chai lv chu xing zong cheng	1483
+差旅费	chai lv fei	889
+差旅顾问	chai lv gu wen	573
+差旅管理	chai lv guan li	1482
+差旅管理平台	chai lv guan li ping tai	940
+差旅活动产生的温室气体排放量	chai lv huo dong chan sheng de wen shi qi ti pai fang liang	732
+差旅加休闲	chai lv jia xiu xian	177
+差旅经理	chai lv jing li	592
+差旅目的地	chai lv mu di di	1453
+差旅频次	chai lv pin ci	1446
+差旅人次	chai lv ren ci	754
+差旅授信	chai lv shou xin	42
+差旅体验管理	chai lv ti yan guan li	164
+差旅外包	chai lv wai bao	555
+差旅文化	chai lv wen hua	305
+差旅需求复苏	chai lv xu qiu fu su	155
+差旅需求集中释放的时段	chai lv xu qiu ji zhong shi fang de shi duan	152
+差旅需求相对低迷的时段	chai lv xu qiu xiang dui di mi de shi duan	150
+差旅政策	chai lv zheng ce	1210
+差旅政策弹性	chai lv zheng ce tan xing	161
+差旅专员	chai lv zhuan yuan	585
+差旅咨询	chai lv zi xun	552
+长差	chang chai	1476
+长假期间出行需求激增的时段	chang jia qi jian chu xing xu qiu ji zeng de shi duan	146
+常旅客计划	chang lv ke ji hua	473
+常旅客体系中的初级等级	chang lv ke ti xi zhong de chu ji deng ji	459
+常旅客体系中的高等级身份	chang lv ke ti xi zhong de gao deng ji shen fen	455
+常旅客体系中的中级等级	chang lv ke ti xi zhong de zhong ji deng ji	457
+长期派驻境外人员的专项津贴	chang qi pai zhu jing wai ren yuan de zhuan xiang jin tie	868
+长途飞行关怀	chang tu fei xing guan huai	11
+常用联系人	chang yong lian xi ren	97
+长住公寓	chang zhu gong yu	1361
+超标	chao biao	1209
+超标放行	chao biao fang xing	928
+超标拦截	chao biao lan jie	929
+超标原因	chao biao yuan yin	926
+超过有效期后积分失效的处理	chao guo you xiao qi hou ji fen shi xiao de chu li	433
+超经济舱	chao jing ji cang	1436
+超里程费	chao li cheng fei	1118
+超卖风险	chao mai feng xian	395
+超售	chao shou	1277
+超重行李	chao zhong xing li	1401
+车辆保险	che liang bao xian	1064
+车辆燃油消耗产生的支出	che liang ran you xiao hao chan sheng de zhi chu	1099
+车辆停放场地收取的费用	che liang ting fang chang di shou qu de fei yong	1091
+车辆押金	che liang ya jin	1109
+撤侨	che qiao	976
+车损无忧	che sun wu you	1102
+车站核验票证并放行的通道	che zhan he yan piao zheng bing fang xing de tong dao	1158
+车站接送	che zhan jie song	1155
+成本分析	cheng ben fen xi	741
+成本优化	cheng ben you hua	322
+成本预测	cheng ben yu ce	334
+成本中心	cheng ben zhong xin	815
+成本中心同步	cheng ben zhong xin tong bu	713
+乘错车次或坐过站的异常情形	cheng cuo che ci huo zuo guo zhan de yi chang qing xing	1162
+承担境外就医费用的保险产品	cheng dan jing wai jiu yi fei yong de bao xian chan pin	1002
+承担收入与成本考核的业务单元	cheng dan shou ru yu cheng ben kao he de ye wu dan yuan	812
+乘机服务	cheng ji fu wu	1403
+乘机流程	cheng ji liu cheng	1409
+乘机权益	cheng ji quan yi	1405
+成交价明显偏离正常水平的情况	cheng jiao jia ming xian pian li zheng chang shui ping de qing kuang	396
+城市分级	cheng shi fen ji	1451
+城市目的地资源	cheng shi mu di di zi yuan	430
+城市限额	cheng shi xian e	1206
+乘坐出租车或网约车产生的支出	cheng zuo chu zu che huo wang yue che chan sheng de zhi chu	1087
+乘坐铁路列车的有效乘车凭证	cheng zuo tie lu lie che de you xiao cheng che ping zheng	1200
+持续优化	chi xu you hua	527
+充电费	chong dian fei	1098
+重复报销	chong fu bao xiao	907
+出差补贴	chu chai bu tie	879
+出差期间的餐费支出	chu chai qi jian de can fei zhi chu	883
+出差期间住宿产生的费用	chu chai qi jian zhu su chan sheng de fei yong	885
+出差申请	chu chai shen qing	1457
+出差时携带家属同行的安排	chu chai shi xie dai jia shu tong hang de an pai	172
+出差体验	chu chai ti yan	310
+出差途中提供的生活用品支持	chu chai tu zhong ti gong de sheng huo yong pin zhi chi	12
+出差员工	chu chai yuan gong	583
+出差员工对差旅服务的主观评价	chu chai yuan gong dui chai lv fu wu de zhu guan ping jia	311
+出发大厅	chu fa da ting	205
+出境差旅	chu jing chai lv	1447
+出境服务	chu jing fu wu	1015
+出境时携带的移动上网设备服务	chu jing shi xie dai de yi dong shang wang she bei fu wu	948
+出境证件	chu jing zheng jian	1049
+处理机票出票与退改的专业人员	chu li ji piao chu piao yu tui gai de zhuan ye ren yuan	574
+出入境材料	chu ru jing cai liao	187
+出入境流程	chu ru jing liu cheng	192
+出入境时的证件与身份查验环节	chu ru jing shi de zheng jian yu shen fen cha yan huan jie	191
+除外责任	chu wai ze ren	983
+出行场景	chu xing chang jing	1479
+出行淡季	chu xing dan ji	151
+出行方式	chu xing fang shi	1460
+出行关怀	chu xing guan huai	307
+出行凭证	chu xing ping zheng	1458
+出行前必须完成的申请批准环节	chu xing qian bi xu wan cheng de shen qing pi zhun huan jie	922
+出行人次	chu xing ren ci	756
+出行人管理	chu xing ren guan li	99
+出行审批人	chu xing shen pi ren	580
+出行提醒	chu xing ti xing	119
+出行旺季	chu xing wang ji	153
+出行异常	chu xing yi chang	946
+出租车	chu zu che	1147
+春运	chun yun	149
+从出发地不经停直接飞抵目的地	cong chu fa di bu jing ting zhi jie fei di mu di di	1382
+从受理到解决投诉所需的时间	cong shou li dao jie jue tou su suo xu de shi jian	602
+打车费	da che fei	1088
+打车行程单	da che xing cheng dan	1057
+大床房	da chuang fang	1330
+大客户运价	da ke hu yun jia	1427
+大数据定价	da shu ju ding jia	343
+大型会议	da xing hui yi	521
+大型展会集中举办的时段	da xing zhan hui ji zhong ju ban de shi duan	144
+代办理值机	dai ban li zhi ji	477
+代驾	dai jia	1144
+代客泊车	dai ke bo che	1233
+代客预订	dai ke yu ding	936
+代码共享	dai ma gong xiang	1380
+带司机租车	dai si ji zu che	1127
+代为完成预订操作的支持人员	dai wei wan cheng yu ding cao zuo de zhi chi ren yuan	576
+单程票	dan cheng piao	1469
+单点登录	dan dian deng lu	718
+单房差	dan fang cha	1291
+淡季价	dan ji jia	1296
+到达大厅	dao da da ting	206
+到店无房	dao dian wu fang	1279
+倒时差	dao shi cha	959
+登机口	deng ji kou	203
+低成本航空	di cheng ben hang kong	1373
+滴滴企业版	di di qi ye ban	269
+低价选择率	di jia xuan ze lv	769
+地接服务	di jie fu wu	19
+地接社	di jie she	423
+电话客服	dian hua ke fu	659
+垫资	dian zi	817
+电子发票	dian zi fa piao	838
+垫资服务	dian zi fu wu	40
+电子客票	dian zi ke piao	1419
+电子签	dian zi qian	1038
+调度费	diao du fei	1079
+订单合并	ding dan he bing	107
+订单量	ding dan liang	758
+订单状态同步	ding dan zhuang tai tong bu	675
+钉钉	ding ding	684
+订而未行的订单占比	ding er wei xing de ding dan zhan bi	761
+定期票	ding qi piao	89
+动车票	dong che piao	1197
+动车组列车的乘车票证	dong che zu lie che de cheng che piao zheng	1196
+动态定价	dong tai ding jia	1300
+独家合作	du jia he zuo	619
+度假酒店	du jia jiu dian	1362
+独自出差	du zi chu chai	965
+短差	duan cha	1477
+短信通知	duan xin tong zhi	690
+对差旅账目进行随机核查的行为	dui chai lv zhang mu jin xing sui ji he cha de xing wei	903
+对差旅支出构成与趋势进行拆解	dui chai lv zhi chu gou cheng yu qu shi jin xing chai jie	739
+对出差地日常交通的定额补偿	dui chu chai di ri chang jiao tong de ding e bu chang	876
+对出差期间通信费用的补偿	dui chu chai qi jian tong xin fei yong de bu chang	874
+对大量订单一次性核对的操作	dui da liang ding dan yi ci xing he dui de cao zuo	51
+对单笔与累计消费设置上限	dui dan bi yu lei ji xiao fei she zhi shang xian	373
+对对账不符部分进行修正的处理	dui dui zhang bu fu bu fen jin xing xiu zheng de chu li	821
+对合同执行情况的综合评估	dui he tong zhi xing qing kuang de zong he ping gu	610
+对机票销售与退改的合规要求	dui ji piao xiao shou yu tui gai de he gui yao qiu	292
+对接方式	dui jie fang shi	1264
+对未来差旅需求与成本进行预估	dui wei lai chai lv xu qiu yu cheng ben jin xing yu gu	335
+对已开发票开具红字进行冲销	dui yi kai fa piao kai ju hong zi jin xing chong xiao	833
+对账	dui zhang	824
+对政策外情况单独批准的机制	dui zheng ce wai qing kuang dan du pi zhun de ji zhi	913
+多笔订单合并开具一张发票	duo bi ding dan he bing kai ju yi zhang fa piao	53
+多程行程	duo cheng xing cheng	1463
+多级审批	duo ji shen pi	934
+多人同行统一安排的出差模式	duo ren tong hang tong yi an pai de chu chai mo shi	515
+二等座	er deng zuo	1189
+儿童票	er tong piao	83
+二字码	er zi ma	240
+发票查验	fa piao cha yan	855
+发票对应的征税比例	fa piao dui ying de zheng shui bi li	849
+发票开具	fa piao kai ju	1222
+发票认证	fa piao ren zheng	854
+发票上注明的购买方名称	fa piao shang zhu ming de gou mai fang ming cheng	841
+发票作废	fa piao zuo fei	832
+发生改签的订单占总订单的比例	fa sheng gai qian de ding dan zhan zong ding dan de bi li	766
+发生投诉的订单占总订单的比例	fa sheng tou su de ding dan zhan zong ding dan de bi li	604
+发生退票的订单占总订单的比例	fa sheng tui piao de ding dan zhan zong ding dan de bi li	764
+发现更低价可按差价补偿的约定	fa xian geng di jia ke an cha jia bu chang de yue ding	403
+返点	fan dian	632
+反欺诈	fan qi zha	381
+反商业贿赂	fan shang ye hui lu	895
+翻译服务	fan yi fu wu	23
+方案设计	fang an she ji	533
+房费不含早餐需另购的价格方案	fang fei bu han zao can xu ling gou de jia ge fang an	1304
+房费中已包含早餐的价格方案	fang fei zhong yi bao han zao can de jia ge fang an	1306
+房价机制	fang jia ji zhi	1299
+房价类型	fang jia lei xing	1312
+房卡	fang ka	1256
+房量保障	fang liang bao zhang	410
+房态	fang tai	1272
+房型	fang xing	1329
+房型降级	fang xing jiang ji	1273
+房型升级	fang xing sheng ji	1276
+房源锁定	fang yuan suo ding	74
+房源与车辆的实际服务水平	fang yuan yu che liang de shi ji fu wu shui ping	401
+飞书	fei shu	683
+费用归集	fei yong gui ji	48
+费用归属	fei yong gui shu	807
+费用科目	fei yong ke mu	891
+费用项	fei yong xiang	1290
+费用形式	fei yong xing shi	881
+飞猪企业差旅	fei zhu qi ye chai lv	268
+分贝通	fen bei tong	266
+份额分配	fen e fen pei	617
+分配给企业或部门的排放额度	fen pei gei qi ye huo bu men de pai fang e du	722
+分散预订	fen san yu ding	562
+分摊规则	fen tan gui ze	806
+分析产物	fen xi chan wu	742
+分析动作	fen xi dong zuo	740
+分析工具	fen xi gong ju	744
+分析角色	fen xi jue se	568
+分析指标	fen xi zhi biao	781
+风控引擎	feng kong yin qing	699
+风险防控	feng xian fang kong	380
+风险预警	feng xian yu jing	900
+覆盖行前行中行后的完整服务	fu gai xing qian xing zhong hang hou de wan zheng fu wu	557
+赴高海拔地区的健康保障安排	fu gao hai ba di qu de jian kang bao zhang an pai	8
+符合差旅标准的订单占比	fu he chai lv biao zhun de ding dan zhan bi	772
+附件上传	fu jian shang chuan	863
+赴境外出差发放的专项补助	fu jing wai chu chai fa fang de zhuan xiang bu zhu	870
+服务承诺	fu wu cheng nuo	668
+服务费	fu wu fei	629
+服务管理	fu wu guan li	673
+服务机构	fu wu ji gou	941
+服务角色	fu wu jue se	577
+服务类型	fu wu lei xing	551
+服务能力	fu wu neng li	663
+服务商	fu wu shang	272
+服务时效	fu wu shi xiao	669
+服务水平协议	fu wu shui ping xie yi	666
+服务指标	fu wu zhi biao	670
+服务质量评分	fu wu zhi liang ping fen	609
+服务中断	fu wu zhong duan	393
+服务中小城市航班量较小的机场	fu wu zhong xiao cheng shi hang ban liang jiao xiao de ji chang	250
+负责差旅数据建模与洞察的人员	fu ze chai lv shu ju jian mo yu dong cha de ren yuan	567
+负责批准出差申请的管理者	fu ze pi zhun chu chai shen qing de guan li zhe	579
+负责日常预订与协调的执行岗位	fu ze ri chang yu ding yu xie tiao de zhi xing gang wei	584
+改签	gai qian	1399
+改签率	gai qian lv	767
+改签铁路票	gai qian tie lu piao	1171
+干线机场	gan xian ji chang	253
+港澳通行证	gang ao tong xing zheng	1047
+高风险地区	gao feng xian di qu	977
+高峰溢价	gao feng yi jia	143
+高速公路按里程收取的通行费用	gao su gong lu an li cheng shou qu de tong xing fei yong	1089
+高速公路收费的电子或纸质票据	gao su gong lu shou fei de dian zi huo zhi zhi piao ju	1058
+高速铁路列车的乘车票证	gao su tie lu lie che de cheng che piao zheng	1198
+高速通行费	gao su tong xing fei	1090
+高铁票	gao tie piao	1199
+高铁上规格最高可平躺的席别	gao tie shang gui ge zui gao ke ping tang de xi bie	1192
+高铁上价格最低的标准席别	gao tie shang jia ge zui di de biao zhun xi bie	1188
+高铁上舒适度较高的席别	gao tie shang shu shi du jiao gao de xi bie	1190
+高铁商务座附赠的免费餐食	gao tie shang wu zuo fu zeng de mian fei can shi	84
+高铁站酒店	gao tie zhan jiu dian	1351
+高原补贴	gao yuan bu tie	873
+高原出差关怀	gao yuan chu chai guan huai	9
+各舱位等级被选用的比例	ge cang wei deng ji bei xuan yong de bi li	770
+个人承担部分	ge ren cheng dan bu fen	171
+个人垫付	ge ren dian fu	1215
+个人信息保护	ge ren xin xi bao hu	651
+公布运价	gong bu yun jia	1430
+工单	gong dan	674
+供给现象	gong ji xian xiang	139
+公司统付	gong si tong fu	1216
+公务舱	gong wu cang	1438
+公务出行	gong wu chu xing	1478
+公务机	gong wu ji	1367
+共享服务中心	gong xiang fu wu zhong xin	553
+供应承诺	gong ying cheng nuo	405
+供应动作	gong ying dong zuo	73
+供应方	gong ying fang	1349
+供应风险	gong ying feng xian	399
+供应管理	gong ying guan li	429
+供应链金融	gong ying lian jin rong	45
+供应商分级	gong ying shang fen ji	614
+供应商分析	gong ying shang fen xi	738
+供应商给予企业的付款宽限时间	gong ying shang ji yu qi ye de fu kuan kuan xian shi jian	828
+供应商考核	gong ying shang kao he	615
+供应商库	gong ying shang ku	642
+供应商社会责任	gong ying shang she hui ze ren	298
+供应商准入	gong ying shang zhun ru	644
+供应资源	gong ying zi yuan	77
+公寓式酒店	gong yu shi jiu dian	1353
+供住客锻炼的配套场所	gong zhu ke duan lian de pei tao chang suo	1238
+工作餐	gong zuo can	495
+工作签证	gong zuo qian zheng	1041
+购买方的纳税人识别号	gou mai fang de na shui ren shi bie hao	839
+鼓励员工选择低碳交通的宣传	gu li yuan gong xuan ze di tan jiao tong de xuan chuan	299
+雇主责任险	gu zhu ze ren xian	996
+挂账	gua zhang	1217
+关键操作需两人共同确认的机制	guan jian cao zuo xu liang ren gong tong que ren de ji zhi	370
+管理场景	guan li chang jing	1066
+管理动作	guan li dong zuo	1070
+管理费	guan li fei	628
+管理规则	guan li gui ze	1072
+管理流程	guan li liu cheng	1075
+管理企业资源与财务核算的系统	guan li qi ye zi yuan yu cai wu he suan de xi tong	680
+管理维度	guan li wei du	1452
+管理指标	guan li zhi biao	911
+关联交易核查	guan lian jiao yi he cha	896
+归还车辆并结算费用的环节	gui huan che liang bing jie suan fei yong de huan jie	1113
+规模较小设计感强的特色酒店	gui mo jiao xiao she ji gan qiang de te se jiu dian	1356
+规则引擎	gui ze yin qing	702
+滚动预测	gun dong yu ce	330
+国际大型酒店集团旗下品牌众多	guo ji da xing jiu dian ji tuan qi xia pin pai zhong duo	1342
+国际航段税费	guo ji hang duan shui fei	1421
+国际机场	guo ji ji chang	249
+国际酒店集团含多个中高端品牌	guo ji jiu dian ji tuan han duo ge zhong gao duan pin pai	1339
+国际旅行健康证明	guo ji lv xing jian kang zheng ming	1010
+过境签	guo jing qian	1035
+过路费	guo lu fei	1096
+国内差旅	guo nei chai lv	1448
+国内规模较大的多品牌酒店集团	guo nei gui mo jiao da de duo pin pai jiu dian ji tuan	1347
+国内机场	guo nei ji chang	247
+过桥费	guo qiao fei	1094
+还车	hai che	1114
+海关绿通	hai guan lv tong	185
+海关申报	hai guan shen bao	190
+含独立起居空间的高规格客房	han du li qi ju kong jian de gao gui ge ke fang	1323
+含早价	han zao jia	1307
+含专职司机的车辆租赁服务	han zhuan zhi si ji de che liang zu lin fu wu	1126
+航班备降	hang ban bei jiang	1386
+航班动态	hang ban dong tai	117
+航班号	hang ban hao	238
+航班计划起飞与到达的时间点	hang ban ji hua qi fei yu dao da de shi jian dian	231
+航班取消	hang ban qu xiao	1388
+航班延误	hang ban yan wu	1390
+航班延误险	hang ban yan wu xian	997
+航班要素	hang ban yao su	232
+航班中途停靠的城市	hang ban zhong tu ting kao de cheng shi	219
+航段	hang duan	236
+航空电子发票	hang kong dian zi fa piao	1052
+航空公司的两字母国际代码	hang kong gong si de liang zi mu guo ji dai ma	239
+航空客运开具的电子普通发票	hang kong ke yun kai ju de dian zi pu tong fa piao	1051
+航空意外险	hang kong yi wai xian	1005
+航司合作	hang si he zuo	1379
+航司类型	hang si lei xing	1372
+航司联盟	hang si lian meng	1378
+航司新开通的飞行路径	hang si xin kai tong de fei xing lu jing	221
+航司因故取消既定航班计划	hang si yin gu qu xiao ji ding hang ban ji hua	1387
+航司在机场获得的起降时间配额	hang si zai ji chang huo de de qi jiang shi jian pei e	228
+航司直销	hang si zhi xiao	1414
+航线	hang xian	225
+行业编码	hang ye bian ma	242
+行业集中度	hang ye ji zhong du	369
+行业监管	hang ye jian guan	296
+行业趋势	hang ye qu shi	362
+行业整体交易金额或规模的度量	hang ye zheng ti jiao yi jin e huo gui mo de du liang	364
+行业资源	hang ye zi yuan	229
+行业组织	hang ye zu zhi	1411
+航站楼	hang zhan lou	245
+豪华房	hao hua fang	1320
+核查用车路线是否符合业务需要	he cha yong che lu xian shi fou fu he ye wu xu yao	1068
+合规报告	he gui bao gao	902
+合规产物	he gui chan wu	901
+合规动作	he gui dong zuo	904
+合规概念	he gui gai nian	279
+合规功能	he gui gong neng	899
+合规管理	he gui guan li	978
+合规术语	he gui shu yu	1208
+合规文化	he gui wen hua	303
+合规要求	he gui yao qiu	894
+合规要素	he gui yao su	925
+合思	he si	261
+合同明确不予赔付的情形清单	he tong ming que bu yu pei fu de qing xing qing dan	982
+合同签署	he tong qian shu	530
+核验发票真伪与是否重复入账	he yan fa piao zhen wei yu shi fou chong fu ru zhang	856
+合住	he zhu	1205
+黑名单	hei ming dan	703
+红冲	hong chong	834
+红眼航班	hong yan hang ban	1381
+候补	hou bu	1391
+候补购票	hou bu gou piao	1176
+护照信息管理	hu zhao xin xi guan li	94
+华住	hua zhu	1348
+欢迎礼包	huan ying li bao	15
+寰宇一家	huan yu yi jia	1374
+黄金时刻	huang jin shi ke	227
+黄金周	huang jin zhou	147
+黄热病疫苗	huang re bing yi miao	1013
+会场布置	hui chang bu zhi	511
+灰度发布	hui du fa bu	538
+汇联易	hui lian yi	265
+汇率损失	hui lv sun shi	953
+会务服务	hui wu fu wu	510
+会务物料	hui wu wu liao	506
+会议或加班期间统一安排的餐食	hui yi huo jia ban qi jian tong yi an pai de can shi	494
+会议间歇提供的简餐与饮品	hui yi jian xie ti gong de jian can yu yin pin	496
+会议奖励旅游大会与展览的统称	hui yi jiang li lv you da hui yu zhan lan de tong cheng	524
+会议旅游	hui yi lv you	523
+会议期间分发的文件与用品	hui yi qi jian fen fa de wen jian yu yong pin	503
+会议室	hui yi shi	1241
+会议型酒店	hui yi xing jiu dian	1363
+会议用车	hui yi yong che	1136
+会议资料	hui yi zi liao	504
+会员层级	hui yuan ceng ji	460
+会员等级	hui yuan deng ji	464
+会员规则	hui yuan gui ze	466
+会员价	hui yuan jia	1309
+会员可享的晚退房特权	hui yuan ke xiang de wan tui fang te quan	443
+会员匹配	hui yuan pi pei	452
+会员权益	hui yuan quan yi	472
+会员入住时获得房型提升的权益	hui yuan ru zhu shi huo de fang xing ti sheng de quan yi	445
+会员使用或兑换权益的确认过程	hui yuan shi yong huo dui huan quan yi de que ren guo cheng	431
+会员体系	hui yuan ti xi	463
+会员运营	hui yuan yun ying	451
+会员专享价	hui yuan zhuan xiang jia	442
+会展服务	hui zhan fu wu	33
+会展旺季	hui zhan wang ji	145
+会展业务	hui zhan ye wu	525
+汇总费用明细并提交审核的表单	hui zong fei yong ming xi bing ti jiao shen he de biao dan	864
+汇总开票	hui zong kai piao	54
+混合办公差旅	hun he ban gong chai lv	157
+混合出行	hun he chu xing	1445
+混合支付	hun he zhi fu	1213
+火车票	huo che piao	1202
+活动当天的统筹与协调工作	huo dong dang tian de tong chou yu xie tiao gong zuo	24
+活跃度	huo yue du	752
+机场	ji chang	256
+机场餐饮	ji chang can yin	180
+机场大巴	ji chang da ba	1134
+机场服务	ji chang fu wu	488
+机场贵宾厅	ji chang gui bin ting	489
+机场规定的可行中转最小间隔	ji chang gui ding de ke xing zhong zhuan zui xiao jian ge	212
+机场接送	ji chang jie song	479
+机场酒店	ji chang jiu dian	1352
+机场流程	ji chang liu cheng	196
+机场内办理乘机与候机的建筑	ji chang nei ban li cheng ji yu hou ji de jian zhu	244
+机场内提供餐食的商业设施	ji chang nei ti gong can shi de shang ye she shi	179
+机场内销售免税商品的零售场所	ji chang nei xiao shou mian shui shang pin de ling shou chang suo	181
+机场商业	ji chang shang ye	182
+机场设施	ji chang she shi	208
+机场与城市的三字母国际代码	ji chang yu cheng shi de san zi mu guo ji dai ma	241
+基础保险	ji chu bao xian	1105
+计次票	ji ci piao	90
+极端天气应对	ji duan tian qi ying dui	7
+积分兑换	ji fen dui huan	448
+积分过期	ji fen guo qi	434
+积分可使用的时限约定	ji fen ke shi yong de shi xian yue ding	435
+积分商城	ji fen shang cheng	440
+积分有效期	ji fen you xiao qi	436
+记录并跟踪一次服务请求的单据	ji lu bing gen zong yi ci fu wu qing qiu de dan ju	672
+记录房型日期与价格的确认文件	ji lu fang xing ri qi yu jia ge de que ren wen jian	1280
+记录疫苗接种情况的健康凭证	ji lu yi miao jie zhong qing kuang de jian kang ping zheng	1009
+机票	ji piao	1444
+机票变更	ji piao bian geng	1398
+机票舱位	ji piao cang wei	1439
+机票费用	ji piao fei yong	1394
+机票火车票与市内用车等支出	ji piao huo che piao yu shi nei yong che deng zhi chu	887
+机票价格	ji piao jia ge	1433
+机票票种	ji piao piao zhong	82
+机票凭证	ji piao ping zheng	1418
+机票渠道	ji piao qu dao	1415
+机票术语	ji piao shu yu	1420
+机票税费	ji piao shui fei	1423
+机票要素	ji piao yao su	1441
+机票状态	ji piao zhuang tai	1392
+技术保障	ji shu bao zhang	647
+技术风险	ji shu feng xian	390
+技术供应商	ji shu gong ying shang	260
+技术角色	ji shu jue se	571
+技术手段	ji shu shou duan	653
+技术应用	ji shu ying yong	351
+技术指标	ji shu zhi biao	645
+基于行为数据刻画出行人特征	ji yu xing wei shu ju ke hua chu xing ren te zheng	339
+集中采购以获取更优价格	ji zhong cai gou yi huo qu geng you jia ge	318
+集中存储出行人证件资料的模块	ji zhong cun chu chu xing ren zheng jian zi liao de mo kuai	95
+集中预订	ji zhong yu ding	564
+集中展示单程信息的界面组件	ji zhong zhan shi dan cheng xin xi de jie mian zu jian	121
+集中支付	ji zhong zhi fu	59
+基准价	ji zhun jia	787
+加班用车	jia ban yong che	1470
+价格机制	jia ge ji zhi	133
+价格竞争力	jia ge jing zheng li	408
+价格欺诈	jia ge qi zha	289
+价格现象	jia ge xian xiang	142
+价格异常	jia ge yi chang	397
+加价	jia jia	1301
+家属随行	jia shu sui xing	173
+家庭房	jia ting fang	1319
+监管后果	jian guan hou guo	275
+健康要求	jian kang yao qiu	1012
+检票口	jian piao kou	1160
+健身房	jian shen fang	1239
+将本币兑换为目的国货币的服务	jiang ben bi dui huan wei mu di guo huo bi de fu wu	954
+降本增效	jiang ben zeng xiao	324
+将差旅管理整体委托给专业机构	jiang chai lv guan li zheng ti wei tuo gei zhuan ye ji gou	554
+将出差行程延长以进行个人活动	jiang chu chai xing cheng yan chang yi jin xing ge ren huo dong	174
+将多笔订单归集处理的功能	jiang duo bi ding dan gui ji chu li de gong neng	106
+将费用归集到具体项目的标识	jiang fei yong gui ji dao ju ti xiang mu de biao zhi	810
+将分散支出集中汇总的过程	jiang fen san zhi chu ji zhong hui zong de guo cheng	47
+奖励旅游	jiang li lv you	522
+将历史数据导入新系统的操作	jiang li shi shu ju dao ru xin xi tong de cao zuo	544
+将票据影像上传至系统的操作	jiang piao ju ying xiang shang chuan zhi xi tong de cao zuo	862
+将已开发票标记为无效的操作	jiang yi kai fa piao biao ji wei wu xiao de cao zuo	831
+叫车后取消订单产生的违约费用	jiao che hou qu xiao ding dan chan sheng de wei yue fei yong	1077
+交通费	jiao tong fei	888
+交通品类	jiao tong pin lei	1443
+交通枢纽	jiao tong shu niu	255
+交通意外险	jiao tong yi wai xian	1004
+交通住宿餐饮等项目的额度上限	jiao tong zhu su can yin deng xiang mu de e du shang xian	916
+交通住宿用车在同一平台闭环	jiao tong zhu su yong che zai tong yi ping tai bi huan	355
+叫醒服务	jiao xing fu wu	1245
+交易风控	jiao yi feng kong	378
+交易手续费	jiao yi shou xu fei	626
+结伴出行	jie ban chu xing	964
+接机牌	jie ji pai	17
+接口对接	jie kou dui jie	719
+节省额	jie sheng e	790
+节省额占基准支出的比例	jie sheng e zhan ji zhun zhi chu de bi li	788
+接送机	jie song ji	1235
+接送机用车	jie song ji yong che	1140
+接送站用车	jie song zhan yong che	1138
+结算单据	jie suan dan ju	826
+结算动作	jie suan dong zuo	823
+结算方式	jie suan fang shi	1218
+结算概念	jie suan gai nian	170
+结算要素	jie suan yao su	829
+阶梯定价	jie ti ding jia	625
+接续换乘	jie xu huan cheng	88
+节支率	jie zhi lv	789
+仅对会员开放的优惠价格	jin dui hui yuan kai fang de you hui jia ge	441
+紧急救援服务	jin ji jiu yuan fu wu	1001
+紧急联系人	jin ji lian xi ren	971
+锦江	jin jiang	1346
+金卡会员	jin ka hui yuan	458
+进项税抵扣	jin xiang shui di kou	853
+仅与单一供应商开展合作的约定	jin yu dan yi gong ying shang kai zhan he zuo de yue ding	618
+仅运营境内航线的机场	jin yun ying jing nei hang xian de ji chang	246
+经第三国转机时所需的短期许可	jing di san guo zhuan ji shi suo xu de duan qi xu ke	1034
+京东企业购差旅	jing dong qi ye gou chai lv	267
+经济舱	jing ji cang	1440
+经济型连锁	jing ji xing lian suo	1360
+净价	jing jia	1303
+经酒店同意后晚于标准时间退房	jing jiu dian tong yi hou wan yu biao zhun shi jian tui fang	1249
+精品酒店	jing pin jiu dian	1357
+经审核合格的合作方名录集合	jing shen he he ge de he zuo fang ming lu ji he	640
+经特批后允许超标订单继续执行	jing te pi hou yun xu chao biao ding dan ji xu zhi xing	927
+经停	jing ting	1385
+经停城市	jing ting cheng shi	220
+境外出差补贴	jing wai chu chai bu tie	871
+境外流量包	jing wai liu liang bao	950
+境外医疗保险	jing wai yi liao bao xian	1003
+境外支付	jing wai zhi fu	956
+静音车厢	jing yin che xiang	87
+经营动作	jing ying dong zuo	321
+经营目标	jing ying mu biao	323
+就差旅政策条款进行说明与培训	jiu chai lv zheng ce tiao kuan jin xing shuo ming yu pei xun	549
+酒店	jiu dian	1366
+酒店出具的消费明细单据	jiu dian chu ju de xiao fei ming xi dan ju	1225
+酒店对外挂牌公示的标准售价	jiu dian dui wai gua pai gong shi de biao zhun shou jia	1311
+酒店服务	jiu dian fu wu	1247
+酒店各类客房的可售与占用状态	jiu dian ge lei ke fang de ke shou yu zhan yong zhuang tai	1270
+酒店会员计划	jiu dian hui yuan ji hua	450
+酒店集团	jiu dian ji tuan	1350
+酒店集团的中央预订系统	jiu dian ji tuan de zhong yang yu ding xi tong	1266
+酒店集团以积分回馈住客的体系	jiu dian ji tuan yi ji fen hui kui zhu ke de ti xi	449
+酒店开具的住宿服务增值税发票	jiu dian kai ju de zhu su fu wu zeng zhi shui fa piao	1227
+酒店配套的室内外泳场	jiu dian pei tao de shi nei wai yong chang	1236
+酒店设施	jiu dian she shi	1240
+酒店提供的机场往返接送服务	jiu dian ti gong de ji chang wang fan jie song fu wu	1234
+酒店提供的衣物清洗与熨烫服务	jiu dian ti gong de yi wu qing xi yu yun tang fu wu	1243
+酒店为合作方预留的专属房间	jiu dian wei he zuo fang yu liu de zhuan shu fang jian	70
+酒店系统	jiu dian xi tong	1267
+酒店向住客提供的免费上网接入	jiu dian xiang zhu ke ti gong de mian fei shang wang jie ru	1230
+就价格与条款进行磋商的过程	jiu jia ge yu tiao kuan jin xing cuo shang de guo cheng	531
+救援机构	jiu yuan ji gou	981
+拒签	ju qian	1025
+角色权限	jue se quan xian	711
+军人票	jun ren piao	1178
+开口行程	kai kou xing cheng	1462
+开启客房门锁的电子凭证	kai qi ke fang men suo de dian zi ping zheng	1255
+开通出入境航线的机场	kai tong chu ru jing hang xian de ji chang	248
+凯悦	kai yue	1336
+可持续采购	ke chi xu cai gou	721
+可持续措施	ke chi xu cuo shi	300
+可持续管理	ke chi xu guan li	723
+可持续理念	ke chi xu li nian	729
+可持续目标	ke chi xu mu biao	725
+可持续指标	ke chi xu zhi biao	733
+可持续做法	ke chi xu zuo fa	727
+客服响应时长	ke fu xiang ying shi chang	671
+客户成功	ke hu cheng gong	599
+客户成功经理	ke hu cheng gong jing li	597
+客户代码	ke hu dai ma	809
+客户满意度	ke hu man yi du	607
+客人到店登记并领取房卡的环节	ke ren dao dian deng ji bing ling qu fang ka de huan jie	1259
+可容纳多名家庭成员的客房类型	ke rong na duo ming jia ting cheng yuan de ke fang lei xing	1318
+可售座位或房源不足的供应状态	ke shou zuo wei huo fang yuan bu zu de gong ying zhuang tai	138
+可享行政酒廊等专属服务的客房	ke xiang xing zheng jiu lang deng zhuan shu fu wu de ke fang	1321
+空铁联运	kong tie lian yun	1461
+库存	ku cun	414
+库存同步	ku cun tong bu	412
+跨城市归还车辆产生的额外收费	kua cheng shi gui huan che liang chan sheng de e wai shou fei	1110
+跨境差旅	kua jing chai lv	962
+跨越国境的公务出行活动	kua yue guo jing de gong wu chu xing huo dong	961
+快车	kuai che	1150
+快速安检	kuai su an jian	485
+快速取消订单的操作设计	kuai su qu xiao ding dan de cao zuo she ji	108
+框架协议	kuang jia xie yi	636
+捆绑销售未经用户同意的产品	kun bang xiao shou wei jing yong hu tong yi de chan pin	285
+廊桥	lang qiao	201
+里程兑换	li cheng dui huan	469
+里程核对	li cheng he dui	1071
+里程可使用的最长时限	li cheng ke shi yong de zui chang shi xian	465
+里程累积	li cheng lei ji	471
+里程限制	li cheng xian zhi	1120
+里程有效期	li cheng you xiao qi	467
+理赔材料	li pei cai liao	991
+礼品申报	li pin shen bao	893
+利润中心	li run zhong xin	813
+历史悠久的全球差旅管理公司	li shi you jiu de quan qiu chai lv guan li gong si	258
+例外审批	li wai shen pi	914
+联程航班	lian cheng hang ban	1464
+连接航站楼与机舱的通道	lian jie hang zhan lou yu ji cang de tong dao	200
+连接两个城市的固定飞行路径	lian jie liang ge cheng shi de gu ding fei xing lu jing	223
+连接主要城市航班量较大的机场	lian jie zhu yao cheng shi hang ban liang jiao da de ji chang	252
+连锁协议价	lian suo xie yi jia	75
+连通房	lian tong fang	1317
+连续入住多晚可享受的优惠房价	lian xu ru zhu duo wan ke xiang shou de you hui fang jia	1293
+连住价	lian zhu jia	1294
+两段航班之间的等待时间	liang duan hang ban zhi jian de deng dai shi jian	214
+两个连续起降点之间的一段飞行	liang ge lian xu qi jiang dian zhi jian de yi duan fei xing	234
+两名及以上员工同行出差的安排	liang ming ji yi shang yuan gong tong hang chu chai de an pai	963
+了解企业差旅现状与痛点的环节	liao jie qi ye chai lv xian zhuang yu tong dian de huan jie	534
+临近涨价	lin jin zhang jia	131
+零基预算	ling ji yu suan	327
+领事认证	ling shi ren zheng	1016
+流程节点	liu cheng jie dian	1456
+漏订率	lou ding lv	750
+路线合规	lu xian he gui	1069
+落地签	luo di qian	1039
+旅客办理值机与安检的区域	lv ke ban li zhi ji yu an jian de qu yu	204
+旅客登机的指定位置	lv ke deng ji de zhi ding wei zhi	202
+旅客换乘航班的衔接城市	lv ke huan cheng hang ban de xian jie cheng shi	217
+旅客上下列车的站台区域	lv ke shang xia lie che de zhan tai qu yu	1156
+绿色差旅	lv se chai lv	730
+绿色出行倡导	lv se chu xing chang dao	301
+旅行禁令	lv xing jin ling	968
+履约服务	lv yue fu wu	1275
+履约评价	lv yue ping jia	611
+履约异常	lv yue yi chang	1278
+满房	man fang	1269
+漫游服务	man you fu wu	951
+冒用资质开展业务的合作方	mao yong zi zhi kai zhan ye wu de he zuo fang	382
+每刻报销	mei ke bao xiao	263
+美团企业版	mei tuan qi ye ban	270
+门市价	men shi jia	1313
+免费取消	mian fei qu xiao	1289
+免费升房	mian fei sheng fang	446
+免费无线网络	mian fei wu xian wang luo	1231
+免赔额	mian pei e	989
+免签	mian qian	1037
+免税店	mian shui dian	183
+面向多人同行的集中预订能力	mian xiang duo ren tong hang de ji zhong yu ding neng li	102
+面向规定年龄段儿童的优惠票	mian xiang gui ding nian ling duan er tong de you hui piao	81
+面向商务消费设计的信用卡产品	mian xiang shang wu xiao fei she ji de xin yong ka chan pin	63
+面向现役军人发售的优惠票	mian xiang xian yi jun ren fa shou de you hui piao	1177
+面向在校学生发售的优惠票	mian xiang zai xiao xue sheng fa shou de you hui piao	1179
+敏感信息被非法获取的事件	min gan xin xi bei fei fa huo qu de shi jian	386
+民航发展基金	min hang fa zhan ji jin	1424
+民宿	min su	1354
+名单导入	ming dan dao ru	101
+明码标价	ming ma biao jia	291
+默认勾选	mo ren gou xuan	284
+末位淘汰	mo wei tao tai	612
+某日期所有房型均已售罄的状态	mou ri qi suo you fang xing jun yi shou qing de zhuang tai	1268
+某一时点可供销售的资源数量	mou yi shi dian ke gong xiao shou de zi yuan shu liang	413
+目的地当地的接待与安排	mu di di dang di de jie dai yu an pai	18
+目的地风险等级	mu di di feng xian deng ji	979
+目的地管理公司	mu di di guan li gong si	421
+内控手段	nei kong shou duan	371
+年度协议	nian du xie yi	634
+女性差旅安全	nv xing chai lv an quan	967
+欧洲背景的国际酒店集团	ou zhou bei jing de guo ji jiu dian ji tuan	1337
+派遣函	pai qian han	1031
+赔偿责任	pei chang ze ren	622
+陪同翻译	pei tong fan yi	21
+培训赋能	pei xun fu neng	548
+配置两张单人床的客房类型	pei zhi liang zhang dan ren chuang de ke fang lei xing	1326
+配置一张双人床的客房类型	pei zhi yi zhang shuang ren chuang de ke fang lei xing	1328
+批发商资源	pi fa shang zi yuan	425
+批量对账	pi liang dui zhang	52
+批量预订	pi liang yu ding	105
+票号	piao hao	1417
+票据类型	piao ju lei xing	847
+票据扫描或拍照形成的电子文件	piao ju sao miao huo pai zhao xing cheng de dian zi wen jian	859
+票据要素	piao ju yao su	842
+票据造假	piao ju zao jia	906
+票面价	piao mian jia	1426
+票务代理	piao wu dai li	1413
+票务供应商	piao wu gong ying shang	417
+票务规范	piao wu gui fan	294
+票务专员	piao wu zhuan yuan	575
+拼车	pin che	1146
+拼房	pin fang	1204
+评估各供应商份额与表现的方法	ping gu ge gong ying shang fen e yu biao xian de fang fa	737
+平均房价	ping jun fang jia	779
+平均票价	ping jun piao jia	782
+平台功能	ping tai gong neng	1262
+平台功能异常影响交易的情形	ping tai gong neng yi chang ying xiang jiao yi de qing xing	389
+平台机制	ping tai ji zhi	128
+平台与酒店直接签约的房源	ping tai yu jiu dian zhi jie qian yue de fang yuan	426
+普票	pu piao	845
+普速列车	pu su lie che	1195
+普速列车中带包厢的卧铺席别	pu su lie che zhong dai bao xiang de wo pu xi bie	1186
+普速列车中开放式卧铺席别	pu su lie che zhong kai fang shi wo pu xi bie	1184
+起降时刻	qi jiang shi ke	233
+企业按天或按餐给予的定额补贴	qi ye an tian huo an can ji yu de ding e bu tie	880
+企业管理职能	qi ye guan li zhi neng	1481
+企业积分	qi ye ji fen	438
+企业角色	qi ye jue se	591
+企业客户按消费累积的权益分值	qi ye ke hu an xiao fei lei ji de quan yi fen zhi	437
+企业客户对服务体验的主观评价	qi ye ke hu dui fu wu ti yan de zhu guan ping jia	606
+企业内部负责差旅管理的岗位	qi ye nei bu fu ze chai lv guan li de gang wei	590
+企业内部系统	qi ye nei bu xi tong	681
+企业内普遍遵循规则的氛围	qi ye nei pu bian zun xun gui ze de fen wei	302
+企业微信	qi ye wei xin	686
+企业先向平台存入资金用于消费	qi ye xian xiang ping tai cun ru zi jin yong yu xiao fei	819
+企业信用卡	qi ye xin yong ka	66
+企业用车	qi ye yong che	1142
+企业在线预订工具的英文简称	qi ye zai xian yu ding gong ju de ying wen jian cheng	938
+签到	qian dao	509
+前台服务	qian tai fu wu	1250
+前台流程	qian tai liu cheng	1260
+前往高海拔地区出差的额外补助	qian wang gao hai ba di qu chu chai de e wai bu zhu	872
+签证	qian zheng	1044
+签证材料	qian zheng cai liao	1032
+签证代办	qian zheng dai ban	1028
+签证服务	qian zheng fu wu	1027
+签证加急	qian zheng jia ji	1026
+签证结果	qian zheng jie guo	1024
+签证类型	qian zheng lei xing	1042
+签证要素	qian zheng yao su	1021
+签证有效期	qian zheng you xiao qi	1022
+签证允许出入境的总次数限制	qian zheng yun xu chu ru jing de zong ci shu xian zhi	1018
+签证政策	qian zheng zheng ce	1036
+签注	qian zhu	1045
+签转	qian zhuan	1397
+抢票	qiang piao	1174
+强制搭售	qiang zhi da shou	286
+切位	qie wei	69
+青年旅舍	qing nian lv she	1355
+取车	qu che	1116
+渠道外支出	qu dao wai zhi chu	747
+取消行程并按规定退还票款	qu xiao xing cheng bing an gui ding tui huan piao kuan	1167
+取消用车费	qu xiao yong che fei	1078
+取消政策	qu xiao zheng ce	1288
+全额罚扣	quan e fa kou	1284
+全服务航空	quan fu wu hang kong	1371
+全价票	quan jia piao	1434
+全链路服务	quan lian lu fu wu	558
+全面禁烟的客房类型	quan mian jin yan de ke fang lei xing	1314
+全球规模最大的航空联盟之一	quan qiu gui mo zui da de hang kong lian meng zhi yi	1376
+全球性的差旅管理公司	quan qiu xing de chai lv guan li gong si	259
+全天候客服	quan tian hou ke fu	664
+权限管理	quan xian guan li	712
+权益核销	quan yi he xiao	432
+确认操作者真实身份的过程	que ren cao zuo zhe zhen shi shen fen de guo cheng	375
+确认号	que ren hao	1283
+燃油附加费	ran you fu jia fei	1422
+人工智能客服	ren gong zhi neng ke fu	352
+人力资源系统对接	ren li zi yuan xi tong dui jie	677
+人脸识别	ren lian shi bie	345
+日志审计	ri zhi shen ji	649
+日租	ri zu	1125
+入境次数	ru jing ci shu	1019
+入境卡	ru jing ka	188
+入境时需填写的申报表格	ru jing shi xu tian xie de shen bao biao ge	186
+入住率	ru zhu lv	760
+入住时获得高于所订档次的房型	ru zhu shi huo de gao yu suo ding dang ci de fang xing	1274
+软卧	ruan wo	1187
+三字码	san zi ma	243
+商旅	shang lv	1484
+商务出差	shang wu chu chai	1480
+商务管理	shang wu guan li	616
+商务合同	shang wu he tong	635
+商务酒店	shang wu jiu dian	1364
+商务角色	shang wu jue se	596
+商务卡	shang wu ka	64
+商务旅行卡	shang wu lv xing ka	1017
+商务签证	shang wu qian zheng	1043
+商务谈判	shang wu tan pan	532
+商务条款	shang wu tiao kuan	665
+商务宴请	shang wu yan qing	491
+商务职能	shang wu zhi neng	598
+商务中心	shang wu zhong xin	1242
+商务座	shang wu zuo	1194
+商务座餐食	shang wu zuo can shi	85
+上线实施	shang xian shi shi	547
+设备租赁	she bei zu lin	500
+奢华酒店	she hua jiu dian	1358
+身份核验	shen fen he yan	376
+审核差旅费用与结算的岗位	shen he chai lv fei yong yu jie suan de gang wei	586
+审计抽查	shen ji chou cha	905
+审批流	shen pi liu	935
+申请赔付时需提交的证明与票据	shen qing pei fu shi xu ti jiao de zheng ming yu piao ju	990
+渗透率	shen tou lv	751
+渗透率提升	shen tou lv ti sheng	363
+识别并阻断欺诈交易的管理机制	shi bie bing zu duan qi zha jiao yi de guan li ji zhi	379
+识别异常行为并触发拦截的模块	shi bie yi chang xing wei bing chu fa lan jie de mo kuai	698
+时差调整	shi cha tiao zheng	960
+市场规模	shi chang gui mo	366
+市场特征	shi chang te zheng	368
+市场指标	shi chang zhi biao	365
+事后核销	shi hou he xiao	919
+实际不存在或信息不符的房源	shi ji bu cun zai huo xin xi bu fu de fang yuan	398
+实际使用差旅服务的企业员工	shi ji shi yong chai lv fu wu de qi ye yuan gong	581
+实际支出超过预算额度的情形	shi ji zhi chu chao guo yu suan e du de qing xing	795
+实际支出占预算总额的比例	shi ji zhi chu zhan yu suan zong e de bi li	798
+时刻资源	shi ke zi yuan	230
+使领馆拒绝签发签证的处理结论	shi ling guan ju jue qian fa qian zheng de chu li jie lun	1023
+市内交通补贴	shi nei jiao tong bu tie	877
+事前审批	shi qian shen pi	923
+实时保持渠道与实际资源一致	shi shi bao chi qu dao yu shi ji zi yuan yi zhi	411
+实施策略	shi shi ce lue	537
+实施动作	shi shi dong zuo	545
+实施顾问	shi shi gu wen	595
+实施阶段	shi shi jie duan	542
+实时进行多语种翻译的服务	shi shi jin xing duo yu zhong fan yi de fu wu	501
+实时展示航班起降状态的信息	shi shi zhan shi hang ban qi jiang zhuang tai de xin xi	116
+试运行	shi yun xing	543
+事中管控	shi zhong guan kong	921
+时租	shi zu	1122
+售出量超出实际可用资源的问题	shou chu liang chao chu shi ji ke yong zi yuan de wen ti	394
+受航司授权代售客票的中介机构	shou hang si shou quan dai shou ke piao de zhong jie ji gou	1412
+首旅如家	shou lv ru jia	1345
+首晚罚扣	shou wan fa kou	1285
+授信额度	shou xin e du	818
+数据安全	shu ju an quan	655
+数据出境	shu ju chu jing	650
+数据分析师	shu ju fen xi shi	569
+数据归属	shu ju gui shu	620
+数据回传	shu ju hui chuan	676
+数据加密	shu ju jia mi	654
+数据看板	shu ju kan ban	745
+数据迁移	shu ju qian yi	546
+数据权限	shu ju quan xian	709
+数据泄露	shu ju xie lou	388
+数据应用	shu ju ying yong	340
+枢纽机场	shu niu ji chang	254
+数字化转型	shu zi hua zhuan xing	361
+双床房	shuang chuang fang	1327
+双方正式确立合作关系的节点	shuang fang zheng shi que li he zuo guan xi de jie dian	529
+双人复核	shuang ren fu he	372
+双认证	shuang ren zheng	1014
+水单	shui dan	1226
+税号	shui hao	840
+税后价	shui hou jia	1425
+税率	shui lv	851
+顺风车	shun feng che	1145
+私车公用	si che gong yong	1067
+私车公用补贴	si che gong yong bu tie	1065
+私车公用时车辆保险责任的约定	si che gong yong shi che liang bao xian ze ren de yue ding	1063
+私有运价	si you yun jia	1429
+随身网络	sui shen wang luo	949
+随身行李	sui shen xing li	1402
+随行提供口译支持的人员	sui xing ti gong kou yi zhi chi de ren yuan	20
+随业务量变化调整的预算方式	sui ye wu liang bian hua tiao zheng de yu suan fang shi	325
+缩短安检排队时间的优先通道	suo duan an jian pai dui shi jian de you xian tong dao	484
+他人非法使用员工账号的行为	ta ren fei fa shi yong yuan gong zhang hao de xing wei	384
+抬头	tai tou	843
+台湾通行证	tai wan tong xing zheng	1046
+碳排放	tan pai fang	734
+碳配额	tan pei e	724
+弹性差旅	tan xing chai lv	168
+弹性预算	tan xing yu suan	326
+碳中和	tan zhong he	726
+碳足迹	tan zu ji	731
+套房	tao fang	1324
+特价票	te jia piao	1431
+特殊产品	te shu chan pin	1368
+替代方案推荐	ti dai fang an tui jian	113
+提供报销与支出管理的费控平台	ti gong bao xiao yu zhi chu guan li de fei kong ping tai	262
+提供机票与火车票资源的合作方	ti gong ji piao yu huo che piao zi yuan de he zuo fang	416
+提供网约车或租赁运力的合作方	ti gong wang yue che huo zu lin yun li de he zuo fang	418
+提前登机的优先权益	ti qian deng ji de you xian quan yi	482
+提前告知航班可能延误的提示	ti qian gao zhi hang ban ke neng yan wu de ti shi	114
+提前离店	ti qian li dian	1252
+提前锁价	ti qian suo jia	137
+提前预订天数	ti qian yu ding tian shu	777
+提前预订优惠	ti qian yu ding you hui	134
+提取托运行李的传送装置	ti qu tuo yun xing li de chuan song zhuang zhi	207
+提升员工出行感受的改进措施	ti sheng yuan gong chu xing gan shou de gai jin cuo shi	314
+体验措施	ti yan cuo shi	306
+体验概念	ti yan gai nian	309
+体验优化	ti yan you hua	315
+体验指标	ti yan zhi biao	312
+天合联盟	tian he lian meng	1375
+条件审批	tiao jian shen pi	932
+调整差旅标准以平衡成本与体验	tiao zheng chai lv biao zhun yi ping heng cheng ben yu ti yan	316
+铁路变更	tie lu bian geng	1170
+铁路电子发票	tie lu dian zi fa piao	1054
+铁路电子客票	tie lu dian zi ke piao	1173
+铁路费用	tie lu fei yong	1165
+铁路服务	tie lu fu wu	1154
+铁路功能	tie lu gong neng	1175
+铁路客运开具的电子普通发票	tie lu ke yun kai ju de dian zi pu tong fa piao	1053
+铁路票种	tie lu piao zhong	1180
+铁路品类	tie lu pin lei	1201
+铁路凭证	tie lu ping zheng	1172
+铁路设施	tie lu she shi	1159
+铁路替代短途飞行	tie lu ti dai duan tu fei xing	728
+铁路席别	tie lu xi bie	1193
+铁路异常	tie lu yi chang	1163
+停车场出具的收费票据	ting che chang chu ju de shou fei piao ju	1060
+停车费	ting che fei	1092
+停车票	ting che piao	1062
+停留期	ting liu qi	1020
+同程商旅	tong cheng shang lv	271
+统筹差旅项目推进的负责人	tong chou chai lv xiang mu tui jin de fu ze ren	593
+通过安全检查所需的等待时间	tong guo an quan jian cha suo xu de deng dai shi jian	194
+通过表格批量录入出行人信息	tong guo biao ge pi liang lu ru chu xing ren xin xi	100
+通过策略调整降低差旅支出	tong guo ce lue tiao zheng jiang di chai lv zhi chu	320
+通过电子邮件发送行程与票据	tong guo dian zi you jian fa song xing cheng yu piao ju	687
+通过短信传递预订与变更信息	tong guo duan xin chuan di yu ding yu bian geng xin xi	689
+通过平台自助完成的订单占比	tong guo ping tai zi zhu wan cheng de ding dan zhan bi	774
+通过收费桥梁产生的费用	tong guo shou fei qiao liang chan sheng de fei yong	1093
+通过语音交互完成预订的服务	tong guo yu yin jiao hu wan cheng yu ding de fu wu	346
+通过中间商获取的房源与票价	tong guo zhong jian shang huo qu de fang yuan yu piao jia	424
+通勤用车	tong qin yong che	1471
+同声传译	tong sheng chuan yi	502
+同性别员工合并住宿的资源安排	tong xing bie yuan gong he bing zhu su de zi yuan an pai	1203
+通行费票据	tong xing fei piao ju	1059
+通行收费公路产生的费用	tong xing shou fei gong lu chan sheng de fei yong	1095
+通讯补贴	tong xun bu tie	875
+统一结算	tong yi jie suan	560
+统一开票	tong yi kai piao	56
+同资源相比其他渠道的价格优势	tong zi yuan xiang bi qi ta qu dao de jia ge you shi	407
+头部企业占据市场份额的程度	tou bu qi ye zhan ju shi chang fen e de cheng du	367
+头等舱	tou deng cang	1437
+头等舱休息室	tou deng cang xiu xi shi	486
+投诉处理时效	tou su chu li shi xiao	603
+投诉举报	tou su ju bao	278
+投诉率	tou su lv	605
+突发公共卫生事件下的差旅处置	tu fa gong gong wei sheng shi jian xia de chai lv chu zhi	4
+突发状况时可联络的人员信息	tu fa zhuang kuang shi ke lian luo de ren yuan xin xi	970
+突发状况下提供的加急处理能力	tu fa zhuang kuang xia ti gong de jia ji chu li neng li	656
+团队机票	tuan dui ji piao	79
+团队票	tuan dui piao	514
+团队预订	tuan dui yu ding	103
+团体差旅	tuan ti chai lv	517
+团体房	tuan ti fang	513
+团体意外险	tuan ti yi wai xian	995
+退改规则公示	tui gai gui ze gong shi	282
+退改损失	tui gai sun shi	763
+推荐排序	tui jian pai xu	126
+退票	tui piao	1396
+退票费	tui piao fei	1395
+退票率	tui piao lv	765
+退票手续费	tui piao shou xu fei	1166
+退票铁路	tui piao tie lu	1168
+托运行李	tuo yun xing li	1404
+托运行李未能抵达目的地的情况	tuo yun xing li wei neng di da mu di di de qing kuang	945
+托运行李优先卸机与提取的权益	tuo yun xing li you xian xie ji yu ti qu de quan yi	480
+外币兑换	wai bi dui huan	955
+外部规则	wai bu gui ze	293
+外部环境	wai bu huan jing	295
+外部预订	wai bu yu ding	748
+外派	wai pai	1474
+万豪	wan hao	1343
+万豪旗下经典商务酒店品牌	wan hao qi xia jing dian shang wu jiu dian pin pai	1331
+往返火车站的地面交通安排	wang fan huo che zhan de di mian jiao tong an pai	1153
+往返火车站的地面交通接送安排	wang fan huo che zhan de di mian jiao tong jie song an pai	1137
+往返机场的地面交通接送安排	wang fan ji chang de di mian jiao tong jie song an pai	1139
+往返机场的专车接驳安排	wang fan ji chang de zhuan che jie bo an pai	478
+往返机场与市区的定点班车	wang fan ji chang yu shi qu de ding dian ban che	1133
+往返票	wang fan piao	1467
+旺季价	wang ji jia	1298
+旺季资源紧张导致的价格上浮	wang ji zi yuan jin zhang dao zhi de jia ge shang fu	141
+网络单元	wang luo dan yuan	224
+网约车	wang yue che	1152
+网约车按乘车时间计费的部分	wang yue che an cheng che shi jian ji fei de bu fen	1085
+网约车按行驶距离计费的部分	wang yue che an xing shi ju li ji fei de bu fen	1083
+为参会者准备的礼品与资料袋	wei can hui zhe zhun bei de li pin yu zi liao dai	14
+为差旅消费提供的信用额度支持	wei chai lv xiao fei ti gong de xin yong e du zhi chi	41
+为多人一次性下单的能力	wei duo ren yi ci xing xia dan de neng li	104
+为高端旅客提供的候机休息场所	wei gao duan lv ke ti gong de hou ji xiu xi chang suo	487
+违规订单	wei gui ding dan	910
+违规行为	wei gui xing wei	288
+维护常用出行人证件与信息	wei hu chang yong chu xing ren zheng jian yu xin xi	98
+维护护照号与有效期的模块	wei hu hu zhao hao yu you xiao qi de mo kuai	93
+为会议活动提供的集中接送车辆	wei hui yi huo dong ti gong de ji zhong jie song che liang	1135
+为会议团队集中预留的客房资源	wei hui yi tuan dui ji zhong yu liu de ke fang zi yuan	512
+为接待客户安排的正式用餐	wei jie dai ke hu an pai de zheng shi yong can	490
+未经统一平台产生的差旅费用	wei jing tong yi ping tai chan sheng de chai lv fei yong	746
+为客人临时保管行李的配套服务	wei ke ren lin shi bao guan xing li de pei tao fu wu	1246
+维权途径	wei quan tu jing	277
+为日常支付预留的资金	wei ri chang zhi fu yu liu de zi jin	35
+为涉外会议提供的语言支持	wei she wai hui yi ti gong de yu yan zhi chi	22
+为特定日期预留确定房间的操作	wei te ding ri qi yu liu que ding fang jian de cao zuo	72
+未通过指定渠道预订的差旅比例	wei tong guo zhi ding qu dao yu ding de chai lv bi li	749
+为团队或高峰预留确定房源	wei tuan dui huo gao feng yu liu que ding fang yuan	409
+为应对交通违章预留的担保款项	wei ying dui jiao tong wei zhang yu liu de dan bao kuan xiang	1106
+为员工与订单打标签的分类方法	wei yuan gong yu ding dan da biao qian de fen lei fang fa	337
+违约条款	wei yue tiao kuan	623
+违章押金	wei zhang ya jin	1107
+为指定企业设立的定向服务通道	wei zhi ding qi ye she li de ding xiang fu wu tong dao	661
+温德姆	wen de mu	1335
+文化差异	wen hua cha yi	958
+误乘	wu cheng	1164
+误机费	wu ji fei	1393
+误机风险	wu ji feng xian	211
+物料制作	wu liao zhi zuo	29
+无需申报物品时可走的快速通道	wu xu shen bao wu pin shi ke zou de kuai su tong dao	184
+无烟房	wu yan fang	1315
+无障碍房	wu zhang ai fang	1316
+无座票	wu zuo piao	1183
+希尔顿	xi er dun	1341
+喜来登	xi lai deng	1332
+系统	xi tong	682
+系统代为完成变更的操作	xi tong dai wei wan cheng bian geng de cao zuo	110
+系统对接	xi tong dui jie	720
+系统对异常消费行为发出的提示	xi tong dui yi chang xiao fei xing wei fa chu de ti shi	898
+系统工具	xi tong gong ju	939
+系统故障	xi tong gu zhang	391
+系统集成	xi tong ji cheng	678
+系统将费用直接写入账务的动作	xi tong jiang fei yong zhi jie xie ru zhang wu de dong zuo	49
+系统可用性	xi tong ke yong xing	646
+系统面向全员开放使用的节点	xi tong mian xiang quan yuan kai fang shi yong de jie dian	539
+系统能力	xi tong neng li	701
+系统配置	xi tong pei zhi	714
+系统形态	xi tong xing tai	694
+系统性提升出差感受的管理工作	xi tong xing ti sheng chu chai gan shou de guan li gong zuo	162
+系统运维	xi tong yun wei	706
+洗衣服务	xi yi fu wu	1244
+下沉市场差旅	xia chen shi chang chai lv	1449
+现场执行	xian chang zhi xing	25
+限定账号可查看数据范围的规则	xian ding zhang hao ke cha kan shu ju fan wei de gui ze	708
+限额管控	xian e guan kong	374
+限时取消	xian shi qu xiao	1287
+线下会议回归	xian xia hui yi hui gui	156
+香格里拉	xiang ge li la	1334
+项目编号	xiang mu bian hao	811
+项目出差	xiang mu chu chai	1473
+项目阶段	xiang mu jie duan	535
+项目经理	xiang mu jing li	594
+向用户明示退票改签条件的义务	xiang yong hu ming shi tui piao gai qian tiao jian de yi wu	281
+小程序	xiao cheng xu	693
+消费明细单	xiao fei ming xi dan	1224
+消费者权益	xiao fei zhe quan yi	280
+销售出差	xiao shou chu chai	1472
+消息推送	xiao xi tui song	691
+携程商旅	xie cheng shang lv	273
+携带物品需向海关申报的环节	xie dai wu pin xu xiang hai guan shen bao de huan jie	189
+协议价	xie yi jia	1310
+协议酒店	xie yi jiu dian	78
+协议运价	xie yi yun jia	1428
+新航线	xin hang xian	222
+新能源车辆补充电能产生的支出	xin neng yuan che liang bu chong dian neng chan sheng de zhi chu	1097
+新兴场景	xin xing chang jing	158
+新兴理念	xin xing li nian	167
+新兴趋势	xin xing qu shi	160
+新兴形态	xin xing xing tai	178
+新兴职能	xin xing zhi neng	163
+行程报备	xing cheng bao bei	972
+行程被迫中止时给予的费用补偿	xing cheng bei po zhong zhi shi ji yu de fei yong bu chang	1
+行程变更	xing cheng bian geng	1455
+行程单	xing cheng dan	1459
+行程单发票	xing cheng dan fa piao	1416
+行程单元	xing cheng dan yuan	235
+行程风险	xing cheng feng xian	210
+行程结束后的报销与账目清理	xing cheng jie shu hou de bao xiao yu zhang mu qing li	918
+行程进行中的合规与风险监控	xing cheng jin xing zhong de he gui yu feng xian jian kong	920
+行程卡片	xing cheng ka pian	122
+行程类型	xing cheng lei xing	1465
+行程取消险	xing cheng qu xiao xian	999
+行程日历	xing cheng ri li	120
+行程受阻时自动给出备选方案	xing cheng shou zu shi zi dong gei chu bei xuan fang an	112
+行程延展	xing cheng yan zhan	175
+行程要素	xing cheng yao su	215
+行程中断补偿	xing cheng zhong duan bu chang	3
+行程助手	xing cheng zhu shou	696
+星空联盟	xing kong lian meng	1377
+行李丢失	xing li diu shi	947
+行李额	xing li e	1406
+行李寄存	xing li ji cun	1248
+行李延误险	xing li yan wu xian	998
+行李优先	xing li you xian	481
+行李直挂	xing li zhi gua	1400
+行李转盘	xing li zhuan pan	209
+行前体检	xing qian ti jian	1008
+行政处罚	xing zheng chu fa	276
+行政房	xing zheng fang	1322
+行政经理	xing zheng jing li	589
+胸卡	xiong ka	507
+休闲延展产生需员工自付的费用	xiu xian yan zhan chan sheng xu yuan gong zi fu de fei yong	169
+需多个层级依次批准的流程设置	xu duo ge ceng ji yi ci pi zhun de liu cheng she zhi	933
+虚假房源	xu jia fang yuan	400
+虚假商户	xu jia shang hu	383
+虚假行程	xu jia xing cheng	909
+虚拟卡号	xu ni ka hao	62
+虚拟卡支付	xu ni ka zhi fu	1212
+需求低谷期的下调房价	xu qiu di gu qi de xia tiao fang jia	1295
+需求调研	xu qiu diao yan	536
+需求高峰期的上浮房价	xu qiu gao feng qi de shang fu fang jia	1297
+需求旺盛时段的高价值起降时刻	xu qiu wang sheng shi duan de gao jia zhi qi jiang shi ke	226
+续住	xu zhu	1254
+宣传品与标识的设计与印制	xuan chuan pin yu biao zhi de she ji yu yin zhi	28
+选定用于横向比较的价格标准	xuan ding yong yu heng xiang bi jiao de jia ge biao zhun	783
+选座	xuan zuo	1408
+学生票	xue sheng piao	1181
+亚朵	ya duo	1344
+雅高	ya gao	1338
+押金	ya jin	1258
+亚洲背景的高端酒店集团	ya zhou bei jing de gao duan jiu dian ji tuan	1333
+延迟退房	yan chi tui fang	1251
+延迟退房权益	yan chi tui fang quan yi	444
+宴会	yan hui	493
+研究预订习惯与合规表现的方法	yan jiu yu ding xi guan yu he gui biao xian de fang fa	735
+延误预警	yan wu yu jing	115
+验真	yan zhen	858
+邀请函	yao qing han	1033
+要求保持安静的特定车厢服务	yao qiu bao chi an jing de te ding che xiang fu wu	86
+要求合作方履行社会与环境责任	yao qiu he zuo fang lv xing she hui yu huan jing ze ren	297
+要求价格与附加费用透明公示	yao qiu jia ge yu fu jia fei yong tou ming gong shi	290
+夜间服务费	ye jian fu wu fei	1081
+夜间时段乘车加收的服务费用	ye jian shi duan cheng che jia shou de fu wu fei yong	1080
+业务形态	ye wu xing tai	516
+异常消费	yi chang xiao fei	897
+一次性卡号	yi ci xing ka hao	60
+一次性生成限定用途的卡号	yi ci xing sheng cheng xian ding yong tu de ka hao	61
+一等座	yi deng zuo	1191
+异地还车	yi di hai che	1112
+异地还车费	yi di hai che fei	1111
+一定周期内成交订单的总数	yi ding zhou qi nei cheng jiao ding dan de zong shu	757
+移动端预订	yi dong duan yu ding	695
+移动化	yi dong hua	358
+一段时间内机票成交价格的均值	yi duan shi jian nei ji piao cheng jiao jia ge de jun zhi	780
+一段时间内酒店成交价格的均值	yi duan shi jian nei jiu dian cheng jiao jia ge de jun zhi	778
+一键退订	yi jian tui ding	109
+一键预订	yi jian yu ding	123
+依据数据动态调整价格的机制	yi ju shu ju dong tai tiao zheng jia ge de ji zhi	342
+易快报	yi kuai bao	264
+以量化分数衡量服务表现的指标	yi liang hua fen shu heng liang fu wu biao xian de zhi biao	608
+以年度为周期签署的合作协议	yi nian du wei zhou qi qian shu de he zuo xie yi	633
+疫情应急	yi qing ying ji	5
+以商品展示与交易为核心的活动	yi shang pin zhan shi yu jiao yi wei he xin de huo dong	518
+以实物介质开具的传统发票	yi shi wu jie zhi kai ju de chuan tong fa piao	835
+以数据电文形式开具的发票	yi shu ju dian wen xing shi kai ju de fa piao	837
+以算法优化推荐与管控的方向	yi suan fa you hua tui jian yu guan kong de fang xiang	353
+一体化	yi ti hua	356
+一体化差旅	yi ti hua chai lv	559
+依托会员身份享受的折扣房价	yi tuo hui yuan shen fen xiang shou de zhe kou fang jia	1308
+一线城市差旅	yi xian cheng shi chai lv	1450
+以虚假或误导性价格招揽交易	yi xu jia huo wu dao xing jia ge zhao lan jiao yi	287
+以账期为基础提供的资金支持	yi zhang qi wei ji chu ti gong de zi jin zhi chi	44
+因公护照	yin gong hu zhao	1050
+因公务接待客户产生的支出	yin gong wu jie dai ke hu chan sheng de zhi chu	890
+银行流水	yin hang liu shui	1029
+银卡会员	yin ka hui yuan	461
+隐私保护	yin si bao hu	652
+因私护照	yin si hu zhao	1048
+因退票改签产生的费用损失总额	yin tui piao gai qian chan sheng de fei yong sun shi zong e	762
+因违规被主管部门作出的处罚	yin wei gui bei zhu guan bu men zuo chu de chu fa	274
+音响投影等会议设备的租用	yin xiang tou ying deng hui yi she bei de zu yong	499
+婴儿票	ying er piao	80
+应急出行	ying ji chu xing	1454
+应急处置	ying ji chu zhi	975
+应急措施	ying ji cuo shi	6
+应急服务	ying ji fu wu	657
+硬卧	ying wo	1185
+影像件	ying xiang jian	861
+用车场景	yong che chang jing	1141
+用车电子发票	yong che dian zi fa piao	1056
+用车范围	yong che fan wei	1073
+用车费用	yong che fei yong	1100
+用车供应商	yong che gong ying shang	419
+用车里程费	yong che li cheng fei	1084
+用车品类	yong che pin lei	1151
+用车平台开具的增值税电子发票	yong che ping tai kai ju de zeng zhi shui dian zi fa piao	1055
+用车审批	yong che shen pi	1076
+用车时长费	yong che shi chang fei	1086
+用户画像	yong hu hua xiang	341
+用积分兑换商品的线上渠道	yong ji fen dui huan shang pin de xian shang qu dao	439
+用积分换取住宿或增值服务	yong ji fen huan qu zhu su huo zeng zhi fu wu	447
+佣金	yong jin	631
+用累积里程换取机票或升级	yong lei ji li cheng huan qu ji piao huo sheng ji	468
+用里程或身份提升至更高舱位	yong li cheng huo shen fen ti sheng zhi geng gao cang wei	453
+用于计算节省额的参照价格	yong yu ji suan jie sheng e de can zhao jia ge	785
+用于身份核验与登机的生物识别	yong yu shen fen he yan yu deng ji de sheng wu shi bie	344
+用智能对话替代部分人工咨询	yong zhi neng dui hua ti dai bu fen ren gong zi xun	350
+油费	you fei	1101
+由服务人员代办登机手续	you fu wu ren yuan dai ban deng ji shou xu	476
+由服务商先行付款再向企业收款	you fu wu shang xian xing fu kuan zai xiang qi ye shou kuan	39
+由各部门或员工自行预订的做法	you ge bu men huo yuan gong zi xing yu ding de zuo fa	561
+邮件通知	you jian tong zhi	688
+由酒店人员代为停放车辆的服务	you jiu dian ren yuan dai wei ting fang che liang de fu wu	1232
+由平台汇总开具发票的做法	you ping tai hui zong kai ju fa piao de zuo fa	55
+由企业统一向供应商付款的方式	you qi ye tong yi xiang gong ying shang fu kuan de fang shi	57
+优先登机	you xian deng ji	483
+优享	you xiang	1148
+游泳池	you yong chi	1237
+由住宿方出具合规票据的过程	you zhu su fang chu ju he gui piao ju de guo cheng	1220
+由专人代为驾驶客户车辆的服务	you zhuan ren dai wei jia shi ke hu che liang de fu wu	1143
+预测分析	yu ce fen xi	336
+预订方式	yu ding fang shi	1468
+预订凭证	yu ding ping zheng	1282
+预订确认单	yu ding que ren dan	1281
+预订提前期	yu ding ti qian qi	776
+预订与结算环节搬到线上完成	yu ding yu jie suan huan jie ban dao xian shang wan cheng	359
+预订助理	yu ding zhu li	578
+预付款	yu fu kuan	820
+预估未来周期差旅支出的能力	yu gu wei lai zhou qi chai lv zhi chu de neng li	333
+与企业签约执行专属价格的酒店	yu qi ye qian yue zhi xing zhuan shu jia ge de jiu dian	76
+预授权	yu shou quan	1257
+预算	yu suan	802
+预算编制	yu suan bian zhi	332
+预算超支	yu suan chao zhi	797
+预算冻结	yu suan dong jie	794
+预算控制	yu suan kong zhi	930
+预算执行率	yu suan zhi xing lv	800
+预提	yu ti	804
+预先选中付费选项诱导消费	yu xian xuan zhong fu fei xuan xiang you dao xiao fei	283
+语言障碍	yu yan zhang ai	957
+语音助手	yu yin zhu shou	347
+远程办公出行	yuan cheng ban gong chu xing	159
+员工定位	yuan gong ding wei	974
+员工对超出标准情况作出的说明	yuan gong dui chao chu biao zhun qing kuang zuo chu de shuo ming	924
+员工关怀物资	yuan gong guan huai wu zi	13
+员工叫车前需经上级批准的环节	yuan gong jiao che qian xu jing shang ji pi zhun de huan jie	1074
+员工满意度	yuan gong man yi du	313
+员工先行付款事后凭票报销	yuan gong xian xing fu kuan shi hou ping piao bao xiao	1214
+员工信息同步	yuan gong xin xi tong bu	716
+员工行为分析	yuan gong xing wei fen xi	736
+员工选择权	yuan gong xuan ze quan	166
+员工选中最低价方案的比例	yuan gong xuan zhong zui di jia fang an de bi li	768
+员工在差旅全流程中的整体感受	yuan gong zai chai lv quan liu cheng zhong de zheng ti gan shou	308
+远距离停机位往返的接驳车辆	yuan ju li ting ji wei wang fan de jie bo che liang	198
+远途费	yuan tu fei	1082
+约定完成某项服务的时间标准	yue ding wan cheng mou xiang fu wu de shi jian biao zhun	667
+月结	yue jie	1219
+越接近出行日期价格越高的现象	yue jie jin chu xing ri qi jia ge yue gao de xian xiang	130
+月结账单	yue jie zhang dan	827
+越早预订价格越低的定价逻辑	yue zao yu ding jia ge yue di de ding jia luo ji	132
+越站乘车	yue zhan cheng che	1161
+运力紧张	yun li jin zhang	140
+运维工程师	yun wei gong cheng shi	572
+运行特征	yun xing te zheng	1384
+运行异常	yun xing yi chang	1389
+允许员工在合规范围内自主选品	yun xu yuan gong zai he gui fan wei nei zi zhu xuan pin	165
+允许在目的国就业的签证类别	yun xu zai mu de guo jiu ye de qian zheng lei bie	1040
+运营风险	yun ying feng xian	392
+运营阶段	yun ying jie duan	526
+运营模式	yun ying mo shi	563
+运营术语	yun ying shu yu	1271
+运营指标	yun ying zhi biao	759
+灾备	zai bei	648
+在公务行程前后延展私人旅游	zai gong wu xing cheng qian hou yan zhan si ren lv you	176
+在关键节点主动提示用户的功能	zai guan jian jie dian zhu dong ti shi yong hu de gong neng	118
+在机场举牌迎接客人的标识	zai ji chang ju pai ying jie ke ren de biao zhi	16
+在价格上涨前锁定资源价格	zai jia ge shang zhang qian suo ding zi yuan jia ge	135
+在目的地提供落地服务的旅行社	zai mu di di ti gong luo di fu wu de lv xing she	422
+在线化	zai xian hua	360
+在线客服	zai xian ke fu	660
+在线预订率	zai xian yu ding lv	775
+在线值机	zai xian zhi ji	1407
+在原订单基础上延长入住天数	zai yuan ding dan ji chu shang yan chang ru zhu tian shu	1253
+在支付环节实时拦截可疑交易	zai zhi fu huan jie shi shi lan jie ke yi jiao yi	377
+在职证明	zai zhi zheng ming	1030
+在中转机场引导换乘的服务	zai zhong zhuan ji chang yin dao huan cheng de fu wu	474
+暂估入账	zan gu ru zhang	803
+暂停某主体预算可用额度的操作	zan ting mou zhu ti yu suan ke yong e du de cao zuo	793
+增值税普通发票不可抵扣	zeng zhi shui pu tong fa piao bu ke di kou	844
+增值税专用发票可用于抵扣	zeng zhi shui zhuan yong fa piao ke yong yu di kou	846
+展会	zhan hui	519
+展架桌椅等器材的租用	zhan jia zhuo yi deng qi cai de zu yong	30
+展具租赁	zhan ju zu lin	31
+展览现场的展位结构与装饰施工	zhan lan xian chang de zhan wei jie gou yu zhuang shi shi gong	32
+站台	zhan tai	1157
+展台搭建	zhan tai da jian	34
+账号盗用	zhang hao dao yong	385
+账号开通	zhang hao kai tong	707
+账号停用	zhang hao ting yong	705
+账期	zhang qi	830
+账期融资	zhang qi rong zi	46
+招待费	zhao dai fei	892
+招投标	zhao tou biao	639
+折扣票	zhe kou piao	1432
+针对超长航程提供的休息支持	zhen dui chao chang hang cheng ti gong de xiu xi zhi chi	10
+针对女性出行者的专项保护措施	zhen dui nv xing chu xing zhe de zhuan xiang bao hu cuo shi	966
+政策解读	zheng ce jie du	550
+政策优化	zheng ce you hua	317
+政策执行率	zheng ce zhi xing lv	912
+政策遵循率	zheng ce zun xun lv	773
+证件临近过期时的主动提示	zheng jian lin jin guo qi shi de zhu dong ti shi	91
+证件信息库	zheng jian xin xi ku	96
+证件遗失	zheng jian yi shi	944
+证件遗失后申请替代证件的流程	zheng jian yi shi hou shen qing ti dai zheng jian de liu cheng	942
+证件有效期提醒	zheng jian you xiao qi ti xing	92
+证件制作	zheng jian zhi zuo	27
+整批预留运力或房量的采购方式	zheng pi yu liu yun li huo fang liang de cai gou fang shi	67
+正式场合的集中用餐安排	zheng shi chang he de ji zhong yong can an pai	492
+正式上线	zheng shi shang xian	540
+正式上线前的小范围验证阶段	zheng shi shang xian qian de xiao fan wei yan zheng jie duan	541
+整体出差量恢复增长的市场状态	zheng ti chu chai liang hui fu zeng zhang de shi chang zhuang tai	154
+争议订单	zheng yi ding dan	601
+制定下一周期差旅预算的工作	zhi ding xia yi zhou qi chai lv yu suan de gong zuo	331
+直飞	zhi fei	1383
+支付方式	zhi fu fang shi	58
+支付工具	zhi fu gong ju	65
+值机	zhi ji	1410
+职级标准	zhi ji biao zhun	1207
+职级差异化	zhi ji cha yi hua	915
+职级映射	zhi ji ying she	715
+直连	zhi lian	1265
+智能化	zhi neng hua	354
+职能模块	zhi neng mo kuai	565
+智能推荐	zhi neng tui jian	697
+智能行程规划	zhi neng xing cheng gui hua	349
+直签酒店	zhi qian jiu dian	427
+支线航空	zhi xian hang kong	1370
+支线机场	zhi xian ji chang	251
+纸质发票	zhi zhi fa piao	836
+钟点房	zhong dian fang	1292
+终端角色	zhong duan jue se	582
+中高端连锁	zhong gao duan lian suo	1359
+中国春节前后的集中出行高峰	zhong guo chun jie qian hou de ji zhong chu xing gao feng	148
+中介因促成交易而获取的报酬	zhong jie yin cu cheng jiao yi er huo qu de bao chou	630
+中转城市	zhong zhuan cheng shi	218
+中转时长	zhong zhuan shi chang	216
+中转协助	zhong zhuan xie zhu	475
+中转行程	zhong zhuan xing cheng	1466
+洲际	zhou ji	1340
+驻场	zhu chang	1475
+住宿标准	zhu su biao zhun	1211
+住宿发票	zhu su fa piao	1229
+住宿费	zhu su fei	886
+住宿品类	zhu su pin lei	1365
+驻外津贴	zhu wai jin tie	869
+逐项列示房费与杂费的结算单据	zhu xiang lie shi fang fei yu za fei de jie suan dan ju	1223
+专车	zhuan che	1149
+专票	zhuan piao	848
+专属服务台	zhuan shu fu wu tai	662
+专业承接当地会务与接待的机构	zhuan ye cheng jie dang di hui wu yu jie dai de ji gou	420
+桌面端预订	zhuo mian duan yu ding	692
+自动改签	zi dong gai qian	111
+自动入账	zi dong ru zhang	50
+自动审批	zi dong shen pi	931
+自动生成最优出行方案的能力	zi dong sheng cheng zui you chu xing fang an de neng li	348
+自驾租车	zi jia zu che	1128
+资金安全	zi jin an quan	38
+资金池	zi jin chi	816
+资源池	zi yuan chi	415
+资源覆盖	zi yuan fu gai	428
+资源集采	zi yuan ji cai	319
+资源接入	zi yuan jie ru	528
+资源质量	zi yuan zhi liang	402
+自助服务	zi zhu fu wu	658
+自助加人工	zi zhu jia ren gong	556
+自助预订	zi zhu yu ding	937
+综合价格与偏好给出的方案顺序	zong he jia ge yu pian hao gei chu de fang an shun xu	125
+总拥有成本	zong yong you cheng ben	792
+租车	zu che	1130
+租车保障	zu che bao zhang	1104
+租车费用	zu che fei yong	1117
+租车计费	zu che ji fei	1124
+租车流程	zu che liu cheng	1115
+租车时冻结或收取的担保款项	zu che shi dong jie huo shou qu de dan bao kuan xiang	1108
+租车条款	zu che tiao kuan	1119
+租用车辆由本人驾驶的出行方式	zu yong che liang you ben ren jia shi de chu xing fang shi	1129
+组织概念	zu zhi gai nian	304
+组织架构同步	zu zhi jia gou tong bu	717
+最低价逻辑	zui di jia luo ji	129
+最短中转时间	zui duan zhong zhuan shi jian	213
+最优价保障	zui you jia bao zhang	406

@@ -1,0 +1,501 @@
+# 词库名称: 翠花26版
+# 词库分类: 其他
+# 词库描述: 翠花26版
+# 词条样例: 曾俊烨、曾彦博、陈嘉乐、陈楷乔、陈路易
+# 解析词数: 494
+# 解析异常: 0
+
+白子麒	bai zi qi	494
+卜文俊	bu wen jun	493
+蔡佳佩	cai jia pei	492
+蔡利贞	cai li zhen	491
+蔡舒因	cai shu yin	490
+蔡依浛	cai yi han	489
+蔡煜坤	cai yu kun	488
+蔡梓嘉	cai zi jia	487
+曹甜甜	cao tian tian	486
+曾俊烨	ceng jun ye	485
+曾彦博	ceng yan bo	484
+曾志玲	ceng zhi ling	53
+陈楚梃	chen chu ting	482
+陈海枫	chen hai feng	481
+陈皓宇	chen hao yu	480
+陈嘉乐	chen jia le	479
+陈珈芊	chen jia qian	52
+陈洁康	chen jie kang	478
+陈楷乔	chen kai qiao	477
+陈柳君	chen liu jun	51
+陈路易	chen lu yi	476
+陈慕夏	chen mu xia	475
+陈佩莹	chen pei ying	474
+陈佩芝	chen pei zhi	473
+陈钦宇	chen qin yu	472
+陈庆国	chen qing guo	471
+陈琼丹	chen qiong dan	470
+陈秋烨	chen qiu ye	469
+陈诗蕾	chen shi lei	468
+陈思	chen si	467
+陈思睿	chen si rui	466
+陈伟诚	chen wei cheng	465
+陈蔚行	chen wei xing	50
+陈熙然	chen xi ran	464
+陈晓蓉	chen xiao rong	463
+陈延恺	chen yan kai	462
+陈仰玫	chen yang mei	461
+陈逸	chen yi	456
+陈艺菲	chen yi fei	459
+陈怿涵	chen yi han	457
+陈怡诺	chen yi nuo	460
+陈熠彤	chen yi tong	455
+陈易轩	chen yi xuan	458
+陈源浩	chen yuan hao	454
+陈悦萌	chen yue meng	453
+陈泽铭	chen ze ming	452
+陈沚筠	chen zhi jun	451
+陈志力	chen zhi li	450
+成理圆	cheng li yuan	49
+成裕	cheng yu	449
+程梓盛	cheng zi sheng	448
+褚宝圆	chu bao yuan	447
+褚麒淳	chu qi chun	446
+褚雅萱	chu ya xuan	445
+崔鹤馨	cui he xin	444
+崔诗琪	cui shi qi	443
+崔艺凡	cui yi fan	442
+戴玥欢	dai yue huan	441
+邓爱琳	deng ai lin	440
+邓凯婷	deng kai ting	439
+邓松洋	deng song yang	48
+丁一航	ding yi hang	438
+丁尹婷	ding yin ting	437
+杜晋鹏	du jin peng	436
+段涵珈	duan han jia	435
+范奕昊	fan yi hao	434
+方天奕	fang tian yi	433
+方雅琳	fang ya lin	432
+方钰涵	fang yu han	431
+方正	fang zheng	430
+方茁斐	fang zhuo fei	429
+冯天瑜	feng tian yu	428
+冯盈盈	feng ying ying	47
+冯蓁	feng zhen	427
+傅妙语	fu miao yu	425
+付亦乐	fu yi le	426
+高欢怡	gao huan yi	424
+高旅晴	gao lv qing	423
+高瑞	gao rui	422
+高源	gao yuan	46
+龚可怡	gong ke yi	421
+龚炜皓	gong wei hao	420
+龚渝涵	gong yu han	419
+顾的	gu de	416
+谷俊锋	gu jun feng	45
+古明轩	gu ming xuan	418
+古煜圣	gu yu sheng	417
+郭嘉熙	guo jia xi	414
+郭佳宇	guo jia yu	415
+郭铠睿	guo kai rui	413
+郭琦瑞	guo qi rui	412
+郭政希	guo zheng xi	411
+韩承浩	han cheng hao	410
+韩静萱	han jing xuan	409
+韩朗	han lang	408
+韩睿阳	han rui yang	407
+何瑞琳	he rui lin	406
+何雨辰	he yu chen	44
+洪可冉	hong ke ran	405
+侯思晨	hou si chen	404
+胡皓博	hu hao bo	403
+胡凌樾	hu ling yue	43
+胡向伊	hu xiang yi	402
+胡晓芬	hu xiao fen	400
+胡潇睿	hu xiao rui	401
+胡茵茜	hu yin qian	399
+胡智宸	hu zhi chen	398
+胡梓昕	hu zi xin	397
+华一菡	hua yi han	396
+黄灿坤	huang can kun	395
+黄辰希	huang chen xi	394
+黄堇瑜	huang jin yu	393
+黄珺仪	huang jun yi	392
+黄可萱	huang ke xuan	42
+黄丽娜	huang li na	390
+黄力炜	huang li wei	391
+黄启健	huang qi jian	389
+黄淑晨	huang shu chen	388
+黄烁彬	huang shuo bin	387
+黄伟希	huang wei xi	386
+黄星怡	huang xing yi	385
+黄雨涵	huang yu han	383
+黄余昊	huang yu hao	384
+黄昱之	huang yu zhi	382
+黄政涵	huang zheng han	381
+黄芷汀	huang zhi ting	380
+黄梓桐	huang zi tong	377
+黄子欣	huang zi xin	379
+黄梓妍	huang zi yan	376
+黄子洋	huang zi yang	378
+黄梓煜	huang zi yu	375
+惠茜	hui qian	374
+江筱彤	jiang xiao tong	373
+蒋易桓	jiang yi huan	371
+蒋雨宸	jiang yu chen	370
+江子昀	jiang zi yun	372
+解梓睿	jie zi rui	369
+金晨曦	jin chen xi	368
+金裕霖	jin yu lin	367
+柯乐	ke le	366
+赖霆	lai ting	365
+赖泽熙	lai ze xi	364
+李艾一	li ai yi	360
+李典优	li dian you	41
+李东衡	li dong heng	359
+李峒汐	li dong xi	358
+黎恒韬	li heng tao	363
+黎佳莉	li jia li	362
+李嘉信	li jia xin	357
+李康如	li kang ru	356
+李露薇	li lu wei	355
+李明浩	li ming hao	354
+李若瑜	li ruo yu	353
+李疏竹	li shu zhu	352
+李松霖	li song lin	351
+李天浩	li tian hao	350
+李伟宸	li wei chen	349
+李文景	li wen jing	348
+李鑫	li xin	346
+李欣荣	li xin rong	347
+李学墨	li xue mo	345
+黎倚林	li yi lin	361
+李宇萱	li yu xuan	344
+李雨萱	li yu xuan	343
+李沅霖	li yuan lin	342
+李玥辰	li yue chen	341
+李泽森	li ze sen	340
+李知羲	li zhi xi	339
+李志勇	li zhi yong	338
+李子庚	li zi geng	337
+李紫菡	li zi han	335
+李梓逸	li zi yi	336
+梁恒毅	liang heng yi	334
+梁鸿韬	liang hong tao	333
+梁舒乔	liang shu qiao	40
+梁武睿	liang wu rui	332
+梁越	liang yue	331
+廖书航	liao shu hang	330
+廖伟同	liao wei tong	329
+廖梓彤	liao zi tong	328
+林柏涛	lin bai tao	327
+林佳静	lin jia jing	326
+林家懿	lin jia yi	325
+林君恒	lin jun heng	324
+林峻行	lin jun xing	323
+林可恩	lin ke en	322
+林可佳	lin ke jia	321
+林汐雯	lin xi wen	320
+林兴瀚	lin xing han	319
+林忆彤	lin yi tong	318
+凌嘉	ling jia	317
+刘柏宏	liu bai hong	316
+刘灿荣	liu can rong	315
+刘晨熙	liu chen xi	314
+刘楚轩	liu chu xuan	39
+刘冠妙	liu guan miao	313
+刘光慧	liu guang hui	312
+刘佳静	liu jia jing	311
+刘嘉睿	liu jia rui	310
+刘璟轩	liu jing xuan	309
+刘俊	liu jun	38
+刘峻宇	liu jun yu	308
+刘梦霏	liu meng fei	307
+刘若兮	liu ruo xi	37
+刘思涵	liu si han	36
+刘思宇	liu si yu	35
+刘婷	liu ting	306
+刘曦潞	liu xi lu	34
+刘雪滢	liu xue ying	305
+刘一凡	liu yi fan	304
+刘祎伊	liu yi yi	33
+刘智宸	liu zhi chen	302
+刘芷含	liu zhi han	303
+刘梓慧	liu zi hui	301
+刘子源	liu zi yuan	32
+龙彭璇薇	long peng xuan wei	300
+龙薏涵	long yi han	299
+卢丁桤	lu ding qi	298
+卢凌哲	lu ling zhe	31
+卢美彤	lu mei tong	297
+卢沫名	lu mo ming	296
+卢睿熙	lu rui xi	295
+鲁雨溪	lu yu xi	29
+卢元豪	lu yuan hao	30
+罗彬菡	luo bin han	28
+罗崇豪	luo chong hao	293
+罗东旭	luo dong xu	292
+骆家安	luo jia an	284
+罗嘉煜	luo jia yu	291
+罗菁	luo jing	290
+罗凯	luo kai	289
+罗筱雨	luo xiao yu	288
+罗宇	luo yu	287
+罗朝阳	luo zhao yang	294
+罗梓菡	luo zi han	285
+罗子晴	luo zi qing	286
+马瑞泽	ma rui ze	283
+马业翔	ma ye xiang	282
+马煜珂	ma yu ke	27
+梅嘉欣	mei jia xin	281
+孟欣冉	meng xin ran	280
+倪哲翰	ni zhe han	279
+欧柏熙	ou bai xi	278
+欧馨遥	ou xin yao	277
+欧雨桐	ou yu tong	276
+潘芍言	pan shao yan	275
+潘韵羽	pan yun yu	274
+庞志豪	pang zhi hao	273
+彭婧琪	peng jing qi	272
+彭炬嘉	peng ju jia	271
+彭君皓	peng jun hao	270
+彭思柳	peng si liu	269
+彭熙盛	peng xi sheng	268
+皮淑君	pi shu jun	267
+钱馨兰	qian xin lan	266
+阙舒雅	que shu ya	265
+任柳青	ren liu qing	26
+沙梓萌	sha zi meng	264
+邵子涵	shao zi han	263
+佘佩桦	she pei hua	25
+申晨希	shen chen xi	262
+盛语恬	sheng yu tian	24
+施然	shi ran	261
+施雨晴	shi yu qing	260
+宋嘉峻	song jia jun	259
+苏炳文	su bing wen	258
+苏浩铭	su hao ming	257
+苏晴璨	su qing can	256
+苏梓晗	su zi han	255
+孙浩宇	sun hao yu	254
+孙雅博	sun ya bo	253
+谭珺淇	tan jun qi	251
+谭峻熙	tan jun xi	252
+谭浅兮	tan qian xi	250
+唐崇源	tang chong yuan	247
+汤永声	tang yong sheng	249
+汤悦宁	tang yue ning	248
+田涛	tian tao	246
+田一诺	tian yi nuo	245
+童颢伦	tong hao lun	244
+王崇光	wang chong guang	23
+王楚泽	wang chu ze	241
+王浩宁	wang hao ning	240
+王槿昊	wang jin hao	239
+王俊然	wang jun ran	238
+王凯霆	wang kai ting	237
+汪蓝	wang lan	243
+王潘羽希	wang pan yu xi	236
+王晴	wang qing	235
+王睿麟	wang rui lin	234
+王斯馨	wang si xin	233
+王宋宇	wang song yu	232
+王万圳	wang wan zhen	22
+汪歆雅	wang xin ya	242
+王绪泽	wang xu ze	231
+王雅琪	wang ya qi	230
+王彦扬	wang yan yang	229
+王亦安	wang yi an	226
+王以菡	wang yi han	227
+王奕涵	wang yi han	21
+王奕可	wang yi ke	225
+王怡雪	wang yi xue	228
+王宇凡	wang yu fan	224
+王宇涵	wang yu han	223
+王豫宁	wang yu ning	222
+王昭懿	wang zhao yi	221
+王紫琳	wang zi lin	218
+王梓萌	wang zi meng	220
+王梓渝	wang zi yu	219
+魏嘉静	wei jia jing	216
+魏文萱	wei wen xuan	215
+魏永欣	wei yong xin	214
+魏语萱	wei yu xuan	213
+韦振辉	wei zhen hui	217
+魏知欣	wei zhi xin	212
+文立言	wen li yan	210
+文美琦	wen mei qi	209
+温烨林	wen ye lin	211
+文子琪	wen zi qi	208
+翁泽楷	weng ze kai	207
+吴海祯	wu hai zhen	205
+吴军毅	wu jun yi	204
+吴美燕	wu mei yan	203
+吴梦晨	wu meng chen	202
+邬启迪	wu qi di	206
+吴昇遠	wu sheng yuan	201
+吴泰宇	wu tai yu	20
+吴桐圳	wu tong zhen	200
+伍欣岚	wu xin lan	190
+吴欣怡	wu xin yi	199
+吴宣逸	wu xuan yi	198
+吴彦妮	wu yan ni	19
+吴伊洋	wu yi yang	197
+吴咏珂	wu yong ke	196
+吴宇凡	wu yu fan	195
+吴宇翔	wu yu xiang	194
+吴岳橦	wu yue tong	193
+吴芷静	wu zhi jing	192
+吴子畅	wu zi chang	191
+武子乔	wu zi qiao	189
+夏雨瑄	xia yu xuan	188
+贤奕天	xian yi tian	187
+向培源	xiang pei yuan	186
+肖思羽	xiao si yu	185
+肖玮	xiao wei	184
+谢博达	xie bo da	183
+谢卉馨	xie hui xin	182
+谢佳锴	xie jia kai	181
+谢灵萱	xie ling xuan	18
+谢瑞婕	xie rui jie	17
+谢奕	xie yi	180
+谢悦祺	xie yue qi	16
+谢卓希	xie zhuo xi	179
+谢子轩	xie zi xuan	178
+谢子芸	xie zi yun	177
+熊冠宇	xiong guan yu	176
+熊慧尧	xiong hui yao	175
+许嘉敏	xu jia min	165
+徐靖浩	xu jing hao	174
+徐乐萱	xu le xuan	173
+徐睿怡	xu rui yi	172
+徐森垚	xu sen yao	171
+许王辛	xu wang xin	164
+徐晓静	xu xiao jing	170
+徐岩泽	xu yan ze	169
+许一丹	xu yi dan	163
+徐一卉	xu yi hui	168
+许伊诺	xu yi nuo	162
+徐悠然	xu you ran	167
+徐语心	xu yu xin	166
+杨宝逸	yang bao yi	15
+杨秉翰	yang bing han	160
+杨柏林	yang bo lin	161
+杨潮宇	yang chao yu	159
+杨辰玮	yang chen wei	158
+杨涵	yang han	157
+杨皓粤	yang hao yue	156
+杨皓云	yang hao yun	155
+杨铭予	yang ming yu	14
+杨清清	yang qing qing	154
+杨睿竹	yang rui zhu	153
+杨若涵	yang ruo han	152
+杨思缇	yang si ti	151
+杨骁	yang xiao	150
+杨心怡	yang xin yi	13
+杨薛润泽	yang xue run ze	149
+杨一涵	yang yi han	148
+杨子轩	yang zi xuan	147
+姚成轩	yao cheng xuan	145
+姚杰航	yao jie hang	12
+尧逸飞	yao yi fei	146
+叶泓舟	ye hong zhou	144
+叶佳琪	ye jia qi	143
+叶瑞峰	ye rui feng	142
+易远	yi yuan	141
+殷烁涵	yin shuo han	140
+尤志杰	you zhi jie	139
+余翠	yu cui	137
+余果	yu guo	135
+余郭萱	yu guo xuan	136
+余好	yu hao	134
+于嘉悦	yu jia yue	138
+虞林林	yu lin lin	130
+余奕璇	yu yi xuan	132
+余奕轩	yu yi xuan	133
+余岳泽	yu yue ze	131
+袁晓蕾	yuan xiao lei	129
+袁一菡	yuan yi han	128
+曾浩洋	zeng hao yang	54
+曾子慧	zeng zi hui	483
+詹婕妤	zhan jie yu	127
+占朗玥	zhan lang yue	124
+詹澎浩	zhan peng hao	126
+詹晞彤	zhan xi tong	125
+张安悦	zhang an yue	123
+张宸恺	zhang chen kai	122
+张淡仪	zhang dan yi	121
+张樊洲	zhang fan zhou	120
+张芳瑞	zhang fang rui	119
+张皓翔	zhang hao xiang	118
+张弘毅	zhang hong yi	11
+张惠宁	zhang hui ning	117
+张开开	zhang kai kai	116
+张坤鸿	zhang kun hong	115
+张莉莎	zhang li sha	113
+张力源	zhang li yuan	114
+张璐	zhang lu	10
+张牧凡	zhang mu fan	112
+张娜绮	zhang na qi	111
+张诺	zhang nuo	110
+张祺蔚	zhang qi wei	109
+张睿灵	zhang rui ling	108
+张若轩	zhang ruo xuan	107
+张熙雯	zhang xi wen	106
+张笑霖	zhang xiao lin	105
+张馨蕾	zhang xin lei	104
+张烨萱	zhang ye xuan	9
+张逸凡	zhang yi fan	101
+张一涵	zhang yi han	103
+张懿昊	zhang yi hao	100
+张奕衡	zhang yi heng	102
+张雨涵	zhang yu han	99
+张喆涵	zhang zhe han	98
+张正昆	zhang zheng kun	97
+张郅芮	zhang zhi rui	96
+张钟情	zhang zhong qing	95
+张子彬	zhang zi bin	8
+张孜睿	zhang zi rui	94
+张梓珊	zhang zi shan	92
+张子昕	zhang zi xin	93
+赵晟宇	zhao sheng yu	91
+赵英茗	zhao ying ming	90
+赵于辰轩	zhao yu chen xuan	89
+赵卓一	zhao zhuo yi	88
+郑皓元	zheng hao yuan	87
+郑佳锐	zheng jia rui	86
+郑慕瑶	zheng mu yao	85
+郑轶方	zheng yi fang	83
+郑怡莛	zheng yi ting	84
+郑懿哲	zheng yi zhe	82
+钟进源	zhong jin yuan	81
+钟峻杰	zhong jun jie	80
+钟天成	zhong tian cheng	7
+钟英祚	zhong ying zuo	79
+周俊辰	zhou jun chen	78
+周礼奇	zhou li qi	77
+周沐	zhou mu	6
+周诺	zhou nuo	5
+周圣容	zhou sheng rong	4
+周十三	zhou shi san	3
+周萱	zhou xuan	76
+周宥希	zhou you xi	75
+周玉洁	zhou yu jie	72
+周雨静	zhou yu jing	73
+周愉喆	zhou yu zhe	74
+周远章	zhou yuan zhang	71
+周子博	zhou zi bo	70
+周紫欣	zhou zi xin	69
+周子轩	zhou zi xuan	2
+朱辰宁	zhu chen ning	68
+朱九安	zhu jiu an	67
+朱峻濠	zhu jun hao	66
+朱麓霖	zhu lu lin	65
+朱妙妍	zhu miao yan	64
+朱瑞杰	zhu rui jie	63
+朱以轩	zhu yi xuan	62
+朱雨乐	zhu yu le	61
+祝之阳	zhu zhi yang	60
+朱梓恺	zhu zi kai	1
+庄稀童	zhuang xi tong	59
+卓佳舒	zhuo jia shu	58
+卓子然	zhuo zi ran	57
+邹茹奕	zou ru yi	56
+左淦	zuo gan	55

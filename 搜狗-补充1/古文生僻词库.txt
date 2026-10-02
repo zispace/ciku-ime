@@ -1,0 +1,2169 @@
+# 词库名称: 古文生僻词库
+# 词库分类: 其它
+# 词库描述: 词库内容概览： - 总词汇量：2167 个 - 覆盖篇目：道德经、洛神赋、上下五千年、出师表、诗经（4 篇）、岳阳楼记、醉翁亭记、前赤壁赋、桃花源记、陋室铭、爱莲说、论语十二章、孟子三章、滕王阁序、阿房宫赋 - 内容类型：专有名词（人名、地名、篇名）、生僻词、成语、经典名句
+# 词条样例: 老子、玄之又玄、是谓玄牝、水善利万物而不争、心善渊
+# 解析词数: 2162
+# 解析异常: 0
+
+爱莲说	ai lian shuo	420
+爱民治国	ai min zhi guo	2124
+哀吾生之须臾	ai wu sheng zhi xu yu	550
+爱以身为天下	ai yi shen wei tian xia	2081
+哀一逝而异乡	ai yi shi er yi xiang	1027
+哀者胜矣	ai zhe sheng yi	1313
+安居而天下熄	an ju er tian xia xi	311
+安可以为善	an ke yi wei shan	1217
+安平太	an ping tai	1763
+安其居	an qi ju	1200
+岸芷汀兰	an zhi ting lan	720
+把酒临风	ba jiu lin feng	710
+百废具兴	bai fei ju xing	762
+百家争鸣	bai jia zheng ming	979
+百里奚举于市	bai li xi ju yu shi	280
+白露横江	bai lu heng jiang	601
+白露为霜	bai lu wei shuang	817
+白露未晞	bai lu wei xi	809
+白露未已	bai lu wei yi	804
+百姓皆谓我自然	bai xing jie wei wo zi ran	2018
+百姓皆注其耳目	bai xing jie zhu qi er mu	1596
+阪泉	ban quan	962
+保此道者不欲盈	bao ci dao zhe bu yu ying	2047
+抱明月而长终	bao ming yue er chang zhong	547
+报怨以德	bao yuan yi de	1403
+卑鄙	bei bi	883
+北定中原	bei ding zhong yuan	860
+北海虽赊	bei hai sui she	152
+杯盘狼籍	bei pan lang ji	518
+背伊阙	bei yi que	1172
+裨补阙漏	bi bu que lou	915
+必固强之	bi gu qiang zhi	1752
+必固兴之	bi gu xing zhi	1750
+必固与之	bi gu yu zhi	1748
+必固张之	bi gu zhang zhi	1754
+彼何人斯	bi he ren si	1154
+必敬必戒	bi jing bi jie	300
+闭其门	bi qi men	1560
+陛下	bi xia	946
+必先苦其心志	bi xian ku qi xin zhi	278
+必以身后之	bi yi shen hou zhi	1356
+必以言下之	bi yi yan xia zhi	1358
+必有得天时者矣	bi you de tian shi zhe yi	340
+必有我师焉	bi you wo shi yan	359
+必有凶年	bi you xiong nian	1828
+比于赤子	bi yu chi zi	1515
+敝则新	bi ze xin	1951
+便得一山	bian de yi shan	500
+便扶向路	bian fu xiang lu	456
+便舍船	bian she chuan	497
+便要还家	bian yao huan jia	477
+辩者不善	bian zhe bu shan	1192
+宾主尽东南之美	bin zhu jin dong nan zhi mei	244
+兵革非不坚利也	bing ge fei bu jian li ye	335
+兵甲已足	bing jia yi zu	862
+兵无所容其刃	bing wu suo rong qi ren	1581
+病也	bing ye	1298
+并怡然自乐	bing yi ran zi le	482
+兵者不祥之器	bing zhe bu xiang zhi qi	1814
+波澜不惊	bo lan bu jing	725
+薄暮冥冥	bo mu ming ming	733
+勃三尺微命	bo san chi wei ming	144
+博学而笃志	bo xue er du zhi	351
+博者不知	bo zhe bu zhi	1190
+搏之不得名曰微	bo zhi bu de ming yue wei	2077
+不爱其资	bu ai qi zi	1872
+步踟蹰于山隅	bu chi chu yu shan yu	1107
+不出户知天下	bu chu hu zhi tian xia	1621
+不道早已	bu dao zao yi	1818
+不得已而用之	bu de yi er yong zhi	1812
+不得志	bu de zhi	291
+不复出焉	bu fu chu yan	471
+不复得路	bu fu de lu	448
+不敢进寸而退尺	bu gan jin cun er tui chi	1321
+不敢为天下先	bu gan wei tian xia xian	1340
+不敢言而敢怒	bu gan yan er gan nu	20
+不敢以取强	bu gan yi qu qiang	1826
+不贵难得之货	bu gui nan de zhi huo	1379
+不贵其师	bu gui qi shi	1873
+步蘅薄而流芳	bu heng bo er liu fang	1077
+不霁何虹	bu ji he hong	86
+不见而明	bu jian er ming	1616
+不绝如缕	bu jue ru lv	580
+不可不畏	bu ke bu wei	1993
+不可长保	bu ke chang bao	2137
+不可得而贵	bu ke de er gui	1491
+不可得而害	bu ke de er hai	1492
+不可得而贱	bu ke de er jian	1490
+不可得而利	bu ke de er li	1493
+不可得而疏	bu ke de er shu	1494
+不可为也	bu ke wei ye	1847
+不可执也	bu ke zhi ye	1846
+不窥牖见天道	bu kui you jian tian dao	1620
+不蔓不枝	bu man bu zhi	410
+不如其已	bu ru qi yi	2139
+不如坐进此道	bu ru zuo jin ci dao	1411
+不善人者善人之资	bu shan ren zhe shan ren zhi zi	1874
+不善人之所保	bu shan ren zhi suo bao	1419
+不善者吾亦善之	bu shan zhe wu yi shan zhi	1603
+不舍昼夜	bu she zhou ye	354
+不胜受恩感激	bu sheng shou en gan ji	841
+不失其所者久	bu shi qi suo zhe jiu	1777
+不为而成	bu wei er cheng	1615
+不笑不足以为道	bu xiao bu zu yi wei dao	1684
+不信者吾亦信之	bu xin zhe wu yi xin zhi	1600
+不言而善应	bu yan er shan ying	1279
+不言之教	bu yan zhi jiao	1649
+不以兵强天下	bu yi bing qiang tian xia	1833
+不义而富且贵	bu yi er fu qie gui	362
+不以己悲	bu yi ji bei	703
+不亦君子乎	bu yi jun zi hu	389
+不亦乐乎	bu yi le hu	391
+不以物喜	bu yi wu xi	704
+不宜异同	bu yi yi tong	936
+不亦说乎	bu yi yue hu	393
+不以智治国国之福	bu yi zhi zhi guo guo zhi fu	1368
+不逾矩	bu yu ju	378
+不欲琭琭如玉	bu yu lu lu ru yu	1693
+不欲以静	bu yu yi jing	1737
+不曰以求得	bu yue yi qiu de	1409
+不召而自来	bu zhao er zi lai	1278
+不知常妄作凶	bu zhi chang wang zuo xiong	2034
+不知东方之既白	bu zhi dong fang zhi ji bai	516
+不知所言	bu zhi suo yan	838
+不知西东	bu zhi xi dong	84
+不知知	bu zhi zhi	1299
+不坠青云之志	bu zhui qing yun zhi zhi	155
+不自伐故有功	bu zi fa gu you gong	1945
+不自见故明	bu zi jian gu ming	1947
+不自矜故长	bu zi jin gu chang	1944
+不自是故彰	bu zi shi gu zhang	1946
+不足为外人道也	bu zu wei wai ren dao ye	459
+不足以取天下	bu zu yi qu tian xia	1607
+不足者补之	bu zu zhe bu zhi	1239
+彩彻区明	cai che qu ming	202
+财货有余	cai huo you yu	1538
+才通人	cai tong ren	494
+采湍濑之玄芝	cai tuan lai zhi xuan zhi	1101
+参军	can jun	893
+仓颉	cang jie	965
+仓甚虚	cang shen xu	1542
+苍颜白发	cang yan bai fa	632
+草庐之中	cao lu zhi zhong	880
+草木之生也柔脆	cao mu zhi sheng ye rou cui	1251
+草色入帘青	cao se ru lian qing	431
+曹植	cao zhi	1183
+参差荇菜	cen ci xing cai	831
+层峦耸翠	ceng luan song cui	219
+曾益其所不能	ceng yi qi suo bu neng	272
+察纳雅言	cha na ya yan	843
+繟然而善谋	chan ran er shan mou	1277
+襜帷暂驻	chan wei zan zhu	240
+常德不离	chang de bu li	1866
+常德不忒	chang de bu tei	1861
+常德乃足	chang de nai zu	1856
+长而不宰	chang er bu zai	2115
+长寄心于君王	chang ji xin yu jun wang	1023
+怅盘桓而不能去	chang pan huan er bu neng qu	1007
+长桥卧波	chang qiao wo bo	89
+常善救物	chang shan jiu wu	1878
+怅神宵而蔽光	chang shen xiao er bi guang	1021
+长生久视之道	chang sheng jiu shi zhi dao	1446
+常无欲可名于小	chang wu yu ke ming yu xiao	1770
+常有司杀者杀	chang you si sha zhe sha	1268
+怅犹豫而狐疑	chang you yu er hu yi	1087
+常于几成而败之	chang yu ji cheng er bai zhi	1383
+常与善人	chang yu shan ren	1211
+常知稽式	chang zhi ji shi	1366
+长之育之	chang zhi yu zhi	1570
+超长吟以永慕兮	chao chang yin yi yong mu xi	1076
+朝而往	chao er wang	657
+朝甚除	chao shen chu	1544
+车殆马烦	che dai ma fan	1167
+臣本布衣	chen ben bu yi	888
+陈交接之大纲	chen jiao jie zhi da gang	1033
+臣闻河洛之神	chen wen he luo zhi shen	1151
+臣愿闻之	chen yuan wen zhi	1147
+城非不高也	cheng fei bu gao ye	337
+成吉思汗	cheng ji si han	989
+诚全而归之	cheng quan er gui zhi	1940
+称之曰能	cheng zhi yue neng	909
+驰骋畋猎	chi cheng tian lie	2101
+驰骋天下之至坚	chi cheng tian xia zhi zhi jian	1652
+持而保之	chi er bao zhi	1346
+持而盈之	chi er ying zhi	2140
+池非不深也	chi fei bu shen ye	336
+蚩尤	chi you	973
+冲气以为和	chong qi yi wei he	1663
+宠辱若惊	chong ru ruo jing	2095
+宠辱偕忘	chong ru xie wang	711
+宠为下	chong wei xia	2092
+矗不知其几千万落	chu bu zhi qi ji qian wan luo	90
+处处志之	chu chu zhi zhi	455
+处涸辙以犹欢	chu he zhe yi you huan	153
+初极狭	chu ji xia	495
+处江湖之远则忧其君	chu jiang hu zhi yuan ze you qi jun	701
+处其实不居其华	chu qi shi bu ju qi hua	1714
+处前而民不害	chu qian er min bu hai	1354
+楚人一炬	chu ren yi ju	15
+滁人游也	chu ren you ye	647
+出生入死	chu sheng ru si	1594
+出师表	chu shi biao	956
+出则无敌国外患者	chu ze wu di guo wai huan zhe	262
+揣而锐之	chuai er rui zhi	2138
+传不习乎	chuan bu xi hu	385
+川后静波	chuan hou jing bo	1047
+川泽纡其骇瞩	chuan ze yu qi hai zhu	208
+春光融融	chun guang rong rong	82
+春秋战国	chun qiu zhan guo	994
+此非曹孟德之诗乎	ci fei cao meng de zhi shi hu	571
+此非孟德之困于周郎者乎	ci fei meng de zhi kun yu zhou lang zhe hu	566
+此非以贱为本邪	ci fei yi jian wei ben xie	1696
+慈故能勇	ci gu neng yong	1342
+此乐何极	ci le he ji	713
+此两者或利或害	ci liang zhe huo li huo hai	1283
+辞楼下殿	ci lou xia dian	74
+辞去	ci qu	461
+此人一一为具言所闻	ci ren yi yi wei ju yan suo wen	466
+此三者不可致诘	ci san zhe bu ke zhi jie	2076
+此三者以为文不足	ci san zhe yi wei wen bu zu	2003
+此则岳阳楼之大观也	ci ze yue yang lou zhi da guan ye	749
+此之谓大丈夫	ci zhi wei da zhang fu	287
+此中人语云	ci zhong ren yu yun	460
+从口入	cong kou ru	496
+从南湘之二妃	cong nan xiang zhi er fei	1068
+窜梁鸿于海曲	cuan liang hong yu hai qu	162
+村中闻有此人	cun zhong wen you ci ren	475
+挫其锐	cuo qi rui	1500
+大白若辱	da bai ruo ru	1678
+大辩若讷	da bian ruo ne	1632
+大成若缺	da cheng ruo que	1638
+大道泛兮	da dao fan xi	1775
+大道废	da dao fei	2017
+大道甚夷	da dao shen yi	1546
+大方无隅	da fang wu yu	1674
+大国不过欲兼畜人	da guo bu guo yu jian chu ren	1425
+大国者下流	da guo zhe xia liu	1436
+大军之后	da jun zhi hou	1829
+大器晚成	da qi wan cheng	1673
+大巧若拙	da qiao ruo zhuo	1633
+达人知命	da ren zhi ming	159
+大事	da shi	870
+大象无形	da xiang wu xing	1671
+大小多少	da xiao duo shao	1404
+大音希声	da yin xi sheng	1672
+大盈若冲	da ying ruo chong	1636
+大禹	da yu	958
+大禹治水	da yu zhi shui	998
+大曰逝	da yue shi	1907
+大者宜为下	da zhe yi wei xia	1422
+大直若屈	da zhi ruo qu	1634
+戴金翠之首饰	dai jin cui zhi shou shi	1112
+带利剑	dai li jian	1540
+丹唇外朗	dan chun wai lang	1124
+淡乎其无味	dan hu qi wu wei	1759
+澹兮其若海	dan xi qi ruo hai	1977
+当其无	dang qi wu	2112
+当世之事	dang shi zhi shi	879
+道常无名朴	dao chang wu ming pu	1797
+道常无为而无不为	dao chang wu wei er wu bu wei	1743
+道德经	dao de jing	2162
+道法自然	dao fa zi ran	1895
+悼良会之永绝兮	dao liang hui zhi yong jue xi	1028
+道乃久	dao nai jiu	2028
+叨陪鲤对	dao pei li dui	133
+道生一	dao sheng yi	1668
+道生之	dao sheng zhi	1579
+道隐无名	dao yin wu ming	1670
+盗贼多有	dao zei duo you	1477
+盗贼无有	dao zei wu you	2004
+道者万物之奥	dao zhe wan wu zhi ao	1421
+道之出口	dao zhi chu kou	1760
+道之华	dao zhi hua	1717
+道之为物	dao zhi wei wu	1969
+道之尊	dao zhi zun	1574
+道阻且长	dao zu qie chang	813
+道阻且跻	dao zu qie ji	807
+道阻且右	dao zu qie you	802
+德畜之	de chu zhi	1578
+得道多助失道寡助	de dao duo zhu shi dao gua zhu	347
+得道者多助	de dao zhe duo zhu	327
+得其船	de qi chuan	457
+德善	de shan	1602
+得天人之旧馆	de tian ren zhi jiu guan	220
+得无异乎	de wu yi hu	742
+德信	de xin	1599
+得与亡孰病	de yu wang shu bing	1644
+德者同于德	de zhe tong yu de	1931
+得志	de zhi	293
+德之贵	de zhi gui	1573
+得之若惊	de zhi ruo jing	2091
+得之心而寓之酒也	de zhi xin er yu zhi jiu ye	667
+登高作赋	deng gao zuo fu	119
+登斯楼也	deng si lou ye	731
+等终军之弱冠	deng zhong jun zhi ruo guan	141
+涤除玄览	di chu xuan lan	2126
+地大	di da	1902
+地得一以宁	di de yi yi ning	1711
+地法天	di fa tian	1897
+地接衡庐	di jie heng lu	254
+地利不如人和	di li bu ru ren he	345
+地势极而南溟深	di shi ji er nan ming shen	177
+地无以宁将恐废	di wu yi ning jiang kong fei	1704
+鼎铛玉石	ding cheng yu shi	44
+钉头磷磷	ding tou lin lin	29
+动善时	dong shan shi	2143
+东望武昌	dong wang wu chang	569
+动无常则	dong wu chang ze	1058
+东隅已逝	dong yu yi shi	150
+董允	dong yun	924
+动之于死地	dong zhi yu si di	1590
+动朱唇以徐言	dong zhu chun yi xu yan	1034
+毒虫不螫	du chong bu shi	1514
+都督阎公之雅望	du du yan gong zhi ya wang	243
+独夫之心	du fu zhi xin	19
+独立而不改	du li er bu gai	1913
+杜牧	du mu	110
+独行其道	du xing qi dao	290
+睹一丽人	du yi li ren	1158
+独尊儒术	du zun ru shu	977
+沌沌兮	dun dun xi	1982
+敦兮其若朴	dun xi qi ruo pu	2052
+多藏必厚亡	duo cang bi hou wang	1642
+多会于此	duo hui yu ci	744
+多易必多难	duo yi bi duo nan	1396
+多于机上之工女	duo yu ji shang zhi gong nv	30
+多于九土之城郭	duo yu jiu tu zhi cheng guo	24
+多于南亩之农夫	duo yu nan mu zhi nong fu	32
+多于市人之言语	duo yu shi ren zhi yan yu	22
+多于在庾之粟粒	duo yu zai yu zhi su li	28
+多于周身之帛缕	duo yu zhou shen zhi bo lv	26
+多则惑	duo ze huo	1949
+多助之至	duo zhu zhi zhi	323
+阿房出	e pang chu	106
+阿房宫赋	e pang gong fu	111
+饿其体肤	e qi ti fu	276
+而不敢为	er bu gan wei	1375
+而不责于人	er bu ze yu ren	1215
+而不知其所止	er bu zhi qi suo zhi	596
+而不知人之乐	er bu zhi ren zhi le	622
+而不知太守之乐其乐也	er bu zhi tai shou zhi le qi le ye	620
+二川溶溶	er chuan rong rong	101
+耳得之而为声	er de zhi er wei sheng	527
+而攻坚强者莫之能胜	er gong jian qiang zhe mo zhi neng sheng	1229
+而贵食母	er gui shi mu	1972
+而后人哀之	er hou ren ai zhi	3
+而后喻	er hou yu	264
+而后作	er hou zuo	267
+而或长烟一空	er huo chang yan yi kong	718
+而今安在哉	er jin an zai zai	557
+而况于人乎	er kuang yu ren hu	1933
+尔来二十有一年	er lai er shi you yi nian	873
+而乐亦无穷也	er le yi wu qiong ye	654
+而乱之首	er luan zhi shou	1719
+而美之者	er mei zhi zhe	1809
+而民弥贫	er min mi pin	1483
+尔乃税驾乎蘅皋	er nai shui jia hu heng gao	1166
+尔乃众灵杂遝	er nai zhong ling za ta	1074
+二难并	er nan bing	186
+而年又最高	er nian you zui gao	672
+而气候不齐	er qi hou bu qi	77
+而人好径	er ren hao jing	1545
+二生三	er sheng san	1666
+而王公以为称	er wang gong yi wei cheng	1660
+而王居其一焉	er wang ju qi yi yan	1899
+而望幸焉	er wang xing yan	55
+而未尝往也	er wei chang wang ye	541
+而为奇者	er wei qi zhe	1271
+而我独若遗	er wo du ruo yi	1984
+而我独顽且鄙	er wo du wan qie bi	1974
+而吾与子之所共适	er wu yu zi zhi suo gong shi	522
+而泻出于两峰之间者	er xie chu yu liang feng zhi jian zhe	683
+珥瑶碧之华琚	er yao bi zhi hua ju	1113
+而以身轻天下	er yi shen qing tian xia	1888
+尔有觌于彼者乎	er you di yu bi zhe hu	1155
+而又何羡乎	er you he xian hu	534
+而愚之始	er yu zhi shi	1716
+二曰俭	er yue jian	1344
+而卒莫消长也	er zu mo xiao zhang ye	539
+法令滋彰	fa ling zi zhang	1478
+发于声	fa yu sheng	265
+饭疏食饮水	fan shu shi yin shui	365
+反者道之动	fan zhe dao zhi dong	1691
+范仲淹	fan zhong yan	768
+芳草鲜美	fang cao xian mei	506
+访风景于崇阿	fang feng jing yu chong a	222
+仿佛若有光	fang fu ruo you guang	498
+仿佛兮若轻云之蔽月	fang fu xi ruo qing yun zhi bi yue	1140
+方其破荆州	fang qi po jing zhou	565
+芳泽无加	fang ze wu jia	1128
+非道也哉	fei dao ye zai	1536
+飞阁流丹	fei ge liu dan	217
+非乎	fei hu	1695
+非君子之器	fei jun zi zhi qi	1813
+妃嫔媵嫱	fei pin ying qiang	76
+非其鬼不神	fei qi gui bu shen	1442
+非其神不伤人	fei qi shen bu shang ren	1440
+非秦也	fei qin ye	12
+非丝非竹	fei si fei zhu	638
+非天下也	fei tian xia ye	10
+非无圣主	fei wu sheng zhu	163
+非谢家之宝树	fei xie jia zhi bao shu	136
+费祎	fei yi	925
+非以明民	fei yi ming min	1373
+焚椒兰也	fen jiao lan ye	63
+焚书坑儒	fen shu keng ru	978
+奉晨昏于万里	feng chen hun yu wan li	137
+蜂房水涡	feng fang shui wo	91
+峰回路转	feng hui lu zhuan	681
+奉命于危难之间	feng ming yu wei nan zhi jian	874
+风霜高洁	feng shuang gao jie	660
+冯唐易老	feng tang yi lao	166
+奉宣室以何年	feng xuan shi yi he nian	170
+冯夷鸣鼓	feng yi ming gu	1046
+风雨凄凄	feng yu qi qi	80
+夫兵者不祥之器	fu bing zhe bu xiang zhi qi	1817
+浮长川而忘返	fu chang chuan er wang fan	1014
+夫慈以战则胜	fu ci yi zhan ze sheng	1334
+夫代大匠斫者	fu dai da jiang zhuo zhe	1265
+夫代司杀者杀	fu dai si sha zhe sha	1267
+复道行空	fu dao heng kong	87
+俯雕甍	fu diao meng	210
+浮光跃金	fu guang yue jin	716
+富贵不能淫	fu gui bu neng yin	317
+富贵而骄	fu gui er jiao	2134
+复归其明	fu gui qi ming	1552
+复归于朴	fu gui yu pu	1855
+复归于无极	fu gui yu wu ji	1860
+复归于无物	fu gui yu wu wu	2071
+复归于婴儿	fu gui yu ying er	1865
+夫何故	fu he gu	1588
+夫环而攻之	fu huan er gong zhi	341
+夫将不欲	fu jiang bu yu	1738
+夫乐杀人者	fu le sha ren zhe	1807
+夫礼者	fu li zhe	1721
+夫两不相伤	fu liang bu xiang shang	1438
+夫两者各得所欲	fu liang zhe ge de suo yu	1423
+抚凌云而自惜	fu ling yun er zi xi	129
+复命曰常	fu ming yue chang	2036
+父命之	fu ming zhi	306
+夫莫之命而常自然	fu mo zhi ming er chang zi ran	1572
+复前行	fu qian xing	503
+夫轻诺必寡信	fu qing nuo bi gua xin	1397
+复守其母	fu shou qi mu	1562
+傅说举于版筑之间	fu shuo ju yu ban zhu zhi jian	284
+夫唯病病	fu wei bing bing	1295
+夫唯不可识	fu wei bu ke shi	2058
+夫唯不厌	fu wei bu yan	1289
+夫唯不盈	fu wei bu ying	2046
+夫唯不争	fu wei bu zheng	2142
+夫唯大	fu wei da	1350
+夫唯道善贷且成	fu wei dao shan dai qie cheng	1669
+夫唯啬	fu wei se	1454
+夫唯无以生为者	fu wei wu yi sheng wei zhe	1255
+夫唯无知	fu wei wu zhi	1306
+服文彩	fu wen cai	1541
+夫物或行或随	fu wu huo xing huo sui	1841
+夫物芸芸	fu wu yun yun	2040
+伏羲	fu xi	969
+福兮祸之所伏	fu xi huo zhi suo fu	1466
+复行数十步	fu xing shu shi bu	493
+覆压三百余里	fu ya san bai yu li	105
+扶摇可接	fu yao ke jie	151
+夫亦将知止	fu yi jiang zhi zhi	1787
+俯则末察	fu ze mo cha	1160
+复众人之所过	fu zhong ren zhi suo guo	1377
+盖将自其变者而观之	gai jiang zi qi bian zhe er guan zhi	538
+盖闻善摄生者	gai wen shan she sheng zhe	1586
+感激	gan ji	878
+感极而悲者矣	gan ji er bei zhe yi	727
+感交甫之弃言兮	gan jiao fu zhi qi yan xi	1088
+敢竭鄙怀	gan jie bi huai	117
+甘其食	gan qi shi	1202
+感宋玉对楚王神女之事	gan song yu dui chu wang shen nv zhi shi	1176
+高低冥迷	gao di ming mi	85
+高朋满座	gao peng man zuo	236
+高尚士也	gao shang shi ye	446
+告先帝之灵	gao xian di zhi ling	849
+高以下为基	gao yi xia wei ji	1698
+高者抑之	gao zhe yi zhi	1242
+各抱地势	ge bao di shi	95
+各复归其根	ge fu gui qi gen	2039
+舸舰弥津	ge jian mi jin	205
+隔离天日	ge li tian ri	104
+各倾陆海云尔	ge qing lu hai yun er	112
+歌台暖响	ge tai nuan xiang	83
+歌窈窕之章	ge yao tiao zhi zhang	605
+歌曰	ge yue	591
+宫车过也	gong che guo ye	61
+功成而不处	gong cheng er bu chu	1232
+功成而不有	gong cheng er bu you	1772
+功成事遂	gong cheng shi sui	2019
+觥筹交错	gong chou jiao cuo	635
+躬逢胜饯	gong feng sheng jian	228
+躬耕于南阳	gong geng yu nan yang	887
+公乃全	gong nai quan	2031
+攻亲戚之所畔	gong qin qi zhi suo pan	320
+恭疏短引	gong shu duan yin	116
+功遂身退	gong sui shen tui	2132
+公孙衍	gong sun yan	315
+宫中府中	gong zhong fu zhong	939
+苟非吾之所有	gou fei wu zhi suo you	531
+苟全性命	gou quan xing ming	886
+钩心斗角	gou xin dou jiao	94
+故不可得而亲	gu bu ke de er qin	1495
+故从事于道者同于道	gu cong shi yu dao zhe tong yu dao	1932
+故大国以下小国	gu da guo yi xia xiao guo	1431
+故大制不割	gu da zhi bu ge	1851
+故道大	gu dao da	1904
+故道生之	gu dao sheng zhi	1571
+故德交归焉	gu de jiao gui yan	1437
+谷得一以盈	gu de yi yi ying	1709
+故贵以贱为本	gu gui yi jian wei ben	1699
+故贵以身为天下	gu gui yi shen wei tian xia	2083
+固国不以山溪之险	gu guo bu yi shan xi zhi xian	329
+故混而为一	gu hun er wei yi	2075
+故或下以取	gu huo xia yi qu	1427
+故坚强者死之徒	gu jian qiang zhe si zhi tu	1249
+故建言有之	gu jian yan you zhi	1683
+故君子有不战	gu jun zi you bu zhan	319
+故抗兵相若	gu kang bing xiang ruo	1314
+故立天子	gu li tian zi	1414
+故令有所属	gu ling you suo shu	2002
+故能蔽而新成	gu neng bi er xin cheng	2045
+故能成器长	gu neng cheng qi chang	1339
+故能成其大	gu neng cheng qi da	1766
+故能为百谷王	gu neng wei bai gu wang	1360
+故飘风不终朝	gu piao feng bu zhong chao	1938
+故强为之容	gu qiang wei zhi rong	2057
+故去彼取此	gu qu bi qu ci	2096
+古人有言	gu ren you yan	1179
+骨弱筋柔而握固	gu ruo jin rou er wo gu	1511
+故善人者不善人之师	gu shan ren zhe bu shan ren zhi shi	1875
+谷神不死	gu shen bu si	2158
+故圣人云	gu sheng ren yun	1476
+故失道而后德	gu shi dao er hou de	1725
+故似不肖	gu si bu xiao	1349
+故天将降大任于是人也	gu tian jiang jiang da ren yu shi ren ye	279
+故天下莫能与之争	gu tian xia mo neng yu zhi zheng	1943
+顾望怀愁	gu wang huai chou	1017
+故为天下贵	gu wei tian xia gui	1489
+故物或损之而益	gu wu huo sun zhi er yi	1659
+故无弃人	gu wu qi ren	1879
+故无弃物	gu wu qi wu	1877
+谷无以盈将恐竭	gu wu yi ying jiang kong jie	1702
+故无尤	gu wu you	2141
+骨像应图	gu xiang ying tu	1115
+故以身观身	gu yi shen guan shen	1522
+固一世之雄也	gu yi shi zhi xiong ye	558
+故以智治国国之贼	gu yi zhi zhi guo guo zhi zei	1369
+故有道者不处	gu you dao zhe bu chu	1917
+故有之以为利	gu you zhi yi wei li	2106
+故曰	gu yue	331
+古之善为道者	gu zhi shan wei dao zhe	1374
+古之善为士者	gu zhi shan wei shi zhe	2061
+古之所谓曲则全者	gu zhi suo wei qu ze quan zhe	1942
+古之所以贵此道者何	gu zhi suo yi gui ci dao zhe he	1410
+故致誉无誉	gu zhi yu wu yu	1694
+故知足不辱	gu zhi zu bu ru	1641
+故知足之足常足矣	gu zhi zu zhi zu chang zu yi	1622
+故终无难矣	gu zhong wu nan yi	1394
+故自号曰醉翁也	gu zi hao yue zui weng ye	671
+寡助之至	gua zhu zhi zhi	325
+关关雎鸠	guan guan ju jiu	835
+关雎	guan ju	837
+关山难越	guan shan nan yue	175
+管弦呕哑	guan xian ou ya	23
+管夷吾举于士	guan yi wu ju yu shi	282
+广德若不足	guang de ruo bu zu	1677
+光而不耀	guang er bu yao	1456
+光润玉颜	guang run yu yan	1053
+光武中兴	guang wu zhong xing	980
+光先帝遗德	guang xian di yi de	944
+广益	guang yi	914
+光照临川之笔	guang zhao lin chuan zhi bi	188
+贵大患若身	gui da huan ruo shen	2094
+桂殿兰宫	gui dian lan gong	213
+归根曰静	gui gen yue jing	2038
+桂棹兮兰桨	gui zhao xi lan jiang	590
+瑰姿艳逸	gui zi yan yi	1120
+果而不得已	guo er bu de yi	1822
+果而勿伐	guo er wu fa	1824
+果而勿骄	guo er wu jiao	1823
+果而勿矜	guo er wu jin	1825
+果而勿强	guo er wu qiang	1821
+国风	guo feng	770
+国恒亡	guo heng wang	261
+国家昏乱	guo jia hun luan	2011
+国家滋昏	guo jia zi hun	1481
+过客止	guo ke zhi	1761
+过南冈	guo nan gang	1037
+郭攸之	guo you zhi	926
+国之利器不可以示人	guo zhi li qi bu ke yi shi ren	1744
+还济洛川	hai ji luo chuan	1180
+含辞未吐	han ci wei tu	1052
+含德之厚	han de zhi hou	1516
+函谷举	han gu ju	16
+汉室之隆	han shi zhi long	890
+韩魏之经营	han wei zhi jing ying	51
+汉武帝	han wu di	992
+行阵和睦	hang zhen he mu	905
+皓齿内鲜	hao chi nei xian	1123
+浩浩乎如冯虚御风	hao hao hu ru feng xu yu feng	597
+浩浩汤汤	hao hao shang shang	753
+皓月千里	hao yue qian li	717
+皓质呈露	hao zhi cheng lu	1129
+好之者不如乐之者	hao zhi zhe bu ru le zhi zhe	366
+合抱之木生于毫末	he bao zhi mu sheng yu hao mo	1387
+和大怨必有余怨	he da yuan bi you yu yuan	1218
+何陋之有	he lou zhi you	421
+和其光	he qi guang	1498
+何弃之有	he qi zhi you	1415
+鹤汀凫渚	he ting fu zhu	215
+何谓宠辱若惊	he wei chong ru ruo jing	2093
+何谓贵大患若身	he wei gui da huan ruo shen	2088
+何为其然也	he wei qi ran ye	575
+何哉	he zai	705
+和之至也	he zhi zhi ye	1507
+恨人神之道殊兮	hen ren shen zhi dao shu xi	1032
+横槊赋诗	heng shuo fu shi	559
+横无际涯	heng wu ji ya	752
+衡于虑	heng yu lv	268
+洪都新府	hong du xin fu	256
+后汉	hou han	899
+后人哀之而不鉴之	hou ren ai zhi er bu jian zhi	2
+后遂无问津者	hou sui wu wen jin zhe	441
+后天下之乐而乐乎	hou tian xia zhi le er le hu	696
+侯王得一以为天下正	hou wang de yi yi wei tian xia zheng	1707
+侯王若能守之	hou wang ruo neng shou zhi	1794
+侯王无以正将恐蹶	hou wang wu yi zheng jiang kong jue	1700
+后者应	hou zhe ying	650
+后值倾覆	hou zhi qing fu	876
+忽不悟其所舍	hu bu wu qi suo she	1022
+忽逢桃花林	hu feng tao hua lin	509
+虎无所用其爪	hu wu suo yong qi zhao	1582
+惚兮恍兮	hu xi huang xi	1967
+虎啸猿啼	hu xiao yuan ti	732
+忽焉思散	hu yan si san	1161
+化而欲作	hua er yu zuo	1741
+华茂春松	hua mao chun song	1141
+华容婀娜	hua rong e nuo	1050
+花之富贵者也	hua zhi fu gui zhe ye	403
+花之君子者也	hua zhi jun zi zhe ye	402
+花之隐逸者也	hua zhi yin yi zhe ye	405
+怀帝阍而不见	huai di hun er bu jian	171
+环滁皆山也	huan chu jie shan ye	690
+环而攻之而不胜	huan er gong zhi er bu sheng	342
+桓灵	huan ling	896
+涣兮其若凌释	huan xi qi ruo ling shi	2053
+还于旧都	huan yu jiu du	856
+黄初三年	huang chu san nian	1182
+黄帝	huang di	974
+黄帝战蚩尤	huang di zhan chi you	1002
+黄发垂髫	huang fa chui tiao	483
+恍兮惚兮	huang xi hu xi	1965
+荒兮其未央哉	huang xi qi wei yang zai	1992
+恢弘志士之气	hui hong zhi shi zhi qi	943
+晦明变化者	hui ming bian hua zhe	664
+回清阳	hui qing yang	1035
+回也不改其乐	hui ye bu gai qi le	368
+混兮其若浊	hun xi qi ruo zhuo	2050
+或采明珠	huo cai ming zhu	1070
+祸莫大于不知足	huo mo da yu bu zhi zu	1624
+祸莫大于轻敌	huo mo da yu qing di	1316
+或强或羸	huo qiang huo lei	1839
+豁然开朗	huo ran kai lang	492
+或拾翠羽	huo shi cui yu	1069
+祸兮福之所倚	huo xi fu zhi suo yi	1467
+或戏清流	huo xi qing liu	1072
+或下而取	huo xia er qu	1426
+或翔神渚	huo xiang shen zhu	1071
+或歔或吹	huo xu huo chui	1840
+或异二者之为	huo yi er zhe zhi wei	706
+或益之而损	huo yi zhi er sun	1658
+或载或隳	huo zai huo hui	1838
+既出	ji chu	458
+既得其母	ji de qi mu	1565
+寄蜉蝣于天地	ji fu you yu tian di	552
+及郡下	ji jun xia	454
+击空明兮溯流光	ji kong ming xi su liu guang	589
+冀灵体之复形	ji ling ti zhi fu xing	1016
+济其事	ji qi shi	1557
+及其有事	ji qi you shi	1608
+鸡犬相闻	ji quan xiang wen	487
+鸡犬之声相闻	ji quan zhi sheng xiang wen	1197
+计日而待	ji ri er dai	889
+几世几年	ji shi ji nian	49
+吉事尚左	ji shi shang zuo	1805
+及吾无身	ji wu wu shen	2085
+寂兮寥兮	ji xi liao xi	1914
+既以为人己愈有	ji yi wei ren ji yu you	1188
+既以与人己愈多	ji yi yu ren ji yu duo	1187
+极娱游于暇日	ji yu you yu xia ri	184
+既知其子	ji zhi qi zi	1563
+夹岸数百步	jia an shu bai bu	508
+家君作宰	jia jun zuo zai	231
+架梁之椽	jia liang zhi chuan	31
+佳木秀而繁阴	jia mu xiu er fan yin	661
+驾一叶之扁舟	jia yi ye zhi pian zhou	554
+简拔	jian ba	921
+建德若偷	jian de ruo tou	1676
+俭故能广	jian gu neng guang	1341
+蒹葭	jian jia	820
+蒹葭采采	jian jia cai cai	805
+蒹葭苍苍	jian jia cang cang	818
+蒹葭萋萋	jian jia qi qi	810
+践椒涂之郁烈	jian jiao tu zhi yu lie	1078
+肩若削成	jian ruo xiao cheng	1132
+渐闻水声潺潺	jian wen shui sheng chan chan	684
+见小曰明	jian xiao yue ming	1555
+见渔人	jian yu ren	481
+践远游之文履	jian yuan you zhi wen lv	1110
+江海之所以能为百谷王者	jiang hai zhi suo yi neng wei bai gu wang zhe	1362
+将军向宠	jiang jun xiang chong	913
+奖率三军	jiang lv san jun	861
+将以愚之	jiang yi yu zhi	1372
+将欲废之	jiang yu fei zhi	1751
+将欲取天下而为之	jiang yu qu tian xia er wei zhi	1850
+将欲取之	jiang yu qu zhi	1749
+将欲弱之	jiang yu ruo zhi	1753
+将欲歙之	jiang yu she zhi	1755
+胶鬲举于鱼盐之中	jiao ge ju yu yu yan zhi zhong	283
+皎若太阳升朝霞	jiao ruo tai yang sheng zhao xia	1137
+皆出酒食	jie chu jiu shi	463
+嗟夫	jie fu	708
+嗟乎	jie hu	169
+嗟佳人之信修兮	jie jia ren zhi xin xiu xi	1094
+接孟氏之芳邻	jie meng shi zhi fang lin	135
+解其纷	jie qi fen	1499
+皆叹惋	jie tan wan	465
+解玉佩以要之	jie yu pei yi yao zhi	1095
+戒之曰	jie zhi yue	302
+今当远离	jin dang yuan li	840
+进道若退	jin dao ruo tui	1681
+进尽忠言	jin jin zhong yan	853
+金块珠砾	jin kuai zhu li	43
+锦鳞游泳	jin lin you yong	721
+襟三江而带五湖	jin san jiang er dai wu hu	253
+今舍慈且勇	jin she ci qie yong	1338
+谨慎	jin shen	872
+尽是他乡之客	jin shi ta xiang zhi ke	172
+尽态极妍	jin tai ji yan	57
+晋太元中	jin tai yuan zhong	513
+晋陶渊明独爱菊	jin tao yuan ming du ai ju	416
+金玉满堂	jin yu man tang	2136
+进止难期	jin zhi nan qi	1056
+今兹捧袂	jin zi peng mei	132
+景春曰	jing chun yue	316
+荆棘生焉	jing ji sheng yan	1830
+鲸鲵踊而夹毂	jing ni yong er jia gu	1040
+旌旗蔽空	jing qi bi kong	561
+静胜热	jing sheng re	1630
+经通谷	jing tong gu	1170
+静为躁君	jing wei zao jun	1893
+静影沉璧	jing ying chen bi	715
+精之至也	jing zhi zhi ye	1509
+九层之台起于累土	jiu ceng zhi tai qi yu lei tu	1386
+九黎	jiu li	961
+咎莫大于欲得	jiu mo da yu yu de	1623
+举宠为督	ju chong wei du	907
+具答之	ju da zhi	478
+举酒属客	ju jiu shu ke	607
+居庙堂之高则忧其民	ju miao tang zhi gao ze you qi min	702
+举匏樽以相属	ju pao zun yi xiang zhu	553
+居善地	ju shan di	2149
+惧斯灵之我欺	ju si ling zhi wo qi	1089
+居天下之广居	ju tian xia zhi guang ju	296
+俱为一体	ju wei yi ti	938
+菊之爱	ju zhi ai	401
+攫鸟不搏	jue niao bu bo	1512
+绝巧弃利	jue qiao qi li	2005
+绝仁弃义	jue ren qi yi	2007
+绝圣弃智	jue sheng qi zhi	2009
+绝学无忧	jue xue wu you	1999
+觉宇宙之无穷	jue yu zhou zhi wu qiong	182
+俊采星驰	jun cai xing chi	246
+君子好逑	jun zi hao qiu	832
+君子居则贵左	jun zi ju ze gui zuo	1816
+开其兑	kai qi dui	1558
+开元盛世	kai yuan sheng shi	982
+开张圣听	kai zhang sheng ting	945
+开妆镜也	kai zhuang jing ye	69
+抗罗袂以掩涕兮	kang luo mei yi yan ti xi	1030
+抗琼珶以和予兮	kang qiong ti yi he yu xi	1092
+康熙	kang xi	987
+可爱者甚蕃	ke ai zhe shen fan	417
+可怜焦土	ke lian jiao tu	14
+可名为大	ke ming wei da	1768
+刻唐贤今人诗赋	ke tang xian jin ren shi fu	759
+客喜而笑	ke xi er xiao	521
+可以长久	ke yi chang jiu	1639
+可以调素琴	ke yi tiao su qin	428
+可以为师矣	ke yi wei shi yi	376
+可以为天地母	ke yi wei tian di mu	1911
+客亦知夫水与月乎	ke yi zhi fu shui yu yue hu	543
+客有吹洞箫者	ke you chui dong xiao zhe	586
+可远观而不可亵玩焉	ke yuan guan er bu ke xie wan yan	407
+客曰	ke yue	574
+孔德之容	kong de zhi rong	1971
+空乏其身	kong fa qi shen	275
+控蛮荆而引瓯越	kong man jing er yin ou yue	252
+空余报国之情	kong yu bao guo zhi qing	147
+孔子云	kong zi yun	422
+扣舷而歌之	kou xian er ge zhi	592
+跨者不行	kua zhe bu xing	1925
+况吾与子渔樵于江渚之上	kuang wu yu zi yu qiao yu jiang zhu zhi shang	556
+旷兮其若谷	kuang xi qi ruo gu	2051
+困于心	kun yu xin	269
+揽騑辔以抗策	lan fei pei yi kang ce	1008
+兰亭已矣	lan ting yi yi	123
+览物之情	lan wu zhi qing	743
+琅琊也	lang ya ye	686
+廊腰缦回	lang yao man hui	97
+老当益壮	lao dang yi zhuang	158
+劳其筋骨	lao qi jin gu	277
+老子	lao zi	2161
+乐国乐国	le guo yue guo	787
+乐郊乐郊	le jiao le jiao	782
+乐其俗	le qi su	1199
+乐土乐土	le tu le tu	792
+乐亦在其中矣	le yi zai qi zhong yi	363
+乐与饵	le yu er	1762
+儽儽兮若无所归	lei lei xi ruo wu suo gui	1986
+泪流襟之浪浪	lei liu jin zhi lang lang	1029
+雷霆乍惊	lei ting zha jing	62
+嫘祖	lei zu	966
+李广难封	li guang nan feng	165
+骊山北构而西折	li shan bei gou er xi zhe	103
+立天下之正位	li tian xia zhi zheng wei	295
+廉而不刿	lian er bu gui	1458
+连月不开	lian yue bu kai	740
+莲之爱	lian zhi ai	399
+良实	liang shi	923
+潦水尽而寒潭清	liao shui jin er han tan qing	225
+列冈峦之体势	lie gang luan zhi ti shi	212
+临崩寄臣	lin beng ji chen	871
+临表涕零	lin biao ti ling	839
+临别赠言	lin bie zeng yan	121
+临帝子之长洲	lin di zi zhi chang zhou	221
+邻国相望	lin guo xiang wang	1198
+林汉达	lin han da	1005
+林壑尤美	lin he you mei	688
+林尽水源	lin jin shui yuan	501
+临溪而渔	lin xi er yu	646
+凌波微步	ling bo wei bu	1060
+陵景山	ling jing shan	1169
+令人心发狂	ling ren xin fa kuang	2100
+令人行妨	ling ren xing fang	2098
+凌万顷之茫然	ling wan qing zhi mang ran	598
+令我忘餐	ling wo wang can	1049
+六龙俨其齐首	liu long yan qi qi shou	1042
+流眄乎洛川	liu mian hu luo chuan	1163
+六亲不和	liu qin bu he	2013
+流入宫墙	liu ru gong qiang	100
+六十而耳顺	liu shi er er shun	380
+六王毕	liu wang bi	109
+飂兮若无止	liu xi ruo wu zhi	1976
+刘禹锡	liu yu xi	439
+龙光射牛斗之墟	long guang she niu dou zhi xu	250
+陋室铭	lou shi ming	440
+路出名区	lu chu ming qu	230
+庐陵欧阳修也	lu ling ou yang xiu ye	615
+辘辘远听	lu lu yuan ting	60
+陆行不遇兕虎	lu xing bu yu si hu	1585
+乱世	luan shi	885
+论语	lun yu	395
+珞珞如石	luo luo ru shi	1692
+洛神赋	luo shen fu	1184
+罗袜生尘	luo wa sheng chen	1059
+落霞与孤鹜齐飞	luo xia yu gu wu qi fei	201
+落英缤纷	luo ying bin fen	505
+率妻子邑人来此绝境	lv qi zi yi ren lai ci jue jing	472
+闾阎扑地	lv yan pu di	207
+侣鱼虾而友麋鹿	lv yu xia er you mi lu	555
+绿云扰扰	lv yun rao rao	68
+缦立远视	man li yuan shi	56
+满目萧然	man mu xiao ran	728
+美其服	mei qi fu	1201
+美行可以加人	mei xing ke yi jia ren	1417
+美言不信	mei yan bu xin	1194
+美言可以市尊	mei yan ke yi shi zun	1418
+媚于语言	mei yu yu yan	1117
+孟尝高洁	meng chang gao jie	148
+猛兽不据	meng shou bu ju	1513
+孟学士之词宗	meng xue shi zhi ci zong	234
+孟子	meng zi	348
+孟子曰	meng zi yue	310
+米粟非不多也	mi su fei bu duo ye	334
+绵绵若存	mian mian ruo cun	2154
+渺沧海之一粟	miao cang hai zhi yi su	551
+渺渺兮予怀	miao miao xi yu huai	588
+灭六国者六国也	mie liu guo zhe liu guo ye	13
+民不畏死	min bu wei si	1274
+民不畏威	min bu wei wei	1293
+民复孝慈	min fu xiao ci	2006
+民利百倍	min li bai bei	2008
+民莫之令而自均	min mo zhi ling er zi jun	1790
+民之从事	min zhi cong shi	1384
+民之饥	min zhi ji	1263
+民至老死不相往来	min zhi lao si bu xiang wang lai	1196
+民之难治	min zhi nan zhi	1371
+民之轻死	min zhi qing si	1258
+明白四达	ming bai si da	2120
+命俦啸侣	ming chou xiao lv	1073
+明道若昧	ming dao ruo mei	1682
+明眸善睐	ming mou shan lai	1122
+命仆夫而就驾	ming pu fu er jiu jia	1010
+鸣声上下	ming sheng shang xia	625
+命途多舛	ming tu duo chuan	167
+明星荧荧	ming xing ying ying	70
+名亦既有	ming yi ji you	1788
+鸣玉鸾以偕逝	ming yu luan yi xie shi	1043
+名与身孰亲	ming yu shen shu qin	1646
+名曰宓妃	ming yue mi fei	1177
+名之者谁	ming zhi zhe shui	676
+莫能行	mo neng xing	1309
+没身不殆	mo shen bu dai	2027
+秣驷乎芝田	mo si hu zhi tian	1165
+莫我肯德	mo wo ken de	789
+莫我肯顾	mo wo ken gu	795
+莫我肯劳	mo wo ken lao	784
+莫之能守	mo zhi neng shou	2135
+莫知其极可以有国	mo zhi qi ji ke yi you guo	1449
+牡丹	mu dan	404
+牡丹之爱	mu dan zhi ai	397
+暮而归	mu er gui	656
+木强则折	mu jiang ze zhe	1246
+母命之	mu ming zhi	304
+目吴会于云间	mu wu hui yu yun jian	178
+目遇之而成色	mu yu zhi er cheng se	526
+慕宗悫之长风	mu zong que zhi chang feng	139
+乃不知有汉	nai bu zhi you han	468
+乃重修岳阳楼	nai chong xiu yue yang lou	761
+乃大惊	nai da jing	480
+奈何取之尽锱铢	nai he qu zhi jin zi zhu	35
+奈何万乘之主	nai he wan sheng zhi zhu	1889
+奈何以死惧之	nai he yi si ju zhi	1273
+乃援御者而告之曰	nai yuan yu zhe er gao zhi yue	1156
+难得之货	nan de zhi huo	2099
+南方已定	nan fang yi ding	863
+南极潇湘	nan ji xiao xiang	746
+男女衣着	nan nv yi zhuo	485
+南阳刘子骥	nan yang liu zi ji	447
+南阳诸葛庐	nan yang zhu ge lu	424
+内外异法	nei wai yi fa	929
+能如婴儿乎	neng ru ying er hu	2127
+能为雌乎	neng wei ci hu	2121
+能无疵乎	neng wu ci hu	2125
+能无离乎	neng wu li hu	2129
+能无为乎	neng wu wei hu	2123
+能无知乎	neng wu zhi hu	2119
+能知古始	neng zhi gu shi	2063
+辇来于秦	nian lai yu qin	73
+酿泉为酒	niang quan wei jiu	644
+酿泉也	niang quan ye	682
+宁移白首之心	ning yi bai shou zhi xin	157
+秾纤得衷	nong xian de zhong	1134
+女娲	nv wa	975
+女娲补天	nv wa bu tian	1003
+女娲清歌	nv wa qing ge	1045
+女子之嫁也	nv zi zhi jia ye	305
+欧阳修	ou yang xiu	691
+徘徊于斗牛之间	pai huai yu dou niu zhi jian	602
+盘古	pan gu	976
+盘古开天地	pan gu kai tian di	1004
+盘盘焉	pan pan yan	93
+譬道之在天下	pi dao zhi zai tian xia	1785
+匹夫不可夺志也	pi fu bu ke duo zhi ye	352
+披罗衣之璀粲兮	pi luo yi zhi cui can xi	1114
+披绣闼	pi xiu ta	211
+偏将军居左	pian jiang jun ju zuo	1803
+翩若惊鸿	pian ruo jing hong	1144
+偏私	pian si	930
+飘忽若神	piao hu ruo shen	1061
+剽掠其人	piao lue qi ren	48
+飘飘乎如遗世独立	piao piao hu ru yi shi du li	595
+飘飖兮若流风之回雪	piao yao xi ruo liu feng zhi hui xue	1139
+牝常以静胜牡	pin chang yi jing sheng mu	1433
+贫贱不能移	pin jian bu neng yi	289
+萍水相逢	ping shui xiang feng	173
+迫而察之	po er cha zhi	1136
+朴散则为器	pu san ze wei qi	1854
+其安易持	qi an yi chi	1393
+其必曰先天下之忧而忧	qi bi yue xian tian xia zhi you er you	697
+岂不诚大丈夫哉	qi bu cheng da zhang fu zai	313
+其不善者而改之	qi bu shan zhe er gai zhi	357
+其不欲见贤	qi bu yu jian xian	1231
+其出弥远	qi chu mi yuan	1619
+齐楚之精英	qi chu zhi jing ying	50
+其次亲而誉之	qi ci qin er yu zhi	2025
+其次畏之	qi ci wei zhi	2024
+其次侮之	qi ci wu zhi	2023
+其脆易泮	qi cui yi pan	1391
+其德乃长	qi de nai chang	1527
+其德乃丰	qi de nai feng	1525
+其德乃普	qi de nai pu	1523
+其德乃余	qi de nai yu	1529
+其德乃真	qi de nai zhen	1531
+岂乏明时	qi fa ming shi	161
+奇服旷世	qi fu kuang shi	1116
+泣孤舟之嫠妇	qi gu zhou zhi li fu	578
+其鬼不神	qi gui bu shen	1443
+棨戟遥临	qi ji yao lin	242
+其精甚真	qi jing shen zhen	1961
+其可左右	qi ke zuo you	1774
+七里之郭	qi li zhi guo	343
+气凌彭泽之樽	qi ling peng ze zhi zun	190
+其民淳淳	qi min chun chun	1470
+其民缺缺	qi min que que	1468
+其名不去	qi ming bu qu	1958
+其日固久	qi ri gu jiu	1460
+气若幽兰	qi ruo you lan	1051
+其上不皦	qi shang bu jiao	2074
+其神不伤人	qi shen bu shang ren	1441
+其声呜呜然	qi sheng wu wu ran	584
+七十而从心所欲	qi shi er cong xin suo yu	379
+其事好还	qi shi hao hai	1832
+其死也坚强	qi si ye jian qiang	1252
+其死也枯槁	qi si ye ku gao	1250
+其微易散	qi wei yi san	1390
+其未兆易谋	qi wei zhao yi mou	1392
+其无正也	qi wu zheng ye	1464
+奇物滋起	qi wu zi qi	1479
+其西南诸峰	qi xi nan zhu feng	689
+其喜洋洋者矣	qi xi yang yang zhe yi	709
+其下不昧	qi xia bu mei	2073
+气象万千	qi xiang wan qian	750
+岂效穷途之哭	qi xiao qiong tu zhi ku	145
+其形也	qi xing ye	1145
+岂虚言哉	qi xu yan zai	1941
+其叶蓁蓁	qi ye zhen zhen	773
+其用不弊	qi yong bu bi	1637
+其用不穷	qi yong bu qiong	1635
+七月既望	qi yue ji wang	611
+其在道也	qi zai dao ye	1920
+企者不立	qi zhe bu li	1926
+其政察察	qi zheng cha cha	1469
+其政闷闷	qi zheng men men	1471
+弃掷逦迤	qi zhi li yi	42
+其知弥少	qi zhi mi shao	1618
+弃脂水也	qi zhi shui ye	65
+其致之也	qi zhi zhi ye	1706
+其中往来种作	qi zhong wang lai zhong zuo	486
+其中有精	qi zhong you jing	1962
+其中有物	qi zhong you wu	1964
+其中有象	qi zhong you xiang	1966
+其中有信	qi zhong you xin	1960
+其状若何	qi zhuang ruo he	1148
+起坐而喧哗者	qi zuo er xuan hua zhe	634
+前赤壁赋	qian chi bi fu	614
+铅华弗御	qian hua fu yu	1127
+迁客骚人	qian ke sao ren	745
+千里逢迎	qian li feng ying	237
+千里之行始于足下	qian li zhi xing shi yu zu xia	1385
+乾隆	qian long	986
+阡陌交通	qian mo jiao tong	488
+前人之述备矣	qian ren zhi shu bei yi	748
+前识者	qian shi zhe	1718
+千万人之心也	qian wan ren zhi xin ye	38
+前者呼	qian zhe hu	651
+强大处下	qiang da chu xia	1245
+强梁者不得其死	qiang liang zhe bu de qi si	1655
+樯倾楫摧	qiang qing ji cui	734
+强为之名曰大	qiang wei zhi ming yue da	1908
+羌习礼而明诗	qiang xi li er ming shi	1093
+强行者有志	qiang xing zhe you zhi	1778
+强字之曰道	qiang zi zhi yue dao	1909
+且夫天地之间	qie fu tian di zhi jian	533
+妾妇之道也	qie fu zhi dao ye	297
+切问而近思	qie wen er jin si	350
+秦爱纷奢	qin ai fen she	37
+秦风	qin feng	819
+亲戚畔之	qin qi pan zhi	324
+秦人不暇自哀	qin ren bu xia zi ai	4
+秦人视之	qin ren shi zhi	41
+琴瑟友之	qin se you zhi	823
+秦始皇	qin shi huang	993
+亲贤臣	qin xian chen	903
+亲之信之	qin zhi xin zhi	891
+轻敌几丧吾宝	qing di ji sang wu bao	1315
+清风徐来	qing feng xu lai	609
+清静为天下正	qing jing wei tian xia zheng	1629
+庆历四年	qing li si nian	767
+青雀黄龙之舳	qing que huang long zhi zhu	204
+请洒潘江	qing sa pan jiang	113
+倾颓	qing tui	898
+轻则失根	qing ze shi gen	1887
+穷岛屿之萦回	qiong dao yu zhi ying hui	214
+穷睇眄于中天	qiong di mian yu zhong tian	185
+穷且益坚	qiong qie yi jian	156
+秋水共长天一色	qiu shui gong chang tian yi se	200
+求之不得	qiu zhi bu de	828
+驱驰	qu chi	877
+曲肱而枕之	qu gong er zhen zhi	364
+屈贾谊于长沙	qu jia yi yu chang sha	164
+去奢	qu she	1836
+去泰	qu tai	1835
+取天下常以无事	qu tian xia chang yi wu shi	1609
+曲则全	qu ze quan	1954
+取之无禁	qu zhi wu jin	525
+全乃天	quan nai tian	2030
+泉香而酒洌	quan xiang er jiu lie	643
+却走马以粪	que zou ma yi fen	1627
+囷囷焉	qun qun yan	92
+然而不胜者	ran er bu sheng zhe	339
+然而禽鸟知山林之乐	ran er qin niao zhi shan lin zhi le	623
+然后乃至大顺	ran hou nai zhi da shun	1363
+然后能改	ran hou neng gai	270
+然后知生于忧患而死于安乐也	ran hou zhi sheng yu you huan er si yu an le ye	260
+然则北通巫峡	ran ze bei tong wu xia	747
+然则何时而乐耶	ran ze he shi er le ye	698
+然则君王所见	ran ze jun wang suo jian	1150
+攘除奸凶	rang chu jian xiong	858
+攘皓腕于神浒兮	rang hao wan yu shen hu xi	1102
+攘无臂	rang wu bi	1319
+人不堪其忧	ren bu kan qi you	369
+人不知而不愠	ren bu zhi er bu yun	390
+人多伎巧	ren duo ji qiao	1480
+人多利器	ren duo li qi	1482
+人法地	ren fa di	1898
+人恒过	ren heng guo	271
+人杰地灵	ren jie di ling	249
+壬戌之秋	ren xu zhi qiu	612
+人亦念其家	ren yi nian qi jia	36
+人影散乱	ren ying san luan	628
+仁在其中矣	ren zai qi zhong yi	349
+人之不善	ren zhi bu shan	1416
+人知从太守游而乐	ren zhi cong tai shou you er le	621
+人之道则不然	ren zhi dao ze bu ran	1237
+人之迷	ren zhi mi	1461
+人之生	ren zhi sheng	1591
+人之生也柔弱	ren zhi sheng ye rou ruo	1253
+人之所恶	ren zhi suo e	1662
+人之所教	ren zhi suo jiao	1657
+人之所畏	ren zhi suo wei	1994
+扔无敌	reng wu di	1318
+日既西倾	ri ji xi qing	1168
+日星隐曜	ri xing yin yao	737
+日益骄固	ri yi jiao gu	18
+戎马生于郊	rong ma sheng yu jiao	1625
+容乃公	rong nai gong	2032
+荣曜秋菊	rong yao qiu ju	1142
+容与乎阳林	rong yu hu yang lin	1164
+柔情绰态	rou qing chuo tai	1118
+柔弱处上	rou ruo chu shang	1244
+柔弱胜刚强	rou ruo sheng gang qiang	1746
+柔弱者生之徒	rou ruo zhe sheng zhi tu	1248
+柔之胜刚	rou zhi sheng gang	1226
+如春登台	ru chun deng tai	1989
+入军不被甲兵	ru jun bu bei jia bing	1584
+如泣如诉	ru qi ru su	582
+如享太牢	ru xiang tai lao	1990
+如婴儿之未孩	ru ying er zhi wei hai	1987
+如怨如慕	ru yuan ru mu	583
+入则无法家拂士	ru ze wu fa jia bi shi	263
+阮籍猖狂	ruan ji chang kuang	146
+若此之艳也	ruo ci zhi yan ye	1153
+若夫日出而林霏开	ruo fu ri chu er lin fei kai	666
+若夫淫雨霏霏	ruo fu yin yu fei fei	741
+若将飞而未翔	ruo jiang fei er wei xiang	1079
+若可寄天下	ruo ke ji tian xia	2082
+若可托天下	ruo ke tuo tian xia	2080
+若使民常畏死	ruo shi min chang wei si	1272
+若往若还	ruo wang ruo hai	1055
+若危若安	ruo wei ruo an	1057
+若肖久矣其细也夫	ruo xiao jiu yi qi xi ye fu	1348
+弱者道之用	ruo zhe dao zhi yong	1690
+弱之胜强	ruo zhi sheng qiang	1227
+塞其兑	sai qi dui	1561
+三顾臣	san gu chen	881
+三皇五帝	san huang wu di	1000
+三军可夺帅也	san jun ke duo shuai ye	353
+三里之城	san li zhi cheng	344
+三人行	san ren xing	360
+三生万物	san sheng wan wu	1665
+三十而立	san shi er li	383
+三十辐共一毂	san shi fu gong yi gu	2113
+三十六年	san shi liu nian	53
+三岁贯女	san sui guan nv	796
+三曰不敢为天下先	san yue bu gan wei tian xia xian	1343
+桑榆非晚	sang yu fei wan	149
+沙鸥翔集	sha ou xiang ji	722
+杀人之众	sha ren zhi zhong	1800
+善抱者不脱	shan bao zhe bu tuo	1534
+善闭无关楗而不可开	shan bi wu guan jian er bu ke kai	1882
+山不在高	shan bu zai gao	438
+山川相缪	shan chuan xiang miu	568
+善复为妖	shan fu wei yao	1462
+善建者不拔	shan jian zhe bu ba	1535
+山间之四时也	shan jian zhi si shi ye	658
+山间之朝暮也	shan jian zhi zhao mu ye	663
+善结无绳约而不可解	shan jie wu sheng yue er bu ke jie	1881
+禅让	shan rang	959
+善人之宝	shan ren zhi bao	1420
+善胜敌者不与	shan sheng di zhe bu yu	1328
+善数不用筹策	shan shu bu yong chou ce	1883
+山水之乐	shan shui zhi le	668
+善为士者不武	shan wei shi zhe bu wu	1330
+山行六七里	shan xing liu qi li	685
+善行无辙迹	shan xing wu zhe ji	1885
+善言无瑕谪	shan yan wu xia zhe	1884
+山肴野蔌	shan yao ye su	642
+善用人者为之下	shan yong ren zhe wei zhi xia	1327
+善有果而已	shan you guo er yi	1827
+山有小口	shan you xiao kou	499
+山原旷其盈视	shan yuan kuang qi ying shi	209
+山岳潜形	shan yue qian xing	736
+善战者不怒	shan zhan zhe bu nu	1329
+善者不辩	shan zhe bu bian	1193
+善者吾善之	shan zhe wu shan zhi	1604
+山之僧智仙也	shan zhi seng zhi xian ye	677
+善之与恶	shan zhi yu e	1996
+商朝	shang chao	996
+上出重霄	shang chu chong xiao	218
+上德不德	shang de bu de	1735
+上德若谷	shang de ruo gu	1679
+上德无为而无以为	shang de wu wei er wu yi wei	1731
+上将军居右	shang jiang jun ju you	1802
+上礼为之而莫之应	shang li wei zhi er mo zhi ying	1727
+商旅不行	shang lv bu xing	735
+上仁为之而无以为	shang ren wei zhi er wu yi wei	1729
+上善若水	shang shan ruo shui	2151
+上士闻道勤而行之	shang shi wen dao qin er xing zhi	1687
+上下天光	shang xia tian guang	724
+上下五千年	shang xia wu qian nian	1006
+伤先帝之明	shang xian di zhi ming	866
+尚矣	shang yi	1300
+上义为之而有以为	shang yi wei zhi er you yi wei	1728
+少私寡欲	shao si gua yu	2000
+少焉	shao yan	604
+少则得	shao ze de	1950
+舍后且先	she hou qie xian	1336
+舍俭且广	she jian qie guang	1337
+设酒杀鸡作食	she jiu sha ji zuo shi	476
+舍簪笏于百龄	she zan hu yu bai ling	138
+射者中	she zhe zhong	637
+甚爱必大费	shen ai bi da fei	1643
+深不可识	shen bu ke shi	2059
+神得一以灵	shen de yi yi ling	1710
+神光离合	shen guang li he	1082
+申礼防以自持	shen li fang yi zi chi	1085
+神农	shen nong	970
+深入不毛	shen ru bu mao	864
+神无以灵将恐歇	shen wu yi ling jiang kong xie	1703
+甚易行	shen yi xing	1311
+身与货孰多	shen yu huo shu duo	1645
+慎终如始	shen zhong ru shi	1382
+深追先帝遗诏	shen zhui xian di yi zhao	842
+声哀厉而弥长	sheng ai li er mi chang	1075
+胜地不常	sheng di bu chang	125
+声断衡阳之浦	sheng duan heng yang zhi pu	196
+胜而不美	sheng er bu mei	1810
+生而不有	sheng er bu you	2117
+圣人不病	sheng ren bu bing	1297
+圣人不积	sheng ren bu ji	1189
+圣人皆孩之	sheng ren jie hai zhi	1595
+圣人无常心	sheng ren wu chang xin	1606
+圣人亦不伤人	sheng ren yi bu shang ren	1439
+圣人用之	sheng ren yong zhi	1853
+圣人在天下歙歙焉	sheng ren zai tian xia she she yan	1598
+胜人者有力	sheng ren zhe you li	1781
+圣人之道为而不争	sheng ren zhi dao wei er bu zheng	1185
+绳绳不可名	sheng sheng bu ke ming	2072
+盛筵难再	sheng yan nan zai	124
+胜友如云	sheng you ru yun	238
+生于忧患死于安乐	sheng yu you huan si yu an le	286
+生之畜之	sheng zhi chu zhi	2118
+生之徒十有三	sheng zhi tu shi you san	1593
+适彼乐国	shi bi le guo	788
+适彼乐郊	shi bi le jiao	783
+适彼乐土	shi bi le tu	793
+十步一阁	shi bu yi ge	98
+势成之	shi cheng zhi	1576
+失道者寡助	shi dao zhe gua zhu	326
+失德而后仁	shi de er hou ren	1724
+是地利不如人和也	shi di li bu ru ren he ye	332
+使负栋之柱	shi fu dong zhi zhu	33
+逝将去女	shi jiang qu nv	794
+是进亦忧	shi jin yi you	700
+诗经	shi jing	771
+酾酒临江	shi jiu lin jiang	560
+侍郎	shi lang	927
+是乐杀人	shi le sha ren	1808
+使六国各爱其人	shi liu guo ge ai qi ren	9
+时六年九月十五日	shi liu nian jiu yue shi wu ri	693
+使民复结绳而用之	shi min fu jie sheng er yong zhi	1203
+使民重死而不远徙	shi min zhong si er bu yuan xi	1208
+使秦复爱六国之人	shi qin fu ai liu guo zhi ren	7
+失仁而后义	shi ren er hou yi	1723
+世人甚爱牡丹	shi ren shen ai mu dan	414
+事善能	shi shan neng	2144
+是所望于群公	shi suo wang yu qun gong	118
+是天时不如地利也	shi tian shi bu ru di li ye	338
+使天下之人	shi tian xia zhi ren	21
+是谓不道	shi wei bu dao	1819
+是谓不争之德	shi wei bu zheng zhi de	1326
+是谓宠辱若惊	shi wei chong ru ruo jing	2089
+是谓代大匠斫	shi wei dai da jiang zhuo	1266
+是谓道纪	shi wei dao ji	2062
+是为盗夸	shi wei dao kua	1537
+是谓复命	shi wei fu ming	2037
+是谓惚恍	shi wei hu huang	2068
+时维九月	shi wei jiu yue	227
+是谓配天古之极	shi wei pei tian gu zhi ji	1324
+是谓社稷主	shi wei she ji zhu	1222
+是谓深根固柢	shi wei shen gen gu di	1447
+是谓天地根	shi wei tian di gen	2155
+是为天下王	shi wei tian xia wang	1220
+是谓微明	shi wei wei ming	1747
+是谓无状之状	shi wei wu zhuang zhi zhuang	2070
+是为袭常	shi wei xi chang	1550
+是谓袭明	shi wei xi ming	1876
+是谓行无行	shi wei xing wu xing	1320
+是谓玄德	shi wei xuan de	2114
+是谓玄牝	shi wei xuan pin	2157
+是谓玄同	shi wei xuan tong	1496
+是谓要妙	shi wei yao miao	1870
+是谓用人之力	shi wei yong ren zhi li	1325
+是谓早服	shi wei zao fu	1453
+侍卫之臣	shi wei zhi chen	949
+使我介然有知	shi wo jie ran you zhi	1549
+事无大小	shi wu da xiao	918
+事无事	shi wu shi	1406
+是贤于贵生	shi xian yu gui sheng	1254
+施行	shi xing	916
+十旬休假	shi xun xiu jia	239
+是焉得为大丈夫乎	shi yan de wei da zhang fu hu	309
+是以兵强则灭	shi yi bing qiang ze mie	1247
+是以不病	shi yi bu bing	1294
+是以不我知	shi yi bu wo zhi	1305
+是以不厌	shi yi bu yan	1288
+是以大丈夫处其厚不居其薄	shi yi da zhang fu chu qi hou bu ju qi bo	1715
+失义而后礼	shi yi er hou li	1722
+是以侯王自称孤寡不谷	shi yi hou wang zi cheng gu gua bu gu	1697
+是以饥	shi yi ji	1261
+是以君子终日行不离辎重	shi yi jun zi zhong ri xing bu li zi zhong	1892
+是以难治	shi yi nan zhi	1259
+是以轻死	shi yi qing si	1256
+是以圣人抱一为天下式	shi yi sheng ren bao yi wei tian xia shi	1948
+是以圣人被褐而怀玉	shi yi sheng ren bei he er huai yu	1302
+是以圣人不行而知	shi yi sheng ren bu xing er zhi	1617
+是以圣人常善救人	shi yi sheng ren chang shan jiu ren	1880
+是以圣人处上而民不重	shi yi sheng ren chu shang er min bu zhong	1355
+是以圣人方而不割	shi yi sheng ren fang er bu ge	1459
+是以圣人去甚	shi yi sheng ren qu shen	1837
+是以圣人为而不恃	shi yi sheng ren wei er bu shi	1233
+是以圣人为腹不为目	shi yi sheng ren wei fu bu wei mu	2097
+是以圣人无为故无败	shi yi sheng ren wu wei gu wu bai	1843
+是以圣人犹难之	shi yi sheng ren you nan zhi	1395
+是以圣人欲不欲	shi yi sheng ren yu bu yu	1380
+是以圣人欲上民	shi yi sheng ren yu shang min	1359
+是以圣人云	shi yi sheng ren yun	1224
+是以圣人执左契	shi yi sheng ren zhi zuo qi	1216
+是以圣人终不为大	shi yi sheng ren zhong bu wei da	1398
+是以圣人自知不自见	shi yi sheng ren zi zhi bu zi jian	1287
+是以天下乐推而不厌	shi yi tian xia le tui er bu yan	1353
+是以万物莫不尊道而贵德	shi yi wan wu mo bu zun dao er gui de	1575
+是以无德	shi yi wu de	1732
+是以有德	shi yi you de	1734
+识盈虚之有数	shi ying xu zhi you shu	180
+事有君	shi you jun	1307
+使有什伯之器而不用	shi you shen bo zhi qi er bu yong	1209
+逝曰远	shi yue yuan	1906
+时运不齐	shi yun bu qi	168
+是造物者之无尽藏也	shi zao wu zhe zhi wu jin cang ye	523
+逝者如斯	shi zhe ru si	542
+逝者如斯夫	shi zhe ru si fu	355
+失者同于失	shi zhe tong yu shi	1930
+视之不见名曰夷	shi zhi bu jian ming yue yi	2079
+视之不足见	shi zhi bu zu jian	1758
+失之若惊	shi zhi ruo jing	2090
+师之所处	shi zhi suo chu	1831
+始制有名	shi zhi you ming	1789
+侍中	shi zhong	928
+侍中尚书	shi zhong shang shu	895
+受国不祥	shou guo bu xiang	1221
+受国之垢	shou guo zhi gou	1223
+收和颜而静志兮	shou he yan er jing zhi xi	1086
+守静笃	shou jing du	2043
+受命以来	shou ming yi lai	869
+守其雌	shou qi ci	1868
+守其黑	shou qi hei	1863
+守其辱	shou qi ru	1858
+受任于败军之际	shou ren yu bai jun zhi ji	875
+守柔曰强	shou rou yue qiang	1554
+疏而不失	shu er bu shi	1275
+孰敢	shu gan	1269
+庶竭驽钝	shu jie nu dun	859
+输来其间	shu lai qi jian	45
+树林阴翳	shu lin yin yi	626
+孰能安以动之徐生	shu neng an yi dong zhi xu sheng	2048
+孰能有余以奉天下	shu neng you yu yi feng tian xia	1235
+孰能浊以静之徐清	shu neng zhuo yi jing zhi xu qing	2049
+蜀山兀	shu shan wu	107
+孰为此者	shu wei ci zhe	1936
+梳晓鬟也	shu xiao huan ye	67
+殊遇	shu yu	947
+属予作文以记之	shu yu zuo wen yi ji zhi	758
+孰知其故	shu zhi qi gu	1281
+孰知其极	shu zhi qi ji	1465
+戍卒叫	shu zu jiao	17
+爽籁发而清风生	shuang lai fa er qing feng sheng	193
+谁悲失路之人	shui bei shi lu zhi ren	174
+水波不兴	shui bo bu xing	608
+水不在深	shui bu zai shen	436
+谁得而族灭也	shui de er zu mie ye	5
+水光接天	shui guang jie tian	600
+水陆草木之花	shui lu cao mu zhi hua	418
+水落而石出者	shui luo er shi chu zhe	659
+水禽翔而为卫	shui qin xiang er wei wei	1039
+水善利万物而不争	shui shan li wan wu er bu zheng	2150
+谁之永号	shui zhi yong hao	781
+舜发于畎亩之中	shun fa yu quan mu zhi zhong	285
+顺流而东也	shun liu er dong ye	563
+说如此	shuo ru ci	452
+硕鼠	shuo shu	800
+硕鼠硕鼠	shuo shu shuo shu	798
+丝绸之路	si chou zhi lu	984
+四大发明	si da fa ming	985
+死而不亡者寿	si er bu wang zhe shou	1776
+思而不学则殆	si er bu xue ze dai	374
+四海一	si hai yi	108
+四美具	si mei ju	187
+思绵绵而增慕	si mian mian er zeng mu	1013
+四十而不惑	si shi er bu huo	382
+斯是陋室	si shi lou shi	434
+四时之景不同	si shi zhi jing bu tong	655
+斯水之神	si shui zhi shen	1178
+兕无所投其角	si wu suo tou qi jiao	1583
+死矣	si yi	1335
+四韵俱成	si yun ju cheng	114
+死之徒十有三	si zhi tu shi you san	1592
+诵明月之诗	song ming yue zhi shi	606
+竦轻躯以鹤立	song qing qu yi he li	1080
+宋太祖	song tai zu	990
+溯洄从之	su hui cong zhi	814
+俗人察察	su ren cha cha	1979
+俗人昭昭	su ren zhao zhao	1981
+苏轼	su shi	613
+夙夜忧叹	su ye you tan	868
+溯游从之	su you cong zhi	812
+苏子愀然	su zi qiao ran	577
+苏子与客泛舟游于赤壁之下	su zi yu ke fan zhou you yu chi bi zhi xia	610
+苏子曰	su zi yue	544
+遂迷	sui mi	449
+虽潜处于太阴	sui qian chu yu tai yin	1024
+燧人	sui ren	968
+虽小	sui xiao	1796
+虽一毫而莫取	sui yi hao er mo qu	530
+虽有拱璧以先驷马	sui you gong bi yi xian si ma	1412
+虽有甲兵	sui you jia bing	1205
+虽有荣观	sui you rong guan	1891
+虽有舟舆	sui you zhou yu	1207
+遂与外人间隔	sui yu wai ren jian ge	470
+睢园绿竹	sui yuan lv zhu	191
+随之不见其后	sui zhi bu jian qi hou	2066
+虽智大迷	sui zhi da mi	1871
+遂作斯赋	sui zuo si fu	1175
+损不足以奉有余	sun bu zu yi feng you yu	1236
+孙叔敖举于海	sun shu ao ju yu hai	281
+损之又损	sun zhi you sun	1612
+所赖君子见机	suo lai jun zi jian ji	160
+所谓伊人	suo wei yi ren	816
+所以动心忍性	suo yi dong xin ren xing	273
+他日趋庭	ta ri qu ting	134
+苔痕上阶绿	tai hen shang jie lv	432
+台隍枕夷夏之交	tai huang zhen yi xia zhi jiao	245
+太上下知有之	tai shang xia zhi you zhi	2026
+太守归而宾客从也	tai shou gui er bin ke cong ye	627
+太守即遣人随其往	tai shou ji qian ren sui qi wang	451
+太守谓谁	tai shou wei shui	616
+太守宴也	tai shou yan ye	640
+太守也	tai shou ye	617
+太守与客来饮于此	tai shou yu ke lai yin yu ci	674
+太守自谓也	tai shou zi wei ye	675
+太守醉也	tai shou zui ye	630
+叹匏瓜之无匹兮	tan pao gua zhi wu pi xi	1066
+叹息痛恨	tan xi tong hen	897
+谈笑有鸿儒	tan xiao you hong ru	430
+唐太宗	tang tai zong	991
+陶后鲜有闻	tao hou xian you wen	400
+桃花源记	tao hua yuan ji	515
+桃夭	tao yao	780
+陶渊明	tao yuan ming	514
+讨贼兴复	tao zei xing fu	851
+桃之夭夭	tao zhi yao yao	779
+腾蛟起凤	teng jiao qi feng	235
+滕王阁序	teng wang ge xu	259
+腾文鱼以警乘	teng wen yu yi jing cheng	1044
+滕子京	teng zi jing	766
+体迅飞凫	ti xun fei fu	1062
+天长地久	tian chang di jiu	2152
+天大	tian da	1903
+恬淡为上	tian dan wei shang	1811
+天道无亲	tian dao wu qin	1212
+天得一以清	tian de yi yi qing	1712
+天地	tian di	1935
+天地尚不能久	tian di shang bu neng jiu	1934
+天地相合	tian di xiang he	1792
+天法道	tian fa dao	1896
+天高地迥	tian gao di jiong	183
+天将救之	tian jiang jiu zhi	1332
+天门开阖	tian men kai he	2122
+天乃道	tian nai dao	2029
+田甚芜	tian shen wu	1543
+天时不如地利	tian shi bu ru di li	346
+天网恢恢	tian wang hui hui	1276
+天下大事必作于细	tian xia da shi bi zuo yu xi	1399
+天下多忌讳	tian xia duo ji hui	1484
+天下将自正	tian xia jiang zi zheng	1736
+天下皆谓我道大似不肖	tian xia jie wei wo dao da si bu xiao	1351
+天下莫不知	tian xia mo bu zhi	1225
+天下莫能臣也	tian xia mo neng chen ye	1795
+天下莫能知	tian xia mo neng zhi	1310
+天下莫柔弱于水	tian xia mo rou ruo yu shui	1230
+天下难事必作于易	tian xia nan shi bi zuo yu yi	1400
+天下三分	tian xia san fen	952
+天下神器	tian xia shen qi	1848
+天下顺之	tian xia shun zhi	322
+天下万物生于有	tian xia wan wu sheng yu you	1689
+天下无道	tian xia wu dao	1626
+天下希及之	tian xia xi ji zhi	1647
+天下有道	tian xia you dao	1628
+天下有始	tian xia you shi	1567
+天下之交	tian xia zhi jiao	1435
+天下之牝	tian xia zhi pin	1434
+天下之至柔	tian xia zhi zhi rou	1653
+天之道	tian zhi dao	2131
+天之道不争而善胜	tian zhi dao bu zheng er shan sheng	1280
+天之道利而不害	tian zhi dao li er bu hai	1186
+天之道其犹张弓与	tian zhi dao qi you zhang gong yu	1243
+天之道损有余而补不足	tian zhi dao sun you yu er bu bu zu	1238
+天之所恶	tian zhi suo e	1282
+天柱高而北辰远	tian zhu gao er bei chen yuan	176
+停数日	ting shu ri	462
+亭亭净植	ting ting jing zhi	408
+听之不闻名曰希	ting zhi bu wen ming yue xi	2078
+听之不足闻	ting zhi bu zu wen	1757
+亭之毒之	ting zhi du zhi	1569
+同其尘	tong qi chen	1497
+同于道者道亦乐得之	tong yu dao zhe dao yi le de zhi	1929
+同于德者德亦乐得之	tong yu de zhe de yi le de zhi	1928
+同于失者失亦乐得之	tong yu shi zhe shi yi le de zhi	1927
+同予者何人	tong yu zhe he ren	398
+童子何知	tong zi he zhi	229
+土地平旷	tu di ping kuang	491
+图难于其易	tu nan yu qi yi	1402
+颓然乎其间者	tui ran hu qi jian zhe	631
+退亦忧	tui yi you	699
+吞长江	tun chang jiang	754
+托付不效	tuo fu bu xiao	867
+托微波而通辞	tuo wei bo er tong ci	1097
+托遗响于悲风	tuo yi xiang yu bei feng	545
+瓦缝参差	wa feng cen ci	27
+洼则盈	wa ze ying	1952
+婉若游龙	wan ruo you long	1143
+万物并作	wan wu bing zuo	2042
+万物得一以生	wan wu de yi yi sheng	1708
+万物负阴而抱阳	wan wu fu yin er bao yang	1664
+万物归焉而不为主	wan wu gui yan er bu wei zhu	1769
+万物将自宾	wan wu jiang zi bin	1793
+万物将自化	wan wu jiang zi hua	1742
+万物恃之以生而不辞	wan wu shi zhi yi sheng er bu ci	1773
+万物无以生将恐灭	wan wu wu yi sheng jiang kong mie	1701
+宛在水中坻	wan zai shui zhong di	806
+宛在水中央	wan zai shui zhong yang	811
+宛在水中沚	wan zai shui zhong zhi	801
+王勃	wang bo	258
+望长安于日下	wang chang an yu ri xia	179
+往而不害	wang er bu hai	1764
+王将军之武库	wang jiang jun zhi wu ku	232
+往来而不绝者	wang lai er bu jue zhe	648
+往来无白丁	wang lai wu bai ding	429
+忘路之远近	wang lu zhi yuan jin	510
+望美人兮天一方	wang mei ren xi tian yi fang	587
+往送之门	wang song zhi men	303
+王亦大	wang yi da	1901
+枉则直	wang ze zhi	1953
+往之女家	wang zhi nv jia	301
+望之蔚然而深秀者	wang zhi wei ran er shen xiu zhe	687
+妄自菲薄	wang zi fei bo	942
+王子皇孙	wang zi huang sun	75
+为大于其细	wei da yu qi xi	1401
+为道日损	wei dao ri sun	1613
+惟道是从	wei dao shi cong	1970
+为而不恃	wei er bu shi	2116
+委而去之	wei er qu zhi	333
+魏风	wei feng	799
+唯孤寡不谷	wei gu gua bu gu	1661
+未果	wei guo	443
+惟恍惟惚	wei huang wei hu	1968
+危急存亡之秋	wei ji cun wang zhi qiu	950
+惟江上之清风	wei jiang shang zhi qing feng	529
+渭流涨腻	wei liu zhang ni	66
+微妙玄通	wei miao xuan tong	2060
+为秦宫人	wei qin gong ren	71
+为人谋而不忠乎	wei ren mou er bu zhong hu	387
+唯施是畏	wei shi shi wei	1547
+微斯人	wei si ren	695
+谓天无以清将恐裂	wei tian wu yi qing jiang kong lie	1705
+威天下不以兵革之利	wei tian xia bu yi bing ge zhi li	328
+为天下谷	wei tian xia gu	1857
+为天下浑其心	wei tian xia hun qi xin	1597
+为天下式	wei tian xia shi	1862
+为天下溪	wei tian xia xi	1867
+威武不能屈	wei wu bu neng qu	288
+惟吾德馨	wei wu de xin	433
+为无为	wei wu wei	1407
+味无味	wei wu wei	1405
+为吾有身	wei wu you shen	2086
+为学日益	wei xue ri yi	1614
+唯有道者	wei you dao zhe	1234
+微幽兰之芳蔼兮	wei you lan zhi fang ai xi	1108
+未云何龙	wei yun he long	88
+为者败之	wei zhe bai zhi	1845
+谓之不道	wei zhi bu dao	1503
+未知牝牡之合而朘作	wei zhi pin mu zhi he er juan zuo	1510
+唯之与阿	wei zhi yu a	1998
+为之于未有	wei zhi yu wei you	1389
+猥自枉屈	wei zi wang qu	882
+闻达于诸侯	wen da yu zhu hou	884
+温故而知新	wen gu er zhi xin	377
+问今是何世	wen jin shi he shi	469
+文景之治	wen jing zhi zhi	981
+问所从来	wen suo cong lai	479
+闻之	wen zhi	445
+我独泊兮其未兆	wo du bo xi qi wei zhao	1988
+我独昏昏	wo du hun hun	1980
+我独闷闷	wo du men men	1978
+我独异于人	wo du yi yu ren	1973
+我好静而民自正	wo hao jing er min zi zheng	1474
+我无事而民自富	wo wu shi er min zi fu	1473
+我无为而民自化	wo wu wei er min zi hua	1475
+我无欲而民自朴	wo wu yu er min zi pu	1472
+我亦教之	wo yi jiao zhi	1656
+我有三宝	wo you san bao	1347
+我愚人之心也哉	wo yu ren zhi xin ye zai	1983
+无案牍之劳形	wu an du zhi lao xing	425
+吾不敢为主而为客	wu bu gan wei zhu er wei ke	1322
+无不克则莫知其极	wu bu ke ze mo zhi qi ji	1450
+五步一楼	wu bu yi lou	99
+吾不知其名	wu bu zhi qi ming	1910
+无德司彻	wu de si che	1213
+吾得执而杀之	wu de zhi er sha zhi	1270
+舞殿冷袖	wu dian leng xiu	81
+物各有主	wu ge you zhu	532
+吾何以知其然哉	wu he yi zhi qi ran zai	1485
+吾何以知天下然哉	wu he yi zhi tian xia ran zai	1517
+吾何以知众甫之状哉	wu he yi zhi zhong fu zhi zhuang zai	1956
+呜呼	wu hu	126
+物华天宝	wu hua tian bao	251
+物或恶之	wu huo e zhi	1918
+吾见其不得已	wu jian qi bu de yi	1849
+吾将归乎东路	wu jiang gui hu dong lu	1009
+吾将以为教父	wu jiang yi wei jiao fu	1654
+吾将镇之以无名之朴	wu jiang zhen zhi yi wu ming zhi pu	1740
+无良媒以接欢兮	wu liang mei yi jie huan xi	1098
+武陵人捕鱼为业	wu ling ren bu yu wei ye	512
+无路请缨	wu lu qing ying	142
+无论魏晋	wu lun wei jin	467
+寤寐求之	wu mei qiu zhi	829
+寤寐思服	wu mei si fu	827
+无乃是乎	wu nai shi hu	1149
+乌鹊南飞	wu que nan fei	572
+吾日三省吾身	wu ri san xing wu shen	388
+五色令人目盲	wu se ling ren mu mang	2104
+屋舍俨然	wu she yan ran	490
+五十而知天命	wu shi er zhi tian ming	381
+无食我麦	wu shi wo mai	790
+无食我苗	wu shi wo miao	785
+无食我黍	wu shi wo shu	797
+吾是以知无为之有益	wu shi yi zhi wu wei zhi you yi	1650
+吾十有五而志于学	wu shi you wu er zhi yu xue	384
+吾谁与归	wu shui yu gui	694
+无丝竹之乱耳	wu si zhu zhi luan er	426
+无所陈之	wu suo chen zhi	1204
+无所乘之	wu suo cheng zhi	1206
+吾所以有大患者	wu suo yi you da huan zhe	2087
+无为而无不为	wu wei er wu bu wei	1610
+无违夫子	wu wei fu zi	299
+五味令人口爽	wu wei ling ren kou shuang	2102
+无微情以效爱兮	wu wei qing yi xiao ai xi	1026
+无为之益	wu wei zhi yi	1648
+无物之象	wu wu zhi xiang	2069
+无狎其所居	wu xia qi suo ju	1291
+物形之	wu xing zhi	1577
+无厌其所生	wu yan qi suo sheng	1290
+吾言甚易知	wu yan shen yi zhi	1312
+吾以观复	wu yi guan fu	2041
+无遗身殃	wu yi shen yang	1551
+五音令人耳聋	wu yin ling ren er long	2103
+吾有何患	wu you he huan	2084
+舞幽壑之潜蛟	wu you he zhi qian jiao	579
+无有入无间	wu you ru wu jian	1651
+五月渡泸	wu yue du lu	865
+无执故无失	wu zhi gu wu shi	1842
+无之以为用	wu zhi yi wei yong	2105
+物壮则老	wu zhuang ze lao	1820
+昔日	xi ri	910
+悉如外人	xi ru wai ren	484
+溪深而鱼肥	xi shen er yu fei	645
+西蜀子云亭	xi shu zi yun ting	423
+喜托龙门	xi tuo long men	131
+西望夏口	xi wang xia kou	570
+希言自然	xi yan zi ran	1939
+徙倚彷徨	xi yi pang huang	1083
+悉以咨之	xi yi zi zhi	917
+希有不伤其手矣	xi you bu shang qi shou yi	1264
+洗盏更酌	xi zhan geng zhuo	520
+昔之得一者	xi zhi de yi zhe	1713
+夏朝	xia chao	997
+下德不失德	xia de bu shi de	1733
+下德无为而有以为	xia de wu wei er you yi wei	1730
+下江陵	xia jiang ling	564
+下临无地	xia lin wu di	216
+下士闻道大笑之	xia shi wen dao da xiao zhi	1685
+下者举之	xia zhe ju zhi	1241
+羡长江之无穷	xian chang jiang zhi wu qiong	549
+先帝创业未半	xian di chuang ye wei ban	954
+纤歌凝而白云遏	xian ge ning er bai yun e	192
+先汉	xian han	901
+献江南之明珰	xian jiang nan zhi ming dang	1025
+咸来问讯	xian lai wen xun	474
+见素抱朴	xian su bao pu	2001
+先天地生	xian tian de sheng	1915
+衔远山	xian yuan shan	755
+贤哉回也	xian zai hui ye	373
+响穷彭蠡之滨	xiang qiong peng li zhi bin	198
+相去几何	xiang qu ji he	1997
+相去若何	xiang qu ruo he	1995
+相与枕藉乎舟中	xiang yu zhen jie hu zhou zhong	517
+香远益清	xiang yuan yi qing	409
+晓畅军事	xiao chang jun shi	911
+小国不过欲入事人	xiao guo bu guo yu ru shi ren	1424
+小国寡民	xiao guo gua min	1210
+小国以下大国	xiao guo yi xia da guo	1429
+挟飞仙以遨游	xie fei xian yi ao you	548
+携汉滨之游女	xie han bin zhi you nv	1067
+信不足焉	xin bu zu yan	2022
+欣然规往	xin ran gui wang	444
+心善渊	xin shan yuan	2148
+心使气曰强	xin shi qi yue qiang	1504
+信言不美	xin yan bu mei	1195
+信者吾信之	xin zhe wu xin zhi	1601
+心振荡而不怡	xin zhen dang er bu yi	1099
+幸承恩于伟饯	xing cheng en yu wei jian	120
+兴德之言	xing de zhi yan	848
+星分翼轸	xing fen yi zhen	255
+兴复汉室	xing fu han shi	857
+行拂乱其所为	xing fu luan qi suo wei	274
+兴尽悲来	xing jin bei lai	181
+兴隆	xing long	900
+醒能述以文者	xing neng shu yi wen zhe	618
+刑赏	xing shang	932
+行天下之大道	xing tian xia zhi da dao	294
+性行淑均	xing xing shu jun	912
+行于大道	xing yu da dao	1548
+行者休于树	xing zhe xiu yu shu	652
+凶事尚右	xiong shi shang you	1804
+雄州雾列	xiong zhou wu lie	247
+修短合度	xiu duan he du	1133
+修眉联娟	xiu mei lian juan	1125
+修之于邦	xiu zhi yu bang	1526
+修之于家	xiu zhi yu jia	1530
+修之于身	xiu zhi yu shen	1532
+修之于天下	xiu zhi yu tian xia	1524
+修之于乡	xiu zhi yu xiang	1528
+徐孺下陈蕃之榻	xu ru xia chen fan zhi ta	248
+序属三秋	xu shu san qiu	226
+玄德深矣远矣	xuan de shen yi yuan yi	1365
+玄牝之门	xuan pin zhi men	2156
+轩辕	xuan yuan	971
+玄之又玄	xuan zhi you xuan	2160
+学不学	xue bu xue	1378
+学而不思则罔	xue er bu si ze wang	375
+学而时习之	xue er shi xi zhi	394
+寻病终	xun bing zhong	442
+寻向所志	xun xiang suo zhi	450
+俨骖騑于上路	yan can fei yu shang lu	223
+燕处超然	yan chu chao ran	1890
+炎帝	yan di	972
+烟光凝而暮山紫	yan guang ning er mu shan zi	224
+言归东藩	yan gui dong fan	1173
+宴酣之乐	yan han zhi le	639
+炎黄子孙	yan huang zi sun	1001
+延颈秀项	yan jing xiu xiang	1130
+言善信	yan shan xin	2146
+俨兮其若客	yan xi qi ruo ke	2054
+烟斜雾横	yan xie wu heng	64
+檐牙高啄	yan ya gao zhuo	96
+言以丧礼处之	yan yi sang li chu zhi	1801
+厌饮食	yan yin shi	1539
+言有宗	yan you zong	1308
+燕赵之收藏	yan zhao zhi shou cang	52
+言者不知	yan zhe bu zhi	1501
+雁阵惊寒	yan zhen jing han	197
+埏埴以为器	yan zhi yi wei qi	2110
+扬轻袿之猗靡兮	yang qing gui zhi yi mi xi	1064
+杨意不逢	yang yi bu feng	130
+仰以殊观	yang yi shu guan	1159
+养之覆之	yang zhi fu zhi	1568
+杳不知其所之也	yao bu zhi qi suo zhi ye	59
+肴核既尽	yao he ji jin	519
+遥襟甫畅	yao jin fu chang	195
+腰如约素	yao ru yue su	1131
+尧舜	yao shun	960
+尧舜禅让	yao shun shan rang	999
+窈窕淑女	yao tiao shu nv	833
+窈兮冥兮	yao xi ming xi	1963
+野芳发而幽香	ye fang fa er you xiang	662
+靥辅承权	ye fu cheng quan	1121
+夜耿耿而不寐	ye geng geng er bu mei	1012
+邺水朱华	ye shui zhu hua	189
+曳雾绡之轻裾	ye wu xiao zhi qing ju	1109
+以遨以嬉	yi ao yi xi	1105
+以百姓心为心	yi bai xing xin wei xin	1605
+以邦观邦	yi bang guan bang	1519
+以悲哀泣之	yi bei ai qi zhi	1799
+一碧万顷	yi bi wan qing	723
+遗陛下	yi bi xia	920
+亦不甚惜	yi bu shen xi	40
+以此	yi ci	1955
+以慈卫之	yi ci wei zhi	1331
+一旦不能有	yi dan bu neng you	46
+一箪食	yi dan shi	372
+以道莅天下	yi dao li tian xia	1444
+夷道若颣	yi dao ruo lei	1680
+以道佐人主者	yi dao zuo ren zhu zhe	1834
+倚叠如山	yi die ru shan	47
+已而夕阳在山	yi er xi yang zai shan	629
+以辅万物之自然	yi fu wan wu zhi zi ran	1376
+倚歌而和之	yi ge er he zhi	585
+一宫之间	yi gong zhi jian	78
+宜乎众矣	yi hu zhong yi	396
+一肌一容	yi ji yi rong	58
+以家观家	yi jia guan jia	1521
+以降甘露	yi jiang gan lu	1791
+一介书生	yi jie shu sheng	143
+仪静体闲	yi jing ti xian	1119
+以静为下	yi jing wei xia	1432
+一怒而诸侯惧	yi nu er zhu hou ju	312
+一瓢饮	yi piao yin	371
+以其病病	yi qi bing bing	1296
+以其不争	yi qi bu zheng	1352
+宜其家人	yi qi jia ren	772
+宜其家室	yi qi jia shi	774
+以其善下之	yi qi shan xia zhi	1361
+以其上求生之厚	yi qi shang qiu sheng zhi hou	1257
+以其上食税之多	yi qi shang shi shui zhi duo	1262
+以其上之有为	yi qi shang zhi you wei	1260
+以其生生之厚	yi qi sheng sheng zhi hou	1587
+宜其室家	yi qi shi jia	776
+以其无死地	yi qi wu si di	1580
+以其无以易之	yi qi wu yi yi zhi	1228
+以奇用兵	yi qi yong bing	1487
+以其智多	yi qi zhi duo	1370
+以其终不自为大	yi qi zhong bu zi wei da	1767
+遗情想像	yi qing xiang xiang	1018
+一人之心	yi ren zhi xin	39
+一日之内	yi ri zhi nei	79
+一生二	yi sheng er	1667
+益生曰祥	yi sheng yue xiang	1505
+亦使后人而复哀后人也	yi shi hou ren er fu ai hou ren ye	1
+亦十有三	yi shi you san	1589
+以守则固	yi shou ze gu	1333
+以顺为正者	yi shun wei zheng zhe	298
+诣太守	yi tai shou	453
+以天下观天下	yi tian xia guan tian xia	1518
+以天下之所顺	yi tian xia zhi suo shun	321
+以为天下母	yi wei tian xia mu	1566
+以无事取天下	yi wu shi qu tian xia	1486
+以乡观乡	yi xiang guan xiang	1520
+逸兴遄飞	yi xing chuan fei	194
+翳修袖以延伫	yi xiu xiu yi yan zhu	1063
+一言均赋	yi yan jun fu	115
+衣养万物而不为主	yi yang wan wu er bu wei zhu	1771
+以御今之有	yi yu jin zhi you	2064
+一曰慈	yi yue ci	1345
+以阅众甫	yi yue zhong fu	1957
+弈者胜	yi zhe sheng	636
+以正治国	yi zheng zhi guo	1488
+以知其子	yi zhi qi zi	1564
+以至于无为	yi zhi yu wu wei	1611
+益州疲弊	yi zhou pi bi	951
+阴风怒号	yin feng nu hao	739
+饮少辄醉	yin shao zhe zui	673
+引喻失义	yin yu shi yi	941
+盈虚者如彼	ying xu zhe ru bi	540
+迎之不见其首	ying zhi bu jian qi shou	2067
+营中之事	ying zhong zhi shi	906
+用兵有言	yong bing you yan	1323
+用兵则贵右	yong bing ze gui you	1815
+用其光	yong qi guang	1553
+咏牵牛之独处	yong qian niu zhi du chu	1065
+勇于不敢则活	yong yu bu gan ze huo	1284
+勇于敢则杀	yong yu gan ze sha	1285
+用之不竭	yong zhi bu jie	524
+用之不勤	yong zhi bu qin	2153
+用之不足既	yong zhi bu zu ji	1756
+用之如泥沙	yong zhi ru ni sha	34
+有不见者	you bu jian zhe	54
+有不信焉	you bu xin yan	2021
+忧谗畏讥	you chan wei ji	729
+有巢	you chao	967
+有车之用	you che zhi yong	2111
+犹川谷之于江海	you chuan gu zhi yu jiang hai	1784
+有大伪	you da wei	2014
+有德司契	you de si qi	1214
+有蕡其实	you fen qi shi	775
+有国之母可以长久	you guo zhi mu ke yi chang jiu	1448
+有怀投笔	you huai tou bi	140
+有良田美池桑竹之属	you liang tian mei chi sang zhu zhi shu	489
+优劣得所	you lie de suo	904
+有龙则灵	you long ze ling	435
+有朋自远方来	you peng zi yuan fang lai	392
+有器之用	you qi zhi yong	2109
+游人去而禽鸟乐也	you ren qu er qin niao le ye	624
+有仁义	you ren yi	2016
+有生于无	you sheng yu wu	1688
+有室之用	you shi zhi yong	2107
+有司	you si	933
+有亭翼然临于泉上者	you ting yi ran lin yu quan shang zhe	680
+有物混成	you wu hun cheng	1916
+悠兮其贵言	you xi qi gui yan	2020
+犹兮若畏四邻	you xi ruo wei si lin	2055
+有仙则名	you xian ze ming	437
+有孝慈	you xiao ci	2012
+右荫桂旗	you yin gui qi	1103
+有余者损之	you yu zhe sun zhi	1240
+悠哉悠哉	you zai you zai	826
+攸之祎允	you zhi yi yun	852
+有忠臣	you zhong chen	2010
+有罪以免邪	you zui yi mian xie	1408
+鱼不可脱于渊	yu bu ke tuo yu yuan	1745
+予尝求古仁人之心	yu chang qiu gu ren ren zhi xin	707
+余朝京师	yu chao jing shi	1181
+余从京域	yu cong jing yu	1174
+予独爱莲之出淤泥而不染	yu du ai lian zhi chu yu ni er bu ran	413
+余告之曰	yu gao zhi yue	1146
+渔歌互答	yu ge hu da	714
+予观夫巴陵胜状	yu guan fu ba ling sheng zhuang	757
+郁乎苍苍	yu hu cang cang	567
+羽化而登仙	yu hua er deng xian	594
+伛偻提携	yu lv ti xie	649
+域民不以封疆之界	yu min bu yi feng jiang zhi jie	330
+与民由之	yu min you zhi	292
+与朋友交而不信乎	yu peng you jiao er bu xin hu	386
+余情悦其淑美兮	yu qing yue qi shu mei xi	1100
+御轻舟而上溯	yu qing zhou er shang su	1015
+欲穷其林	yu qiong qi lin	502
+余人各复延至其家	yu ren ge fu yan zhi qi jia	464
+渔人甚异之	yu ren shen yi zhi	504
+与山间之明月	yu shan jian zhi ming yue	528
+与善仁	yu shan ren	2147
+于是背下陵高	yu shi bei xia ling gao	1020
+于是忽焉纵体	yu shi hu yan zong ti	1106
+于是精移神骇	yu shi jing yi shen hai	1162
+于是洛灵感焉	yu shi luo ling gan yan	1084
+于是屏翳收风	yu shi ping yi shou feng	1048
+于是饮酒乐甚	yu shi yin jiu le shen	593
+于是越北沚	yu shi yue bei zhi	1038
+纡素领	yu su ling	1036
+予谓菊	yu wei ju	406
+宇文新州之懿范	yu wen xin zhou zhi yi fan	241
+于我如浮云	yu wo ru fu yun	361
+与物反矣	yu wu fan yi	1364
+豫兮若冬涉川	yu xi ruo dong she chuan	2056
+欲先民	yu xian min	1357
+于岩之畔	yu yan zhi pan	1157
+愚以为	yu yi wei	919
+余音袅袅	yu yin niao niao	581
+郁郁青青	yu yu qing qing	719
+豫章故郡	yu zhang gu jun	257
+御者对曰	yu zhe dui yue	1152
+域中有四大	yu zhong you si da	1900
+渔舟唱晚	yu zhou chang wan	199
+愿诚素之先达兮	yuan cheng su zhi xian da xi	1096
+爰得我所	yuan de wo suo	791
+爰得我直	yuan de wo zhi	786
+远而望之	yuan er wang zhi	1138
+怨盛年之莫当	yuan sheng nian zhi mo dang	1031
+缘溪行	yuan xi xing	511
+远小人	yuan xiao ren	902
+远曰反	yuan yue fan	1905
+月出于东山之上	yue chu yu dong shan zhi shang	603
+越轘辕	yue huan yuan	1171
+阅金经	yue jin jing	427
+越明年	yue ming nian	764
+月明星稀	yue ming xing xi	573
+岳阳楼记	yue yang lou ji	769
+曰余食赘行	yue yu shi zhui xing	1919
+云归而岩穴暝	yun gui er yan xue ming	665
+云髻峨峨	yun ji e e	1126
+云销雨霁	yun xiao yu ji	203
+杂然而前陈者	za ran er qian chen zhe	641
+在洞庭一湖	zai dong ting yi hu	756
+在河之洲	zai he zhi zhou	834
+在乎山水之间也	zai hu shan shui zhi jian ye	669
+在陋巷	zai lou xiang	370
+在水一方	zai shui yi fang	815
+在水之湄	zai shui zhi mei	808
+在水之涘	zai shui zhi si	803
+载营魄抱一	zai ying po bao yi	2130
+载云车之容裔	zai yun che zhi rong yi	1041
+早服谓之重积德	zao fu wei zhi zhong ji de	1452
+凿户牖以为室	zao hu you yi wei shi	2108
+躁胜寒	zao sheng han	1631
+躁则失君	zao ze shi jun	1886
+造字	zao zi	964
+则不可得志于天下矣	ze bu ke de zhi yu tian xia yi	1806
+则大威至	ze da wei zhi	1292
+则递三世可至万世而为君	ze di san shi ke zhi wan shi er wei jun	6
+择其善者而从之	ze qi shan zhe er cong zhi	358
+则取大国	ze qu da guo	1428
+则取小国	ze qu xiao guo	1430
+则攘臂而扔之	ze rang bi er reng zhi	1726
+则天地曾不能以一瞬	ze tian di ceng bu neng yi yi shun	537
+则为官长	ze wei guan zhang	1852
+则我者贵	ze wo zhe gui	1303
+则无败事	ze wu bai shi	1381
+则物与我皆无尽也	ze wu yu wo jie wu jin ye	535
+则有去国怀乡	ze you qu guo huai xiang	730
+则有心旷神怡	ze you xin kuang shen yi	712
+责攸之祎允	ze you zhi yi yun	847
+则足以拒秦	ze zu yi ju qin	8
+增其旧制	zeng qi jiu zhi	760
+乍阴乍阳	zha yin zha yang	1081
+战必胜矣	zhan bi sheng yi	318
+沾繁霜而至曙	zhan fan shuang er zhi shu	1011
+战胜以丧礼处之	zhan sheng yi sang li chu zhi	1798
+辗转反侧	zhan zhuan fan ce	825
+丈夫之冠也	zhang fu zhi guan ye	307
+彰其咎	zhang qi jiu	846
+长史	zhang shi	894
+张仪	zhang yi	314
+昭陛下平明之理	zhao bi xia ping ming zhi li	931
+朝歌夜弦	zhao ge ye xian	72
+朝晖夕阴	zhao hui xi yin	751
+谪守巴陵郡	zhe shou ba ling jun	765
+贞观之治	zhen guan zhi zhi	983
+贞良死节	zhen liang si jie	892
+镇之以无名之朴	zhen zhi yi wu ming zhi pu	1739
+斟酌损益	zhen zhuo sun yi	854
+正复为奇	zheng fu wei qi	1463
+正襟危坐而问客曰	zheng jin wei zuo er wen ke yue	576
+政善治	zheng shan zhi	2145
+政通人和	zheng tong ren he	763
+正言若反	zheng yan ruo fan	1219
+征于色	zheng yu se	266
+知不可乎骤得	zhi bu ke hu zhou de	546
+知不知	zhi bu zhi	1301
+知常容	zhi chang rong	2033
+知常曰明	zhi chang yue ming	2035
+治臣之罪	zhi chen zhi zui	850
+知此两者亦稽式	zhi ci liang zhe yi ji shi	1367
+治大国若烹小鲜	zhi da guo ruo peng xiao xian	1445
+执大象天下往	zhi da xiang tian xia wang	1765
+直而不肆	zhi er bu si	1457
+陟罚臧否	zhi fa zang pi	937
+职分	zhi fen	855
+执古之道	zhi gu zhi dao	2065
+知和曰常	zhi he yue chang	1506
+智慧出	zhi hui chu	2015
+执眷眷之款实兮	zhi juan juan zhi kuan shi xi	1090
+直栏横槛	zhi lan heng kan	25
+志虑忠纯	zhi lv zhong chun	922
+知其白	zhi qi bai	1864
+知其荣	zhi qi rong	1859
+知其雄	zhi qi xiong	1869
+指潜渊而为期	zhi qian yuan er wei qi	1091
+治人事天莫若啬	zhi ren shi tian mo ruo se	1455
+知人者智	zhi ren zhe zhi	1783
+至若春和景明	zhi ruo chun he jing ming	726
+置三公	zhi san gong	1413
+治水	zhi shui	957
+知我者希	zhi wo zhe xi	1304
+执无兵	zhi wu bing	1317
+致虚极	zhi xu ji	2044
+至于负者歌于途	zhi yu fu zhe ge yu tu	653
+知者不博	zhi zhe bu bo	1191
+知者不言	zhi zhe bu yan	1502
+执者失之	zhi zhe shi zhi	1844
+质真若渝	zhi zhen ruo yu	1675
+知止不殆	zhi zhi bu dai	1640
+知止可以不殆	zhi zhi ke yi bu dai	1786
+治之于未乱	zhi zhi yu wei luan	1388
+知之者不如好之者	zhi zhi zhe bu ru hao zhi zhe	367
+之子于归	zhi zi yu gui	777
+直走咸阳	zhi zou xian yang	102
+知足者富	zhi zu zhe fu	1779
+众宾欢也	zhong bin huan ye	633
+中道崩殂	zhong dao beng cu	953
+钟鼓乐之	zhong gu le zhi	821
+重积德则无不克	zhong ji de ze wu bu ke	1451
+忠谏之路	zhong jian zhi lu	940
+众妙之门	zhong miao zhi men	2159
+钟鸣鼎食之家	zhong ming ding shi zhi jia	206
+钟期既遇	zhong qi ji yu	128
+众人皆有以	zhong ren jie you yi	1975
+众人皆有余	zhong ren jie you yu	1985
+众人熙熙	zhong ren xi xi	1991
+终日号而不嗄	zhong ri hao er bu a	1508
+忠善	zhong shan	934
+终身不救	zhong shen bu jiu	1556
+终身不勤	zhong shen bu qin	1559
+中士闻道若存若亡	zhong shi wen dao ruo cun ruo wang	1686
+中通外直	zhong tong wai zhi	411
+重为轻根	zhong wei qing gen	1894
+中无杂树	zhong wu za shu	507
+忠信之薄	zhong xin zhi bo	1720
+众议	zhong yi	908
+忠志之士	zhong zhi zhi shi	948
+周朝	zhou chao	995
+周敦颐	zhou dun yi	419
+周行而不殆	zhou hang er bu dai	1912
+周南	zhou nan	836
+骤雨不终日	zhou yu bu zhong ri	1937
+诸葛亮	zhu ge liang	955
+舳舻千里	zhu lu qian li	562
+朱元璋	zhu yuan zhang	988
+转眄流精	zhuan mian liu jing	1054
+专气致柔	zhuan qi zhi rou	2128
+缀明珠以耀躯	zhui ming zhu yi yao qu	1111
+浊浪排空	zhuo lang pai kong	738
+涿鹿	zhuo lu	963
+濯清涟而不妖	zhuo qing lian er bu yao	412
+灼若芙蕖出渌波	zhuo ruo fu qu chu lu bo	1135
+酌贪泉而觉爽	zhuo tan quan er jue shuang	154
+灼灼其华	zhuo zhuo qi hua	778
+自爱不自贵	zi ai bu zi gui	1286
+紫电青霜	zi dian qing shuang	233
+自伐者无功	zi fa zhe wu gong	1922
+自见者不明	zi jian zhe bu ming	1924
+自今及古	zi jin ji gu	1959
+自矜者不长	zi jin zhe bu chang	1921
+自李唐来	zi li tang lai	415
+自谋	zi mou	845
+自其不变者而观之	zi qi bu bian zhe er guan zhi	536
+自胜者强	zi sheng zhe qiang	1780
+自是者不彰	zi shi zhe bu zhang	1923
+子孙以祭祀不辍	zi sun yi ji si bu chuo	1533
+子未学礼乎	zi wei xue li hu	308
+自遗其咎	zi yi qi jiu	2133
+自云先世避秦时乱	zi yun xian shi bi qin shi luan	473
+子在川上曰	zi zai chuan shang yue	356
+梓泽丘墟	zi ze qiu xu	122
+自知者明	zi zhi zhe ming	1782
+咨诹善道	zi zou shan dao	844
+纵一苇之所如	zong yi wei zhi suo ru	599
+奏流水以何惭	zou liu shui yi he can	127
+族秦者秦也	zu qin zhe qin ye	11
+足往神留	zu wang shen liu	1019
+醉能同其乐	zui neng tong qi le	619
+醉翁亭记	zui weng ting ji	692
+醉翁亭也	zui weng ting ye	679
+醉翁之意不在酒	zui weng zhi yi bu zai jiu	670
+作奸犯科	zuo jian fan ke	935
+作亭者谁	zuo ting zhe shui	678
+左倚采旄	zuo yi cai mao	1104
+左右采之	zuo you cai zhi	824
+左右流之	zuo you liu zhi	830
+左右芼之	zuo you mao zhi	822

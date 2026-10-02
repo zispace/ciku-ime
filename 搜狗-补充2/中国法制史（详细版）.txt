@@ -1,0 +1,674 @@
+# 词库名称: 中国法制史（详细版）
+# 词库分类: 法律
+# 词库描述: 中国法制史详细版，词条数近700条，几乎按照历史纪年时间顺序展开，不足之处欢迎随时补充
+# 词条样例: 禹刑、汤刑、大辟、五过之疵、九刑
+# 解析词数: 667
+# 解析异常: 0
+
+阿党附益	a dang fu yi	451
+按察使	an cha shi	89
+按察使司	an cha shi si	90
+八辟丽邦法	ba pi li bang fa	576
+八议	ba yi	636
+白粲	bai can	539
+颁行	ban xing	109
+颁行天下	ban xing tian xia	110
+傍章律	bang zhang lv	513
+保辜	bao gu	386
+剥皮实草	bao pi shi cao	119
+保卫局	bao wei ju	11
+北魏律	bei wei lv	487
+背信藏巧	bei xin cang qiao	470
+卑幼	bei you	381
+北镇抚司	bei zhen fu si	79
+本事原志	ben shi yuan zhi	400
+蔽匿盗贼	bi ni dao zei	425
+编敕	bian chi	278
+变法三折	bian fa san zhe	48
+编例	bian li	272
+编纂体例	bian zuan ti li	200
+别推	bie tui	332
+别移	bie yi	331
+宾礼	bin li	578
+舶脚	bo jiao	248
+博戏	bo xi	619
+不道	bu dao	468
+不告归假	bu gao gui jia	429
+不睦	bu mu	192
+不事舅姑	bu shi jiu gu	575
+捕亡	bu wang	208
+布政使	bu zheng shi	91
+布政使司	bu zheng shi si	92
+不直	bu zhi	554
+参知政事	can zhi zheng shi	313
+仓司	cang si	304
+漕司	cao si	309
+曹魏律	cao wei lv	503
+察举	cha ju	414
+察院	cha yuan	369
+厂卫	chang wei	84
+朝律	chao lv	508
+朝审	chao shen	78
+车驾	che jia	233
+臣等起请	chen deng qi qing	280
+陈群	chen qun	476
+城旦	cheng dan	542
+城旦舂	cheng dan chong	541
+城禁	cheng jin	622
+敕令	chi ling	224
+笞刑	chi xing	421
+笞杖徒流死	chi zhang tu liu si	196
+充警迹人	chong jing ji ren	160
+抽分	chou fen	247
+抽肋	chou lei	549
+出举	chu ju	173
+出罪	chu zui	179
+春秋决狱	chun qiu jue yu	516
+辞牒	ci die	226
+辞服	ci fu	401
+辞听	ci ting	650
+刺宥	ci you	584
+存留养亲	cun liu yang qin	357
+大察官	da cha guan	368
+大诰	da gao	122
+大功	da gong	361
+大理寺评事	da li si ping shi	242
+大理寺卿	da li si qing	245
+大理寺少卿	da li si shao qing	244
+大理院	da li yuan	38
+达鲁花赤	da lu hua chi	141
+大明会典	da ming hui dian	117
+大明令	da ming ling	124
+大明律	da ming lv	125
+大明律集解附例	da ming lv ji jie fu li	115
+大辟	da pi	658
+大清会典	da qing hui dian	70
+大清集解附例	da qing ji jie fu li	71
+大审	da shen	77
+大统式	da tong shi	484
+大业律	da ye lv	390
+大元通制	da yuan tong zhi	267
+大扎撒	da zha sa	269
+大中刑律统类	da zhong xing lv tong lei	282
+大周刑统	da zhou xing tong	281
+大宗正府	da zong zheng fu	130
+代首	dai shou	182
+党治	dang zhi	23
+盗徙封	dao xi feng	396
+盗徙封罪	dao xi feng zui	555
+登闻鼓	deng wen gu	354
+登闻鼓直诉制度	deng wen gu zhi su zhi du	353
+邓析	deng xi	602
+低利借贷	di li jie dai	4
+诋欺	di qi	439
+典客	dian ke	529
+典权人	dian quan ren	65
+殿院	dian yuan	370
+殿中侍御史	dian zhong shi yu shi	367
+定杀	ding sha	546
+斗杀	dou sha	387
+斗讼	dou song	211
+督捕司	du bu si	60
+都察院	du cha yuan	95
+读鞫	du ju	518
+杜预	du yu	496
+度支司	du zhi si	320
+独子兼祧	du zi jian tiao	63
+断例	duan li	271
+断狱	duan yu	637
+阿党	e dang	453
+恶逆	e ni	469
+耳听	er ting	647
+法布于众	fa bu yu zhong	566
+法经	fa jing	597
+法例	fa li	492
+法令明审	fa ling ming shen	480
+法律答问	fa lv da wen	564
+法律形式	fa lv xing shi	463
+发遣	fa qian	67
+蕃坊	fan fang	252
+繁简适中	fan jian shi zhong	198
+翻异别推	fan yi bie tui	333
+废格诏书	fei ge zhao shu	437
+非公室告	fei gong shi gao	523
+非眚	fei sheng	605
+非所宜言	fei suo yi yan	394
+剕刑	fei xing	660
+非终	fei zhong	603
+分户令	fen hu ling	613
+分庭	fen ting	3
+分治	fen zhi	157
+奉常	feng chang	534
+奉使无状	feng shi wu zhuang	431
+封守	feng shou	519
+风宪宏纲	feng xian hong gang	136
+风宪衙门	feng xian ya men	86
+奉诏不谨	feng zhao bu jin	430
+封诊式	feng zhen shi	563
+傅别	fu bie	652
+复决	fu jue	28
+副相	fu xiang	316
+赋役	fu yi	101
+附益	fu yi	452
+服制	fu zhi	490
+复奏	fu zou	351
+告缗	gao min	417
+告缗令	gao min ling	507
+告讼	gao song	212
+公侯伯爵	gong hou bo jue	74
+公室告	gong shi gao	524
+宫刑	gong xing	659
+公罪	gong zui	385
+勾决	gou jue	349
+古器	gu qi	102
+固有法	gu you fa	32
+官不为理	guan bu wei li	171
+管事官	guan shi guan	142
+官收官解制	guan shou guan jie zhi	96
+官为理	guan wei li	170
+官制	guan zhi	207
+鬼薪	gui xin	540
+国家政权	guo jia zheng quan	442
+国家政治保卫局	guo jia zheng zhi bao wei ju	12
+亥年新法	hai nian xin fa	326
+汉律六十篇	han lv liu shi pian	459
+和奸	he jian	191
+红泥粉壁	hong ni fen bi	159
+户部司	hu bu si	319
+胡汉民	hu han min	24
+户婚	hu hun	217
+户绝	hu jue	287
+互市监	hu shi jian	251
+户兴厩	hu xing jiu	458
+缓决	huan jue	53
+换推制	huan tui zhi	234
+皇统制	huang tong zhi	324
+会典	hui dian	116
+回赎	hui shu	289
+镬烹	huo peng	548
+极边	ji bian	105
+集解附例	ji jie fu li	114
+吉礼	ji li	581
+籍没	ji mo	392
+继受法	ji shou fa	33
+贾充	jia chong	498
+加等	jia deng	195
+嘉礼	jia li	577
+加役流	jia yi liu	377
+监察御史	jian cha yu shi	238
+奸党	jian dang	106
+奸党罪	jian dang zui	107
+减等	jian deng	194
+谏官	jian guan	296
+建国三时期	jian guo san shi qi	26
+监候	jian hou	69
+贱籍	jian ji	68
+监临	jian lin	186
+建隆新编敕	jian long xin bian chi	277
+奸生子	jian sheng zi	100
+监司	jian si	291
+监所法规	jian suo fa gui	6
+监御史九条	jian yu shi jiu tiao	511
+谏院	jian yuan	294
+见知故纵	jian zhi gu zong	426
+监州	jian zhou	292
+减租减息	jian zu jian xi	5
+匠籍	jiang ji	66
+狡禁	jiao jin	624
+教职	jiao zhi	203
+矫制	jiao zhi	435
+结党	jie dang	450
+借假不廉	jie jia bu lian	615
+解释例	jie shi li	37
+金禁	jin jin	617
+晋律	jin lv	500
+禁榷	jin que	506
+禁杀日	jin sha ri	227
+京朝官	jing chao guan	301
+经略安抚使	jing lue an fu shi	306
+经世大典	jing shi da dian	265
+经义	jing yi	137
+经义取士	jing yi qu shi	138
+纠举	jiu ju	525
+厩库	jiu ku	216
+九刑	jiu xing	655
+九章律	jiu zhang lv	514
+举劾	ju he	403
+举轻以明重	ju qing yi ming zhong	177
+鞫司	ju si	334
+鞫谳分司	ju yan fen si	330
+鞫狱	ju yu	402
+举重以明轻	ju zhong yi ming qing	180
+举奏	ju zou	449
+爵封	jue feng	630
+爵封继承	jue feng ji cheng	629
+决事比	jue shi bi	399
+军爵令	jun jue ling	612
+军礼	jun li	579
+开皇律	kai huang lv	391
+考功司	kao gong si	259
+考课院	kao ke yuan	299
+可矜	ke jin	52
+科举取士	ke ju qu shi	302
+科条简要	ke tiao jian yao	479
+口分田	kou fen tian	376
+口外	kou wai	104
+酷刑其实	ku xing qi shi	339
+亏礼废节	kui li fei jie	467
+阑入	lan ru	432
+阑遗物	lan yi wu	374
+郎中令	lang zhong ling	533
+劳动感化院暂行章程	lao dong gan hua yuan zan xing zhang cheng	7
+老耄	lao mao	590
+劳役刑	lao yi xing	543
+老幼笃疾	lao you du ji	228
+老幼妇残恤刑	lao you fu can xu xing	418
+隶臣	li chen	538
+礼法并用	li fa bing yong	465
+立法机关	li fa ji guan	22
+理藩院	li fan yuan	147
+立功受赏	li gong shou shang	0
+吏户礼兵刑工	li hu li bing xing gong	372
+立继	li ji	286
+李悝	li kui	598
+隶妾	li qie	537
+理刑司	li xing si	55
+里耶秦简	li ye qin jian	557
+理职	li zhi	205
+礼职	li zhi	204
+历纸制	li zhi zhi	298
+两府三司	liang fu san si	322
+良贱相犯依身份论处	liang jian xiang fan yi shen fen lun chu	382
+麟趾格	lin zhi ge	485
+令典	ling dian	123
+六部分篇	liu bu fen pian	264
+流传至今	liu chuan zhi jin	108
+六禁	liu jin	626
+六科给事中	liu ke ji shi zhong	82
+六礼	liu li	583
+刘劭	liu shao	475
+刘颂	liu song	473
+六条问事	liu tiao wen shi	505
+流刑	liu xing	587
+流刑分等	liu xing fen deng	358
+留养承祀	liu yang cheng si	51
+龙香	long xiang	249
+漏泄宫中语	lou xie gong zhong yu	427
+漏泄省中语	lou xie sheng zhong yu	446
+录囚	lu qiu	405
+律博士	lv bo shi	356
+律典	lv dian	489
+律例合编	lv li he bian	39
+律令格式	lv ling ge shi	461
+律令科比	lv ling ke bi	462
+吕刑	lv xing	654
+律学	lv xue	478
+律学家	lv xue jia	477
+律注	lv zhu	491
+马锡五	ma xi wu	2
+茆门法	mao men fa	571
+蒙汉异法	meng han yi fa	158
+民族分治	min zu fen zhi	156
+明大诰	ming da gao	121
+名公书判清明集	ming gong shu pan qing ming ji	328
+命继	ming ji	285
+明经	ming jing	261
+名例律	ming li lv	482
+明神宗	ming shen zong	112
+明武宗	ming wu zong	111
+明刑弼教	ming xing bi jiao	126
+磨勘制	mo kan zhi	297
+墨刑	mo xing	663
+墨劓剕宫大辟	mo yi fei gong da pi	664
+谋大逆	mou da ni	232
+谋叛	mou pan	231
+目听	mu ting	646
+幕友	mu you	50
+纳币	na bi	642
+纳采	na cai	645
+纳吉	na ji	644
+纳征	na zheng	643
+囊扑	nang pu	547
+内法外儒	nei fa wai ru	515
+内乱	nei luan	190
+女徒顾山	nv tu gu shan	422
+殴杀	ou sha	165
+判案	pan an	397
+判决例	pan jue li	21
+裴楷	pei kai	494
+辟举	pi ju	413
+被庐法	pi lu fa	570
+辟书	pi shu	412
+贫雇农	pin gu nong	15
+评事	ping shi	241
+平章事	ping zhang shi	314
+仆区法	pu qu fa	572
+扑刑	pu xing	588
+七出	qi chu	610
+乞鞫	qi ju	517
+欺谩	qi man	440
+弃市	qi shi	550
+齐衰	qi shuai	362
+气听	qi ting	648
+契外掣夺	qi wai che duo	168
+遣刑	qian xing	40
+窃盗	qie dao	188
+钦定宪法大纲	qin ding xian fa da gang	47
+秦律十八种	qin lv shi ba zhong	558
+秦律杂抄	qin lv za chao	559
+亲亲得相守匿	qin qin de xiang shou ni	504
+亲迎	qin ying	640
+轻狡	qing jiao	623
+清吏司	qing li si	62
+请期	qing qi	641
+情实	qing shi	54
+黥刑	qing xing	662
+轻刑其名	qing xing qi ming	340
+情义已绝	qing yi yi jue	166
+秋冬行刑	qiu dong xing xing	406
+秋官大司寇	qiu guan da si kou	355
+秋审	qiu shen	58
+秋审处	qiu shen chu	59
+取精用宏	qu jing yong hong	486
+权能分治	quan neng fen zhi	29
+热审	re shen	75
+任子	ren zi	416
+肉刑	rou xing	545
+入务	ru wu	343
+入罪	ru zui	178
+三不去	san bu qu	609
+三刺	san ci	586
+三法司	san fa si	348
+三风十愆	san feng shi qian	665
+三纲	san gang	464
+三公九卿	san gong jiu qing	535
+三互法	san hu fa	408
+三赦	san she	591
+三司使	san si shi	237
+三司推事	san si tui shi	246
+三宥	san you	585
+色听	se ting	649
+僧录司	seng lu si	131
+陕甘宁边区	shan gan ning bian qu	9
+陕甘宁边区施政纲领	shan gan ning bian qu shi zheng gang ling	10
+擅兴	shan xing	215
+上计律	shang ji lv	409
+上请	shang qing	419
+少府	shao fu	527
+烧埋银	shao mai yin	150
+舍天子而仕诸侯	she tian zi er shi zhu hou	447
+审官院	shen guan yuan	300
+沈家本	shen jia ben	42
+审检合一	shen jian he yi	13
+申明亭	shen ming ting	83
+慎刑司	shen xing si	56
+审刑院	shen xing yuan	347
+市舶	shi bo	255
+市舶使	shi bo shi	254
+市舶提举司	shi bo ti ju si	98
+市舶制度	shi bo zhi du	253
+市丞	shi cheng	256
+失大臣体	shi da chen ti	428
+拾得者	shi de zhe	103
+十恶	shi e	389
+诗赋	shi fu	139
+诗赋取士	shi fu qu shi	140
+事国人过员	shi guo ren guo yuan	441
+释褐试	shi he shi	260
+十九信条	shi jiu xin tiao	44
+失阑	shi lan	433
+市令	shi ling	257
+实物税	shi wu shui	250
+失刑	shi xing	553
+施政纲领	shi zheng gang ling	8
+事职	shi zhi	206
+受财不枉法	shou cai bu wang fa	187
+首恶必办	shou e bi ban	1
+收继婚	shou ji hun	149
+首露	shou lu	181
+受所监临财物罪	shou suo jian lin cai wu zui	185
+属地	shu di	174
+属吏	shu li	411
+枢密使	shu mi shi	312
+枢密院	shu mi yuan	318
+属人	shu ren	176
+属人原则	shu ren yuan ze	175
+叔孙通	shu sun tong	457
+叔向	shu xiang	599
+赎刑	shu xing	589
+帅司	shuai si	307
+司刺	si ci	595
+司法院大法官会议	si fa yuan da fa guan hui yi	20
+司隶校尉	si li xiao wei	407
+缌麻	si ma	359
+私契	si qi	172
+司刑	si xing	596
+死刑复奏	si xing fu zou	350
+司约	si yue	592
+私罪	si zui	384
+宋刑统	song xing tong	284
+肃政廉访使	su zheng lian fang shi	132
+肃政廉访司	su zheng lian fang si	133
+岁课	sui ke	258
+泰和律义	tai he lv yi	327
+台谏合一	tai jian he yi	295
+太平兴国编敕	tai ping xing guo bian chi	276
+太仆	tai pu	531
+泰始律	tai shi lv	499
+太学补官	tai xue bu guan	415
+台院	tai yuan	371
+汤刑	tang xing	666
+提点刑狱使	ti dian xing yu shi	311
+提举常平使	ti ju chang ping shi	305
+提刑按察使	ti xing an cha shi	81
+缇萦	ti ying	424
+缇萦上书	ti ying shang shu	423
+天盛改旧新定律令	tian sheng gai jiu xin ding lv ling	325
+条法事类	tiao fa shi lei	274
+条画五章	tiao hua wu zhang	270
+听讼	ting song	638
+廷尉	ting wei	530
+廷行事	ting xing shi	562
+同居相隐不为罪	tong ju xiang yin bu wei zui	383
+通判	tong pan	303
+通判官	tong pan guan	293
+通政使	tong zheng shi	93
+通政使司	tong zheng shi si	94
+同罪异罚	tong zui yi fa	189
+投书	tou shu	393
+徒禁	tu jin	618
+徒刑改遣条例	tu xing gai qian tiao li	36
+推勘院	tui kan yuan	345
+亡失罪	wang shi zui	373
+违法积利	wei fa ji li	169
+惟反	wei fan	634
+惟官	wei guan	635
+惟货	wei huo	632
+卫禁	wei jin	219
+惟来	wei lai	631
+为吏之道	wei li zhi dao	560
+惟内	wei nei	633
+卫尉	wei wei	532
+惟终	wei zhong	604
+违忠欺上	wei zhong qi shang	471
+问刑条例	wen xing tiao li	118
+五朝会典	wu chao hui dian	113
+武成帝	wu cheng di	483
+武德令	wu de ling	611
+武德律	wu de lv	223
+五过之疵	wu guo zhi ci	656
+五军都督府	wu jun du du fu	97
+务开	wu kai	342
+五礼	wu li	582
+五权宪法	wu quan xian fa	27
+五听	wu ting	651
+伍廷芳	wu ting fang	41
+诬罔	wu wang	438
+五五宪草	wu wu xian cao	18
+务限法	wu xian fa	344
+徙边	xi bian	420
+嬉禁	xi jin	620
+戏杀	xi sha	388
+洗冤集录	xi yuan ji lu	329
+咸平编敕	xian ping bian chi	275
+宪司	xian si	310
+咸雍条例	xian yong tiao li	336
+宪政编查馆	xian zheng bian cha guan	43
+小功	xiao gong	360
+挟书律	xie shu lv	512
+新定条例	xin ding tiao li	337
+新律	xin lv	502
+新五刑	xin wu xing	366
+刑部员外郎	xing bu yuan wai lang	239
+刑法典	xing fa dian	16
+刑乱国用重典	xing luan guo yong zhong dian	128
+刑名	xing ming	501
+刑名总汇	xing ming zong hui	61
+刑平国用轻典	xing ping guo yong qing dian	127
+行省	xing sheng	144
+行省制	xing sheng zhi	143
+行台	xing tai	134
+刑统	xing tong	283
+行刑	xing xing	404
+行宣政院	xing xuan zheng yuan	129
+行御史台	xing yu shi tai	135
+兴造	xing zao	214
+刑职	xing zhi	202
+凶礼	xiong li	580
+修订法律馆	xiu ding fa lv guan	57
+胥吏	xu li	49
+宣政院	xuan zheng yuan	148
+巡按御史	xun an yu shi	85
+荀寅	xun yin	568
+讯狱	xun yu	522
+训政保姆论	xun zheng bao mu lun	25
+训政纲领	xun zheng gang ling	19
+谳司	yan si	335
+盐铁司	yan tie si	321
+严刑重法	yan xing zhong fa	398
+羊祜	yang hu	497
+养济	yang ji	152
+养济之资	yang ji zhi zi	155
+养赡	yang shan	151
+养赡之资	yang shan zhi zi	154
+邀车驾	yao che jia	235
+妖邪之术	yao xie zhi shu	193
+妖言令	yao yan ling	510
+一裁终局	yi cai zhong ju	30
+易笞条例	yi chi tiao li	35
+一断于法	yi duan yu fa	567
+以古非今	yi gu fei jin	395
+以贱犯良	yi jian fan liang	379
+义绝	yi jue	606
+以良犯贱	yi liang fan jian	380
+疑难案件	yi nan an jian	243
+役身折酬	yi shen zhe chou	167
+一条鞭法	yi tiao bian fa	99
+劓刑	yi xing	661
+医药之资	yi yao zhi zi	153
+遗嘱优先	yi zhu you xian	162
+一准乎礼	yi zhun hu li	199
+疑罪从赎	yi zui cong shu	378
+以佐王刑邦国	yi zuo wang xing bang guo	573
+淫侈	yin chi	616
+淫禁	yin jin	625
+因事受财	yin shi shou cai	183
+因俗而治	yin su er zhi	73
+淫泆	yin yi	574
+永格	yong ge	225
+永徽律	yong hui lv	220
+永徽律疏	yong hui lv shu	221
+用刑持平	yong xing chi ping	197
+永业田	yong ye tian	375
+由繁到简	you fan dao jian	341
+有所娶无所归	you suo qu wu suo gui	607
+与更三年丧	yu geng san nian sang	608
+狱官	yu guan	230
+狱讼	yu song	639
+余条准此	yu tiao zhun ci	279
+禹刑	yu xing	667
+逾制	yu zhi	614
+元典章	yuan dian zhang	266
+援法断罪	yuan fa duan zui	472
+缘法而治	yuan fa er zhi	565
+圆审	yuan shen	76
+爰书	yuan shu	520
+员外郎	yuan wai lang	240
+怨望诽谤	yuan wang fei bang	436
+缘坐	yuan zuo	364
+越城	yue cheng	621
+约法三章	yue fa san zhang	460
+约法省刑	yue fa sheng xing	466
+越宫律	yue gong lv	509
+岳麓书院藏秦简	yue lu shu yuan cang qin jian	556
+越诉	yue su	236
+云梦秦简	yun meng qin jian	561
+杂抵	za di	365
+杂律	za lv	210
+在室女	zai shi nv	288
+凿颠	zao dian	551
+则例	ze li	72
+贼盗	zei dao	213
+诈伪	zha wei	209
+斩衰	zhan shuai	363
+张杜律	zhang du lv	493
+张斐	zhang fei	495
+长官	zhang guan	145
+掌戮	zhang lu	594
+掌囚	zhang qiu	593
+张汤	zhang tang	456
+找价	zhao jia	64
+诏命	zhao ming	434
+昭穆相当	zhao mu xiang dang	164
+赵鞅	zhao yang	569
+诏狱	zhao yu	80
+赵禹	zhao yu	455
+折杖法	zhe zhang fa	273
+贞观律	zhen guan lv	222
+贞观玉镜统	zhen guan yu jing tong	323
+政典	zheng dian	262
+政职	zheng zhi	201
+指挥使	zhi hui shi	87
+指挥使司	zhi hui shi si	88
+质剂	zhi ji	653
+制勘院	zhi kan yuan	346
+致仕	zhi shi	410
+直诉	zhi su	352
+治粟内史	zhi su nei shi	526
+治狱	zhi yu	521
+至元新格	zhi yuan xin ge	268
+至正条格	zhi zheng tiao ge	263
+职制	zhi zhi	218
+中书门下	zhong shu men xia	317
+中书门下平章事	zhong shu men xia ping zhang shi	315
+重熙条例	zhong xi tiao li	338
+重刑法令	zhong xing fa ling	120
+重刑主义	zhong xing zhu yi	34
+钟繇	zhong yao	474
+重罪十条	zhong zui shi tiao	481
+酎金	zhou jin	443
+酎金不如法	zhou jin bu ru fa	445
+酎金律	zhou jin lv	444
+主婚权	zhu hun quan	31
+竹刑	zhu xing	601
+著刑书于鼎	zhu xing shu yu ding	657
+诸子均分	zhu zi jun fen	163
+转典权	zhuan dian quan	290
+转运使	zhuan yun shi	308
+准五服以制罪	zhun wu fu yi zhi zui	488
+子产	zi chan	600
+子孙不孝	zi sun bu xiao	229
+赀刑	zi xing	536
+资议局	zi yi ju	46
+资政院	zi zheng yuan	45
+总管	zong guan	146
+纵囚	zong qiu	552
+宗祧	zong tiao	628
+宗祧继承	zong tiao ji cheng	627
+总统制	zong tong zhi	17
+宗正	zong zheng	528
+租庸调法	zu yong diao fa	161
+罪刑法定	zui xing fa ding	14
+左官	zuo guan	448
+作刑	zuo xing	544
+坐赃罪	zuo zang zui	184

@@ -1,0 +1,5172 @@
+# 词库名称: 刘吉飞搜狗词库
+# 词库分类: 政治学
+# 词库描述: 刘吉飞搜狗词库
+# 词条样例: 裴斐、唐学锋、王澍源、温世鹏、张宏魁、吴撼崎
+# 解析词数: 5165
+# 解析异常: 0
+
+阿拉腾	a la teng	3304
+阿力腾花	a li teng hua	2298
+阿荣	a rong	2023
+爱新觉罗赵娜	ai xin jue luo zhao na	4803
+安长银	an chang yin	5093
+安居保障	an ju bao zhang	352
+安丽鸿	an li hong	3495
+案例研讨	an li yan tao	298
+安娜	an na	2746
+安排部署	an pai bu shu	1184
+安全工程	an quan gong cheng	39
+安全科学	an quan ke xue	174
+按需点单	an xu dian dan	423
+安永芳	an yong fang	3868
+安作军	an zuo jun	4994
+把关环节	ba guan huan jie	749
+巴红艳	ba hong yan	3747
+靶向发力	ba xiang fa li	1245
+靶向施策	ba xiang shi ce	308
+八小时内	ba xiao shi nei	944
+八小时外	ba xiao shi wai	943
+巴依尔	ba yi er	3393
+柏常年	bai chang nian	2657
+白东	bai dong	2696
+白发忠	bai fa zhong	3617
+白刚	bai gang	3857
+白建会	bai jian hui	2208
+白建升	bai jian sheng	2455
+白建勇	bai jian yong	2689
+柏莉	bai li	2910
+白丽	bai li	4306
+白丽君	bai li jun	2019
+白利军	bai li jun	2666
+白立荣	bai li rong	3193
+白生龙	bai sheng long	4096
+白生忠	bai sheng zhong	1888
+白世忠	bai shi zhong	2017
+柏霞	bai xia	2920
+白晓霞	bai xiao xia	1572
+白晓艳	bai xiao yan	2563
+白新程	bai xin cheng	3901
+白兴华	bai xing hua	2448
+白兴鹏	bai xing peng	4185
+白兴顺	bai xing shun	3884
+白兴忠	bai xing zhong	2865
+白雪峰	bai xue feng	1710
+白雪红	bai xue hong	3350
+白学金	bai xue jin	1839
+白燕	bai yan	4308
+白银霞	bai yin xia	2111
+白玉宝	bai yu bao	2533
+白玉芬	bai yu fen	2571
+白月	bai yue	2033
+白跃金	bai yue jin	3661
+白中会	bai zhong hui	4764
+办事效率	ban shi xiao lv	858
+班子成员	ban zi cheng yuan	807
+班子团结	ban zi tuan jie	708
+包建宏	bao jian hong	3531
+鲍蕾	bao lei	4401
+堡垒夯实	bao lei hang shi	1407
+包丽	bao li	4023
+包容胸襟	bao rong xiong jin	862
+保险学	bao xian xue	126
+北新街社区	bei xin jie she qu	1462
+本地化	ben di hua	489
+本领锤炼	ben ling chui lian	1320
+本土培育	ben tu pei yu	1310
+毕海娇	bi hai jiao	4324
+闭环落实	bi huan luo shi	1418
+避开客套	bi kai ke tao	812
+避坑技巧	bi keng ji qiao	649
+毕铁军	bi tie jun	3458
+必学科目	bi xue ke mu	497
+避重就轻	bi zhong jiu qing	773
+边春江	bian chun jiang	2881
+编导	bian dao	6
+边丰云	bian feng yun	3984
+边海燕	bian hai yan	2775
+辨析舆情	bian xi yu qing	841
+编制管控	bian zhi guan kong	319
+编制管理	bian zhi guan li	1203
+编制限额	bian zhi xian e	453
+标杆打造	biao gan da zao	1428
+表里如一	biao li ru yi	715
+表象	biao xiang	935
+标准规范	biao zhun gui fan	1430
+标准化	biao zhun hua	1397
+秉持公心	bing chi gong xin	1107
+兵器科学	bing qi ke xue	185
+博物馆学	bo wu guan xue	96
+不定等次	bu ding deng ci	1019
+补短板	bu duan ban	1229
+不留死角	bu liu si jiao	622
+不满意	bu man yi	825
+不偏不倚	bu pian bu yi	646
+补齐短板	bu qi duan ban	1238
+补齐人才短板	bu qi ren cai duan ban	290
+不同群体	bu tong qun ti	867
+部务会会议	bu wu hui hui yi	546
+不足	bu zu	823
+蔡伯凯	cai bo kai	3895
+菜单式精准培训	cai dan shi jing zhun pei xun	288
+蔡德钰	cai de yu	3203
+蔡虎	cai hu	2983
+蔡菊玲	cai ju ling	3579
+采矿工程	cai kuang gong cheng	57
+材料	cai liao	1447
+材料成型	cai liao cheng xing	81
+材料工程	cai liao gong cheng	72
+材料科学	cai liao ke xue	75
+材料科学姓名	cai liao ke xue xing ming	215
+蔡梅	cai mei	3318
+蔡娜	cai na	4980
+才其格	cai qi ge	3303
+蔡文峰	cai wen feng	2301
+蔡文君	cai wen jun	1571
+财务管理	cai wu guan li	21
+蔡新梅	cai xin mei	5094
+蔡学斌	cai xue bin	3522
+蔡学英	cai xue ying	3804
+蔡育明	cai yu ming	1781
+蔡园子	cai yuan zi	2788
+蔡振虎	cai zhen hu	3826
+财政学	cai zheng xue	130
+蔡卓辰	cai zhuo chen	3209
+参公管理	can gong guan li	397
+参照公务员法管理单位	can zhao gong wu yuan fa guan li dan wei	398
+仓后街社区	cang hou jie she qu	1459
+曹柄奎	cao bing kui	3638
+曹春艳	cao chun yan	5092
+曹福娟	cao fu juan	2009
+曹光彥	cao guang yan	2401
+曹国军	cao guo jun	3281
+曹宏国	cao hong guo	2282
+曹建军	cao jian jun	2785
+曹建忠	cao jian zhong	3704
+曹军国	cao jun guo	2754
+曹克彦	cao ke yan	4071
+曹磊	cao lei	3272
+曹丽	cao li	5162
+曹娜	cao na	3978
+曹晓英	cao xiao ying	4881
+曹兴邦	cao xing bang	3948
+草学	cao xue	165
+曹学智	cao xue zhi	2070
+曹燕	cao yan	3288
+曹艳萍	cao yan ping	2097
+曹阳	cao yang	4974
+草业科学	cao ye ke xue	32
+曹仲林	cao zhong lin	2176
+操作流程	cao zuo liu cheng	479
+测绘工程	ce hui gong cheng	59
+测绘科学	ce hui ke xue	199
+测控技术	ce kong ji shu	77
+侧面	ce mian	881
+岑宏伟	cen hong wei	4511
+曾少珊	ceng shao shan	4458
+曾桐瑶	ceng tong yao	4846
+曾祥红	ceng xiang hong	2398
+察其态	cha qi tai	936
+查问题	cha wen ti	753
+差异化激励	cha yi hua ji li	316
+差异化考核评价体系	cha yi hua kao he ping jia ti xi	434
+柴博	chai bo	4148
+柴长斌	chai chang bin	2328
+柴长乾	chai chang qian	5108
+柴东林	chai dong lin	1577
+柴发	chai fa	4864
+柴海	chai hai	4780
+柴继帅	chai ji shuai	4918
+柴建英	chai jian ying	4731
+柴洁	chai jie	4727
+柴丽	chai li	3970
+柴亮	chai liang	2581
+柴鹏飞	chai peng fei	4825
+柴娅玲	chai ya ling	5100
+柴延林	chai yan lin	2885
+柴勇成	chai yong cheng	3094
+柴永海	chai yong hai	2284
+柴泳江	chai yong jiang	5005
+柴玉峰	chai yu feng	2163
+柴玉蓉	chai yu rong	2088
+柴再生	chai zai sheng	2514
+柴振平	chai zhen ping	4574
+产才融合	chan cai rong he	1313
+产品设计	chan pin she ji	1
+禅舜尧	chan shun yao	2246
+产学研用	chan xue yan yong	1312
+产业转型升级	chan ye zhuan xing sheng ji	1063
+常德明	chang de ming	5077
+常芬娟	chang fen juan	1709
+常规巡察	chang gui xun cha	541
+常国良	chang guo liang	1757
+常恒吉	chang heng ji	3127
+常见本科专业	chang jian ben ke zhuan ye	134
+常俊	chang jun	1587
+常君权	chang jun quan	3593
+常丽君	chang li jun	4274
+常丽琼	chang li qiong	4296
+常丽芸	chang li yun	2758
+常亮	chang liang	4655
+常梅梅	chang mei mei	4609
+场面话	chang mian hua	631
+常生宝	chang sheng bao	2481
+常生刚	chang sheng gang	4312
+常生明	chang sheng ming	4542
+常淑华	chang shu hua	2360
+常态长效	chang tai chang xiao	1417
+常态化	chang tai hua	1395
+常态化考核	chang tai hua kao he	435
+常态化摸排	chang tai hua mo pai	536
+常态化谈心谈话	chang tai hua tan xin tan hua	405
+常态学习	chang tai xue xi	306
+常万元	chang wan yuan	3058
+常韦	chang wei	4243
+长效化	chang xiao hua	1394
+长效化减负	chang xiao hua jian fu	315
+长效化提升	chang xiao hua ti sheng	276
+常新义	chang xin yi	3933
+常兴平	chang xing ping	1681
+常秀萍	chang xiu ping	3090
+常旭锋	chang xu feng	4921
+常亚蕾	chang ya lei	1658
+常娅妮	chang ya ni	4203
+常银梅	chang yin mei	2062
+常用	chang yong	1257
+常永标	chang yong biao	4665
+常永春	chang yong chun	2635
+常永森	chang yong sen	2618
+常永啸	chang yong xiao	4276
+朝格其木格	chao ge qi mu ge	3937
+车春生	che chun sheng	1646
+车行	che hang	4376
+车红玉	che hong yu	2764
+车辆工程	che liang gong cheng	78
+陈爱君	chen ai jun	3914
+陈爱民	chen ai min	3738
+陈爱明	chen ai ming	2206
+陈本军	chen ben jun	4406
+陈碧玲	chen bi ling	2225
+陈彪	chen biao	4789
+陈兵	chen bing	3573
+陈伯琰	chen bo yan	1950
+陈长营	chen chang ying	3614
+陈琛	chen chen	4420
+陈冲	chen chong	2711
+陈翠萍	chen cui ping	2539
+陈大学	chen da xue	1580
+陈登勇	chen deng yong	2637
+陈富全	chen fu quan	4013
+陈钢	chen gang	4618
+陈桂玲	chen gui ling	3387
+陈国峰	chen guo feng	4490
+陈国皇	chen guo huang	2327
+陈国庆	chen guo qing	1926
+陈国祥	chen guo xiang	2148
+陈国毅	chen guo yi	3265
+陈海霞	chen hai xia	3953
+陈昊	chen hao	4254
+陈慧	chen hui	1742
+陈嘉韫	chen jia yun	1574
+陈健	chen jian	1850
+陈建男	chen jian nan	3918
+陈建平	chen jian ping	2130
+陈建设	chen jian she	2961
+陈建忠	chen jian zhong	2985
+陈静	chen jing	2456
+陈娟	chen juan	2000
+陈军	chen jun	2826
+陈俊峰	chen jun feng	3519
+陈俊霞	chen jun xia	3827
+陈克斌	chen ke bin	3757
+陈可宁	chen ke ning	3217
+陈丽	chen li	1768
+陈莉	chen li	5042
+陈利波	chen li bo	1816
+陈丽娟	chen li juan	4537
+陈丽君	chen li jun	2858
+陈利军	chen li jun	4781
+陈亮	chen liang	4128
+陈凌云	chen ling yun	1736
+陈龙	chen long	3389
+陈璐	chen lu	4713
+陈曼花	chen man hua	2223
+沉默寡言	chen mo gua yan	886
+陈娜	chen na	4029
+陈乾	chen qian	4526
+陈全瑞	chen quan rui	3775
+陈仁	chen ren	4675
+陈容	chen rong	4178
+陈蓉	chen rong	4332
+陈瑞	chen rui	4652
+陈瑞莲	chen rui lian	2849
+陈少平	chen shao ping	3715
+陈淑华	chen shu hua	3341
+陈苏民	chen su min	3430
+陈婷	chen ting	1930
+陈挺	chen ting	2896
+陈同德	chen tong de	3010
+陈卫华	chen wei hua	4975
+陈伟民	chen wei min	2376
+陈文恩	chen wen en	4345
+陈文华	chen wen hua	1864
+陈文建	chen wen jian	2646
+陈文霞	chen wen xia	2917
+陈曦	chen xi	1632
+陈希平	chen xi ping	3602
+陈晓彬	chen xiao bin	3518
+陈晓东	chen xiao dong	2042
+陈晓红	chen xiao hong	3335
+陈晓娇	chen xiao jiao	2065
+陈晓娟	chen xiao juan	2795
+陈晓亮	chen xiao liang	3398
+陈晓玲	chen xiao ling	4887
+陈晓霞	chen xiao xia	2025
+陈晓瑛	chen xiao ying	1842
+陈兴福	chen xing fu	3505
+陈兴国	chen xing guo	2532
+陈秀德	chen xiu de	2623
+陈旭梅	chen xu mei	5054
+陈学斌	chen xue bin	2600
+陈学刚	chen xue gang	4180
+陈学辉	chen xue hui	1922
+陈雪梅	chen xue mei	2860
+陈学文	chen xue wen	2976
+陈亚珠	chen ya zhu	4221
+陈岩	chen yan	5008
+陈彦丽	chen yan li	3177
+陈一凡	chen yi fan	4225
+陈毅山	chen yi shan	2303
+陈寅	chen yin	2380
+陈盈盈	chen ying ying	2024
+陈永伟	chen yong wei	2367
+陈玉兰	chen yu lan	2453
+陈哲	chen zhe	4103
+称职等次	chen zhi deng ci	1023
+陈治海	chen zhi hai	5129
+陈志华	chen zhi hua	3097
+陈治慧	chen zhi hui	2800
+承担责任	cheng dan ze ren	771
+程刚华	cheng gang hua	1655
+程国江	cheng guo jiang	3655
+程国军	cheng guo jun	1723
+程国奎	cheng guo kui	2487
+程国亮	cheng guo liang	4123
+程国胜	cheng guo sheng	1981
+程国伟	cheng guo wei	3368
+程国鑫	cheng guo xin	3256
+程国耀	cheng guo yao	3671
+程国毅	cheng guo yi	2465
+程辉	cheng hui	4966
+成绩	cheng ji	824
+程静	cheng jing	4041
+成菊林	cheng ju lin	5143
+称菊荣	cheng ju rong	2861
+程俊武	cheng jun wu	4197
+程利华	cheng li hua	5043
+诚实守信	cheng shi shou xin	716
+城乡规划	cheng xiang gui hua	331
+城乡规划学	cheng xiang gui hua xue	178
+成效不佳	cheng xiao bu jia	887
+程晓玲	cheng xiao ling	2039
+程晓贤	cheng xiao xian	3023
+程晓英	cheng xiao ying	3267
+成秀娟	cheng xiu juan	3269
+程序合规	cheng xu he gui	443
+程亚琼	cheng ya qiong	5052
+程燕琴	cheng yan qin	3359
+程钰华	cheng yu hua	4596
+成玉玲	cheng yu ling	3853
+程玉荣	cheng yu rong	2905
+成长变化	cheng zhang bian hua	660
+成长舞台	cheng zhang wu tai	1066
+程忠	cheng zhong	3698
+吃拿卡要	chi na ka yao	783
+吃透政策精神	chi tou zheng ce jing shen	513
+储备不足	chu bei bu zu	326
+出彩	chu cai	793
+处理	chu li	791
+初任培训	chu ren pei xun	499
+初心本色	chu xin ben shai	1101
+初心使命	chu xin shi ming	379
+船舶	chuan bo	189
+传播学	chuan bo xue	98
+传导压力	chuan dao ya li	1239
+穿透力	chuan tou li	1400
+传言	chuan yan	839
+创新破题	chuang xin po ti	325
+纯洁性	chun jie xing	969
+辞去公职	ci qu gong zhi	431
+慈钰	ci yu	1787
+辞职辞退	ci zhi ci tui	437
+从严从实	cong yan cong shi	1266
+从严管理	cong yan guan li	1367
+从严规范	cong yan gui fan	599
+从严监督	cong yan jian du	1344
+从严监督管理	cong yan jian du guan li	279
+从业行为	cong ye xing wei	430
+促落实	cu luo shi	1223
+崔保红	cui bao hong	3413
+崔芳	cui fang	3563
+崔海成	cui hai cheng	2511
+崔海霞	cui hai xia	1796
+崔积鸿	cui ji hong	4839
+崔建军	cui jian jun	2655
+崔建新	cui jian xin	2960
+崔全亮	cui quan liang	2114
+崔晓红	cui xiao hong	3098
+崔晓静	cui xiao jing	4190
+崔兴祥	cui xing xiang	4491
+崔艳玲	cui yan ling	3939
+崔永举	cui yong ju	5051
+崔永生	cui yong sheng	2598
+崔玉芳	cui yu fang	2677
+村干部考录公务员	cun gan bu kao lu gong wu yuan	353
+村社干部	cun she gan bu	803
+存在的问题	cun zai de wen ti	347
+错误认识	cuo wu ren shi	1008
+达布尕	da bu ga	2075
+打分	da fen	701
+大局意识	da ju yi shi	913
+打破客套	da po ke tao	769
+打破套路	da po tao lu	813
+大气科学	da qi ke xue	230
+大数据	da shu ju	329
+大数据技术	da shu ju ji shu	62
+大水漫灌	da shui man guan	367
+代表	dai biao	801
+带病提拔	dai bing ti ba	971
+戴彩芬	dai cai fen	3528
+戴常兴	dai chang xing	4903
+代建梅	dai jian mei	2715
+代兰芳	dai lan fang	2217
+戴立新	dai li xin	4996
+待人接物	dai ren jie wu	926
+带头上	dai tou shang	785
+担当	dan dang	790
+担当精神	dan dang jing shen	860
+担当强弱	dan dang qiang ruo	663
+担当者寒心	dan dang zhe han xin	1064
+担当作为	dan dang zuo wei	1264
+单独谈话	dan du tan hua	799
+单卫东	dan wei dong	3811
+单亚宾	dan ya bin	3924
+单永生	dan yong sheng	2950
+单志斌	dan zhi bin	2957
+档案管理	dang an guan li	146
+档案审核	dang an shen he	1335
+档案学	dang an xue	11
+党翠芳	dang cui fang	4231
+当聃	dang dan	2184
+党的建设	dang de jian she	550
+党的领导	dang de ling dao	565
+党管干部原则	dang guan gan bu yuan ze	585
+党建	dang jian	1441
+党建赋能	dang jian fu neng	1426
+党建工作检查	dang jian gong zuo jian cha	539
+党建述职	dang jian shu zhi	1196
+党建引领	dang jian yin ling	1424
+当鹏	dang peng	3753
+党群部门	dang qun bu men	1552
+党委党组	dang wei dang zu	562
+当秀锋	dang xiu feng	3249
+当勇	dang yong	4513
+党玉	dang yu	4976
+党玉河	dang yu he	2703
+党玉佼	dang yu jiao	4061
+党玉龙	dang yu long	4878
+党员发展	dang yuan fa zhan	1210
+党员管理	dang yuan guan li	1208
+党员教育	dang yuan jiao yu	1209
+党占军	dang zhan jun	1943
+党占祥	dang zhan xiang	4580
+党政领导干部离任交接	dang zheng ling dao gan bu li ren jiao jie	483
+党政正职	dang zheng zheng zhi	1142
+党中央	dang zhong yang	554
+党组织换届	dang zu zhi huan jie	1207
+德才表现	de cai biao xian	1017
+德才兼备	de cai jian bei	1388
+邓爱群	deng ai qun	2446
+登记备案	deng ji bei an	445
+等级规范化管理	deng ji gui fan hua guan li	461
+邓舒予	deng shu yu	2939
+邓涛	deng tao	4961
+邓晓婷	deng xiao ting	2744
+邓雪娟	deng xue juan	4946
+邓永生	deng yong sheng	3694
+邓卓	deng zhuo	4550
+低调自律	di diao zi lv	898
+狄建龙	di jian long	5022
+地理科学	di li ke xue	91
+地理学	di li xue	231
+地球物理学	di qiu wu li xue	228
+第一议题	di yi yi ti	1216
+地质工程	di zhi gong cheng	196
+地质学	di zhi xue	227
+地质资源	di zhi zi yuan	197
+电气工程	dian qi gong cheng	209
+电视	dian shi	7
+典型引路	dian xing yin lu	1240
+电子科学	dian zi ke xue	208
+电子信息工程	dian zi xin xi gong cheng	69
+调任	diao ren	448
+调任比例	diao ren bi li	320
+调任转任	diao ren zhuan ren	507
+调研乡镇街道	diao yan xiang zhen jie dao	1079
+调研员人选表	diao yan yuan ren xuan biao	1048
+调研员专班督查	diao yan yuan zhuan ban du cha	540
+定等次	ding deng ci	705
+丁锋	ding feng	4872
+丁福章	ding fu zhang	5041
+丁国华	ding guo hua	4640
+丁海俊	ding hai jun	3787
+丁寒雨	ding han yu	1585
+丁健	ding jian	2724
+丁杰	ding jie	3737
+丁丽梅	ding li mei	3907
+丁亮	ding liang	3898
+丁神	ding shen	4183
+丁堂	ding tang	3839
+丁万蓉	ding wan rong	4453
+定向施教	ding xiang shi jiao	422
+丁雪梅	ding xue mei	3628
+丁焱	ding yan	4882
+丁岩立	ding yan li	4989
+丁瑛	ding ying	4238
+东北街街道	dong bei jie jie dao	1473
+动词类	dong ci lei	1255
+董德林	dong de lin	3488
+东洞镇	dong dong zhen	1478
+董芙蓉	dong fu rong	2667
+董革新	dong ge xin	2552
+东关苑社区	dong guan yuan she qu	1468
+动画	dong hua	5
+董建文	dong jian wen	4617
+董杰	dong jie	4248
+董莉	dong li	4579
+动力工程	dong li gong cheng	211
+董丽娟	dong li juan	2060
+董丽霞	dong li xia	2832
+董明君	dong ming jun	3749
+东南街街道	dong nan jie jie dao	1472
+动态化整改	dong tai hua zheng gai	277
+董万泉	dong wan quan	1780
+董伟	dong wei	1789
+东文化街社区	dong wen hua jie she qu	1458
+动物科学	dong wu ke xue	36
+动物医学	dong wu yi xue	35
+董晓明	dong xiao ming	4564
+董彦录	dong yan lu	2685
+董银秀	dong yin xiu	2739
+董玉红	dong yu hong	2999
+董元钊	dong yuan zhao	3940
+窦宏生	dou hong sheng	2799
+窦建国	dou jian guo	4070
+窦建军	dou jian jun	3096
+窦娟	dou juan	5097
+窦亮	dou liang	5091
+窦瑞红	dou rui hong	4245
+窦生强	dou sheng qiang	1752
+杜彬	du bin	3375
+督查检查	du cha jian cha	537
+杜聃	du dan	4595
+督导范畴	du dao fan chou	542
+杜建君	du jian jun	3502
+杜建民	du jian min	1872
+杜建荣	du jian rong	3951
+杜建生	du jian sheng	2467
+杜建文	du jian wen	2388
+杜菁虹	du jing hong	1925
+杜婧雯	du jing wen	4092
+杜绝	du jue	735
+杜君	du jun	2964
+杜文艳	du wen yan	3985
+杜小花	du xiao hua	2405
+杜亚娟	du ya juan	4040
+杜咏琴	du yong qin	4551
+短板不足	duan ban bu zu	758
+短板弱项	duan ban ruo xiang	589
+段德兵	duan de bing	2682
+段德成	duan de cheng	3418
+段德金	duan de jin	1887
+段德明	duan de ming	3825
+段德武	duan de wu	2182
+段海龙	duan hai long	2837
+段虎	duan hu	4600
+段晶晶	duan jing jing	4582
+段利军	duan li jun	5021
+段丽霞	duan li xia	2325
+段庆	duan qing	4748
+段秋玲	duan qiu ling	2955
+段蓉	duan rong	2741
+段淑鲜	duan shu xian	3176
+段小强	duan xiao qiang	4719
+段小霞	duan xiao xia	3905
+段兴斌	duan xing bin	1805
+段兴俊	duan xing jun	3192
+段兴茂	duan xing mao	3148
+段秀梅	duan xiu mei	2344
+段亚琴	duan ya qin	1945
+段宜宏	duan yi hong	2022
+段忠国	duan zhong guo	4268
+对比分析法	dui bi fen xi fa	668
+对事业负责	dui shi ye fu ze	1121
+对同志负责	dui tong zhi fu ze	1119
+对组织负责	dui zu zhi fu ze	1120
+墩苗培养	dun miao pei yang	1377
+多角度	duo jiao du	948
+躲着走	duo zhe zou	788
+俄语	e yu	105
+二楼西会议室	er lou xi hui yi shi	994
+法定程序	fa ding cheng xu	450
+法规各项规定	fa gui ge xiang gui ding	458
+法规学习精准度	fa gui xue xi jing zhun du	345
+法检两长	fa jian liang chang	996
+法条应用	fa tiao ying yong	302
+法学	fa xue	270
+法学门类	fa xue men lei	253
+发言质量	fa yan zhi liang	918
+发展大局	fa zhan da ju	1130
+法治方式	fa zhi fang shi	341
+法治化水平	fa zhi hua shui ping	275
+法治思维	fa zhi si wei	342
+法治引领	fa zhi yin ling	307
+范大军	fan da jun	1662
+范东德	fan dong de	4761
+范芙蓉	fan fu rong	2835
+范国红	fan guo hong	1759
+范虎	fan hu	4323
+范金梅	fan jin mei	1700
+范莉	fan li	2373
+樊莉君	fan li jun	2243
+范连敬	fan lian jing	3092
+范连伟	fan lian wei	4539
+范玲萍	fan ling ping	3546
+范仁国	fan ren guo	2873
+樊榕	fan rong	4568
+反向设问	fan xiang she wen	765
+范晓东	fan xiao dong	2932
+范晓丽	fan xiao li	3864
+范晔	fan ye	4947
+翻译	fan yi	103
+反映情况	fan ying qing kuang	1114
+方丽红	fang li hong	3867
+方丽媛	fang li yuan	4573
+方亮	fang liang	3890
+放松	fang song	759
+访谈	fang tan	816
+防微杜渐	fang wei du jian	1341
+放下顾虑	fang xia gu lv	762
+方彦会	fang yan hui	2845
+纺织工程	fang zhi gong cheng	55
+纺织科学	fang zhi ke xue	192
+方志荣	fang zhi rong	3168
+飞天路社区	fei tian lu she qu	1454
+飞行器	fei xing qi	50
+非正式场合	fei zheng shi chang he	851
+分层定制	fen ceng ding zhi	305
+分层分类	fen ceng fen lei	874
+分管科室	fen guan ke shi	679
+分管领域	fen guan ling yu	910
+分类施策	fen lei shi ce	1246
+奋勇争先	fen yong zheng xian	1082
+封闭式提问	feng bi shi ti wen	796
+冯博	feng bo	4257
+冯成	feng cheng	4058
+冯德华	feng de hua	2526
+冯东旗	feng dong qi	3181
+冯国俊	feng guo jun	3284
+冯国云	feng guo yun	1918
+冯海涛	feng hai tao	3684
+冯会明	feng hui ming	3027
+冯建明	feng jian ming	3000
+冯金明	feng jin ming	4394
+冯瑾霞	feng jin xia	2138
+冯静	feng jing	4567
+风景园林	feng jing yuan lin	40
+风景园林学	feng jing yuan lin xue	177
+冯军德	feng jun de	4770
+冯军业	feng jun ye	4541
+丰乐镇	feng le zhen	1476
+冯丽娟	feng li juan	4941
+冯立群	feng li qun	2468
+冯丽莎	feng li sha	4510
+冯立山	feng li shan	2058
+冯凌云	feng ling yun	3590
+风气监督	feng qi jian du	1345
+风清气正	feng qing qi zheng	1267
+冯曦	feng xi	4043
+风险点	feng xian dian	707
+风险防范化解	feng xian fang fan hua jie	1060
+风险防控能力	feng xian fang kong neng li	501
+风险排查机制	feng xian pai cha ji zhi	404
+风险隐患	feng xian yin huan	745
+风向标	feng xiang biao	1104
+冯小慧	feng xiao hui	2759
+冯小龙	feng xiao long	3052
+冯小云	feng xiao yun	4737
+冯欣	feng xin	2043
+冯兴全	feng xing quan	5127
+冯雪峰	feng xue feng	4720
+冯学刚	feng xue gang	3206
+冯应峰	feng ying feng	3664
+冯应建	feng ying jian	2519
+冯应军	feng ying jun	1730
+丰玉玲	feng yu ling	3726
+冯昱霞	feng yu xia	2321
+冯占明	feng zhan ming	2501
+冯正斌	feng zheng bin	1846
+冯正军	feng zheng jun	3114
+冯志琴	feng zhi qin	2272
+冯转霞	feng zhuan xia	4920
+副部长	fu bu zhang	1177
+付常珍	fu chang zhen	3071
+傅崇俊	fu chong jun	3881
+傅冬艳	fu dong yan	4546
+覆盖面	fu gai mian	1399
+复合型干部选育管用	fu he xing gan bu xuan yu guan yong	339
+复合型公务员队伍	fu he xing gong wu yuan dui wu	285
+付洪涛	fu hong tao	4261
+富康路社区	fu kang lu she qu	1456
+付立民	fu li min	2414
+付丽蓉	fu li rong	2203
+赋能工程	fu neng gong cheng	356
+赋能增效	fu neng zeng xiao	1235
+复盘总结	fu pan zong jie	1242
+付文章	fu wen zhang	4736
+服务保障	fu wu bao zhang	1306
+服务窗口	fu wu chuang kou	677
+服务对象	fu wu dui xiang	870
+服务态度	fu wu tai du	859
+付晓莉	fu xiao li	3490
+付小苗	fu xiao miao	4797
+付晓琴	fu xiao qin	3550
+付鑫璐	fu xin lu	1951
+付艳丽	fu yan li	2105
+敷衍了事	fu yan liao shi	766
+浮于表面	fu yu biao mian	930
+富玉娟	fu yu juan	2918
+复杂问题	fu za wen ti	916
+负责项目	fu ze xiang mu	909
+付增明	fu zeng ming	4008
+符志英	fu zhi ying	3377
+副主任	fu zhu ren	1171
+干部	gan bu	1444
+干部保障	gan bu bao zhang	973
+干部档案	gan bu dang an	1204
+干部队伍	gan bu dui wu	970
+干部服气	gan bu fu qi	1109
+干部负责	gan bu fu ze	635
+干部工作	gan bu gong zuo	960
+干部工作类	gan bu gong zuo lei	1389
+干部花名册	gan bu hua ming ce	1004
+干部监督	gan bu jian du	1324
+干部考察	gan bu kao cha	988
+干部全周期管理	gan bu quan zhou qi guan li	1192
+干部圈子	gan bu quan zi	840
+干部选拔任用	gan bu xuan ba ren yong	1133
+干部周转房	gan bu zhou zhuan fang	409
+干事创业	gan shi chuang ye	1084
+干事创业热情	gan shi chuang ye re qing	574
+干事活力	gan shi huo li	283
+甘涛林	gan tao lin	2195
+甘为人梯	gan wei ren ti	1273
+甘新军	gan xin jun	5117
+甘雨良	gan yu liang	4549
+岗位固化	gang wei gu hua	317
+岗位履职	gang wei lv zhi	473
+岗位任职壁垒	gang wei ren zhi bi lei	282
+岗位适应周期	gang wei shi ying zhou qi	359
+岗位特点	gang wei te dian	732
+岗位调剂	gang wei tiao ji	351
+刚性执行	gang xing zhi xing	535
+高爱霞	gao ai xia	3629
+高勃	gao bo	3659
+高彩霞	gao cai xia	3298
+高层次人才	gao ceng ci ren cai	1299
+高登生	gao deng sheng	2804
+高殿国	gao dian guo	2937
+高度重视	gao du zhong shi	1126
+高分子	gao fen zi	71
+高峰	gao feng	4476
+高虎年	gao hu nian	4616
+高建英	gao jian ying	3180
+高静	gao jing	3545
+高俊华	gao jun hua	2719
+高乐	gao le	5085
+高龙	gao long	3434
+高明江	gao ming jiang	3802
+高频	gao pin	1221
+高频词汇	gao pin ci hui	1446
+高倩	gao qian	2732
+高乾陶	gao qian tao	1659
+高强	gao qiang	1618
+高荣	gao rong	3032
+高蓉	gao rong	2054
+高树财	gao shu cai	2534
+高素质专业化	gao su zhi zhuan ye hua	603
+高素质专业化干部队伍	gao su zhi zhuan ye hua gan bu dui wu	1131
+高素质专业化公务员队伍	gao su zhi zhuan ye hua gong wu yuan dui wu	584
+高文渊	gao wen yuan	2564
+高晓星	gao xiao xing	2521
+高晓阳	gao xiao yang	2275
+高小英	gao xiao ying	3047
+高星辰	gao xing chen	4156
+高兴龙	gao xing long	3200
+高兴宇	gao xing yu	3317
+高压高强度	gao ya gao qiang du	313
+高燕	gao yan	5159
+高艳	gao yan	2031
+高艳蓉	gao yan rong	1772
+高怡	gao yi	3380
+高咏梅	gao yong mei	3877
+高渝波	gao yu bo	2535
+高月爱	gao yue ai	1674
+高质量发展	gao zhi liang fa zhan	975
+高子惠	gao zi hui	3072
+个别谈话	ge bie tan hua	1000
+葛春	ge chun	4039
+葛翠婷	ge cui ting	1672
+各环节	ge huan jie	563
+葛娟	ge juan	2165
+葛丽娟	ge li juan	2354
+葛亮	ge liang	4611
+葛鹏飞	ge peng fei	4170
+个人成绩	ge ren cheng ji	738
+个人感情	ge ren gan qing	645
+个人有关事项	ge ren you guan shi xiang	1351
+个人有关事项报告	ge ren you guan shi xiang bao gao	711
+葛杉杉	ge shan shan	4301
+各乡镇	ge xiang zhen	1144
+葛晓玲	ge xiao ling	2995
+葛英红	ge ying hong	2485
+葛钰	ge yu	3441
+葛玉成	ge yu cheng	2897
+葛玉刚	ge yu gang	3186
+葛玉红	ge yu hong	2602
+葛玉泉	ge yu quan	1804
+葛中东	ge zhong dong	2196
+跟班学习	gen ban xue xi	414
+根本	gen ben	713
+跟踪培养	gen zong pei yang	1376
+跟踪问效	gen zong wen xiao	1243
+公安学	gong an xue	248
+工程	gong cheng	204
+工程力学	gong cheng li xue	85
+工程热物理	gong cheng re wu li	210
+公道正派	gong dao zheng pai	1384
+公共	gong gong	17
+公共管理	gong gong guan li	148
+公共卫生	gong gong wei sheng	160
+宫海生	gong hai sheng	3763
+公检法系统	gong jian fa xi tong	463
+共建共治	gong jian gong zhi	1409
+攻坚克难	gong jian ke nan	1276
+攻坚克难能力	gong jian ke nan neng li	728
+巩建敏	gong jian min	4871
+攻坚实操	gong jian shi cao	324
+攻坚一线	gong jian yi xian	388
+龚娟	gong juan	4278
+公开考录	gong kai kao lu	441
+公开遴选	gong kai lin xuan	446
+公平公正	gong ping gong zheng	1085
+工商管理	gong shang guan li	150
+公文	gong wen	1222
+公务员队伍建设	gong wu yuan dui wu jian she	598
+公务员法	gong wu yuan fa	601
+公务员分类管理改革	gong wu yuan fen lei guan li gai ge	466
+公务员管理工作体系	gong wu yuan guan li gong zuo ti xi	530
+公务员管理股	gong wu yuan guan li gu	528
+公务员录用	gong wu yuan lu yong	449
+公务员招录选配	gong wu yuan zhao lu xuan pei	583
+公务员职务	gong wu yuan zhi wu	1038
+公务员主管部门	gong wu yuan zhu guan bu men	476
+贡献力量	gong xian li liang	602
+弓翔	gong xiang	1604
+工学	gong xue	265
+工学门类	gong xue men lei	221
+龚亚强	gong ya qiang	3720
+龚亚山	gong ya shan	4116
+龚燕	gong yan	4870
+工业设计	gong ye she ji	79
+工艺	gong yi	58
+龚玉斌	gong yu bin	2091
+龚玉金	gong yu jin	2572
+公正打分	gong zheng da fen	639
+工资福利	gong zi fu li	526
+工资福利保险政策	gong zi fu li bao xian zheng ce	412
+工作安排	gong zuo an pai	1122
+工作场景	gong zuo chang jing	865
+工作短板	gong zuo duan ban	826
+工作格局	gong zuo ge ju	557
+工作交集	gong zuo jiao ji	809
+工作人员	gong zuo ren yuan	1002
+工作实绩	gong zuo shi ji	1093
+工作态度	gong zuo tai du	687
+工作现场	gong zuo xian chang	906
+工作需要	gong zuo xu yao	1018
+工作要求	gong zuo yao qiu	650
+工作扎实	gong zuo zha shi	885
+工作状态	gong zuo zhuang tai	676
+工作总结	gong zuo zong jie	743
+工作作风	gong zuo zuo feng	861
+勾伯亮	gou bo liang	4937
+缑永强	gou yong qiang	3065
+固本培元	gu ben pei yuan	1231
+固本强基	gu ben qiang ji	1422
+古典文献学	gu dian wen xian xue	107
+骨干人才	gu gan ren cai	1300
+固根基	gu gen ji	1227
+股级干部选拔预审备案	gu ji gan bu xuan ba yu shen bei an	482
+顾建华	gu jian hua	3773
+顾乐春	gu le chun	4090
+顾乐敏	gu le min	3360
+顾虑	gu lv	853
+顾少春	gu shao chun	1849
+顾铁柱	gu tie zhu	2423
+顾永生	gu yong sheng	3791
+挂图作战	gua tu zuo zhan	1244
+挂职锻炼	gua zhi duan lian	1349
+官北沟社区	guan bei gou she qu	1449
+管炳全	guan bing quan	2172
+贯彻实施	guan che shi shi	592
+贯彻组织意图	guan che zu zhi yi tu	1134
+管好家人	guan hao jia ren	896
+关键岗位	guan jian gang wei	432
+关键环节	guan jian huan jie	972
+关键时刻	guan jian shi ke	941
+关键时期	guan jian shi qi	1059
+关键信息	guan jian xin xi	620
+关金莲	guan jin lian	2484
+管理	guan li	15
+管理科学	guan li ke xue	151
+管理水平	guan li shui ping	675
+管理松散	guan li song san	470
+管理学	guan li xue	262
+管理学门类	guan li xue men lei	152
+官僚主义	guan liao zhu yi	923
+关璐翾	guan lu xuan	3992
+观其行	guan qi xing	937
+关心厚爱	guan xin hou ai	1125
+关兴泉	guan xing quan	2499
+关颖燕	guan ying yan	4313
+广播	guang bo	8
+广播电视学	guang bo dian shi xue	100
+广告学	guang gao xue	99
+广厦社区	guang sha she qu	1453
+光学工程	guang xue gong cheng	218
+规范化	gui fan hua	1398
+规范机关内部管理	gui fan ji guan nei bu guan li	477
+规范精细	gui fan jing xi	578
+规范流程	gui fan liu cheng	983
+规范履职行为	gui fan lv zhi xing wei	512
+规范提质	gui fan ti zhi	1420
+桂国礼	gui guo li	3062
+规划纲要	gui hua gang yao	551
+规矩之弦	gui ju zhi xian	378
+桂轩	gui xuan	2049
+郭爱清	guo ai qing	3554
+郭宝山	guo bao shan	3539
+郭存礼	guo cun li	3137
+郭德银	guo de yin	3564
+郭冬兰	guo dong lan	1592
+郭冬梅	guo dong mei	1994
+郭斐	guo fei	1881
+郭飞	guo fei	4187
+郭凤梅	guo feng mei	3635
+郭福音	guo fu yin	4232
+郭贵民	guo gui min	4021
+郭海霞	guo hai xia	1790
+郭红梅	guo hong mei	3722
+国际经济	guo ji jing ji	124
+国际政治	guo ji zheng zhi	120
+国家安全学	guo jia an quan xue	135
+郭泇彤	guo jia tong	3439
+郭建林	guo jian lin	3975
+郭锦政	guo jin zheng	4159
+郭军	guo jun	3295
+郭凯	guo kai	4059
+郭兰兰	guo lan lan	4329
+郭丽君	guo li jun	4474
+郭立维	guo li wei	2309
+郭生	guo sheng	3412
+郭帅	guo shuai	3961
+郭婷婷	guo ting ting	4360
+郭霞	guo xia	1593
+郭晓东	guo xiao dong	3996
+郭秀荣	guo xiu rong	2690
+郭旭东	guo xu dong	4997
+郭彦华	guo yan hua	2312
+郭毅立	guo yi li	2944
+郭勇	guo yong	4716
+郭元	guo yuan	3173
+果园镇	guo yuan zhen	1487
+哈建平	ha jian ping	2720
+海洋	hai yang	51
+海洋工程	hai yang gong cheng	188
+海洋科学	hai yang ke xue	229
+韩东	han dong	2650
+韩菲	han fei	2266
+韩国银	han guo yin	1569
+含糊其辞	han hu qi ci	775
+韩惠宗	han hui zong	2375
+韩继军	han ji jun	4670
+韩俭	han jian	4861
+韩建斌	han jian bin	4528
+韩建鑫	han jian xin	2464
+韩谨雅	han jin ya	5111
+韩居斌	han ju bin	4626
+韩军	han jun	2402
+韩军梅	han jun mei	2419
+韩丽	han li	4363
+韩丽萍	han li ping	2038
+韩亮	han liang	1166
+韩林	han lin	1583
+韩孟奇	han meng qi	2200
+韩明杰	han ming jie	3007
+韩平	han ping	2120
+韩世英	han shi ying	1751
+汉唐街北社区	han tang jie bei she qu	1461
+汉唐街南社区	han tang jie nan she qu	1469
+韩炜	han wei	3810
+韩晓东	han xiao dong	2383
+韩新斌	han xin bin	2645
+韩秀峰	han xiu feng	1924
+韩秀丽	han xiu li	1970
+韩秀玲	han xiu ling	2227
+韩雪荣	han xue rong	1582
+汉语国际教育	han yu guo ji jiao yu	108
+韩宇轩	han yu xuan	2052
+汉语言文学	han yu yan wen xue	109
+韩兆锋	han zhao feng	3208
+韩振娜	han zhen na	4118
+韩正华	han zheng hua	2149
+韩正瑞	han zheng rui	3261
+韩正文	han zheng wen	4227
+韩正星	han zheng xing	4417
+韩正中	han zheng zhong	3405
+韩志国	han zhi guo	3972
+韩志虎	han zhi hu	3776
+韩志军	han zhi jun	3060
+韩志忠	han zhi zhong	2510
+夯基提质	hang ji ti zhi	1436
+航空宇航	hang kong yu hang	187
+夯实根基	hang shi gen ji	1236
+好话	hao hua	774
+郝建民	hao jian min	2625
+浩军	hao jun	2887
+郝亮	hao liang	3840
+郝忻泉	hao xin quan	4034
+贺斌	he bin	4470
+何晨晓	he chen xiao	4184
+何翠芯	he cui xin	3529
+贺登贵	he deng gui	3119
+贺冬萍	he dong ping	1671
+合法权益	he fa quan yi	400
+核工程	he gong cheng	47
+何桂芬	he gui fen	3327
+何贵生	he gui sheng	2538
+何宏	he hong	2061
+何华	he hua	2890
+何欢	he huan	3461
+何卉	he hui	4858
+何辉	he hui	4451
+贺吉军	he ji jun	5031
+核技术	he ji shu	46
+何佳	he jia	1576
+何家伦	he jia lun	1895
+贺建华	he jian hua	3048
+何金慧	he jin hui	4991
+何金禄	he jin lu	2665
+何景	he jing	3101
+核科学	he ke xue	184
+贺立国	he li guo	2069
+何凌	he ling	3860
+贺玲春	he ling chun	2411
+何明	he ming	2684
+何瑞	he rui	5006
+何少华	he shao hua	3963
+何生文	he sheng wen	3710
+核实	he shi	830
+核实绩	he shi ji	754
+何书春	he shu chun	3610
+何天虎	he tian hu	4646
+何天军	he tian jun	2239
+何天明	he tian ming	2427
+何艇	he ting	4593
+贺婷	he ting	5060
+何伟	he wei	2551
+何文泽	he wen ze	3686
+贺贤民	he xian min	1744
+何小铭	he xiao ming	3353
+核心承载区	he xin cheng zai qu	571
+核心发展领域	he xin fa zhan ling yu	366
+核心手段	he xin shou duan	814
+核心原则	he xin yuan ze	952
+贺兴龙	he xing long	2743
+贺莹	he ying	4053
+贺毓	he yu	4929
+何玉军	he yu jun	4866
+何振兴	he zhen xing	3754
+何振亚	he zhen ya	1799
+何志军	he zhi jun	4628
+贺志敏	he zhi min	4965
+横向对比	heng xiang dui bi	665
+红脸出汗	hong lian chu han	1342
+红色淬炼	hong se cui lian	381
+后备储备	hou bei chu bei	1328
+侯波	hou bo	2776
+侯登连	hou deng lian	3696
+侯高鹏	hou gao peng	5009
+后顾之忧	hou gu zhi you	408
+侯军	hou jun	4344
+侯平军	hou ping jun	2629
+侯淑云	hou shu yun	3816
+侯晓荣	hou xiao rong	4745
+侯新华	hou xin hua	2574
+侯亚萍	hou ya ping	3216
+侯自刚	hou zi gang	1809
+胡贝尔	hu bei er	4017
+胡成忠	hu cheng zhong	5024
+胡丹	hu dan	2053
+胡东	hu dong	4492
+胡国丽	hu guo li	5016
+胡海丽	hu hai li	4566
+胡海燕	hu hai yan	1626
+胡锦武	hu jin wu	2426
+胡晶洁	hu jing jie	2132
+胡娟	hu juan	1939
+护理学	hu li xue	153
+胡淑娟	hu shu juan	3551
+呼涛	hu tao	4072
+胡伟	hu wei	2346
+胡晓飞	hu xiao fei	3739
+胡晓峰	hu xiao feng	4292
+胡兴梅	hu xing mei	2864
+胡兴旺	hu xing wang	2718
+胡艳梅	hu yan mei	2302
+胡瑜	hu yu	5001
+胡玉玲	hu yu ling	2050
+胡玉梅	hu yu mei	2916
+胡玉清	hu yu qing	2989
+胡忠	hu zhong	3894
+铧尖镇	hua jian zhen	1484
+华璇	hua xuan	4022
+化学	hua xue	233
+化学工程	hua xue gong cheng	198
+换届研判	huan jie yan pan	1346
+环境工程	huan jing gong cheng	42
+环境科学	huan jing ke xue	181
+环境面貌	huan jing mian mao	904
+环境设计	huan jing she ji	2
+黄斌林	huang bin lin	2442
+黄成	huang cheng	1979
+黄诚	huang cheng	3223
+黄芳	huang fang	4215
+黄奋娟	huang fen juan	1633
+黄凤萍	huang feng ping	2353
+黄刚林	huang gang lin	2580
+黄国花	huang guo hua	4497
+黄海云	huang hai yun	3742
+黄海运	huang hai yun	2435
+黄建国	huang jian guo	2174
+黄金伟	huang jin wei	4714
+黄克明	huang ke ming	3647
+黄雷喜	huang lei xi	4062
+黄莉蓉	huang li rong	2790
+黄亮	huang liang	2341
+黄林德	huang lin de	2704
+黄林喜	huang lin xi	3028
+黄梅芬	huang mei fen	2274
+黄泥堡乡	huang ni bao xiang	1482
+黄浦	huang pu	2458
+黄琼	huang qiong	2125
+黄蓉	huang rong	4851
+黄荣喜	huang rong xi	4052
+黄如东	huang ru dong	1825
+黄润基	huang run ji	2822
+黄绍霖	huang shao lin	3869
+黄腾	huang teng	3524
+黄文斌	huang wen bin	4462
+黄玺	huang xi	3487
+黄晓斌	huang xiao bin	2169
+黄小芳	huang xiao fang	3466
+黄鑫生	huang xin sheng	1814
+黄兴明	huang xing ming	1806
+黄学斌	huang xue bin	3088
+黄学刚	huang xue gang	4294
+黄晔	huang ye	1944
+黄奕欣	huang yi xin	3049
+黄玉梅	huang yu mei	3330
+黄赟	huang yun	3911
+黄志燕	huang zhi yan	2761
+回避问题	hui bi wen ti	767
+回避制度	hui bi zhi du	438
+会场	hui chang	1003
+会场表现	hui chang biao xian	919
+会后收回	hui hou shou hui	1001
+绘画	hui hua	4
+会客室	hui ke shi	993
+回头看	hui tou kan	1336
+惠伟	hui wei	3043
+会议	hui yi	1186
+会议记录	hui yi ji lu	692
+会议厅	hui yi ting	995
+会议推荐	hui yi tui jian	1140
+霍玢岩	huo bin yan	3956
+霍东	huo dong	1921
+火蕊	huo rui	5002
+火眼金睛	huo yan jin jing	963
+霍宗文	huo zong wen	3234
+基本称职等次	ji ben chen zhi deng ci	1020
+基层干部队伍	ji ceng gan bu dui wu	355
+基层关爱	ji ceng guan ai	485
+基层群众	ji ceng qun zhong	869
+基层一线	ji ceng yi xian	389
+基层治理	ji ceng zhi li	1414
+基层治理根基	ji ceng zhi li gen ji	348
+基层治理现代化	ji ceng zhi li xian dai hua	323
+集成电路	ji cheng dian lu	136
+基础医学	ji chu yi xue	163
+激活力	ji huo li	1230
+激励保障	ji li bao zhang	293
+激励担当	ji li dan dang	1365
+激励干部担当作为	ji li gan bu dan dang zuo wei	1128
+激励关怀	ji li guan huai	471
+激励机制	ji li ji zhi	321
+激励约束	ji li yue shu	596
+记录	ji lu	831
+纪律规范类	ji lv gui fan lei	1284
+纪律教化	ji lv jiao hua	380
+纪明	ji ming	3820
+技能人才	ji neng ren cai	1297
+给排水科学	ji pai shui ke xue	61
+技巧	ji qiao	980
+纪然	ji ran	3728
+纪实管理	ji shi guan li	1352
+棘手问题	ji shou wen ti	792
+技术	ji shu	216
+计算机科学	ji suan ji ke xue	203
+计算科学	ji suan ke xue	94
+集体挂靠	ji ti gua kao	737
+绩效考核	ji xiao kao he	1200
+机械工程	ji xie gong cheng	219
+机械化	ji xie hua	44
+机械设计	ji xie she ji	84
+机遇	ji yu	1058
+急躁漂浮	ji zao piao fu	924
+贾瑷榕	jia ai rong	2855
+贾宝鹏	jia bao peng	4756
+贾承谠	jia cheng dang	4475
+贾二平	jia er ping	2403
+家风家教	jia feng jia jiao	899
+贾光春	jia guang chun	2307
+贾海涛	jia hai tao	2599
+贾会建	jia hui jian	3729
+贾傈	jia li	2180
+贾莉	jia li	3248
+贾黎	jia li	3781
+贾璐	jia lu	1996
+贾鲁欣	jia lu xin	3636
+贾梦琦	jia meng qi	2369
+贾生成	jia sheng cheng	4101
+贾生忠	jia sheng zhong	4386
+贾卫	jia wei	2366
+贾向阳	jia xiang yang	3553
+贾筱延	jia xiao yan	2996
+贾顔榕	jia yan rong	3499
+贾迎春	jia ying chun	2445
+监察官序列	jian cha guan xu lie	462
+监督管理	jian du guan li	292
+监督申诉工作	jian du shen su gong zuo	407
+监督主体责任	jian du zhu ti ze ren	406
+建机制	jian ji zhi	1224
+健康保障	jian kang bao zhang	350
+坚强保障	jian qiang bao zhang	974
+坚强组织保障	jian qiang zu zhi bao zhang	274
+健全工作架构	jian quan gong zuo jia gou	534
+健全机制	jian quan ji zhi	1249
+减少顾虑	jian shao gu lv	798
+建设	jian she	1440
+兼听则明	jian ting ze ming	879
+建筑学	jian zhu xue	202
+讲稿	jiang gao	985
+姜广庆	jiang guang qing	1868
+蒋国元	jiang guo yuan	2418
+姜宏	jiang hong	2175
+蒋宏	jiang hong	4612
+姜鸿森	jiang hong sen	1822
+姜建宏	jiang jian hong	4590
+姜君华	jiang jun hua	3172
+姜磊	jiang lei	1621
+姜敏	jiang min	2733
+姜铭	jiang ming	2840
+江楠	jiang nan	2021
+蒋鹏飞	jiang peng fei	4943
+姜倩	jiang qian	4234
+姜守春	jiang shou chun	3001
+蒋淑玲	jiang shu ling	1969
+蒋文钰	jiang wen yu	4064
+姜有仁	jiang you ren	3789
+姜瑜	jiang yu	2546
+蒋悦	jiang yue	1748
+讲政治	jiang zheng zhi	1283
+姜智川	jiang zhi chuan	4760
+交叉学科	jiao cha xue ke	260
+交叉学科门类	jiao cha xue ke men lei	137
+焦东萍	jiao dong ping	4400
+焦海英	jiao hai ying	2350
+较好的政治素质	jiao hao de zheng zhi su zhi	1036
+焦洪钧	jiao hong jun	1775
+焦甲军	jiao jia jun	1558
+焦少权	jiao shao quan	2486
+交通工程	jiao tong gong cheng	52
+交通运输	jiao tong yun shu	53
+交通运输工程	jiao tong yun shu gong cheng	190
+焦小虎	jiao xiao hu	3836
+焦晓琴	jiao xiao qin	2583
+焦学敬	jiao xue jing	3008
+焦学荣	jiao xue rong	2046
+焦银明	jiao yin ming	5014
+焦玉环	jiao yu huan	2935
+教育培训	jiao yu pei xun	581
+教育学	jiao yu xue	269
+教育学门类	jiao yu xue men lei	247
+街道	jie dao	1143
+阶段性成效	jie duan xing cheng xiao	346
+结对帮带	jie dui bang dai	364
+解放路社区	jie fang lu she qu	1466
+结果导向	jie guo dao xiang	309
+借鉴	jie jian	958
+解伟	jie wei	4632
+进步快慢	jin bu kuai man	664
+津补贴	jin bu tie	411
+金凡毓	jin fan yu	2591
+金佛寺镇	jin fo si zhen	1477
+靳福生	jin fu sheng	2422
+晋鸽	jin ge	3601
+金海娟	jin hai juan	2094
+金河社区	jin he she qu	1451
+靳建明	jin jian ming	2562
+金建泽	jin jian ze	3835
+金玲	jin ling	1936
+金美玉	jin mei yu	2590
+紧迫感	jin po gan	1056
+金泉路社区	jin quan lu she qu	1467
+紧缺专业	jin que zhuan ye	327
+紧缺专业人才引进	jin que zhuan ye ren cai yin jin	289
+进人用人管理	jin ren yong ren guan li	454
+金融工程	jin rong gong cheng	127
+金融商贸	jin rong shang mao	330
+金融学	jin rong xue	128
+近三年	jin san nian	794
+靳尚良	jin shang liang	5047
+金属材料工程	jin shu cai liao gong cheng	74
+金伟军	jin wei jun	4095
+靳文忠	jin wen zhong	5019
+敬才用才	jing cai yong cai	1303
+景芳	jing fang	4348
+景刚元	jing gang yuan	4212
+景海霞	jing hai xia	1660
+景惠荣	jing hui rong	4106
+经济社会高质量发展	jing ji she hui gao zhi liang fa zhan	573
+经济统计学	jing ji tong ji xue	131
+经济往来	jing ji wang lai	710
+经济学	jing ji xue	271
+经济学门类	jing ji xue men lei	256
+景军	jing jun	1812
+景俊德	jing jun de	3038
+景军仁	jing jun ren	1589
+景明红	jing ming hong	2104
+景全	jing quan	4942
+景全德	jing quan de	4831
+精神面貌	jing shen mian mao	928
+精神实质	jing shen shi zhi	1006
+景文	jing wen	4776
+景文全	jing wen quan	1865
+精细化水平	jing xi hua shui ping	478
+经验	jing yan	959
+景玉文	jing yu wen	2884
+精准滴灌	jing zhun di guan	370
+精准考察	jing zhun kao cha	1370
+精准落地	jing zhun luo di	460
+精准识别	jing zhun shi bie	1371
+精准识人	jing zhun shi ren	962
+精准使用	jing zhun shi yong	1368
+精准研判	jing zhun yan pan	1369
+精准引才	jing zhun yin cai	1288
+精准用才	jing zhun yong cai	1286
+精准育才	jing zhun yu cai	1287
+久久为功	jiu jiu wei gong	1262
+纠治顽疾	jiu zhi wan ji	1269
+聚焦重点	ju jiao zhong dian	827
+具体方法	ju ti fang fa	981
+具体化	ju ti hua	488
+具体经过	ju ti jing guo	772
+具体事例	ju ti shi li	795
+具体要求	ju ti yao qiu	1137
+堪当重任	kan dang zhong ren	1132
+康炳忠	kang bing zhong	2998
+康丽	kang li	4809
+康录	kang lu	4602
+康希东	kang xi dong	4479
+康晓萍	kang xiao ping	1935
+康秀梅	kang xiu mei	2491
+康毅	kang yi	4020
+康咏梅	kang yong mei	3944
+康智礼	kang zhi li	2651
+康仲泉	kang zhong quan	3923
+考察程序	kao cha cheng xu	1113
+考察工作规矩	kao cha gong zuo gui ju	1088
+考察工作纪律	kao cha gong zuo ji lv	616
+考察基础	kao cha ji chu	933
+考察研判	kao cha yan pan	1362
+考察组	kao cha zu	1180
+考察组成员	kao cha zu cheng yuan	1173
+考古学	kao gu xue	239
+考核奖惩	kao he jiang cheng	582
+考核结果	kao he jie guo	740
+考核评价	kao he ping jia	1201
+考录登记	kao lu deng ji	527
+考勤考核	kao qin kao he	689
+可操作性	ke cao zuo xing	333
+客观公正	ke guan gong zheng	702
+客观评价	ke guan ping jia	640
+柯海青	ke hai qing	4404
+恪尽职守	ke jin zhi shou	1274
+客套话	ke tao hua	632
+科学	ke xue	186
+科学化水平	ke xue hua shui ping	468
+科学技术史	ke xue ji shu shi	224
+科学识人	ke xue shi ren	961
+科学依据	ke xue yi ju	697
+科长	ke zhang	1167
+空泛评语	kong fan ping yu	672
+孔融	kong rong	5105
+孔应祥	kong ying xiang	2232
+控制工程	kong zhi gong cheng	80
+控制科学	kong zhi ke xue	205
+口碑说话	kou bei shuo hua	628
+寇俊琴	kou jun qin	4262
+口腔医学	kou qiang yi xue	161
+寇文武	kou wen wu	3807
+寇学军	kou xue jun	3013
+寇银强	kou yin qiang	4415
+夸大成绩	kua da cheng ji	638
+跨领域流转通道	kua ling yu liu zhuan tong dao	281
+会计学	kuai ji xue	22
+框架性要求	kuang jia xing yao qiu	490
+矿业工程	kuang ye gong cheng	195
+拉家常	la jia chang	848
+赖鑫	lai xin	4533
+揽功推过	lan gong tui guo	718
+郎海斌	lang hai bin	4176
+郎生欣	lang sheng xin	4353
+朗世全	lang shi quan	1611
+郎玉娟	lang yu juan	2108
+老干部	lao gan bu	1326
+牢记使命	lao ji shi ming	604
+牢记在心	lao ji zai xin	648
+乐莹	le ying	2201
+雷国兴	lei guo xing	3011
+雷海峰	lei hai feng	3414
+雷华	lei hua	4073
+雷金辉	lei jin hui	2852
+雷静	lei jing	2134
+雷涛	lei tao	4339
+雷祥	lei xiang	1708
+雷晓军	lei xiao jun	4681
+雷晓平	lei xiao ping	4998
+雷晓英	lei xiao ying	1914
+雷学文	lei xue wen	3431
+雷雅静	lei ya jing	3262
+雷震域	lei zhen yu	4896
+李阿丹	li a dan	2681
+李爱斌	li ai bin	3759
+李爱君	li ai jun	3886
+李爱文	li ai wen	2938
+李爱霞	li ai xia	2740
+李彬	li bin	4545
+黎斌	li bin	2982
+李兵元	li bing yuan	4735
+李彩虹	li cai hong	3645
+李昌博	li chang bo	4074
+李长明	li chang ming	5136
+李长生	li chang sheng	3689
+李长雄	li chang xiong	2699
+李长忠	li chang zhong	3229
+李成平	li cheng ping	1629
+李冲	li chong	2294
+李大军	li da jun	3099
+李丹	li dan	2915
+李丹阳	li dan yang	4143
+李德伟	li de wei	2391
+李栋	li dong	2911
+李冬潇	li dong xiao	4695
+李铎锋	li duo feng	3315
+李发军	li fa jun	3854
+李发林	li fa lin	2813
+李发渲	li fa xuan	4075
+李芳	li fang	3235
+李飞	li fei	2416
+李峰	li feng	4699
+李峰元	li feng yuan	3469
+李刚	li gang	4396
+李光明	li guang ming	4732
+李光霞	li guang xia	4447
+李桂英	li gui ying	3326
+李果	li guo	2473
+李国祥	li guo xiang	1160
+李海滨	li hai bin	2331
+李海丰	li hai feng	4693
+李海明	li hai ming	3736
+李海兴	li hai xing	1651
+李海星	li hai xing	4066
+李海燕	li hai yan	4380
+李汉军	li han jun	3572
+李航	li hang	3477
+李皓静	li hao jing	4331
+李恒	li heng	4409
+李红	li hong	4140
+李宏亮	li hong liang	4796
+李鸿林	li hong lin	4398
+李红明	li hong ming	2948
+李虎君	li hu jun	4865
+李华旦	li hua dan	4702
+李慧	li hui	2671
+李晖	li hui	3363
+李辉	li hui	4063
+李卉卉	li hui hui	3916
+李惠元	li hui yuan	4130
+李继滨	li ji bin	3136
+李佳	li jia	4076
+李佳佳	li jia jia	4371
+李加强	li jia qiang	3954
+李建	li jian	2811
+李剑锋	li jian feng	4202
+李建国	li jian guo	1670
+李建军	li jian jun	4661
+李建民	li jian min	2333
+李建平	li jian ping	5113
+李建萍	li jian ping	2092
+李建荣	li jian rong	2452
+李建欣	li jian xin	3700
+李建业	li jian ye	4205
+李建忠	li jian zhong	3443
+李杰	li jie	4207
+李金虎	li jin hu	5017
+李金泉	li jin quan	2661
+李婧	li jing	1875
+李晶	li jing	4350
+李竞	li jing	1946
+李静	li jing	1990
+李静涛	li jing tao	4418
+李娟	li juan	5083
+李俊	li jun	3770
+李军党	li jun dang	2002
+李君德	li jun de	3676
+李军国	li jun guo	2913
+李军顺	li jun shun	3818
+李军文	li jun wen	3785
+李君兴	li jun xing	1885
+李凯	li kai	1653
+李珂	li ke	4930
+李克勤	li ke qin	3931
+李磊	li lei	5003
+李丽	li li	4355
+李莉	li li	3132
+李立春	li li chun	2152
+李亮	li liang	3862
+力量下沉	li liang xia chen	1411
+李林生	li lin sheng	3104
+李灵	li ling	3332
+李玲	li ling	4449
+李泠楠	li ling nan	4970
+理论经济学	li lun jing ji xue	255
+理论学习中心组	li lun xue xi zhong xin zu	514
+理论研学	li lun yan xue	382
+李梦霏	li meng fei	4127
+李敏	li min	4256
+李明	li ming	1737
+李明海	li ming hai	4774
+李明霞	li ming xia	4365
+李娜	li na	5146
+李宁	li ning	4387
+李鹏	li peng	3520
+礼品礼金	li pin li jin	612
+李平	li ping	4624
+李萍	li ping	2513
+李琦	li qi	2027
+李倩	li qian	1898
+李强	li qiang	5099
+李琴	li qin	4087
+李清香	li qing xiang	3388
+离任交接	li ren jiao jie	484
+李榕	li rong	4168
+李荣	li rong	4191
+李蓉	li rong	4291
+李荣保	li rong bao	2559
+李瑞	li rui	4710
+李瑞琦	li rui qi	3271
+李瑞霞	li rui xia	1614
+立身履职	li shen lv zhi	1102
+立身行事	li shen xing shi	714
+李生林	li sheng lin	5076
+李生喜	li sheng xi	4405
+李生信	li sheng xin	1817
+李世民	li shi min	4035
+历史学	li shi xue	267
+历史学门类	li shi xue men lei	240
+李世云	li shi yun	1628
+李树文	li shu wen	1810
+李爽	li shuang	2228
+李思琪	li si qi	4150
+李涛	li tao	3752
+立体像	li ti xiang	940
+李婷	li ting	4319
+李婷婷	li ting ting	3005
+离退休干部	li tui xiu gan bu	1325
+李万明	li wan ming	2397
+李万霞	li wan xia	2093
+李伟	li wei	4836
+李炜	li wei	4696
+李维	li wei	4037
+李卫民	li wei min	2409
+李伟强	li wei qiang	2144
+李伟武	li wei wu	4472
+李文	li wen	3170
+李雯	li wen	4208
+李文博	li wen bo	4633
+李文德	li wen de	2358
+栗雯婧	li wen jing	4384
+李文军	li wen jun	3251
+李文青	li wen qing	2841
+李文婷	li wen ting	4588
+李文智	li wen zhi	4823
+李武	li wu	4393
+李西安	li xi an	3067
+李霞	li xia	3702
+李晓娟	li xiao juan	4777
+李小丽	li xiao li	2306
+李晓丽	li xiao li	1739
+李晓敏	li xiao min	2922
+李小平	li xiao ping	4738
+李晓泉	li xiao quan	4520
+李晓霞	li xiao xia	4287
+李效雄	li xiao xiong	3450
+李晓英	li xiao ying	2605
+李晓云	li xiao yun	2990
+李新	li xin	2472
+李昕	li xin	2336
+李鑫	li xin	4019
+李新春	li xin chun	2166
+李新慧	li xin hui	3598
+李新建	li xin jian	2179
+李鑫龙	li xin long	4067
+李兴锋	li xing feng	2631
+李兴富	li xing fu	1871
+李兴福	li xing fu	2612
+李兴虎	li xing hu	2749
+李兴华	li xing hua	2925
+李兴佳	li xing jia	4619
+立行立改	li xing li gai	1337
+李兴明	li xing ming	1783
+李兴鹏	li xing peng	3152
+李兴文	li xing wen	4137
+李雄	li xiong	3731
+李秀娟	li xiu juan	2162
+李秀艳	li xiu yan	2181
+力学	li xue	220
+理学	li xue	266
+李雪峰	li xue feng	2287
+李学军	li xue jun	3432
+理学门类	li xue men lei	236
+李雪雯	li xue wen	1978
+李郇梅	li xun mei	2844
+李桠楠	li ya nan	1729
+李燕	li yan	5007
+李艳	li yan	3215
+李彦斌	li yan bin	1567
+李艳玲	li yan ling	2080
+李艳蓉	li yan rong	3400
+李艳霞	li yan xia	4982
+李阳	li yang	1954
+李瑛	li ying	2351
+李颖	li ying	3909
+李应军	li ying jun	3392
+李应鑫	li ying xin	2291
+李勇	li yong	3927
+李永东	li yong dong	3719
+李永福	li yong fu	5033
+李勇俊	li yong jun	3606
+李永军	li yong jun	4163
+李永亮	li yong liang	1962
+李玉	li yu	5110
+李玉婷	li yu ting	2224
+李昱娴	li yu xian	2587
+李玉祥	li yu xiang	2904
+李园园	li yuan yuan	4347
+李玥	li yue	3526
+李在春	li zai chun	3536
+李泽儒	li ze ru	4094
+李振民	li zhen min	3851
+李正东	li zheng dong	2630
+李正海	li zheng hai	2624
+李正君	li zheng jun	3022
+李正录	li zheng lu	3428
+李正义	li zheng yi	4098
+李智	li zhi	3220
+李志春	li zhi chun	4936
+李志杰	li zhi jie	4327
+李致年	li zhi nian	4649
+李忠	li zhong	3794
+李忠新	li zhong xin	1728
+李柱	li zhu	4558
+李自彬	li zi bin	4801
+立足基层实际	li zu ji ceng shi ji	493
+李尊燮	li zun xie	2384
+廉彬	lian bin	3674
+连德礼	lian de li	2278
+廉洁	lian jie	784
+廉洁底线	lian jie di xian	608
+廉洁自律	lian jie zi lv	709
+廉洁作风	lian jie zuo feng	757
+联席会议室	lian xi hui yi shi	992
+联系基层	lian xi ji ceng	908
+联系镇村	lian xi zhen cun	678
+连晓虎	lian xiao hu	4660
+廉政防线	lian zheng fang xian	427
+廉政风险	lian zheng feng xian	401
+梁芳	liang fang	2550
+梁建国	liang jian guo	4728
+梁俊峰	liang jun feng	3386
+梁连云	liang lian yun	3355
+梁姗	liang shan	3044
+梁顺海	liang shun hai	4926
+梁涛	liang tao	4783
+梁晓龙	liang xiao long	2356
+两新组织	liang xin zu zhi	1206
+梁延丽	liang yan li	3915
+梁英	liang ying	2319
+梁永刚	liang yong gang	3571
+梁自春	liang zi chun	4791
+廖卉	liao hui	4369
+聊实情	liao shi qing	847
+廖伟伟	liao wei wei	1836
+廖祥颖	liao xiang ying	2076
+临场应变	lin chang ying bian	915
+临床医学	lin chuang yi xue	162
+蔺春燕	lin chun yan	3936
+蔺国瑞	lin guo rui	3379
+蔺国文	lin guo wen	2483
+林会荣	lin hui rong	1933
+蔺佳	lin jia	4142
+临近退休	lin jin tui xiu	1011
+蔺涛	lin tao	4083
+蔺霞	lin xia	1788
+蔺小东	lin xiao dong	1607
+蔺小峰	lin xiao feng	2235
+林学	lin xue	167
+蔺学明	lin xue ming	3561
+林业工程	lin ye gong cheng	182
+蔺玉梅	lin yu mei	3455
+蔺志明	lin zhi ming	4266
+领导班子	ling dao ban zi	1150
+领导班子成员	ling dao ban zi cheng yuan	1151
+领导干部	ling dao gan bu	1187
+领导干部带头研学	ling dao gan bu dai tou yan xue	515
+领导评价	ling dao ping jia	876
+领会意图	ling hui yi tu	1135
+灵活运用	ling huo yun yong	755
+刘爱德	liu ai de	4790
+刘斌	liu bin	3543
+刘斌斌	liu bin bin	4788
+刘兵	liu bing	3758
+刘炳甲	liu bing jia	4532
+刘炳江	liu bing jiang	4258
+刘炳洋	liu bing yang	2098
+刘伯林	liu bo lin	1697
+刘彩玲	liu cai ling	1590
+刘彩霞	liu cai xia	2462
+留才兴才	liu cai xing cai	1316
+刘长鸿	liu chang hong	2290
+刘长军	liu chang jun	2507
+刘长连	liu chang lian	1727
+刘长林	liu chang lin	2577
+刘长荣	liu chang rong	2722
+刘长信	liu chang xin	2963
+刘长银	liu chang yin	2417
+刘超英	liu chao ying	4562
+刘成东	liu cheng dong	4342
+流程规范	liu cheng gui fan	532
+刘春德	liu chun de	2792
+刘春慧	liu chun hui	1998
+刘春玲	liu chun ling	3424
+刘翠红	liu cui hong	2378
+刘岱鲁	liu dai lu	3788
+刘丹	liu dan	4725
+刘德成	liu de cheng	1679
+刘德锦	liu de jin	4524
+刘德双	liu de shuang	3622
+刘恩宽	liu en kuan	4018
+刘芳	liu fang	3934
+刘飞燕	liu fei yan	4423
+刘锋	liu feng	4698
+刘钢	liu gang	4676
+刘光华	liu guang hua	4194
+刘光耀	liu guang yao	4700
+刘桂兰	liu gui lan	2379
+刘国兴	liu guo xing	4615
+刘海	liu hai	2524
+柳海	liu hai	4091
+刘海川	liu hai chuan	2686
+刘海生	liu hai sheng	4419
+刘恒德	liu heng de	2323
+刘宏林	liu hong lin	4785
+刘宏伟	liu hong wei	5153
+刘鸿玮	liu hong wei	1692
+刘华	liu hua	5119
+刘晖	liu hui	4351
+刘辉年	liu hui nian	2984
+刘荟荣	liu hui rong	1941
+刘惠贤	liu hui xian	2565
+刘吉飞	liu ji fei	5125
+刘建东	liu jian dong	4422
+刘建国	liu jian guo	5112
+刘建华	liu jian hua	2478
+刘建军	liu jian jun	3983
+刘建林	liu jian lin	2654
+刘建泉	liu jian quan	2332
+刘建新	liu jian xin	2047
+刘江	liu jiang	3570
+刘江泉	liu jiang quan	2424
+刘婕	liu jie	2352
+刘津津	liu jin jin	3253
+刘金强	liu jin qiang	3824
+刘金荣	liu jin rong	1599
+刘金霞	liu jin xia	4289
+刘精	liu jing	1707
+柳娟娟	liu juan juan	2044
+刘珺	liu jun	1811
+刘坤林	liu kun lin	2616
+刘磊	liu lei	1627
+刘丽	liu li	2087
+刘莉	liu li	2853
+刘立刚	liu li gang	5015
+刘丽环	liu li huan	1776
+刘丽梅	liu li mei	3409
+刘利娜	liu li na	3899
+刘丽蓉	liu li rong	4160
+刘联社	liu lian she	3943
+刘璐	liu lu	3376
+刘美玲	liu mei ling	5104
+刘孟君	liu meng jun	2193
+刘明	liu ming	2997
+刘明茹	liu ming ru	3009
+刘攀	liu pan	1820
+刘萍	liu ping	1913
+刘强	liu qiang	5160
+刘泉	liu quan	3085
+留人难	liu ren nan	349
+刘荣	liu rong	2673
+刘荣花	liu rong hua	3266
+刘儒彦	liu ru yan	4051
+刘社革	liu she ge	3347
+刘世保	liu shi bao	3228
+刘世宏	liu shi hong	2389
+刘世林	liu shi lin	3201
+刘世宇	liu shi yu	3902
+刘帅	liu shuai	3929
+刘爽琪	liu shuang qi	1706
+刘涛	liu tao	4175
+刘天义	liu tian yi	2314
+刘巍	liu wei	3885
+刘卫东	liu wei dong	2299
+刘维东	liu wei dong	3517
+刘卫新	liu wei xin	3893
+刘喜忠	liu xi zhong	3685
+刘向恩	liu xiang en	3782
+刘晓	liu xiao	3925
+刘晓峰	liu xiao feng	2212
+刘晓娟	liu xiao juan	1630
+刘晓军	liu xiao jun	4854
+刘晓莉	liu xiao li	2875
+刘潇倩	liu xiao qian	4016
+刘霄纬	liu xiao wei	2767
+刘晓媛	liu xiao yuan	2036
+刘鑫	liu xin	4763
+刘兴宏	liu xing hong	3285
+刘兴军	liu xing jun	4917
+刘兴礼	liu xing li	4138
+刘兴社	liu xing she	3165
+刘兴文	liu xing wen	2305
+刘兴星	liu xing xing	4775
+刘兴旭	liu xing xu	4868
+刘兴铸	liu xing zhu	1620
+刘雪梅	liu xue mei	4912
+刘娅婧	liu ya jing	2040
+刘雅婷	liu ya ting	4709
+刘燕	liu yan	4563
+刘彦君	liu yan jun	2908
+刘艳青	liu yan qing	4669
+刘艳荣	liu yan rong	2137
+刘艳蓉	liu yan rong	1909
+刘洋	liu yang	5116
+刘英	liu ying	2261
+刘莺	liu ying	4978
+刘颖娜	liu ying na	3242
+刘永彪	liu yong biao	2010
+刘永丰	liu yong feng	2270
+刘勇刚	liu yong gang	3464
+刘咏薇	liu yong wei	2965
+刘永宗	liu yong zong	1625
+刘瑜	liu yu	2862
+刘玉玲	liu yu ling	3596
+刘玉梅	liu yu mei	2285
+刘玉禧	liu yu xi	4892
+刘源	liu yuan	5122
+刘圆圆	liu yuan yuan	2809
+刘越	liu yue	1847
+刘泽邦	liu ze bang	3282
+刘兆静	liu zhao jing	4471
+刘智	liu zhi	2747
+刘志明	liu zhi ming	3583
+刘志伟	liu zhi wei	3677
+刘志义	liu zhi yi	3865
+刘宗勇	liu zong yong	2202
+龙德红	long de hong	3213
+娄文娟	lou wen juan	3595
+卢波	lu bo	3732
+卢彩玲	lu cai ling	4012
+芦彩玲	lu cai ling	5000
+卢国春	lu guo chun	2428
+鲁海	lu hai	2541
+陆海玲	lu hai ling	2522
+陆海颖	lu hai ying	3474
+卢汉卿	lu han qing	2296
+陆建峰	lu jian feng	2470
+卢建江	lu jian jiang	3662
+路建新	lu jian xin	3196
+陆军	lu jun	4508
+录军萍	lu jun ping	3390
+芦克明	lu ke ming	4629
+鲁林	lu lin	3110
+陆楠楠	lu nan nan	1597
+卢生龙	lu sheng long	4819
+卢淑云	lu shu yun	3436
+芦思军	lu si jun	2814
+芦思维	lu si wei	3784
+卢婷婷	lu ting ting	2729
+鲁文斌	lu wen bin	3465
+陆武江	lu wu jiang	2064
+陆霞	lu xia	2364
+卢霞丽	lu xia li	1557
+鲁欣	lu xin	4009
+芦学锋	lu xue feng	3849
+路亚晖	lu ya hui	4835
+卢艳	lu yan	3512
+陆燕	lu yan	3977
+陆艳峰	lu yan feng	1835
+卢艺	lu yi	4079
+卢永锋	lu yong feng	4638
+芦月琴	lu yue qin	1859
+轮岗交流	lun gang jiao liu	1350
+轮训全覆盖	lun xun quan fu gai	504
+论资排辈	lun zi pai bei	1012
+罗斌	luo bin	2057
+罗春梅	luo chun mei	3650
+落地践行	luo di jian xing	516
+落地落细	luo di luo xi	1259
+罗海	luo hai	3241
+逻辑思维	luo ji si wei	914
+逻辑学	luo ji xue	133
+骆家春雷	luo jia chun lei	2876
+罗建明	luo jian ming	4924
+罗娟	luo juan	2495
+罗娜	luo na	1973
+罗少荣	luo shao rong	3613
+落实成效	luo shi cheng xiao	903
+罗淑燕	luo shu yan	4452
+罗天斌	luo tian bin	4911
+罗天锋	luo tian feng	2155
+罗万全	luo wan quan	2213
+罗文柱	luo wen zhu	4659
+罗兴	luo xing	3135
+罗星	luo xing	3930
+罗兴宝	luo xing bao	2879
+罗秀玲	luo xiu ling	4044
+罗秀萍	luo xiu ping	4036
+罗彦生	luo yan sheng	4535
+罗阳阳	luo yang yang	1663
+罗英明	luo ying ming	4743
+罗莹莹	luo ying ying	4285
+罗芝霞	luo zhi xia	3076
+吕波	lv bo	3057
+吕会芸	lv hui yun	3325
+吕继宙	lv ji zhou	4282
+吕建军	lv jian jun	3908
+吕梦阳	lv meng yang	2194
+吕万平	lv wan ping	4027
+吕文会	lv wen hui	2642
+吕文婧	lv wen jing	4146
+吕文明	lv wen ming	3198
+吕霞	lv xia	1649
+吕秀峰	lv xiu feng	1800
+吕洋	lv yang	2234
+吕叶	lv ye	4038
+旅游管理	lv you guan li	19
+履职成效	lv zhi cheng xiao	590
+履职风险	lv zhi feng xian	403
+吕志华	lv zhi hua	4303
+履职尽责	lv zhi jin ze	1263
+履职情况	lv zhi qing kuang	686
+履职现场	lv zhi xian chang	911
+马斌	ma bin	4388
+马嫦娥	ma chang e	1807
+马长武	ma chang wu	4644
+马超龙	ma chao long	2324
+马成	ma cheng	5103
+马驰	ma chi	2975
+马翠兰	ma cui lan	2791
+马东	ma dong	4813
+马东邦	ma dong bang	5072
+马东东	ma dong dong	4812
+马非	ma fei	4434
+马飞	ma fei	4466
+马锋帮	ma feng bang	3100
+马凤红	ma feng hong	4729
+马福全	ma fu quan	4863
+马昊杰	ma hao jie	1906
+马红梅	ma hong mei	4509
+马红云	ma hong yun	2045
+马虎	ma hu	967
+马慧	ma hui	4527
+马获邦	ma huo bang	4237
+马建邦	ma jian bang	3154
+马建斌	ma jian bin	4050
+马建成	ma jian cheng	4534
+马建国	ma jian guo	5088
+马建华	ma jian hua	2842
+马建臻	ma jian zhen	4746
+马金陶	ma jin tao	4482
+马晶	ma jing	2555
+马静	ma jing	5069
+马举邦	ma ju bang	3257
+马君峰	ma jun feng	2488
+马军强	ma jun qiang	2927
+马军帅	ma jun shuai	2687
+马克思主义理论	ma ke si zhu yi li lun	249
+马琨	ma kun	3967
+马岚	ma lan	4399
+马磊	ma lei	4065
+马丽	ma li	3064
+马莉	ma li	4656
+马丽彬	ma li bin	5096
+马丽娟	ma li juan	3274
+马丽丽	ma li li	2168
+马联帮	ma lian bang	4683
+马良	ma liang	1610
+马琳	ma lin	4984
+马林邦	ma lin bang	3030
+马玲	ma ling	2008
+马苓娜	ma ling na	3322
+马敏瑞	ma min rui	4468
+马明帮	ma ming bang	3081
+马明忠	ma ming zhong	3870
+马宁	ma ning	1845
+马培武	ma pei wu	1821
+马鹏成	ma peng cheng	3077
+马萍	ma ping	4031
+马平邦	ma ping bang	1774
+马倩	ma qian	4811
+马琴梅	ma qin mei	4515
+马勤勤	ma qin qin	1616
+马庆	ma qing	4317
+马青斌	ma qing bin	4272
+马清瑞	ma qing rui	3411
+马泉	ma quan	2498
+马泉礼	ma quan li	2447
+马戎	ma rong	3497
+马瑞	ma rui	3658
+马瑞敏	ma rui min	4581
+马瑞鑫	ma rui xin	4833
+马润帮	ma run bang	3084
+马莎莎	ma sha sha	4056
+马世锋	ma shi feng	3727
+马世海	ma shi hai	3917
+马世吉	ma shi ji	3188
+马世林	ma shi lin	3093
+马世强	ma shi qiang	2643
+马世松	ma shi song	1952
+马世文	ma shi wen	2638
+马世武	ma shi wu	3221
+马世银	ma shi yin	1722
+马守斌	ma shou bin	1964
+马守东	ma shou dong	4512
+马守峰	ma shou feng	3494
+马守凯	ma shou kai	1889
+马守琪	ma shou qi	4639
+马守青	ma shou qing	3075
+马守银	ma shou yin	1684
+马水草	ma shui cao	4493
+马天才	ma tian cai	2034
+马天军	ma tian jun	2579
+马维森	ma wei sen	2385
+马文成	ma wen cheng	3668
+马文俊	ma wen jun	1584
+马文军	ma wen jun	3157
+马文君	ma wen jun	2357
+马文明	ma wen ming	3310
+马悟轩	ma wu xuan	2318
+马希海	ma xi hai	1947
+马晓	ma xiao	3620
+马晓东	ma xiao dong	4950
+马晓芳	ma xiao fang	1596
+马晓晗	ma xiao han	2339
+马晓红	ma xiao hong	3607
+马晓静	ma xiao jing	4269
+马小丽	ma xiao li	3756
+马小龙	ma xiao long	3653
+马晓敏	ma xiao min	2783
+马晓婷	ma xiao ting	3485
+马小小	ma xiao xiao	4829
+马晓晓	ma xiao xiao	1848
+马小雄	ma xiao xiong	2496
+马晓妍	ma xiao yan	5081
+马晓燕	ma xiao yan	2186
+马新利	ma xin li	3019
+马兴国	ma xing guo	3981
+马兴龙	ma xing long	3399
+马秀萍	ma xiu ping	2123
+马秀云	ma xiu yun	3245
+马雪蓉	ma xue rong	2242
+马燕	ma yan	5095
+马艳	ma yan	1683
+马延明	ma yan ming	3307
+马瑛	ma ying	3384
+马永健	ma yong jian	2679
+马玉	ma yu	1634
+马玉果	ma yu guo	1721
+马玉娟	ma yu juan	5098
+马玉龙	ma yu long	1778
+马玉梅	ma yu mei	2237
+马玉涛	ma yu tao	4164
+马原	ma yuan	3123
+马园	ma yuan	3232
+马原媛	ma yuan yuan	2011
+马占宝	ma zhan bao	1579
+马忠邦	ma zhong bang	1738
+马宗宏	ma zong hong	2823
+马宗林	ma zong lin	2639
+马宗升	ma zong sheng	2451
+马宗银	ma zong yin	2768
+麻醉学	ma zui xue	31
+漫上辉	man shang hui	5163
+忙忙碌碌	mang mang lu lu	889
+毛春娥	mao chun e	3337
+毛德新	mao de xin	4606
+毛冬	mao dong	2700
+矛盾难题	mao dun nan ti	789
+毛汉春	mao han chun	3054
+毛慧玲	mao hui ling	4555
+毛建慧	mao jian hui	2101
+毛金玉	mao jin yu	3174
+毛珺	mao jun	2824
+毛鹏	mao peng	3897
+毛润琪	mao run qi	2185
+毛顺杰	mao shun jie	3701
+毛伟亮	mao wei liang	4271
+毛伟民	mao wei min	2614
+毛伟生	mao wei sheng	3374
+毛文娟	mao wen juan	2672
+毛晓燕	mao xiao yan	2520
+毛鑫	mao xin	4432
+毛艳霞	mao yan xia	1698
+贸易	mao yi	123
+毛增明	mao zeng ming	2877
+毛增文	mao zeng wen	4196
+美术学	mei shu xue	139
+梅萧	mei xiao	4242
+孟繁博	meng fan bo	4663
+孟根沙	meng gen sha	3581
+孟红霞	meng hong xia	2512
+孟庆博	meng qing bo	2374
+孟庆河	meng qing he	3986
+蒙涛	meng tao	4654
+孟兆伦	meng zhao lun	2878
+孟志宏	meng zhi hong	1174
+孟志军	meng zhi jun	2838
+米航	mi hang	4571
+迷惑	mi huo	746
+米佳	mi jia	2030
+米丽	mi li	3357
+米娜	mi na	2728
+苗发俊	miao fa jun	2883
+苗海伟	miao hai wei	1984
+苗科贤	miao ke xian	2529
+苗头性	miao tou xing	835
+苗头预判法	miao tou yu pan fa	657
+苗献清	miao xian qing	3478
+苗忠清	miao zhong qing	3957
+苗忠贤	miao zhong xian	2136
+民生实效	min sheng shi xiao	674
+民生提质增效	min sheng ti zhi zeng xiao	1061
+民主集中制	min zhu ji zhong zhi	1194
+民主街社区	min zhu jie she qu	1463
+民主权利	min zhu quan li	1118
+民主生活会	min zhu sheng huo hui	1212
+民主推荐	min zhu tui jian	1049
+民主推荐表	min zhu tui jian biao	1005
+民族学	min zu xue	250
+名词	ming ci	1220
+缪文辉	miu wen hui	2079
+摸清	mo qing	626
+摸清底数	mo qing di shu	1247
+末梢治理	mo shao zhi li	1412
+摸透	mo tou	625
+摸准	mo zhun	624
+牟相霞	mou xiang xia	1170
+牟晓炳	mou xiao bing	3476
+牟战军	mou zhan jun	3919
+目标导向	mu biao dao xiang	310
+穆德林	mu de lin	4875
+纳东俊	na dong jun	2334
+南楠	nan nan	2135
+南英	nan ying	4952
+南苑社区	nan yuan she qu	1465
+闹不团结	nao bu tuan jie	777
+内部人事管理	nei bu ren shi guan li	474
+内生动力	nei sheng dong li	394
+能力本领	neng li ben ling	1094
+能力特质	neng li te zhi	733
+能力提升	neng li ti sheng	1321
+能力突出	neng li tu chu	978
+能力优势	neng li you shi	725
+能上能下	neng shang neng xia	1380
+能源	neng yuan	70
+倪长生	ni chang sheng	2489
+倪翠萍	ni cui ping	2117
+逆耳话	ni er hua	877
+拟晋升	ni jin sheng	1182
+倪俊	ni jun	3876
+倪天峰	ni tian feng	3404
+倪向东	ni xiang dong	5114
+倪新周	ni xin zhou	2561
+倪兴雷	ni xing lei	2570
+倪勇	ni yong	3833
+年度考核	nian du kao he	1024
+年度考核评价	nian du kao he ping jia	538
+年轻干部	nian qing gan bu	1329
+聂灵杰	nie ling jie	4111
+聂龙	nie long	3406
+聂文博	nie wen bo	3569
+聂振东	nie zhen dong	4707
+凝聚力	ning ju li	1404
+宁立	ning li	3308
+凝心聚力	ning xin ju li	1435
+宁兴荣	ning xing rong	1725
+牛长春	niu chang chun	1963
+牛成武	niu cheng wu	3454
+牛红霞	niu hong xia	2549
+牛坤	niu kun	4724
+牛佩	niu pei	3122
+牛小勇	niu xiao yong	4519
+牛雅丽	niu ya li	3822
+牛艳云	niu yan yun	2279
+牛玉香	niu yu xiang	2090
+农林经济管理	nong lin jing ji guan li	149
+农学	nong xue	264
+农学门类	nong xue men lei	172
+农业	nong ye	45
+农业工程	nong ye gong cheng	183
+暖心举措	nuan xin ju cuo	410
+暖心聚力	nuan xin ju li	357
+欧阳巧巧	ou yang qiao qiao	3483
+潘飞	pan fei	4310
+潘海波	pan hai bo	2821
+潘红梅	pan hong mei	2518
+潘炬	pan ju	2962
+潘丽琴	pan li qin	5145
+潘锐	pan rui	3883
+潘焱	pan yan	4523
+潘瑛	pan ying	3577
+潘玉明	pan yu ming	3952
+潘占春	pan zhan chun	3790
+潘志清	pan zhi qing	4026
+庞春梅	pang chun mei	3958
+庞慧萍	pang hui ping	1690
+庞开鹏	pang kai peng	5134
+跑风漏气	pao feng lou qi	615
+泡沫政绩	pao mo zheng ji	734
+裴安斌	pei an bin	5029
+裴彩斐	pei cai fei	3949
+裴彩虹	pei cai hong	3534
+裴斐	pei fei	5158
+裴青山	pei qing shan	2693
+配套法规制度	pei tao fa gui zhi du	600
+配套细则	pei tao xi ze	336
+配套制度	pei tao zhi du	481
+陪同接待	pei tong jie dai	681
+裴希枫	pei xi feng	4772
+裴晓评	pei xiao ping	2869
+裴秀婷	pei xiu ting	1880
+培训保障落实	pei xun bao zhang luo shi	424
+培训会	pei xun hui	986
+培养保障	pei yang bao zhang	595
+培育模式	pei yu mo shi	369
+培育体系	pei yu ti xi	420
+彭彩丽	peng cai li	4188
+彭燕霞	peng yan xia	4228
+彭英萍	peng ying ping	2819
+脾气暴躁	pi qi bao zao	720
+偏见	pian jian	643
+偏听偏信	pian ting pian xin	833
+票箱	piao xiang	1043
+品牌创建	pin pai chuang jian	1427
+品行	pin xing	893
+平等待人	ping deng dai ren	921
+平衡照顾	ping heng zhao gu	391
+评价干部	ping jia gan bu	1116
+评价客观精准	ping jia ke guan jing zhun	1111
+平均主义	ping jun zhu yi	659
+凭能力选人	ping neng li xuan ren	1097
+冯清业	ping qing ye	1568
+凭实绩说话	ping shi ji shuo hua	1096
+平台聚才	ping tai ju cai	1309
+评优评先	ping you ping xian	375
+评优树模	ping you shu mo	390
+凭作风识人	ping zuo feng shi ren	1098
+破解瓶颈	po jie ping jing	1237
+破难题	po nan ti	1225
+濮国成	pu guo cheng	3780
+蒲锐	pu rui	4007
+普通干部	pu tong gan bu	804
+濮希军	pu xi jun	2891
+祁朝辉	qi chao hui	2215
+七个优先	qi ge you xian	393
+祁海	qi hai	5049
+祁海英	qi hai ying	4255
+齐昊	qi hao	3837
+祁慧	qi hui	2735
+祁军	qi jun	4372
+祁连路社区	qi lian lu she qu	1464
+齐琳	qi lin	3932
+齐鹏飞	qi peng fei	2386
+齐融	qi rong	3576
+祁生军	qi sheng jun	4455
+其他县级干部	qi ta xian ji gan bu	1547
+祁伟林	qi wei lin	1832
+祁小平	qi xiao ping	2170
+祁晓舟	qi xiao zhou	2084
+祁雪琴	qi xue qin	3880
+企业群众	qi ye qun zhong	802
+祁玉萍	qi yu ping	3774
+漆志旺	qi zhi wang	1682
+旗帜鲜明	qi zhi xian ming	1073
+其自动化	qi zi dong hua	82
+潜绩	qian ji	945
+钱丽敏	qian li min	3817
+钱丽萍	qian li ping	2504
+千人一面	qian ren yi mian	669
+钱伟明	qian wei ming	4544
+前置基础	qian zhi ji chu	519
+强化组织领导	qiang hua zu zhi ling dao	567
+强基固本	qiang ji gu ben	1437
+强弱项	qiang ruo xiang	1228
+强亚奎	qiang ya kui	4651
+悄悄话	qiao qiao hua	843
+乔淑华	qiao shu hua	3427
+巧提问	qiao ti wen	817
+乔天举	qiao tian ju	2691
+乔新亮	qiao xin liang	4569
+乔玉香	qiao yu xiang	2537
+乔治民	qiao zhi min	1982
+秦大海	qin da hai	4636
+秦大荣	qin da rong	3134
+秦大山	qin da shan	4531
+秦芳	qin fang	1591
+秦国虎	qin guo hu	5086
+秦国林	qin guo lin	2308
+秦国顺	qin guo shun	2926
+秦娟	qin juan	2753
+秦渴	qin ke	1904
+秦孟丹	qin meng dan	1797
+勤勉尽责	qin mian jin ze	1033
+秦娜	qin na	5062
+亲亲疏疏	qin qin shu shu	1087
+秦仁国	qin ren guo	3306
+秦瑞	qin rui	2919
+秦世超	qin shi chao	4859
+秦万恒	qin wan heng	3567
+秦晓娟	qin xiao juan	3861
+秦鑫	qin xin	4108
+秦臻	qin zhen	3017
+秦志辉	qin zhi hui	1601
+清仓见底	qing cang jian di	1338
+清单管理	qing dan guan li	1419
+清单化	qing dan hua	1392
+轻工技术	qing gong ji shu	191
+轻化工程	qing hua gong cheng	54
+青年人才	qing nian ren cai	1301
+请示批复	qing shi pi fu	691
+清水镇	qing shui zhen	1475
+倾向性	qing xiang xing	834
+清醒头脑	qing xing tou nao	609
+情绪化	qing xu hua	719
+轻易下结论	qing yi xia jie lun	832
+清正廉洁	qing zheng lian jie	1272
+邱欣	qiu xin	1793
+求真务实	qiu zhen wu shi	1278
+区财政局	qu cai zheng ju	1515
+区残联	qu can lian	1529
+区城管执法局	qu cheng guan zhi fa ju	1498
+区档案馆	qu dang an guan	1533
+屈东林	qu dong lin	5040
+区发改局	qu fa gai ju	1522
+区法院	qu fa yuan	1526
+区妇联	qu fu lian	1530
+区公安分局	qu gong an fen ju	1518
+区供销社	qu gong xiao she	1497
+区工信局	qu gong xin ju	1519
+区管干部	qu guan gan bu	1041
+曲晗	qu han	1792
+区纪委监委	qu ji wei jian wei	1546
+区检察院	qu jian cha yuan	1525
+区交通局	qu jiao tong ju	1512
+区教育局	qu jiao yu ju	1521
+区金融办	qu jin rong ban	1500
+区科技局	qu ke ji ju	1520
+区林草局	qu lin cao ju	1503
+区旅游产业办	qu lv you chan ye ban	1494
+区民政局	qu min zheng ju	1517
+区农业农村局	qu nong ye nong cun ju	1510
+区人大	qu ren da	1550
+区人大常委会	qu ren da chang wei hui	1153
+区人大机关	qu ren da ji guan	1528
+区人社局	qu ren she ju	1514
+区融媒体中心	qu rong mei ti zhong xin	1496
+区商务局	qu shang wu ju	1509
+区审计局	qu shen ji ju	1504
+屈生兵	qu sheng bing	4913
+区生态环境局	qu sheng tai huan jing ju	1491
+区市场监管局	qu shi chang jian guan ju	1502
+区水务局	qu shui wu ju	1511
+区司法局	qu si fa ju	1516
+区统计局	qu tong ji ju	1501
+区退役军人局	qu tui yi jun ren ju	1506
+区委	qu wei	1551
+区委办	qu wei ban	1545
+区委编办	qu wei bian ban	1539
+区委常委会会议	qu wei chang wei hui hui yi	547
+去伪存真	qu wei cun zhen	748
+区委党校	qu wei dang xiao	1534
+区委工作机关	qu wei gong zuo ji guan	1148
+区委候补委员	qu wei hou bu wei yuan	1154
+区卫健局	qu wei jian ju	1507
+区委老干局	qu wei lao gan ju	1535
+区委书记	qu wei shu ji	1189
+区委统一领导	qu wei tong yi ling dao	560
+区委统战部	qu wei tong zhan bu	1542
+区委委员	qu wei wei yuan	1155
+区委宣传部	qu wei xuan chuan bu	1543
+区委巡察办	qu wei xun cha ban	1536
+区委政法委	qu wei zheng fa wei	1541
+区委政研室	qu wei zheng yan shi	1540
+区委组织部	qu wei zu zhi bu	1544
+区文广旅游局	qu wen guang lv you ju	1508
+区乡村振兴局	qu xiang cun zhen xing ju	1495
+屈鑫	qu xin	3678
+区信访局	qu xin fang ju	1537
+区新能源产业办	qu xin neng yuan chan ye ban	1492
+瞿旭景	qu xu jing	2404
+屈亚玲	qu ya ling	3126
+区医保局	qu yi bao ju	1499
+区应急局	qu ying ji ju	1505
+区域中心城市	qu yu zhong xin cheng shi	572
+区政府	qu zheng fu	1549
+区政府办	qu zheng fu ban	1523
+区政协	qu zheng xie	1548
+区政协机关	qu zheng xie ji guan	1527
+区直机关工委	qu zhi ji guan gong wei	1538
+区住建局	qu zhu jian ju	1513
+区自然资源局	qu zi ran zi yuan ju	1490
+区总工会	qu zong gong hui	1532
+全方位	quan fang wei	949
+全覆盖	quan fu gai	810
+全过程	quan guo cheng	564
+泉湖镇	quan hu zhen	1485
+权建新	quan jian xin	3910
+全链条工作	quan lian tiao gong zuo	594
+全流程规范	quan liu cheng gui fan	456
+全面客观	quan mian ke guan	820
+全面细致	quan mian xi zhi	623
+全面真实	quan mian zhen shi	1115
+权晓华	quan xiao hua	3290
+全域覆盖	quan yu fu gai	1432
+全域提升	quan yu ti sheng	1431
+全域统筹	quan yu tong chou	1416
+全员培训常态覆盖	quan yuan pei xun chang tai fu gai	500
+权责清晰	quan ze qing xi	533
+全周期管理	quan zhou qi guan li	1372
+群团组织	qun tuan zu zhi	1146
+群众公认	qun zhong gong ren	1330
+群众公认度高	qun zhong gong ren du gao	1031
+群众工作能力	qun zhong gong zuo neng li	729
+群众观念	qun zhong guan nian	857
+群众认可	qun zhong ren ke	1108
+群众声音	qun zhong sheng yin	875
+冉璐	ran lu	2107
+热孜燕	re zi yan	2930
+人才	ren cai	1443
+人才发展	ren cai fa zhan	214
+人才发展体制机制	ren cai fa zhan ti zhi ji zhi	1191
+人才服务	ren cai fu wu	1289
+人才工作科	ren cai gong zuo ke	1168
+人才基地	ren cai ji di	1293
+人才激励	ren cai ji li	1290
+人才流动	ren cai liu dong	322
+人才评价	ren cai ping jia	1291
+人才强区	ren cai qiang qu	1319
+人才生态	ren cai sheng tai	1305
+人才梯队	ren cai ti dui	1295
+人才项目	ren cai xiang mu	1292
+人才驿站	ren cai yi zhan	1294
+人才支撑	ren cai zhi cheng	570
+任成祖	ren cheng zu	2413
+任春燕	ren chun yan	4427
+人大主要领导	ren da zhu yao ling dao	998
+任飞	ren fei	4799
+人岗相适	ren gang xiang shi	1333
+人工智能	ren gong zhi neng	64
+任红彦	ren hong yan	2553
+任健	ren jian	1903
+任建伟	ren jian wei	3252
+任姣	ren jiao	5063
+任瑾	ren jin	1701
+任金梅	ren jin mei	1971
+任晶晶	ren jing jing	1750
+认可点	ren ke dian	844
+人类学	ren lei xue	118
+人力资源管理	ren li zi yuan guan li	20
+人情打分	ren qing da fen	658
+人情打招呼	ren qing da zhao hu	782
+人情束缚	ren qing shu fu	1099
+人情所扰	ren qing suo rao	611
+任人唯贤	ren ren wei xian	1386
+人少事多	ren shao shi duo	314
+人事任免	ren shi ren mian	597
+人事事项	ren shi shi xiang	545
+人事相宜	ren shi xiang yi	1332
+人文地理	ren wen di li	88
+任晓娟	ren xiao juan	1891
+任兴虎	ren xing hu	5065
+任旭东	ren xu dong	3580
+任燕	ren yan	5067
+任彦韦	ren yan wei	4979
+人员名单	ren yuan ming dan	1044
+任云	ren yun	3061
+任职回避	ren zhi hui bi	433
+任职年限	ren zhi nian xian	1025
+任职培训	ren zhi pei xun	498
+任职资格	ren zhi zi ge	451
+任职资历	ren zhi zi li	1015
+日常管理监督	ri chang guan li jian du	439
+日常监管	ri chang jian guan	579
+日常考核	ri chang kao he	472
+日常研判	ri chang yan pan	1361
+日常状态	ri chang zhuang tai	929
+日语	ri yu	104
+容错纠错	rong cuo jiu cuo	1364
+融合赋能	rong he fu neng	1425
+柔性引才	rou xing yin cai	1311
+茹爱忠	ru ai zhong	4559
+茹冰星	ru bing xing	1911
+茹博云	ru bo yun	3402
+茹长忠	ru chang zhong	4113
+茹荡忠	ru dang zhong	3448
+茹峰忠	ru feng zhong	2705
+茹福朝	ru fu chao	3045
+茹加军	ru jia jun	3663
+茹瑾	ru jin	1603
+茹菊霞	ru ju xia	1831
+茹俊林	ru jun lin	3872
+茹丽娟	ru li juan	2226
+茹玲	ru ling	1689
+茹明	ru ming	2269
+入脑入心	ru nao ru xin	517
+茹莎	ru sha	2347
+茹世国	ru shi guo	3040
+茹淑萍	ru shu ping	2817
+茹思林	ru si lin	3324
+茹婷	ru ting	4356
+茹文忠	ru wen zhong	2412
+茹翔	ru xiang	4093
+茹小梅	ru xiao mei	2815
+茹晓倩	ru xiao qian	3222
+茹晓燕	ru xiao yan	2256
+茹新文	ru xin wen	3283
+茹兴德	ru xing de	1613
+茹旭中	ru xu zhong	3339
+茹艳	ru yan	4337
+茹艳炜	ru yan wei	4290
+茹烨	ru ye	4948
+茹银忠	ru yin zhong	2436
+茹英	ru ying	1976
+茹作建	ru zuo jian	2113
+茹作进	ru zuo jin	5087
+茹作金	ru zuo jin	3079
+软件工程	ruan jian gong cheng	176
+锐意进取	rui yi jin qu	1275
+三定方案	san ding fang an	529
+三墩镇	san dun zhen	1483
+散会	san hui	990
+三会一课	san hui yi ke	1215
+三级调研员	san ji diao yan yuan	1040
+桑吉超	sang ji chao	4402
+桑建保	sang jian bao	3311
+桑廷智	sang ting zhi	3793
+森林工程	sen lin gong cheng	43
+沙旭云	sha xu yun	1758
+善作善成	shan zuo shan cheng	1261
+上坝镇	shang ba zhen	1480
+上挂下派	shang gua xia pai	416
+上挂研学	shang gua yan xue	363
+上级	shang ji	873
+上级帮扶	shang ji bang fu	736
+尚建宏	shang jian hong	4620
+商务英语	shang wu ying yu	102
+上下精准贯通	shang xia jing zhun guan tong	295
+邵瑞华	shao rui hua	4006
+邵薇	shao wei	2595
+邵学浩	shao xue hao	1642
+邵勇	shao yong	4666
+佘海宁	she hai ning	4025
+社会工作	she hui gong zuo	119
+社会学	she hui xue	251
+社会舆论	she hui yu lun	838
+设计	she ji	49
+设计学	she ji xue	138
+社交圈子	she jiao quan zi	901
+佘天新	she tian xin	1770
+舍我其谁	she wo qi shui	1055
+身边人	shen bian ren	895
+沈兵	shen bing	3329
+深层次	shen ceng ci	947
+沈光鹏	shen guang peng	3015
+沈海梅	shen hai mei	3358
+深化学习培训	shen hua xue xi pei xun	523
+深化制度改革落地	shen hua zhi du gai ge luo di	467
+沈辉	shen hui	3156
+沈琴	shen qin	3848
+深入基层	shen ru ji ceng	627
+申瑞	shen rui	1673
+申睿	shen rui	2970
+申书相	shen shu xiang	4643
+申诉控告	shen su kong gao	506
+深谈话	shen tan hua	818
+沈涛	shen tao	3733
+慎微慎独	shen wei shen du	1265
+沈小英	shen xiao ying	2096
+沈娅楠	shen ya nan	1915
+申艳	shen yan	3345
+沈妍玲	shen yan ling	4993
+沈毅飞	shen yi fei	4758
+沈玉娟	shen yu juan	2245
+申珍	shen zhen	4373
+申政宏	shen zheng hong	2338
+盛长斌	sheng chang bin	3556
+盛丹	sheng dan	3560
+盛东	sheng dong	2820
+盛飞	sheng fei	1938
+盛飞云	sheng fei yun	2362
+盛恒	sheng heng	1907
+生活细节	sheng huo xi jie	894
+生活作风	sheng huo zuo feng	902
+盛佳	sheng jia	4136
+盛建军	sheng jian jun	3070
+盛金宝	sheng jin bao	4744
+盛军	sheng jun	2059
+盛亮	sheng liang	3666
+生琳	sheng lin	4024
+盛强	sheng qiang	1923
+盛少威	sheng shao wei	4010
+省市委	sheng shi wei	553
+生态学	sheng tai xue	223
+盛万荣	sheng wan rong	2151
+盛伟	sheng wei	3889
+盛微	sheng wei	1968
+生物工程	sheng wu gong cheng	175
+生物技术	sheng wu ji shu	86
+生物科学	sheng wu ke xue	87
+生物学	sheng wu xue	226
+生物医学工程	sheng wu yi xue gong cheng	180
+盛晓玲	sheng xiao ling	4794
+省新元	sheng xin yuan	4556
+盛兴虎	sheng xing hu	4165
+盛学军	sheng xue jun	2116
+盛雪丽	sheng xue li	4594
+盛学荣	sheng xue rong	3437
+盛雁冰	sheng yan bing	3484
+盛银生	sheng yin sheng	4703
+盛玉兰	sheng yu lan	2463
+石爱民	shi ai min	3378
+石宝军	shi bao jun	3078
+识别出来	shi bie chu lai	977
+时不我待	shi bu wo dai	1057
+识才爱才	shi cai ai cai	1304
+实操方法	shi cao fang fa	695
+实操化	shi cao hua	487
+实操技巧	shi cao ji qiao	954
+实操解难	shi cao jie nan	303
+实操举措	shi cao ju cuo	334
+实操流程	shi cao liu cheng	525
+市场营销	shi chang ying xiao	23
+史朝	shi chao	4959
+石超	shi chao	3673
+石川山	shi chuan shan	2444
+石春梅	shi chun mei	4899
+实地走访法	shi di zou fang fa	684
+史多忠	shi duo zhong	2701
+示范引领	shi fan yin ling	1429
+实干担当	shi gan dan dang	1083
+实干奋进	shi gan fen jin	1081
+实干实绩	shi gan shi ji	1383
+实干者吃亏	shi gan zhe chi kui	1065
+史海霞	shi hai xia	2874
+石海岩	shi hai yan	3586
+石浩良	shi hao liang	4954
+石慧鹏	shi hui peng	2737
+实绩导向	shi ji dao xiang	1331
+实绩过硬	shi ji guo ying	1068
+师继平	shi ji ping	2843
+实绩说话	shi ji shuo hua	629
+实绩台账	shi ji tai zhang	1199
+实绩突出	shi ji tu chu	387
+实绩真伪	shi ji zhen wei	744
+石佳	shi jia	4330
+市检察院	shi jian cha yuan	1159
+石建东	shi jian dong	4847
+石建军	shi jian jun	3179
+实践历练	shi jian li lian	1378
+时奖励落地	shi jiang li luo di	337
+时奖励政策	shi jiang li zheng ce	280
+世界史	shi jie shi	237
+石金玲	shi jin ling	1980
+史婧	shi jing	1782
+史静	shi jing	2410
+石静	shi jing	4241
+实景练兵	shi jing lian bing	299
+视觉传达设计	shi jue chuan da she ji	3
+史利军	shi li jun	4328
+事例说话	shi li shuo hua	630
+事例印证法	shi li yin zheng fa	673
+石敏虎	shi min hu	5018
+使命感	shi ming gan	1054
+使命光荣	shi ming guang rong	606
+适配岗位	shi pei gang wei	724
+石鹏忠	shi peng zhong	4467
+食品	shi pin	41
+食品科学	shi pin ke xue	179
+实情	shi qing	811
+市社会保险事业服务中心	shi she hui bao xian shi ye fu wu zhong xin	1172
+实事求是	shi shi qiu shi	1117
+史天银	shi tian yin	2494
+石婷	shi ting	4694
+石婷婷	shi ting ting	4334
+市委	shi wei	1185
+市委办公室	shi wei ban gong shi	1165
+市委编办	shi wei bian ban	1176
+市委常委	shi wei chang wei	1190
+市委放心	shi wei fang xin	1110
+石维琴	shi wei qin	4046
+市委组织部	shi wei zu zhi bu	1178
+市委组织部人才工作科	shi wei zu zhi bu ren cai gong zuo ke	1169
+石霞	shi xia	4690
+石晓波	shi xiao bo	1855
+史晓峰	shi xiao feng	3031
+石晓花	shi xiao hua	4583
+史学巍	shi xue wei	4033
+史艳	shi yan	4114
+石妍	shi yan	2167
+事业	shi ye	16
+史英	shi ying	4166
+使用建议	shi yong jian yi	699
+试用期考核	shi yong qi kao he	358
+石油	shi you	194
+石油工程	shi you gong cheng	56
+石媛	shi yuan	1763
+石占刚	shi zhan gang	4097
+实战砺能	shi zhan li neng	421
+石洲	shi zhou	1753
+市综治中心	shi zong zhi zhong xin	1162
+收集信息	shou ji xin xi	642
+守牢底线	shou lao di xian	1234
+收尾环节	shou wei huan jie	750
+首席专家	shou xi zhuan jia	1302
+兽医学	shou yi xue	168
+守正创新	shou zheng chuang xin	1434
+数据报表	shu ju bao biao	741
+数据科学	shu ju ke xue	63
+数据真实	shu ju zhen shi	739
+梳理分析	shu li fen xi	703
+数学	shu xue	235
+述责述廉	shu ze shu lian	1195
+舒志健	shu zhi jian	4711
+数字化	shu zi hua	1390
+双重组织生活	shuang chong zu zhi sheng huo	1211
+双向流动渠道	shuang xiang liu dong qu dao	318
+水产	shui chan	166
+水产养殖学	shui chan yang zhi xue	33
+水利工程	shui li gong cheng	200
+水利水电工程	shui li shui dian gong cheng	60
+税收学	shui shou xue	129
+司富国	si fu guo	3039
+四级调研员	si ji diao yan yuan	1039
+私利所惑	si li suo huo	610
+思路	si lu	955
+私情	si qing	1091
+四维考察法	si wei kao cha fa	939
+四维铸魂	si wei zhu hun	385
+私下评价	si xia ping jia	846
+私下闲谈	si xia xian tan	855
+思想动态	si xiang dong tai	621
+思想政治教育	si xiang zheng zhi jiao yu	117
+私心杂念	si xin za nian	1100
+四字短语	si zi duan yu	1256
+宋斌	song bin	1917
+宋布尔	song bu er	4459
+宋成海	song cheng hai	1794
+宋贵	song gui	1719
+宋海星	song hai xing	2548
+宋海英	song hai ying	2816
+宋汉军	song han jun	4928
+宋鸿	song hong	3247
+宋嘉军	song jia jun	3723
+宋建玲	song jian ling	3287
+宋娟	song juan	4361
+宋军	song jun	4623
+宋凌	song ling	4910
+宋敏	song min	2395
+宋平	song ping	3486
+宋庆霞	song qing xia	3124
+宋卫清	song wei qing	2396
+宋小强	song xiao qiang	3537
+宋亚斐	song ya fei	3644
+宋志刚	song zhi gang	4850
+宋转霞	song zhuan xia	4244
+宋子强	song zi qiang	2329
+宿好江	su hao jiang	4286
+苏尚全	su shang quan	4750
+苏世鹏	su shi peng	3046
+苏新明	su xin ming	3445
+苏延鹏	su yan peng	4953
+苏喆	su zhe	3540
+苏振华	su zhen hua	4874
+肃州发展	su zhou fa zhan	1127
+肃州路社区	su zhou lu she qu	1452
+肃州区	su zhou qu	593
+随机	sui ji	680
+随意决策	sui yi jue ce	544
+孙从贤	sun cong xian	3786
+孙登龙	sun deng long	4161
+孙东辉	sun dong hui	2430
+孙宏斌	sun hong bin	5044
+孙户喜	sun hu xi	3142
+孙嘉	sun jia	4890
+孙建国	sun jian guo	2545
+孙建平	sun jian ping	4853
+孙雷	sun lei	3496
+孙丽	sun li	5036
+孙莉	sun li	5035
+孙丽丽	sun li li	2956
+孙丽娜	sun li na	4220
+孙丽霞	sun li xia	4411
+孙亮	sun liang	3654
+孙鹏	sun peng	1641
+孙沁	sun qin	2725
+孙清江	sun qing jiang	3086
+孙全刚	sun quan gang	3760
+孙若贤	sun ruo xian	3029
+孙天慧	sun tian hui	2709
+孙伟琳	sun wei lin	4815
+孙维琦	sun wei qi	3133
+孙维珍	sun wei zhen	2670
+孙希仁	sun xi ren	1565
+孙晓红	sun xiao hong	4005
+孙兴仁	sun xing ren	2866
+孙学福	sun xue fu	2415
+孙学军	sun xue jun	3600
+孙学录	sun xue lu	2509
+孙学满	sun xue man	2268
+孙亚乔	sun ya qiao	4433
+孙洋	sun yang	3873
+孙阳	sun yang	2931
+孙耀军	sun yao jun	2969
+孙莹	sun ying	4004
+孙咏梅	sun yong mei	4438
+孙妤	sun yu	2779
+孙育明	sun yu ming	3492
+孙哲军	sun zhe jun	2183
+孙珍	sun zhen	4584
+孙振坤	sun zhen kun	3703
+孙志龙	sun zhi long	2348
+孙志荣	sun zhi rong	3945
+缩短半年	suo duan ban nian	1021
+踏实肯干	ta shi ken gan	1069
+台账查阅法	tai zhang cha yue fa	694
+台账混乱	tai zhang hun luan	888
+台账资料	tai zhang zi liao	905
+谭发贵	tan fa gui	2678
+谈话	tan hua	866
+谈话调研推荐	tan hua diao yan tui jian	1141
+谈话对象	tan hua dui xiang	999
+谈话内容	tan hua nei rong	991
+谈杰群	tan jie qun	5101
+谭丽君	tan li jun	3623
+谭亮	tan liang	1942
+谭涛	tan tao	1860
+谭卫东	tan wei dong	1959
+谭燕	tan yan	5048
+唐宏亮	tang hong liang	4827
+汤佳	tang jia	1163
+唐学锋	tang xue feng	5156
+汤雪松	tang xue song	3716
+唐燕	tang yan	1703
+唐彦祥	tang yan xiang	4838
+唐玉生	tang yu sheng	2892
+陶波	tao bo	2177
+陶成刚	tao cheng gang	5079
+陶国安	tao guo an	2633
+讨论表态	tao lun biao tai	917
+陶寿德	tao shou de	4158
+陶思渊	tao si yuan	3843
+陶兴明	tao xing ming	4673
+逃逸式辞职	tao yi shi ci zhi	428
+特色课程	te se ke cheng	365
+特色亮点工作	te se liang dian gong zuo	396
+特殊教育	te shu jiao yu	112
+特种医学	te zhong yi xue	154
+滕峰	teng feng	2317
+提拔潜力	ti ba qian li	723
+提拔使用	ti ba shi yong	764
+梯次结构	ti ci jie gou	576
+梯队储备	ti dui chu bei	1327
+梯队建设	ti dui jian she	1375
+提高待遇	ti gao dai yu	1009
+提炼经验	ti lian jing yan	1241
+提前打招呼	ti qian da zhao hu	907
+提前通知	ti qian tong zhi	683
+提升能力	ti sheng neng li	982
+提问技巧	ti wen ji qiao	797
+体系构建	ti xi gou jian	1415
+提醒教育	ti xing jiao yu	654
+体育教育	ti yu jiao yu	111
+体育学	ti yu xue	245
+体制机制工程	ti zhi ji zhi gong cheng	213
+提质扩面	ti zhi kuo mian	1423
+提质增效	ti zhi zeng xiao	1433
+提质争先	ti zhi zheng xian	1233
+填表格	tian biao ge	950
+田斌	tian bin	4495
+田朝莹	tian chao ying	3734
+田芳瑜	tian fang yu	2713
+田峰	tian feng	4445
+田光炜	tian guang wei	2805
+田光文	tian guang wen	4099
+田海莉	tian hai li	4316
+田海燕	tian hai yan	3630
+田鸿鑫	tian hong xin	4253
+田慧	tian hui	4321
+田建军	tian jian jun	3912
+田建强	tian jian qiang	3621
+田军	tian jun	3866
+田丽云	tian li yun	1586
+田鹏	tian peng	4233
+田泉平	tian quan ping	2658
+天然气工程	tian ran qi gong cheng	193
+田容基	tian rong ji	4514
+田绍华	tian shao hua	4765
+田沈平	tian shen ping	2557
+田世雄	tian shi xiong	4902
+田爽	tian shuang	4506
+田涛	tian tao	4218
+田卫	tian wei	2945
+田文军	tian wen jun	4894
+田文强	tian wen qiang	4955
+天文学	tian wen xue	232
+田文智	tian wen zhi	1892
+田霞	tian xia	2015
+田相基	tian xiang ji	2500
+田小玲	tian xiao ling	4011
+田晓敏	tian xiao min	4410
+田晓英	tian xiao ying	2773
+田欣	tian xin	2071
+田鑫基	tian xin ji	4397
+田兴云	tian xing yun	2525
+田秀萍	tian xiu ping	4692
+田雪峰	tian xue feng	2592
+田学军	tian xue jun	4395
+田学锐	tian xue rui	1746
+田学智	tian xue zhi	2505
+田亚荣	tian ya rong	1735
+田艳	tian yan	3566
+田有忠	tian you zhong	4561
+田瑜	tian yu	3813
+田玉红	tian yu hong	2283
+田玉兰	tian yu lan	1717
+田云山	tian yun shan	3108
+田泽斌	tian ze bin	2474
+田振民	tian zhen min	3073
+贴标签	tie biao qian	891
+听汇报	ting hui bao	951
+听口碑	ting kou bei	883
+听议论	ting yi lun	882
+统筹谋划	tong chou mou hua	1254
+统筹谋划能力	tong chou mou hua neng li	731
+统筹协调能力	tong chou xie tiao neng li	864
+同德巷社区	tong de xiang she qu	1460
+同岗位	tong gang wei	667
+童国卿	tong guo qing	4818
+同级	tong ji	872
+统计学	tong ji xue	222
+童建国	tong jian guo	3921
+通信工程	tong xin gong cheng	206
+统一思想	tong yi si xiang	984
+通用	tong yong	696
+同志们	tong zhi men	989
+同资历	tong zi li	666
+投票	tou piao	1042
+投资学	tou zi xue	125
+土地	tu di	14
+土木工程	tu mu gong cheng	201
+图书馆学	tu shu guan xue	12
+图书情报	tu shu qing bao	147
+团结	tuan jie	780
+团区委	tuan qu wei	1531
+团团伙伙	tuan tuan huo huo	1086
+推荐对象	tui jian dui xiang	1047
+推荐考察	tui jian kao cha	1183
+推荐上来	tui jian shang lai	976
+推荐条件	tui jian tiao jian	1045
+推拿学	tui na xue	28
+推卸责任	tui xie ze ren	717
+退休管理	tui xiu guan li	436
+推着干	tui zhe gan	787
+妥保元	tuo bao yuan	2669
+妥汉成	tuo han cheng	1929
+妥汉龙	tuo han long	4412
+妥继红	tuo ji hong	3619
+妥建文	tuo jian wen	4141
+妥静	tuo jing	2569
+拓磊	tuo lei	2004
+妥林元	tuo lin yuan	3394
+妥生鹏	tuo sheng peng	3858
+妥鑫祥	tuo xin xiang	4358
+外国语言文学	wai guo yu yan wen xue	242
+万婵娟	wan chan juan	2005
+万国元	wan guo yuan	3146
+万红艳	wan hong yan	2191
+万吉军	wan ji jun	4904
+万凯	wan kai	4226
+万丽娟	wan li juan	3642
+万琴	wan qin	3323
+完善体系	wan shan ti xi	1248
+完善制度体系	wan shan zhi du ti xi	296
+万晓燕	wan xiao yan	4671
+万新军	wan xin jun	2706
+万新荣	wan xin rong	4767
+万新元	wan xin yuan	3036
+万兴春	wan xing chun	4368
+万兴芳	wan xing fang	3218
+万兴锋	wan xing feng	2966
+万兴龙	wan xing long	4621
+万兴仁	wan xing ren	3744
+万兴洲	wan xing zhou	4224
+万玉芬	wan yu fen	2601
+万玉军	wan yu jun	4786
+万玉玲	wan yu ling	2066
+完整画像	wan zheng hua xiang	698
+万子源	wan zi yuan	3509
+王爱玲	wang ai ling	2762
+王爱萍	wang ai ping	3435
+王安	wang an	3212
+王柏英	wang bai ying	4630
+王保东	wang bao dong	2936
+王保亮	wang bao liang	5147
+王宝明	wang bao ming	3799
+王保平	wang bao ping	4983
+王葆祺	wang bao qi	5128
+王斌	wang bin	5118
+王斌斌	wang bin bin	4260
+王斌虎	wang bin hu	1554
+王兵	wang bing	2316
+王波	wang bo	3182
+王柏林	wang bo lin	2882
+王彩霞	wang cai xia	2924
+王彩云	wang cai yun	4494
+王长征	wang chang zheng	2421
+王成刚	wang cheng gang	2988
+王成威	wang cheng wei	4315
+王川	wang chuan	3706
+王春	wang chun	4712
+王春都	wang chun du	2893
+王春梅	wang chun mei	3527
+王春霞	wang chun xia	3336
+王春燕	wang chun yan	2702
+王大忠	wang da zhong	3299
+王丹	wang dan	4193
+王丹丹	wang dan dan	2051
+王德海	wang de hai	3903
+王德华	wang de hua	3153
+王得龙	wang de long	1694
+王栋	wang dong	4608
+王东才	wang dong cai	2271
+王冬梅	wang dong mei	4461
+王东仁	wang dong ren	4379
+王东兴	wang dong xing	4499
+王铎华	wang duo hua	4182
+王发斌	wang fa bin	4003
+王芳	wang fang	4717
+王飞	wang fei	5121
+王峰	wang feng	3475
+王锋	wang feng	3532
+王丰鹏	wang feng peng	1919
+王锋儒	wang feng ru	4613
+王福	wang fu	2831
+王福虎	wang fu hu	4100
+王福钧	wang fu jun	1669
+王福善	wang fu shan	3796
+王刚	wang gang	4885
+网格化	wang ge hua	1393
+网格治理	wang ge zhi li	1413
+王冠琦	wang guan qi	3683
+王国徽	wang guo hui	4964
+王国龙	wang guo long	4131
+王国民	wang guo min	2568
+王国岩	wang guo yan	5133
+王海	wang hai	2012
+王海博	wang hai bo	4366
+王海定	wang hai ding	2609
+王海华	wang hai hua	2619
+王海军	wang hai jun	3783
+王海亮	wang hai liang	3219
+王海卿	wang hai qing	2115
+王海清	wang hai qing	3709
+王海生	wang hai sheng	3068
+王海雯	wang hai wen	2460
+王海霞	wang hai xia	4705
+王海燕	wang hai yan	4971
+王海洋	wang hai yang	2209
+王海元	wang hai yuan	2189
+王涵	wang han	3397
+王涵遇	wang han yu	3746
+王浩	wang hao	4677
+王昊晨	wang hao chen	3679
+王浩沣	wang hao feng	2622
+王红	wang hong	1602
+王宏斌	wang hong bin	2253
+王宏财	wang hong cai	2026
+王洪才	wang hong cai	3425
+王红金	wang hong jin	5013
+王虹琳	wang hong lin	3273
+王洪旗	wang hong qi	3896
+王宏泉	wang hong quan	2834
+王宏涛	wang hong tao	3468
+王宏伟	wang hong wei	3764
+王鸿伟	wang hong wei	3493
+王红英	wang hong ying	2543
+王欢	wang huan	1862
+王环丽	wang huan li	4634
+王会	wang hui	2083
+王慧	wang hui	1867
+王晖	wang hui	2349
+王辉	wang hui	3125
+王惠娟	wang hui juan	2943
+王辉明	wang hui ming	3538
+王惠荣	wang hui rong	2250
+王会霞	wang hui xia	1874
+王继光	wang ji guang	3373
+王积雄	wang ji xiong	3063
+王纪云	wang ji yun	3105
+王佳	wang jia	4840
+王加宝	wang jia bao	3354
+王佳宁	wang jia ning	2731
+王嘉琦	wang jia qi	2554
+王嘉伟	wang jia wei	5142
+王健	wang jian	3838
+王建斌	wang jian bin	1803
+汪建锋	wang jian feng	4444
+王建宏	wang jian hong	4507
+王建华	wang jian hua	3352
+王建军	wang jian jun	4572
+王建亮	wang jian liang	2567
+王建林	wang jian lin	2660
+王建民	wang jian min	2848
+汪建铭	wang jian ming	3278
+王建明	wang jian ming	1992
+王建平	wang jian ping	2313
+王建文	wang jian wen	3074
+王建新	wang jian xin	4145
+王娇	wang jiao	2073
+王洁玉	wang jie yu	3442
+王瑾	wang jin	2752
+王金波	wang jin bo	3544
+王晋海	wang jin hai	4723
+王金龙	wang jin long	4134
+王金喜	wang jin xi	4553
+王晋兴	wang jin xing	3131
+王金玉	wang jin yu	2476
+王晶	wang jing	4821
+王静	wang jing	2692
+王晶晶	wang jing jing	3965
+王菊花	wang ju hua	2578
+王菊玲	wang ju ling	3999
+王琚瑛	wang ju ying	1989
+汪娟	wang juan	2859
+王娟	wang juan	5058
+王俊	wang jun	5064
+王军	wang jun	4769
+王君	wang jun	3741
+王军华	wang jun hua	3056
+王军善	wang jun shan	1824
+王君元	wang jun yuan	4174
+王凯辉	wang kai hui	2493
+王凯英	wang kai ying	5074
+王康龙	wang kang long	4179
+王科文	wang ke wen	4077
+王克永	wang ke yong	4529
+王磊	wang lei	4413
+王丽	wang li	4270
+王莉	wang li	4888
+王利超	wang li chao	3429
+王立成	wang li cheng	3178
+王丽芳	wang li fang	1829
+王立刚	wang li gang	5161
+王丽娟	wang li juan	4002
+王丽君	wang li jun	4733
+王丽丽	wang li li	2497
+王丽莉	wang li li	3238
+王丽玲	wang li ling	4944
+王立明	wang li ming	2438
+王丽萍	wang li ping	4139
+王丽荣	wang li rong	1731
+王莉荣	wang li rong	4279
+王丽涛	wang li tao	3591
+王立文	wang li wen	4086
+王礼元	wang li yuan	2888
+王亮	wang liang	4876
+王霖	wang lin	4259
+王玲	wang ling	4047
+王玲霞	wang ling xia	2343
+王璐	wang lu	4382
+网络工程	wang luo gong cheng	66
+网络空间安全	wang luo kong jian an quan	173
+网络培训	wang luo pei xun	496
+网络舆情	wang luo yu qing	837
+王曼琳	wang man lin	3558
+王梅	wang mei	2770
+王孟孟	wang meng meng	2210
+王密	wang mi	4082
+王淼元	wang miao yuan	4219
+王敏	wang min	2736
+王明	wang ming	4437
+王明春	wang ming chun	2566
+王明德	wang ming de	2420
+王明刚	wang ming gang	3143
+王明君	wang ming jun	3691
+王明龙	wang ming long	4880
+王明学	wang ming xue	2382
+王娜	wang na	2461
+王楠	wang nan	3270
+王鹏	wang peng	4246
+王鹏德	wang peng de	4147
+王平	wang ping	2745
+王平仁	wang ping ren	3396
+王琪	wang qi	1648
+王茜	wang qian	2797
+王琴	wang qin	1833
+王勤朝	wang qin chao	1843
+王庆斌	wang qing bin	3712
+王清清	wang qing qing	2738
+王琼	wang qiong	3089
+王权	wang quan	5004
+王泉德	wang quan de	2721
+王榕	wang rong	2337
+王荣	wang rong	4392
+王蓉	wang rong	3348
+王如才	wang ru cai	1716
+王如利	wang ru li	2750
+王如山	wang ru shan	4834
+王如新	wang ru xin	2326
+王如轩	wang ru xuan	2659
+王瑞	wang rui	5155
+王睿	wang rui	3514
+王蕊	wang rui	4575
+王锐	wang rui	4844
+王瑞娟	wang rui juan	3707
+汪瑞文	wang rui wen	2100
+王润娟	wang run juan	5157
+王润军	wang run jun	4999
+王润梅	wang run mei	5078
+王莎莉	wang sha li	4201
+王尚贤	wang shang xian	4841
+网上学法考试	wang shang xue fa kao shi	495
+王少鹏	wang shao peng	3184
+王设仁	wang she ren	3014
+王生兵	wang sheng bing	4192
+王胜强	wang sheng qiang	3128
+王胜云	wang sheng yun	2870
+王世辉	wang shi hui	3599
+王铈强	wang shi qiang	4898
+王世万	wang shi wan	2454
+王树东	wang shu dong	1876
+王树军	wang shu jun	4938
+王树伟	wang shu wei	2161
+王澍源	wang shu yuan	5152
+王顺邦	wang shun bang	4642
+王思媛	wang si yuan	2443
+王斯远	wang si yuan	2909
+王苏峰	wang su feng	2248
+王涛	wang tao	4753
+王特	wang te	3460
+王恬	wang tian	2586
+王甜	wang tian	3667
+王天斌	wang tian bin	2482
+王天栋	wang tian dong	1606
+王天福	wang tian fu	3214
+王天亮	wang tian liang	5130
+王婷	wang ting	4591
+王万红	wang wan hong	5082
+王伟	wang wei	4625
+王玮	wang wei	3500
+王卫华	wang wei hua	3941
+王维华	wang wei hua	4367
+王雯	wang wen	3725
+王文婧	wang wen jing	4275
+王文军	wang wen jun	4914
+王文君	wang wen jun	4577
+汪文林	wang wen lin	3140
+王文平	wang wen ping	2544
+王文生	wang wen sheng	3195
+望闻问切	wang wen wen qie	956
+王文怡	wang wen yi	4440
+王文忠	wang wen zhong	2607
+王稳庄	wang wen zhuang	2273
+王武章	wang wu zhang	4586
+王霞	wang xia	3489
+王晓芳	wang xiao fang	3364
+王晓刚	wang xiao gang	4907
+王晓慧	wang xiao hui	2345
+王晓佳	wang xiao jia	2780
+王晓娟	wang xiao juan	4967
+王晓军	wang xiao jun	5126
+王晓林	wang xiao lin	2392
+王晓玲	wang xiao ling	4318
+王晓珉	wang xiao min	4069
+王晓明	wang xiao ming	4843
+王效品	wang xiao pin	3462
+王晓清	wang xiao qing	3479
+王晓婷	wang xiao ting	1987
+王小英	wang xiao ying	3366
+王新	wang xin	1852
+王昕	wang xin	3578
+王欣	wang xin	2547
+王鑫	wang xin	4122
+王新义	wang xin yi	3279
+王兴存	wang xing cun	3087
+王兴德	wang xing de	3604
+王兴国	wang xing guo	4001
+王兴华	wang xing hua	4691
+王兴会	wang xing hui	2857
+王兴仁	wang xing ren	4901
+王兴儒	wang xing ru	4614
+王秀娟	wang xiu juan	3277
+王秀敏	wang xiu min	2361
+王旭春	wang xu chun	4198
+王轩	wang xuan	2254
+王雪刚	wang xue gang	3717
+王学工	wang xue gong	2122
+王学林	wang xue lin	1960
+王学荣	wang xue rong	4089
+王亚豪	wang ya hao	3692
+王亚乾	wang ya qian	4364
+王娅琴	wang ya qin	4151
+王雅星	wang ya xing	3473
+王焱	wang yan	4565
+王燕	wang yan	4886
+王艳	wang yan	2216
+王燕斌	wang yan bin	2621
+王延才	wang yan cai	2289
+王艳芳	wang yan fang	3587
+王琰华	wang yan hua	3823
+王琰琨	wang yan kun	4307
+王妍萍	wang yan ping	2095
+王艳萍	wang yan ping	4985
+王燕霞	wang yan xia	3452
+汪洋	wang yang	1712
+王扬	wang yang	2680
+王洋	wang yang	5106
+王尧	wang yao	3059
+王瑶	wang yao	2697
+王毅	wang yi	4891
+王银斌	wang yin bin	3381
+王英	wang ying	2300
+王莹	wang ying	2803
+王英儒	wang ying ru	2914
+王勇	wang yong	3549
+王永德	wang yong de	2903
+王永刚	wang yong gang	3699
+王永国	wang yong guo	2381
+王永宏	wang yong hong	2694
+王永龙	wang yong long	4336
+王永明	wang yong ming	4981
+王永强	wang yong qiang	2974
+王永鑫	wang yong xin	1910
+王有宏	wang you hong	2907
+王有元	wang you yuan	4299
+王昱	wang yu	2315
+王玉	wang yu	1553
+王瑜	wang yu	3006
+王玉斌	wang yu bin	2006
+王玉成	wang yu cheng	4857
+王裕德	wang yu de	2240
+王玉刚	wang yu gang	2082
+王玉环	wang yu huan	2972
+王钰洁	wang yu jie	2154
+王玉鲸	wang yu jing	2763
+王誉娟	wang yu juan	2794
+王玉玲	wang yu ling	4309
+王玉梅	wang yu mei	2281
+王昱鹏	wang yu peng	3151
+王玉萍	wang yu ping	3362
+王玉琴	wang yu qin	3276
+王玉生	wang yu sheng	1928
+王玉霞	wang yu xia	3547
+王玉祥	wang yu xiang	5027
+王雨雨	wang yu yu	4543
+王媛君	wang yuan jun	1156
+王远征	wang yuan zheng	5102
+王玥	wang yue	1766
+王月彤	wang yue tong	3491
+王云刚	wang yun gang	1886
+王泽	wang ze	4768
+王泽福	wang ze fu	1680
+王泽林	wang ze lin	1815
+王泽民	wang ze min	1997
+王泽燕	wang ze yan	2856
+王增军	wang zeng jun	3830
+王占东	wang zhan dong	3159
+王占宏	wang zhan hong	2576
+王占元	wang zhan yuan	3226
+王哲	wang zhe	4988
+王振红	wang zhen hong	3705
+王震歧	wang zhen qi	4960
+王振荣	wang zhen rong	1899
+汪振伟	wang zhen wei	3878
+王镇洋	wang zhen yang	1749
+王智华	wang zhi hua	2620
+王治军	wang zhi jun	2032
+王志明	wang zhi ming	2652
+王志鹏	wang zhi peng	3834
+王志贤	wang zhi xian	2359
+王志轩	wang zhi xuan	3695
+王芝燕	wang zhi yan	3300
+王忠	wang zhong	2647
+王中平	wang zhong ping	2851
+王竹峰	wang zhu feng	3313
+王柱华	wang zhu hua	3433
+王紫琪	wang zi qi	2604
+王紫璎	wang zi ying	3618
+王宗祎	wang zong yi	1605
+王祖花	wang zu hua	4919
+魏彩玲	wei cai ling	4295
+魏成蔚	wei cheng wei	4120
+魏丹	wei dan	1834
+为担当者担当	wei dan dang zhe dan dang	1072
+微电子科学	wei dian zi ke xue	68
+魏东炫	wei dong xuan	4162
+为奋进者搭台	wei fen jin zhe da tai	1070
+魏峰	wei feng	3713
+魏锋	wei feng	4807
+魏富宇	wei fu yu	1912
+违规办事	wei gui ban shi	543
+违规借调	wei gui jie diao	426
+违规违纪	wei gui wei ji	455
+魏宏	wei hong	1668
+魏红光	wei hong guang	3344
+魏建生	wei jian sheng	2952
+魏瑾	wei jin	1734
+魏晶晶	wei jing jing	2588
+魏靖宇	wei jing yu	3525
+魏峻	wei jun	3906
+伟力	wei li	1080
+魏莉	wei li	3371
+魏丽虹	wei li hong	4359
+魏立君	wei li jun	2164
+魏丽荣	wei li rong	4112
+魏丽霞	wei li xia	3584
+魏亮	wei liang	2363
+魏明	wei ming	3615
+魏榕	wei rong	4923
+卫哨	wei shao	2886
+魏生科	wei sheng ke	3395
+为实干者赋能	wei shi gan zhe fu neng	1071
+魏双鑫	wei shuang xin	3472
+魏天智	wei tian zhi	4925
+魏炜	wei wei	4349
+魏小峰	wei xiao feng	2947
+魏晓兰	wei xiao lan	2503
+魏晓萍	wei xiao ping	4895
+魏晓燕	wei xiao yan	5115
+魏潇勇	wei xiao yong	2889
+魏新军	wei xin jun	1555
+魏学辉	wei xue hui	2459
+魏学平	wei xue ping	3185
+魏学兴	wei xue xing	3187
+魏学忠	wei xue zhong	3260
+魏燕霞	wei yan xia	2949
+魏玉霞	wei yu xia	4385
+魏志佳	wei zhi jia	4469
+魏治源	wei zhi yuan	2146
+魏忠福	wei zhong fu	1711
+魏中洋	wei zhong yang	3150
+魏忠银	wei zhong yin	4352
+温冰	wen bing	3419
+文稿	wen gao	1258
+温国维	wen guo wei	1745
+问话口诀	wen hua kou jue	760
+温建东	wen jian dong	4000
+闻建军	wen jian jun	4701
+温世鹏	wen shi peng	5151
+问题导向	wen ti dao xiang	311
+问题台账	wen ti tai zhang	1198
+文物	wen wu	97
+温晓霞	wen xiao xia	1853
+文学	wen xue	268
+文学门类	wen xue men lei	244
+文越	wen yue	4463
+稳重务实	wen zhong wu shi	925
+文字表达能力	wen zi biao da neng li	726
+文字痕迹	wen zi hen ji	688
+吴斌	wu bin	3305
+吴彩萍	wu cai ping	3401
+武春国	wu chun guo	4454
+吴存刚	wu cun gang	3190
+吴丹	wu dan	4343
+舞蹈学	wu dao xue	142
+武德邦	wu de bang	3250
+吴东	wu dong	2847
+吴飞	wu fei	4922
+吴芬	wu fen	2906
+无缝衔接	wu feng xian jie	291
+吴歌	wu ge	3631
+五个不予考虑	wu ge bu yu kao lv	392
+五个层面	wu ge ceng mian	868
+吴海峰	wu hai feng	4932
+武海龙	wu hai long	3920
+吴海霞	wu hai xia	1905
+吴撼崎	wu han qi	5149
+吴浩刚	wu hao gang	3750
+吴宏	wu hong	3034
+吴宏飞	wu hong fei	4688
+吴红英	wu hong ying	4500
+五湖四海	wu hu si hai	1385
+武辉琦	wu hui qi	3777
+无机非金属	wu ji fei jin shu	73
+吴佳豫	wu jia yu	2714
+武剑平	wu jian ping	4496
+吴娟	wu juan	2953
+武娟	wu juan	4547
+武军国	wu jun guo	3205
+吴凯斌	wu kai bin	3516
+吴开年	wu kai nian	3169
+乌兰	wu lan	2946
+吴丽	wu li	1699
+武利华	wu li hua	4124
+物理学	wu li xue	234
+吴玲	wu ling	4333
+武龙	wu long	4028
+武龙华	wu long hua	4085
+吴培福	wu pei fu	2608
+吴鹏	wu peng	4587
+吴萍	wu ping	3403
+武器系统	wu qi xi tong	48
+吴强	wu qiang	4206
+武瑞婷	wu rui ting	2244
+吴善积	wu shan ji	2408
+务实程度	wu shi cheng du	856
+武廷宏	wu ting hong	1893
+武廷俊	wu ting jun	1767
+吴文	wu wen	2127
+武文慧	wu wen hui	2001
+武雯君	wu wen jun	1932
+吴文娜	wu wen na	2490
+武效科	wu xiao ke	2742
+吴晓龙	wu xiao long	4109
+武晓璐	wu xiao lu	1844
+吴晓琴	wu xiao qin	2528
+吴晓霞	wu xiao xia	4431
+吴新华	wu xin hua	3608
+吴新荣	wu xin rong	2934
+武兴飞	wu xing fei	3928
+武兴国	wu xing guo	1883
+武兴华	wu xing hua	2433
+吴秀娟	wu xiu juan	4637
+吴雅蓉	wu ya rong	2708
+武亚威	wu ya wei	2292
+吴艳	wu yan	4298
+吴延军	wu yan jun	3002
+武艳琴	wu yan qin	2280
+吴燕燕	wu yan yan	1761
+武英锋	wu ying feng	3665
+武永	wu yong	5056
+武永帮	wu yong bang	3568
+武永泉	wu yong quan	4884
+武永生	wu yong sheng	1786
+吴永伟	wu yong wei	2863
+武玉基	wu yu ji	5030
+吴玉俊	wu yu jun	1760
+武云	wu yun	4297
+无则加勉	wu ze jia mian	828
+武占鑫	wu zhan xin	5137
+武占燕	wu zhan yan	1667
+乌宗科	wu zong ke	2649
+吴祖杰	wu zu jie	2220
+吴祖兰	wu zu lan	3814
+西北街街道	xi bei jie jie dao	1471
+西洞镇	xi dong zhen	1479
+西峰镇	xi feng zhen	1488
+细化本地实操制度	xi hua ben di shi cao zhi du	486
+细化举措	xi hua ju cuo	1250
+葸建	xi jian	3535
+戏剧	xi ju	141
+西南街街道	xi nan jie jie dao	1470
+葸倩	xi qian	2867
+系统部署	xi tong bu shu	1253
+系统科学	xi tong ke xue	225
+西文化街社区	xi wen hua jie she qu	1457
+席娅玲	xi ya ling	3447
+细则解读	xi ze jie du	300
+葸振海	xi zhen hai	3457
+席贞子	xi zhen zi	2371
+夏爱红	xia ai hong	3340
+下沉墩苗	xia chen dun miao	362
+下沉一线	xia chen yi xian	413
+夏冬青	xia dong qing	4346
+夏福洲	xia fu zhou	4795
+夏贵洲	xia gui zhou	2198
+夏国	xia guo	2707
+夏国斌	xia guo bin	4986
+夏国军	xia guo jun	5032
+下河清镇	xia he qing zhen	1474
+下级	xia ji	871
+夏季	xia ji	2260
+下结论	xia jie lun	641
+夏菊华	xia ju hua	3231
+夏君洲	xia jun zhou	4483
+夏林	xia lin	1779
+夏强	xia qiang	5012
+夏尚策	xia shang ce	4267
+夏尚模	xia shang mo	3095
+夏尚荣	xia shang rong	4357
+夏尚上	xia shang shang	4958
+夏尚有	xia shang you	2530
+夏生睿	xia sheng rui	1650
+夏燕萍	xia yan ping	4749
+下一步工作打算	xia yi bu gong zuo da suan	312
+夏宇	xia yu	3523
+夏志刚	xia zhi gang	1575
+夏志宏	xia zhi hong	4465
+县处级副职	xian chu ji fu zhi	1027
+先定调子	xian ding diao zi	644
+先锋引领	xian feng yin ling	1406
+显绩	xian ji	946
+鲜霖	xian lin	3211
+鲜明导向	xian ming dao xiang	395
+现农区管委会	xian nong qu guan wei hui	1493
+仙琼鹤	xian qiong he	3755
+线上平台	xian shang ping tai	494
+现实表现	xian shi biao xian	1092
+咸文康	xian wen kang	1995
+现象本质	xian xiang ben zhi	890
+向彩梅	xiang cai mei	1826
+乡村振兴	xiang cun zhen xing	418
+向虹	xiang hong	2320
+向丽荣	xiang li rong	2145
+向龙春	xiang long chun	4560
+项目攻坚突破	xiang mu gong jian tu po	1062
+项目化	xiang mu hua	1391
+项目台账	xiang mu tai zhang	742
+项目引才	xiang mu yin cai	1308
+项目资料	xiang mu zi liao	690
+乡土人才	xiang tu ren cai	1298
+向伟	xiang wei	3852
+向心力	xiang xin li	1402
+向燕	xiang yan	4223
+相永刚	xiang yong gang	3846
+向育华	xiang yu hua	5038
+乡镇街道	xiang zhen jie dao	1489
+肖福	xiao fu	4045
+肖国年	xiao guo nian	4889
+肖国榕	xiao guo rong	5135
+肖海	xiao hai	3997
+肖涵	xiao han	3575
+肖惠萍	xiao hui ping	2674
+肖吉宏	xiao ji hong	2207
+肖建国	xiao jian guo	3175
+肖建明	xiao jian ming	1645
+肖蕾	xiao lei	4622
+肖丽英	xiao li ying	2028
+小毛病	xiao mao bing	656
+肖其伟	xiao qi wei	4132
+小情绪	xiao qing xu	655
+小圈子	xiao quan zi	778
+肖庭磊	xiao ting lei	3199
+肖炜	xiao wei	4448
+肖潇	xiao xiao	2676
+小学教育	xiao xue jiao yu	113
+肖志金	xiao zhi jin	4375
+肖自发	xiao zi fa	4808
+谢成	xie cheng	3589
+懈怠	xie dai	966
+谢丹	xie dan	3407
+谢建玲	xie jian ling	3453
+谢建龙	xie jian long	2160
+谢瑾	xie jin	3971
+谢金刚	xie jin gang	3767
+谢静	xie jing	4441
+谢军贤	xie jun xian	2632
+谢科同	xie ke tong	3588
+谢莉	xie li	4715
+谢丽丽	xie li li	3624
+谢丽琼	xie li qiong	3711
+泄露信息	xie lou xin xi	614
+谢攀德	xie pan de	2663
+谢珊	xie shan	3557
+谢生豹	xie sheng bao	2894
+谢生玉	xie sheng yu	4653
+谢生跃	xie sheng yue	3230
+写实	xie shi	670
+协同落实	xie tong luo shi	558
+谢晓燕	xie xiao yan	4689
+谢彦	xie yan	5073
+颉雁翔	xie yan xiang	5132
+谢勇	xie yong	5109
+谢永飞	xie yong fei	2929
+谢玉萍	xie yu ping	3640
+谢玉贤	xie yu xian	3795
+谢跃杰	xie yue jie	2121
+谢志荣	xie zhi rong	1854
+谢志伟	xie zhi wei	4848
+颉自敏	xie zi min	3887
+协作配合	xie zuo pei he	779
+协作意识	xie zuo yi shi	863
+辛斌儒	xin bin ru	1560
+辛彩霞	xin cai xia	2900
+信访复议	xin fang fu yi	399
+信访举报	xin fang ju bao	836
+辛刚	xin gang	3293
+新花	xin hua	2942
+薪火接续	xin huo jie xu	1374
+辛进德	xin jin de	3964
+心理学	xin li xue	246
+新录用公务员	xin lu yong gong wu yuan	361
+新时代党的组织路线	xin shi dai dang de zu zhi lu xian	1193
+新时代好干部标准	xin shi dai hao gan bu biao zhun	1077
+新闻传播学	xin wen chuan bo xue	241
+新闻学	xin wen xue	101
+信息	xin xi	207
+信息安全	xin xi an quan	65
+信息管理	xin xi guan li	25
+信息汇总	xin xi hui zong	704
+信息系统	xin xi xi tong	24
+辛向伟	xin xiang wei	2425
+辛星	xin xing	4060
+心胸宽广	xin xiong kuan guang	721
+新业绩	xin ye ji	1050
+新业态新就业群体	xin ye tai xin jiu ye qun ti	1205
+辛勇	xin yong	2967
+新征程	xin zheng cheng	1052
+新质生产力	xin zhi sheng chan li	419
+薪资保障	xin zi bao zhang	580
+新作为	xin zuo wei	1051
+邢超	xing chao	3828
+邢高峰	xing gao feng	3033
+性格品行	xing ge pin xing	722
+邢国儒	xing guo ru	3309
+姓名	xing ming	5165
+兴趣爱好	xing qu ai hao	900
+形式主义	xing shi zhu yi	922
+邢旭兵	xing xu bing	4518
+邢学旗	xing xue qi	4229
+邢雁棋	xing yan qi	4252
+邢玉琴	xing yu qin	2717
+行政编制使用率	xing zheng bian zhi shi yong lv	440
+行政管理	xing zheng guan li	18
+行政学	xing zheng xue	121
+熊健	xiong jian	2830
+熊仙	xiong xian	4325
+修养	xiu yang	892
+许斌	xu bin	4757
+许兵	xu bing	4599
+徐长军	xu chang jun	4697
+许聪	xu cong	4177
+许发柏	xu fa bai	2872
+许发东	xu fa dong	2846
+许发虎	xu fa hu	4383
+许发明	xu fa ming	1747
+许发奇	xu fa qi	4627
+徐芳	xu fang	3988
+许峰	xu feng	3803
+胥锋英	xu feng ying	2016
+许戈辉	xu ge hui	4080
+徐公征	xu gong zheng	4822
+许光	xu guang	4240
+许海龙	xu hai long	4195
+徐海鸣	xu hai ming	3605
+许海燕	xu hai yan	1635
+序号	xu hao	1687
+徐辉	xu hui	3167
+徐慧荣	xu hui rong	2342
+许佳	xu jia	4792
+虚假政绩	xu jia zheng ji	747
+徐建东	xu jian dong	3657
+许建刚	xu jian gang	4320
+许建元	xu jian yuan	3026
+徐建忠	xu jian zhong	4828
+许娇	xu jiao	2067
+徐锦刚	xu jin gang	4110
+徐靖	xu jing	3968
+许敬国	xu jing guo	2074
+许丽丽	xu li li	3959
+许灵	xu ling	1714
+许灵煜	xu ling yu	2536
+许龙	xu long	2778
+旭梅	xu mei	2322
+徐民全	xu min quan	2288
+徐明程	xu ming cheng	2190
+畜牧学	xu mu xue	169
+许鹏	xu peng	2205
+徐鹏程	xu peng cheng	1956
+徐萍	xu ping	3808
+徐茜	xu qian	2112
+徐巧兰	xu qiao lan	3855
+许全德	xu quan de	1877
+徐瑞明	xu rui ming	4217
+许姗姗	xu shan shan	3016
+徐世勇	xu shi yong	2020
+徐婷	xu ting	5053
+许万明	xu wan ming	2901
+徐炜	xu wei	3639
+许伟	xu wei	4916
+徐文晖	xu wen hui	5107
+徐文君	xu wen jun	4322
+徐希银	xu xi yin	2806
+许献林	xu xian lin	3829
+徐晓东	xu xiao dong	2836
+许晓明	xu xiao ming	3697
+徐晓寅	xu xiao yin	2793
+徐小勇	xu xiao yong	3243
+徐信	xu xin	1720
+徐新明	xu xin ming	3410
+徐新贤	xu xin xian	4370
+徐亚丽	xu ya li	5050
+徐艳红	xu yan hong	3417
+徐燕丽	xu yan li	3627
+徐英豪	xu ying hao	3989
+徐永仁	xu yong ren	3107
+徐玉鹏	xu yu peng	2871
+徐志刚	xu zhi gang	2197
+选人用人	xuan ren yong ren	1323
+选育管用	xuan yu guan yong	1373
+薛长斌	xue chang bin	3297
+薛长英	xue chang ying	4668
+薛超	xue chao	4968
+学法懂法	xue fa dong fa	521
+薛飞德	xue fei de	4105
+薛海庆	xue hai qing	3258
+薛建明	xue jian ming	2406
+薛静	xue jing	4598
+薛军帮	xue jun bang	1755
+薛克芳	xue ke fang	3637
+薛克军	xue ke jun	1740
+学科门类	xue ke men lei	273
+薛克明	xue ke ming	2178
+薛敏	xue min	2370
+薛娜	xue na	4450
+薛平德	xue ping de	2636
+学前教育	xue qian jiao yu	114
+薛强德	xue qiang de	4377
+薛勤	xue qin	1594
+薛琼	xue qiong	1777
+薛泉平	xue quan ping	3296
+薛世海	xue shi hai	2523
+薛世龙	xue shi long	4684
+薛万飞	xue wan fei	4631
+薛万高	xue wan gao	5123
+薛万健	xue wan jian	1743
+薛万建	xue wan jian	4209
+薛万禄	xue wan lu	3112
+学习笔记	xue xi bi ji	693
+学习培训体系	xue xi pei xun ti xi	518
+薛小舜	xue xiao shun	2110
+薛兴海	xue xing hai	2085
+薛兴荣	xue xing rong	3264
+薛兴瑞	xue xing rui	3842
+薛星阳	xue xing yang	1657
+薛燕飞	xue yan fei	2606
+薛彦军	xue yan jun	3194
+学以致用	xue yi zhi yong	938
+薛银贤	xue yin xian	3892
+薛永德	xue yong de	5034
+薛钰	xue yu	4521
+薛玉惠	xue yu hui	2018
+薛卓德	xue zhuo de	4576
+压实法规实施政治责任	ya shi fa gui shi shi zheng zhi ze ren	566
+压实责任	ya shi ze ren	1251
+压实主体责任	ya shi zhu ti ze ren	555
+闫碧云	yan bi yun	2037
+闫斌	yan bin	4949
+闫彩虹	yan cai hong	1615
+闫芳	yan fang	1974
+严格规范执行	yan ge gui fan zhi xing	459
+严格核查	yan ge he cha	712
+严格执行	yan ge zhi xing	647
+严格遵纪守法	yan ge zun ji shou fa	1029
+严管厚爱	yan guan hou ai	1366
+闫国荣	yan guo rong	2626
+闫红	yan hong	3574
+闫欢	yan huan	4374
+闫继锋	yan ji feng	2297
+闫继俊	yan ji jun	2992
+严谨规范	yan jin gui fan	1112
+闫静	yan jing	4478
+研究生	yan jiu sheng	259
+闫菊玲	yan ju ling	3382
+闫娟	yan juan	3521
+闫军	yan jun	4505
+阎军基	yan jun ji	4667
+闫开国	yan kai guo	2933
+燕乐易	yan le yi	2698
+闫蕾	yan lei	2789
+闫丽宁	yan li ning	2582
+闫丽荣	yan li rong	4536
+闫立馨	yan li xin	2214
+闫敏	yan min	3995
+闫娜	yan na	1934
+研判	yan pan	752
+闫萍	yan ping	3356
+宴请	yan qing	613
+闫秋丽	yan qiu li	1696
+闫全林	yan quan lin	5139
+阎蓉	yan rong	1965
+闫生军	yan sheng jun	1612
+闫生真	yan sheng zhen	4687
+严守底线	yan shou di xian	1271
+严守规矩	yan shou gui ju	1106
+严守纪律	yan shou ji lv	619
+闫双林	yan shuang lin	4721
+严肃	yan su	618
+严天岗	yan tian gang	3656
+闫廷聪	yan ting cong	3055
+闫廷国	yan ting guo	4173
+闫伟	yan wei	3832
+阎文静	yan wen jing	5138
+闫武国	yan wu guo	2171
+闫武林	yan wu lin	2335
+闫玺文	yan xi wen	2766
+闫晓锋	yan xiao feng	3690
+闫筱莉	yan xiao li	3603
+闫兴敬	yan xing jing	2103
+言行举止	yan xing ju zhi	927
+闫学龙	yan xue long	2133
+闫学森	yan xue sen	1685
+闫永慈	yan yong ci	3316
+闫永祥	yan yong xiang	3012
+闫玉蓉	yan yu rong	2372
+闫玉珍	yan yu zhen	3236
+闫治军	yan zhi jun	2772
+闫治明	yan zhi ming	5070
+闫治鹏	yan zhi peng	1562
+闫志平	yan zhi ping	4381
+闫治生	yan zhi sheng	2760
+阎梓娟	yan zi juan	2355
+闫宗国	yan zong guo	2899
+杨爱德	yang ai de	3312
+杨爱冬	yang ai dong	3391
+杨宝泉	yang bao quan	2140
+杨彪	yang biao	1640
+杨斌	yang bin	3102
+杨斌德	yang bin de	1808
+杨斌武	yang bin wu	2611
+杨兵国	yang bing guo	5068
+杨波	yang bo	3979
+杨博博	yang bo bo	1622
+杨长春	yang chang chun	2517
+杨成	yang cheng	3555
+杨成龙	yang cheng long	1901
+杨春琴	yang chun qin	2387
+杨德军	yang de jun	2263
+杨东	yang dong	2400
+杨东付	yang dong fu	3106
+杨冬梅	yang dong mei	2078
+杨东霞	yang dong xia	3874
+杨帆	yang fan	4816
+杨芬	yang fen	3237
+杨锋	yang feng	4862
+杨福宏	yang fu hong	1949
+杨福军	yang fu jun	4341
+杨刚	yang gang	3669
+阳关路社区	yang guan lu she qu	1450
+杨贵军	yang gui jun	1675
+杨国爱	yang guo ai	4435
+杨国光	yang guo guang	2991
+杨国会	yang guo hui	4867
+杨国晓	yang guo xiao	1578
+杨国义	yang guo yi	2556
+杨国玉	yang guo yu	4945
+杨国兆	yang guo zhao	4610
+杨海林	yang hai lin	3291
+杨红军	yang hong jun	2159
+杨红梅	yang hong mei	1884
+杨虎	yang hu	3875
+杨华	yang hua	2099
+杨卉	yang hui	4042
+杨辉	yang hui	1756
+杨健	yang jian	4754
+杨建斌	yang jian bin	3926
+杨建新	yang jian xin	2987
+杨界德	yang jie de	2439
+杨金龙	yang jin long	3121
+杨金彦	yang jin yan	4798
+杨酒云	yang jiu yun	2641
+杨居东	yang ju dong	4424
+杨菊英	yang ju ying	1600
+杨娟	yang juan	4498
+杨坤	yang kun	1955
+杨丽	yang li	3740
+杨丽丽	yang li li	4354
+杨丽萍	yang li ping	4457
+杨丽琴	yang li qin	3633
+杨丽媛	yang li yuan	3255
+杨连德	yang lian de	2258
+杨林	yang lin	3207
+杨林斌	yang lin bin	3268
+杨龙	yang long	4121
+杨茂春	yang mao chun	3950
+杨茂元	yang mao yuan	2508
+杨明	yang ming	3513
+杨牧	yang mu	4263
+杨娜	yang na	4585
+杨楠	yang nan	2106
+杨珮	yang pei	3632
+杨培树	yang pei shu	3660
+杨培玺	yang pei xi	3761
+杨巧红	yang qiao hong	2807
+杨勤霞	yang qin xia	2782
+杨泉霞	yang quan xia	2086
+杨瑞芳	yang rui fang	2596
+杨生国	yang sheng guo	3769
+杨生英	yang sheng ying	2330
+杨生智	yang sheng zhi	3743
+杨生忠	yang sheng zhong	1705
+杨爽	yang shuang	1988
+杨廷鹏	yang ting peng	4662
+杨文华	yang wen hua	2527
+杨文涛	yang wen tao	2597
+杨霞	yang xia	3463
+杨啸	yang xiao	2377
+杨晓峰	yang xiao feng	4552
+杨晓花	yang xiao hua	3966
+杨晓莉	yang xiao li	4706
+杨晓梅	yang xiao mei	4635
+杨晓明	yang xiao ming	3942
+杨晓萍	yang xiao ping	2531
+杨晓婷	yang xiao ting	1856
+杨新荣	yang xin rong	3960
+杨新文	yang xin wen	4905
+杨秀霞	yang xiu xia	2810
+杨璇	yang xuan	2941
+杨雪	yang xue	1624
+杨学斌	yang xue bin	2603
+杨学龙	yang xue long	3982
+杨彦龙	yang yan long	1931
+杨彦文	yang yan wen	1857
+杨逸飞	yang yi fei	3641
+杨瑛	yang ying	1715
+杨英	yang ying	3244
+扬优势	yang you shi	1226
+杨玉琴	yang yu qin	3328
+杨云	yang yun	4664
+杨振利	yang zhen li	4589
+杨政东	yang zheng dong	2644
+杨正丰	yang zheng feng	5120
+杨正江	yang zheng jiang	3158
+杨政军	yang zheng jun	1639
+杨正军	yang zheng jun	4860
+杨正君	yang zheng jun	3718
+杨政平	yang zheng ping	1677
+杨政卿	yang zheng qing	1927
+杨正伟	yang zheng wei	3847
+杨正文	yang zheng wen	1948
+杨正毅	yang zheng yi	4247
+杨志林	yang zhi lin	2502
+杨枝鹏	yang zhi peng	4873
+杨志文	yang zhi wen	2594
+杨致忠	yang zhi zhong	3239
+杨忠国	yang zhong guo	4416
+杨柱磊	yang zhu lei	4391
+杨子渊	yang zi yuan	2695
+杨作彪	yang zuo biao	1791
+咬耳扯袖	yao er che xiu	1343
+姚金萍	yao jin ping	1771
+姚金香	yao jin xiang	3240
+要俊珊	yao jun shan	2434
+药物制剂	yao wu zhi ji	26
+药学	yao xue	156
+姚玉梅	yao yu mei	3947
+叶冬梅	ye dong mei	5057
+冶金工程	ye jin gong cheng	212
+叶林春	ye lin chun	4403
+叶森	ye sen	3565
+叶守平	ye shou ping	2119
+业务底子	ye wu di zi	524
+业务工作	ye wu gong zuo	987
+业务骨干	ye wu gu gan	805
+业务骨干精准培训	ye wu gu gan jing zhun pei xun	510
+业务精	ye wu jing	1281
+业务经办	ye wu jing ban	502
+业务实操	ye wu shi cao	508
+叶艳玲	ye yan ling	4751
+冶智	ye zhi	1573
+议程	yi cheng	1139
+以担当用干部	yi dan dang yong gan bu	1074
+以德为先	yi de wei xian	1387
+一对一	yi dui yi	800
+一对一帮带	yi dui yi bang dai	360
+依法办事能力	yi fa ban shi neng li	727
+依法依规管干部	yi fa yi gui guan gan bu	457
+依法依规履职根基	yi fa yi gui lv zhi gen ji	522
+依法依规履职能力	yi fa yi gui lv zhi neng li	297
+一贯表现	yi guan biao xian	942
+伊海燕	yi hai yan	1695
+一级学科	yi ji xue ke	258
+一级主任科员	yi ji zhu ren ke yuan	1026
+以考验效	yi kao yan xiao	372
+以炼正身	yi lian zheng shen	373
+一票否决	yi piao fou jue	706
+仪器	yi qi	76
+仪器科学	yi qi ke xue	217
+以上率下	yi shang shuai xia	511
+以实干定优劣	yi shi gan ding you lie	1076
+以实绩论英雄	yi shi ji lun ying xiong	1075
+艺术学	yi shu xue	261
+艺术学理论	yi shu xue li lun	144
+艺术学门类	yi shu xue men lei	145
+易文全	yi wen quan	2222
+一线淬炼	yi xian cui lian	1379
+一线历练	yi xian li lian	415
+一线实战历练	yi xian shi zhan li lian	287
+伊晓龙	yi xiao long	2007
+医学	yi xue	263
+以学促育	yi xue cu yu	374
+医学门类	yi xue men lei	164
+医学影像学	yi xue ying xiang xue	30
+一抓到底	yi zhua dao di	1260
+殷博魁	yin bo kui	5037
+引才聚才	yin cai ju cai	1318
+银达镇	yin da zhen	1486
+殷富锋	yin fu feng	3021
+殷海婷	yin hai ting	3501
+殷鸿亮	yin hong liang	4832
+隐患	yin huan	821
+殷惠	yin hui	3900
+殷慧	yin hui	5011
+殷吉寿	yin ji shou	3797
+殷积召	yin ji zhao	4730
+殷建国	yin jian guo	4273
+殷建军	yin jian jun	3161
+殷建荣	yin jian rong	2540
+殷洁琼	yin jie qiong	4015
+殷菊梅	yin ju mei	1916
+殷娟	yin juan	2173
+殷开同	yin kai tong	3160
+殷开旭	yin kai xu	3053
+殷利	yin li	4251
+殷立军	yin li jun	4648
+殷亮	yin liang	3349
+隐瞒问题	yin man wen ti	637
+因事择人	yin shi ze ren	1334
+殷万富	yin wan fu	4236
+印象优劣	yin xiang you lie	1090
+殷小迪	yin xiao di	2854
+殷晓萍	yin xiao ping	2230
+殷雪娇	yin xue jiao	4443
+殷雪梅	yin xue mei	1828
+殷学云	yin xue yun	2515
+殷亚琴	yin ya qin	3385
+殷燕	yin yan	3470
+殷艳艳	yin yan yan	4977
+殷瑛	yin ying	4378
+殷颖	yin ying	2923
+音乐	yin yue	143
+尹月文	yin yue wen	4421
+音乐学	yin yue xue	10
+殷兆宏	yin zhao hong	3037
+殷兆其	yin zhao qi	3440
+殷正军	yin zheng jun	5025
+应急管理	ying ji guan li	328
+影视	ying shi	9
+影视学	ying shi xue	140
+应用化学	ying yong hua xue	92
+应用经济学	ying yong jing ji xue	254
+应用数学	ying yong shu xue	95
+应用物理学	ying yong wu li xue	93
+英语	ying yu	106
+勇挑重担	yong tiao zhong dan	1053
+勇于担当	yong yu dan dang	1032
+优点	you dian	700
+优化激励流动	you hua ji li liu dong	284
+优进绌退	you jin chu tui	1381
+优亲厚友	you qin hou you	781
+优势	you shi	822
+有为有位	you wei you wei	1382
+优秀等次	you xiu deng ci	1022
+尤旭升	you xu sheng	2449
+尤艳芳	you yan fang	2231
+尤悦	you yue	3246
+有则改之	you ze gai zhi	829
+尤志锋	you zhi feng	4154
+尤志功	you zhi gong	5090
+尤志勇	you zhi yong	2812
+尤志忠	you zhi zhong	3197
+于斌	yu bin	4288
+于炳华	yu bing hua	3987
+于彩琴	yu cai qin	2542
+于彩霞	yu cai xia	4845
+育才用才	yu cai yong cai	1317
+于常华	yu chang hua	2310
+于骋忠	yu cheng zhong	5045
+于春斋	yu chun zhai	3672
+于翠兰	yu cui lan	1726
+余翠霞	yu cui xia	3969
+俞德虎	yu de hu	4641
+于东华	yu dong hua	4824
+于芳	yu fang	3155
+预防医学	yu fang yi xue	159
+于斐	yu fei	4362
+于奋云	yu fen yun	2286
+于峰	yu feng	4335
+于锋	yu feng	2257
+于光磊	yu guang lei	4766
+于国华	yu guo hua	4068
+于鸿艳	yu hong yan	3762
+余佳	yu jia	1823
+于加明	yu jia ming	2142
+于加寿	yu jia shou	3998
+于舰	yu jian	4755
+俞建磊	yu jian lei	5061
+于建明	yu jian ming	4820
+于建文	yu jian wen	2469
+于杰华	yu jie hua	2593
+于静哉	yu jing zai	4200
+于娟	yu juan	1813
+于军华	yu jun hua	2895
+俞磊	yu lei	4250
+于丽红	yu li hong	2751
+于丽华	yu li hua	2993
+于亮华	yu liang hua	4522
+于林哉	yu lin zai	4084
+于麟寨	yu lin zhai	4951
+于玲	yu ling	1741
+于龙哉	yu long zai	4678
+俞梅	yu mei	2978
+于敏	yu min	3766
+于明哉	yu ming zai	4554
+于萍	yu ping	2192
+于平哉	yu ping zai	3415
+于倩	yu qian	5124
+于清哉	yu qing zai	3024
+育人实效	yu ren shi xiao	377
+育人体系	yu ren ti xi	384
+于瑞华	yu rui hua	4115
+于森哉	yu sen zai	3115
+预设路线	yu she lu xian	682
+于世华	yu shi hua	3091
+于淑霞	yu shu xia	2229
+俞爽	yu shuang	4817
+于素莲	yu su lian	3343
+于涛忠	yu tao zhong	4805
+于同斋	yu tong zhai	4603
+于威华	yu wei hua	3416
+于晓荣	yu xiao rong	1617
+于欣	yu xin	4117
+于秀梅	yu xiu mei	2710
+于旭娟	yu xu juan	3482
+于毅	yu yi	3562
+于银华	yu yin hua	3111
+于颖	yu ying	4722
+于永刚	yu yong gang	3138
+于永阁	yu yong ge	2233
+于永海	yu yong hai	1724
+于永会	yu yong hui	2986
+于永奎	yu yong kui	1636
+于永茂	yu yong mao	2656
+于永鹏	yu yong peng	4239
+于永奇	yu yong qi	3533
+于永琦	yu yong qi	4155
+于永谦	yu yong qian	2839
+于永泉	yu yong quan	4906
+于永荣	yu yong rong	3612
+于永生	yu yong sheng	3342
+于永信	yu yong xin	1704
+于永新	yu yong xin	4502
+于永彦	yu yong yan	3321
+于永远	yu yong yuan	4157
+于永志	yu yong zhi	2477
+俞玥	yu yue	4230
+于振华	yu zhen hua	3771
+于政华	yu zheng hua	2968
+俞正伟	yu zheng wei	1972
+于志国	yu zhi guo	3935
+于志洋	yu zhi yang	1693
+袁国基	yuan guo ji	2902
+袁海艳	yuan hai yan	1702
+袁红梅	yuan hong mei	1837
+袁会民	yuan hui min	3714
+袁惠英	yuan hui ying	2407
+袁继光	yuan ji guang	2755
+袁继武	yuan ji wu	4488
+袁丽霞	yuan li xia	3542
+园林	yuan lin	34
+袁沁亮	yuan qin liang	4734
+袁伟	yuan wei	4442
+袁霞	yuan xia	4995
+袁小军	yuan xiao jun	3164
+园艺	yuan yi	38
+袁奕翾	yuan yi xuan	2255
+园艺学	yuan yi xue	170
+袁媛	yuan yuan	1940
+原则性	yuan ze xing	912
+原则性条文	yuan ze xing tiao wen	335
+原则性要求	yuan ze xing yao qiu	491
+袁占军	yuan zhan jun	2267
+袁忠	yuan zhong	2818
+岳保	yue bao	2471
+岳栋	yue dong	3745
+岳进	yue jin	2153
+岳娟	yue juan	3365
+岳丽	yue li	2013
+岳莉萍	yue li ping	4283
+岳天	yue tian	3962
+岳天奇	yue tian qi	1802
+岳新玲	yue xin ling	2131
+岳艳梅	yue yan mei	3446
+岳振	yue zhen	2236
+运彩霞	yun cai xia	2716
+运动训练	yun dong xun lian	110
+运广	yun guang	1644
+运奂文	yun huan wen	4900
+运俐	yun li	1851
+运立本	yun li ben	4054
+运丽娜	yun li na	1878
+运梅	yun mei	1882
+运鹏	yun peng	2977
+运蓉	yun rong	3798
+运天琦	yun tian qi	4107
+运拓	yun tuo	3069
+运玺	yun xi	4806
+运晓琴	yun xiao qin	3149
+运学东	yun xue dong	2653
+运学军	yun xue jun	3163
+运学儒	yun xue ru	2769
+运转高效	yun zhuan gao xiao	531
+在家领导班子成员	zai jia ling dao ban zi cheng yuan	1152
+赞歌	zan ge	878
+早发现	zao fa xian	653
+早纠正	zao jiu zheng	651
+早提醒	zao ti xing	652
+责任担当	ze ren dan dang	685
+责任重大	ze ren zhong da	607
+择优遴选	ze you lin xuan	1348
+查文	zha wen	3597
+翟安国	zhai an guo	2825
+翟保国	zhai bao guo	5026
+翟兵国	zhai bing guo	4104
+翟衡元	zhai heng yuan	4129
+翟嘉	zhai jia	4152
+翟建东	zhai jian dong	4915
+翟建元	zhai jian yuan	4189
+翟开元	zhai kai yuan	3301
+翟莉	zhai li	3369
+翟明	zhai ming	3670
+翟青林	zhai qing lin	1861
+翟荣	zhai rong	3530
+翟升元	zhai sheng yuan	2980
+翟文强	zhai wen qiang	2786
+翟文社	zhai wen she	1900
+翟鲜梅	zhai xian mei	2219
+翟晓花	zhai xiao hua	4456
+翟晓明	zhai xiao ming	2558
+翟小元	zhai xiao yuan	2774
+翟亚婷	zhai ya ting	2723
+翟燕	zhai yan	4293
+翟英梅	zhai ying mei	1691
+战斗力	zhan dou li	1403
+詹青芳	zhan qing fang	5164
+张宝星	zhang bao xing	3863
+张斌	zhang bin	3189
+张兵	zhang bing	1773
+张博	zhang bo	3471
+张波	zhang bo	4682
+张博生	zhang bo sheng	1908
+张彩荣	zhang cai rong	3351
+张彩霞	zhang cai xia	4963
+张长庚	zhang chang geng	1647
+张朝泉	zhang chao quan	4852
+张成国	zhang cheng guo	1608
+张春	zhang chun	4855
+张春鹏	zhang chun peng	3809
+张春燕	zhang chun yan	3585
+张翠萍	zhang cui ping	2781
+张存瑞	zhang cun rui	2610
+张大海	zhang da hai	3426
+张德武	zhang de wu	4504
+张东	zhang dong	4049
+张奋斗	zhang fen dou	3113
+张峰	zhang feng	1764
+张凤玲	zhang feng ling	2056
+张凤英	zhang feng ying	2365
+张风英	zhang feng ying	4742
+张富泰	zhang fu tai	4133
+涨工资	zhang gong zi	1010
+张国	zhang guo	1654
+张国森	zhang guo sen	2516
+张国元	zhang guo yuan	1561
+张海	zhang hai	4408
+张海宏	zhang hai hong	2048
+张海虹	zhang hai hong	3449
+张海军	zhang hai jun	4210
+张海燕	zhang hai yan	3292
+张海英	zhang hai ying	1985
+张汉春	zhang han chun	2118
+张浩德	zhang hao de	1870
+张恒山	zhang heng shan	1188
+张宏	zhang hong	2390
+张虹	zhang hong	2072
+张鸿	zhang hong	2441
+张洪标	zhang hong biao	3974
+张宏财	zhang hong cai	2457
+张宏魁	zhang hong kui	5150
+张虎元	zhang hu yuan	3611
+张惠	zhang hui	3859
+张慧	zhang hui	1957
+张珲	zhang hui	4430
+张慧萍	zhang hui ping	3129
+张吉	zhang ji	1896
+张吉刚	zhang ji gang	3066
+张吉林	zhang ji lin	5141
+张吉瑞	zhang ji rui	2466
+张吉友	zhang ji you	2238
+张佳佳	zhang jia jia	3302
+张加丽	zhang jia li	1643
+张加梅	zhang jia mei	4538
+张加清	zhang jia qing	3204
+张加涛	zhang jia tao	4680
+张健	zhang jian	1966
+张建波	zhang jian bo	1598
+张建峰	zhang jian feng	3130
+张建国	zhang jian guo	2262
+张建宏	zhang jian hong	3020
+张建辉	zhang jian hui	2431
+张建军	zhang jian jun	3850
+张建明	zhang jian ming	3147
+张建鹏	zhang jian peng	4125
+张建品	zhang jian pin	4578
+张建萍	zhang jian ping	4525
+张建强	zhang jian qiang	4787
+张建文	zhang jian wen	2247
+张建武	zhang jian wu	4837
+张建新	zhang jian xin	2585
+张建忠	zhang jian zhong	4048
+张洁	zhang jie	2055
+张瑾	zhang jin	3634
+张谨	zhang jin	3592
+张金凤	zhang jin feng	3225
+张金丽	zhang jin li	4540
+张金龙	zhang jin long	3748
+张进民	zhang jin min	3171
+张金萍	zhang jin ping	3275
+张金荣	zhang jin rong	2265
+张晋生	zhang jin sheng	1830
+张金霞	zhang jin xia	5059
+张婧	zhang jing	3370
+张晶	zhang jing	4300
+张静	zhang jing	4314
+张举飞	zhang ju fei	1666
+张菊花	zhang ju hua	4877
+张菊霞	zhang ju xia	2204
+张娟	zhang juan	2126
+张娟娟	zhang juan juan	1619
+张军	zhang jun	2251
+张俊杰	zhang jun jie	2560
+张俊生	zhang jun sheng	2218
+张俊武	zhang jun wu	3882
+张俊贤	zhang jun xian	4685
+张凯	zhang kai	3976
+张康宁	zhang kang ning	5023
+张琨	zhang kun	4172
+张乐	zhang le	4557
+张磊	zhang lei	2648
+张雷	zhang lei	4782
+张丽	zhang li	4530
+张莉	zhang li	4935
+张立斌	zhang li bin	4762
+张利国	zhang li guo	4264
+张利华	zhang li hua	3913
+张丽娟	zhang li juan	4088
+张丽君	zhang li jun	2077
+张丽丽	zhang li li	1732
+张丽玲	zhang li ling	5084
+张丽梅	zhang li mei	2295
+张丽萍	zhang li ping	4933
+张立强	zhang li qiang	4962
+张丽琴	zhang li qin	3938
+张立琴	zhang li qin	3408
+张丽霞	zhang li xia	1665
+张丽媛	zhang li yuan	1993
+张立钊	zhang li zhao	3510
+张琳	zhang lin	4119
+张林海	zhang lin hai	4389
+张林元	zhang lin yuan	2880
+张玲	zhang ling	3594
+张龙	zhang long	4814
+张珑珂	zhang long ke	2187
+张路	zhang lu	3210
+张璐璐	zhang lu lu	3675
+张勐	zhang meng	3687
+张梦雅	zhang meng ya	2726
+张明国	zhang ming guo	2979
+张铭伟	zhang ming wei	3801
+张娜	zhang na	3815
+张楠	zhang nan	2615
+张佩	zhang pei	1733
+张鹏程	zhang peng cheng	2143
+张鹏伟	zhang peng wei	2252
+张品元	zhang pin yuan	4436
+张平	zhang ping	2688
+张琦	zhang qi	4773
+张奇晶	zhang qi jing	5075
+张倩	zhang qian	3498
+张前元	zhang qian yuan	3139
+张巧红	zhang qiao hong	3004
+张琴琴	zhang qin qin	4284
+张清华	zhang qing hua	2798
+张全	zhang quan	3845
+张瑞	zhang rui	1977
+张瑞婷	zhang rui ting	2928
+张瑞元	zhang rui yuan	3800
+张少荦	zhang shao luo	3361
+张胜娟	zhang sheng juan	3994
+张生铭	zhang sheng ming	2440
+张生武	zhang sheng wu	1686
+张生贤	zhang sheng xian	5039
+张世国	zhang shi guo	4908
+张世泰	zhang shi tai	4032
+张世英	zhang shi ying	1958
+张树强	zhang shu qiang	1623
+张树忠	zhang shu zhong	3879
+张顺	zhang shun	4804
+张涛	zhang tao	4802
+张天磊	zhang tian lei	3779
+张婷	zhang ting	4726
+张婷婷	zhang ting ting	4305
+张万斌	zhang wan bin	3421
+张万辉	zhang wan hui	4957
+张万民	zhang wan min	1588
+张万年	zhang wan nian	2141
+张万文	zhang wan wen	1866
+张万忠	zhang wan zhong	2259
+张伟	zhang wei	3955
+张巍	zhang wei	1890
+张卫斌	zhang wei bin	3765
+张卫东	zhang wei dong	1637
+张威虎	zhang wei hu	3648
+张卫军	zhang wei jun	3259
+张维军	zhang wei jun	4439
+张卫荣	zhang wei rong	3693
+张文	zhang wen	4149
+张文辉	zhang wen hui	4771
+张文静	zhang wen jing	3993
+张雯娟	zhang wen juan	4340
+张文俊	zhang wen jun	1869
+张文雷	zhang wen lei	4487
+张文丽	zhang wen li	1713
+张文平	zhang wen ping	2628
+张文裕	zhang wen yu	2664
+掌握方法	zhang wo fang fa	605
+张武	zhang wu	2277
+张西茜	zhang xi qian	3338
+张霞	zhang xia	4425
+张筱	zhang xiao	4014
+张晓东	zhang xiao dong	3508
+张晓红	zhang xiao hong	2394
+张小虎	zhang xiao hu	4516
+张晓晖	zhang xiao hui	3289
+张晓磊	zhang xiao lei	3904
+张小丽	zhang xiao li	2784
+张晓林	zhang xiao lin	3346
+张晓琳	zhang xiao lin	4277
+张小龙	zhang xiao long	4778
+张晓梅	zhang xiao mei	1975
+张晓明	zhang xiao ming	3646
+张晓琴	zhang xiao qin	4645
+张小青	zhang xiao qing	4987
+张晓泉	zhang xiao quan	4647
+张晓雯	zhang xiao wen	2829
+张小霞	zhang xiao xia	5010
+张晓云	zhang xiao yun	3459
+张昕	zhang xin	4169
+张新成	zhang xin cheng	3507
+张新民	zhang xin min	2981
+张欣荣	zhang xin rong	2221
+张新元	zhang xin yuan	3819
+张兴飞	zhang xing fei	2029
+张兴军	zhang xing jun	2304
+张兴利	zhang xing li	1879
+张兴龙	zhang xing long	5066
+张兴强	zhang xing qiang	4747
+张兴荣	zhang xing rong	4973
+张兴设	zhang xing she	5020
+张兴旺	zhang xing wang	2912
+张兴文	zhang xing wen	4658
+张秀娟	zhang xiu juan	3202
+张秀琴	zhang xiu qin	3946
+张秀英	zhang xiu ying	2035
+张旭东	zhang xu dong	3821
+张旭晶	zhang xu jing	4407
+张旭平	zhang xu ping	2640
+张学彪	zhang xue biao	3515
+张学兵	zhang xue bing	3294
+张学虎	zhang xue hu	4204
+张学军	zhang xue jun	4055
+张雪莲	zhang xue lian	4480
+张雪梅	zhang xue mei	3224
+张雪琴	zhang xue qin	2041
+张学忠	zhang xue zhong	3456
+张雅洁	zhang ya jie	3991
+张雅静	zhang ya jing	2802
+章亚娟	zhang ya juan	2748
+张亚鹏	zhang ya peng	3372
+张亚琴	zhang ya qin	1961
+张雅文	zhang ya wen	4893
+张岩	zhang yan	1841
+张燕	zhang yan	4992
+张研	zhang yan	2211
+张艳	zhang yan	4153
+张雁	zhang yan	4674
+张延红	zhang yan hong	4473
+张延虎	zhang yan hu	1920
+张艳丽	zhang yan li	1564
+张艳玲	zhang yan ling	5144
+张艳梅	zhang yan mei	1762
+张延署	zhang yan shu	3831
+张艳霞	zhang yan xia	3331
+张延星	zhang yan xing	4426
+张岩绪	zhang yan xu	3103
+张阳	zhang yang	2293
+张阳国	zhang yang guo	4842
+张扬特权	zhang yang te quan	897
+张耀	zhang yao	4752
+张尧戈	zhang yao ge	4972
+张益铭	zhang yi ming	3503
+张英	zhang ying	1818
+张莹	zhang ying	2712
+张应军	zhang ying jun	4078
+张英雄	zhang ying xiong	4940
+张永德	zhang yong de	3609
+张永广	zhang yong guang	3651
+张永国	zhang yong guo	2973
+张永利	zhang yong li	4486
+张永新	zhang yong xin	3051
+张有文	zhang you wen	3751
+张瑜	zhang yu	2063
+张雨	zhang yu	4414
+张玉春	zhang yu chun	3162
+张育德	zhang yu de	1656
+张玉付	zhang yu fu	5046
+张玉贵	zhang yu gui	3042
+张玉娇	zhang yu jiao	4927
+张玉莲	zhang yu lian	4265
+张玉玲	zhang yu ling	2613
+张玉霞	zhang yu xia	2584
+张元甲	zhang yuan jia	2756
+张院霞	zhang yuan xia	2727
+张芸	zhang yun	3980
+章云贞	zhang yun zhen	4779
+张泽星	zhang ze xing	4326
+张泽月	zhang ze yue	1819
+张占锋	zhang zhan feng	2128
+张兆德	zhang zhao de	3735
+张朝霞	zhang zhao xia	2796
+张兆义	zhang zhao yi	2429
+张哲年	zhang zhe nian	3109
+张震	zhang zhen	3708
+张振华	zhang zhen hua	1983
+张振云	zhang zhen yun	4740
+张正荣	zhang zheng rong	1678
+张志斌	zhang zhi bin	4784
+张志军	zhang zhi jun	4883
+张志攀	zhang zhi pan	1902
+张志平	zhang zhi ping	3254
+张志泉	zhang zhi quan	4934
+张志文	zhang zhi wen	4969
+张仲刚	zhang zhong gang	4650
+张仲鹏	zhang zhong peng	4484
+张忠瑞	zhang zhong rui	4856
+张仲秀	zhang zhong xiu	4213
+张著涛	zhang zhu tao	1559
+张宗南	zhang zong nan	3383
+张作冠	zhang zuo guan	4477
+赵滨	zhao bin	3871
+赵斌福	zhao bin fu	3166
+赵兵	zhao bing	3025
+赵程凯	zhao cheng kai	1801
+赵春红	zhao chun hong	2801
+赵丹	zhao dan	1566
+赵登兴	zhao deng xing	1937
+赵栋梁	zhao dong liang	4605
+赵飞	zhao fei	4135
+赵佛霞	zhao fo xia	1999
+赵刚	zhao gang	4759
+赵光斌	zhao guang bin	2158
+赵光辉	zhao guang hui	1795
+赵光楠	zhao guang nan	4249
+赵光扬	zhao guang yang	4485
+赵国承	zhao guo cheng	4869
+赵国付	zhao guo fu	4222
+赵海霞	zhao hai xia	1688
+赵海阳	zhao hai yang	3018
+赵浩楠	zhao hao nan	3682
+赵鹤翔	zhao he xiang	3806
+赵恒	zhao heng	4800
+赵红妮	zhao hong ni	3481
+赵红霞	zhao hong xia	3467
+赵华	zhao hua	4708
+赵慧庆	zhao hui qing	4741
+赵吉睿	zhao ji rui	3680
+赵佳	zhao jia	1570
+赵建辉	zhao jian hui	2634
+赵建萍	zhao jian ping	5028
+赵建云	zhao jian yun	2868
+赵建忠	zhao jian zhong	1676
+赵皎成	zhao jiao cheng	4897
+赵静	zhao jing	3973
+赵静雅	zhao jing ya	4081
+赵娟娟	zhao juan juan	4311
+赵俊华	zhao jun hua	2940
+赵军基	zhao jun ji	1754
+赵军凌	zhao jun ling	2340
+赵俊儒	zhao jun ru	1863
+赵科荣	zhao ke rong	3616
+赵奎英	zhao kui ying	3559
+赵丽	zhao li	4216
+赵莉	zhao li	3286
+赵丽红	zhao li hong	3050
+赵丽君	zhao li jun	1595
+赵利军	zhao li jun	3080
+赵连基	zhao lian ji	3116
+赵亮	zhao liang	4481
+赵良芸	zhao liang yun	3334
+赵林	zhao lin	3423
+赵龙飞	zhao long fei	2951
+招录培育	zhao lu pei yu	294
+赵美龄	zhao mei ling	1991
+赵娜	zhao na	4186
+赵宁	zhao ning	3420
+赵鹏	zhao peng	2157
+赵萍	zhao ping	3183
+赵蓉	zhao rong	4990
+赵睿	zhao rui	4931
+赵胜英	zhao sheng ying	2156
+赵曙光	zhao shu guang	1652
+赵帅	zhao shuai	4167
+赵廷雄	zhao ting xiong	2109
+赵廷祯	zhao ting zhen	2662
+赵彤	zhao tong	3422
+赵童	zhao tong	4429
+赵伟	zhao wei	3141
+赵伟福	zhao wei fu	1897
+赵霞	zhao xia	4304
+赵小虎	zhao xiao hu	4607
+赵小平	zhao xiao ping	2139
+赵晓岩	zhao xiao yan	2276
+赵昕	zhao xin	3841
+赵新龙	zhao xin long	4672
+赵星	zhao xing	3233
+赵兴虎	zhao xing hu	3082
+赵旭	zhao xu	4390
+赵雅俊	zhao ya jun	2014
+赵亚玲	zhao ya ling	1785
+赵雅茹	zhao ya ru	3730
+赵燕	zhao yan	2479
+赵彦兵	zhao yan bing	4739
+赵延东	zhao yan dong	4126
+赵艳红	zhao yan hong	3792
+赵艳军	zhao yan jun	2575
+赵艳玲	zhao yan ling	2771
+赵艳萍	zhao yan ping	2399
+赵烨华	zhao ye hua	4704
+赵银福	zhao yin fu	3083
+赵银龙	zhao yin long	3367
+赵银学	zhao yin xue	4604
+赵瑛	zhao ying	1838
+赵永宝	zhao yong bao	3145
+赵永国	zhao yong guo	3625
+赵永海	zhao yong hai	4171
+赵永霞	zhao yong xia	2089
+赵玉国	zhao yu guo	1858
+赵玉萍	zhao yu ping	3120
+赵媛	zhao yuan	2971
+赵源	zhao yuan	3681
+赵岳	zhao yue	2675
+赵泽金	zhao ze jin	5089
+赵振民	zhao zhen min	2833
+赵正才	zhao zheng cai	4909
+赵正杰	zhao zheng jie	3649
+赵正祥	zhao zheng xiang	4657
+赵志龙	zhao zhi long	4460
+赵忠	zhao zhong	3444
+赵忠国	zhao zhong guo	2432
+赵忠辉	zhao zhong hui	2150
+赵中艳	zhao zhong yan	2734
+赵子龙	zhao zi long	4679
+哲学	zhe xue	272
+哲学门类	zhe xue men lei	257
+侦查学	zhen cha xue	115
+阵地提质	zhen di ti zhi	1421
+针对性研学	zhen dui xing yan xue	343
+真话	zhen hua	852
+针灸	zhen jiu	29
+真实	zhen shi	819
+真实本质	zhen shi ben zhi	751
+真实不足	zhen shi bu zu	761
+真实评价	zhen shi ping jia	880
+真实情况	zhen shi qing kuang	815
+真实信息	zhen shi xin xi	934
+真实怨言	zhen shi yuan yan	845
+甄昕	zhen xin	4144
+真抓实干	zhen zhua shi gan	1277
+正本清源	zheng ben qing yuan	1268
+政策赋能	zheng ce fu neng	1307
+政策内涵	zheng ce nei han	1007
+政策研判	zheng ce yan pan	304
+政策运用	zheng ce yun yong	503
+郑大保	zheng da bao	3922
+郑代军	zheng dai jun	3504
+郑德祥	zheng de xiang	4939
+郑芳	zheng fang	3320
+政府部门	zheng fu bu men	1524
+政府工作部门	zheng fu gong zuo bu men	1147
+整改举措	zheng gai ju cuo	588
+整改台账	zheng gai tai zhang	1197
+郑刚	zheng gang	3724
+郑国君	zheng guo jun	1769
+郑国民	zheng guo min	4548
+郑国萍	zheng guo ping	1827
+郑建霞	zheng jian xia	4826
+郑军	zheng jun	4302
+正确用人导向	zheng que yong ren dao xiang	1129
+郑让	zheng rang	4597
+郑蓉	zheng rong	4570
+政商旋转门	zheng shang xuan zhuan men	429
+正式汇报	zheng shi hui bao	842
+正式谈话	zheng shi tan hua	854
+郑守乾	zheng shou qian	2437
+郑铁鑫	zheng tie xin	4489
+郑文	zheng wen	3891
+郑文国	zheng wen guo	3117
+郑文海	zheng wen hai	5154
+争先创优	zheng xian chuang you	1232
+郑先进	zheng xian jin	3552
+正向激励	zheng xiang ji li	1363
+郑晓军	zheng xiao jun	3280
+政协主要领导	zheng xie zhu yao ling dao	997
+郑雪	zheng xue	4338
+郑延虹	zheng yan hong	1894
+郑永霞	zheng yong xia	3333
+政治把关	zheng zhi ba guan	1359
+政治标准	zheng zhi biao zhun	1095
+政治部	zheng zhi bu	1158
+政治部副主任	zheng zhi bu fu zhu ren	1157
+政治担当	zheng zhi dan dang	1354
+政治定力	zheng zhi ding li	1355
+政治方向	zheng zhi fang xiang	556
+政治工作	zheng zhi gong zuo	617
+政治过硬	zheng zhi guo ying	979
+政治建设根基	zheng zhi jian she gen ji	383
+政治领悟力	zheng zhi ling wu li	1218
+政治判断力	zheng zhi pan duan li	1219
+政治品格	zheng zhi pin ge	371
+政治三力	zheng zhi san li	1357
+政治生态	zheng zhi sheng tai	1105
+政治素养	zheng zhi su yang	577
+政治素质	zheng zhi su zhi	1358
+政治素质考察	zheng zhi su zhi kao cha	376
+政治学	zheng zhi xue	252
+政治引领	zheng zhi yin ling	1439
+政治站位	zheng zhi zhan wei	1136
+政治执行力	zheng zhi zhi xing li	1217
+政治忠诚	zheng zhi zhong cheng	1356
+政治自律	zheng zhi zi lv	1353
+郑宗信	zheng zong xin	3888
+治安学	zhi an xue	116
+支撑	zhi cheng	671
+指导职能	zhi dao zhi neng	475
+制度短板	zhi du duan ban	480
+制度改革红利	zhi du gai ge hong li	386
+制度化	zhi du hua	1396
+制度体系上下贯通	zhi du ti xi shang xia guan tong	492
+制度细化适配性	zhi du xi hua shi pei xing	340
+直观手段	zhi guan shou duan	932
+知规守矩	zhi gui shou ju	520
+指挥棒	zhi hui bang	1103
+智汇赋能	zhi hui fu neng	1315
+职级并行	zhi ji bing xing	1202
+职级并行规定	zhi ji bing xing gui ding	1037
+职级并行制度改革	zhi ji bing xing zhi du gai ge	465
+职级晋升	zhi ji jin sheng	1347
+职级人选	zhi ji ren xuan	1181
+直击要害	zhi ji yao hai	768
+直接关联	zhi jie guan lian	808
+智力支撑	zhi li zhi cheng	1314
+知识产权	zhi shi chan quan	122
+职数设置	zhi shu she zhi	452
+职位要求	zhi wei yao qiu	1035
+职务	zhi wu	1046
+植物保护	zhi wu bao hu	37
+职务晋升	zhi wu jin sheng	444
+执行宽松	zhi xing kuan song	469
+执行力	zhi xing li	1401
+支禹	zhi yu	1581
+制造	zhi zao	83
+职责轻重	zhi ze qing zhong	1016
+中层干部	zhong ceng gan bu	806
+忠诚干净担当	zhong cheng gan jing dan dang	1279
+重大决策部署	zhong da jue ce bu shu	552
+重点工作落实情况	zhong dian gong zuo luo shi qing kuang	568
+重点关注	zhong dian guan zhu	884
+重公道	zhong gong dao	1282
+中国史	zhong guo shi	238
+中国语言文学	zhong guo yu yan wen xue	243
+钟海霞	zhong hai xia	2068
+仲继文	zhong ji wen	3548
+仲建楠	zhong jian nan	1664
+钟丽	zhong li	4102
+仲立军	zhong li jun	2617
+中深沟社区	zhong shen gou she qu	1455
+重托	zhong tuo	964
+仲文祺	zhong wen qi	4214
+仲文兴	zhong wen xing	3643
+中西医	zhong xi yi	27
+中西医结合	zhong xi yi jie he	157
+钟霞荣	zhong xia rong	5148
+钟兴龙	zhong xing long	3118
+钟延民	zhong yan min	1840
+钟燕香	zhong yan xiang	2003
+中药学	zhong yao xue	155
+重要抓手	zhong yao zhua shou	968
+重业务轻法规	zhong ye wu qing fa gui	344
+中医	zhong yi	957
+中医学	zhong yi xue	158
+仲志军	zhong zhi jun	3480
+周安德	zhou an de	4030
+周滨	zhou bin	2368
+周聪德	zhou cong de	2959
+周恩德	zhou en de	3772
+周菲	zhou fei	2827
+周刚德	zhou gang de	1765
+周国强	zhou guo qiang	2199
+周国仁	zhou guo ren	3041
+周国霞	zhou guo xia	3990
+周红蕾	zhou hong lei	2573
+周辉平	zhou hui ping	2492
+周吉斌	zhou ji bin	3688
+周建东	zhou jian dong	2850
+周建明	zhou jian ming	3856
+周荐仁	zhou jian ren	1563
+周建设	zhou jian she	3805
+周建新	zhou jian xin	3721
+周建忠	zhou jian zhong	2683
+周婕	zhou jie	2921
+周珺	zhou jun	2765
+周君邦	zhou jun bang	4501
+周军寄	zhou jun ji	3768
+周开东	zhou kai dong	5131
+周兰萍	zhou lan ping	2264
+周磊德	zhou lei de	4181
+周丽娟	zhou li juan	2787
+周密安排	zhou mi an pai	1252
+周楠	zhou nan	4446
+周鹏	zhou peng	5080
+周琴	zhou qin	2589
+周淑霞	zhou shu xia	2241
+周双仁	zhou shuang ren	4517
+周松德	zhou song de	2480
+周涛仁	zhou tao ren	2249
+周铁德	zhou tie de	1718
+周廷文	zhou ting wen	2147
+周玮	zhou wei	2081
+周文静	zhou wen jing	1798
+周文玲	zhou wen ling	2129
+周武德	zhou wu de	3511
+周相君	zhou xiang jun	3844
+周晓峰	zhou xiao feng	2506
+周小琳	zhou xiao lin	2954
+周晓涛	zhou xiao tao	3652
+周晓芸	zhou xiao yun	2668
+周辛宸	zhou xin chen	4235
+周新仁	zhou xin ren	3506
+周兴亮	zhou xing liang	4464
+周兴瑞	zhou xing rui	1609
+周兴文	zhou xing wen	3778
+周兴武	zhou xing wu	4428
+周兴玺	zhou xing xi	1967
+周兴祥	zhou xing xiang	4879
+周兴源	zhou xing yuan	2124
+周旭德	zhou xu de	4956
+周彦德	zhou yan de	4280
+周艳娟	zhou yan juan	4849
+周阳	zhou yang	4686
+周毅	zhou yi	3319
+周迎春	zhou ying chun	2994
+周永军	zhou yong jun	5140
+周瑜德	zhou yu de	4601
+周玉芬	zhou yu fen	3227
+周志明	zhou zhi ming	2450
+周忠林	zhou zhong lin	3541
+朱宝	zhu bao	1631
+朱冰	zhu bing	2958
+朱炳武	zhu bing wu	2311
+朱博	zhu bo	4810
+朱朝俊	zhu chao jun	3582
+主动扛	zhu dong kang	786
+朱东泽	zhu dong ze	1953
+朱菲	zhu fei	2188
+朱桂霞	zhu gui xia	5055
+铸魂固本	zhu hun gu ben	1438
+朱健	zhu jian	4211
+朱建国	zhu jian guo	1873
+朱建忠	zhu jian zhong	1638
+祝江平	zhu jiang ping	3144
+朱晶	zhu jing	2777
+朱静	zhu jing	1784
+朱克双	zhu ke shuang	1556
+筑牢防线	zhu lao fang xian	1270
+朱丽	zhu li	2757
+朱丽霞	zhu li xia	3263
+朱苗	zhu miao	4718
+主任	zhu ren	1175
+朱森	zhu sen	2627
+主题党日	zhu ti dang ri	1214
+主体责任	zhu ti ze ren	561
+朱天保	zhu tian bao	4057
+朱文静	zhu wen jing	4281
+朱晓莉	zhu xiao li	5071
+朱新敏	zhu xin min	3003
+朱雪梅	zhu xue mei	2730
+朱雪萍	zhu xue ping	2393
+朱艳	zhu yan	1661
+主要负责同志	zhu yao fu ze tong zhi	1145
+主要领导	zhu yao ling dao	1149
+朱一嘉	zhu yi jia	4592
+注意事项	zhu yi shi xiang	953
+朱滢	zhu ying	2808
+朱瑛	zhu ying	3191
+朱玉环	zhu yu huan	4503
+朱占伟	zhu zhan wei	4830
+转任	zhuan ren	447
+专题培训	zhuan ti pei xun	505
+专题授课	zhuan ti shou ke	301
+专项督查	zhuan xiang du cha	278
+专项检查	zhuan xiang jian cha	1322
+专项排查	zhuan xiang pai cha	1340
+专项清理整顿	zhuan xiang qing li zheng dun	425
+专项整治	zhuan xiang zheng zhi	1339
+专业队伍建设	zhuan ye dui wu jian she	332
+专业干部梯队培育	zhuan ye gan bu ti dui pei yu	338
+专业骨干队伍	zhuan ye gu gan dui wu	368
+专业化培训	zhuan ye hua pei xun	417
+专业技术人才	zhuan ye ji shu ren cai	1296
+专业精湛	zhuan ye jing zhan	286
+专业知识	zhuan ye zhi shi	1034
+庄海亮	zhuang hai liang	4199
+庄丽	zhuang li	2828
+庄丽媚	zhuang li mei	3451
+庄小萍	zhuang xiao ping	3035
+庄严	zhuang yan	4793
+追问细节	zhui wen xi jie	776
+自查情况报告	zi cha qing kuang bao gao	587
+自查自纠	zi cha zi jiu	591
+自动化	zi dong hua	67
+资格条件	zi ge tiao jian	1138
+自己负责	zi ji fu ze	634
+自觉服从	zi jue fu cong	1123
+资料齐全	zi liao qi quan	442
+自然地理	zi ran di li	90
+自我要求严格	zi wo yao qiu yan ge	1028
+资源	zi yuan	13
+资源环境	zi yuan huan jing	89
+资源整合	zi yuan zheng he	1410
+综合	zong he	1442
+综合管理类	zong he guan li lei	464
+综合考虑	zong he kao lv	1014
+综合能力	zong he neng li	575
+综合评价	zong he ping jia	756
+综合事务中心	zong he shi wu zhong xin	1164
+综合研判	zong he yan pan	1360
+宗教学	zong jiao xue	132
+总体布局	zong ti bu ju	548
+总体工作情况	zong ti gong zuo qing kuang	586
+纵向对比	zong xiang dui bi	661
+总寨镇	zong zhai zhen	1481
+综治业务科	zong zhi ye wu ke	1161
+邹大军	zou da jun	3438
+走访党员群众	zou fang dang yuan qun zhong	1078
+走访途中	zou fang tu zhong	850
+走过场	zou guo chang	633
+邹金娉	zou jin ping	1986
+邹军	zou jun	2475
+走马观花	zou ma guan hua	931
+邹娉婷	zou ping ting	2898
+邹文清	zou wen qing	3314
+组长	zu zhang	1179
+组织	zu zhi	1445
+组织部	zu zhi bu	1448
+组织部门牵头抓总	zu zhi bu men qian tou zhua zong	559
+组织负责	zu zhi fu ze	636
+组织工作	zu zhi gong zuo	549
+组织工作纪律	zu zhi gong zuo ji lv	1124
+组织力	zu zhi li	1405
+组织人事干部	zu zhi ren shi gan bu	509
+组织人事纪律	zu zhi ren shi ji lv	1089
+组织生活会	zu zhi sheng huo hui	1213
+组织协调能力	zu zhi xie tiao neng li	730
+组织信任	zu zhi xin ren	965
+组织支撑	zu zhi zhi cheng	569
+最大短板	zui da duan ban	763
+最低服务年限	zui di fu wu nian xian	354
+最低任职年限	zui di ren zhi nian xian	1013
+最终效果	zui zhong xiao guo	770
+尊重群众	zun zhong qun zhong	920
+作风风险	zuo feng feng xian	402
+作风好	zuo feng hao	1280
+作风建设	zuo feng jian she	1285
+作风品行较好	zuo feng pin xing jiao hao	1030
+作风优良	zuo feng you liang	1067
+作风优劣	zuo feng you lie	662
+左瑾	zuo jin	3626
+左青龙	zuo qing long	3812
+座谈间隙	zuo tan jian xi	849
+左薇	zuo wei	2102
+作物学	zuo wu xue	171
+作用发挥	zuo yong fa hui	1408

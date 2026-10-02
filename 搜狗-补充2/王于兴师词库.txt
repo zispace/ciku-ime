@@ -1,0 +1,1211 @@
+# 词库名称: 王于兴师词库
+# 词库分类: 策略经营
+# 词库描述: 包含王于兴师S1-S6大部分城池名称、将领名称
+# 词条样例: 宁州、平远、曲河、浔泽、天阳关、川武关
+# 解析词数: 1204
+# 解析异常: 0
+
+哀兵之势	ai bing zhi shi	390
+安西	an xi	108
+安邑	an yi	1115
+安远	an yuan	1154
+昂扬	ang yang	908
+傲视群雄	ao shi qun xiong	535
+八级城	ba ji cheng	856
+八九玄功	ba jiu xuan gong	663
+霸王撼世	ba wang han shi	468
+百步穿杨	bai bu chuan yang	566
+百步中戟	bai bu zhong ji	636
+白城	bai cheng	1147
+百出	bai chu	431
+白帝城	bai di cheng	145
+百发百中	bai fa bai zhong	568
+百工圣祖	bai gong sheng zu	589
+白马从义	bai ma cong yi	538
+白马津	bai ma jin	1134
+百媚惑心	bai mei huo xin	461
+百纳天机	bai na tian ji	457
+白袍将军	bai pao jiang jun	361
+白起	bai qi	306
+白刃战	bai ren zhan	476
+白首不离	bai shou bu li	513
+白衣渡江	bai yi du jiang	353
+百战奇略	bai zhan qi lue	604
+百战为先	bai zhan wei xian	559
+百折不挠	bai zhe bu nao	484
+班超	ban chao	719
+暴击	bao ji	975
+爆裂箭	bao lie jian	451
+爆破	bao po	430
+褒斜道	bao xie dao	5
+被动	bei dong	969
+北府镇岳	bei fu zhen yue	807
+北京	bei jing	83
+杯酒释权	bei jiu shi quan	609
+北屈	bei qu	1104
+背水一战	bei shui yi zhan	450
+北庭	bei ting	107
+本城	ben cheng	897
+碧波港	bi bo gang	1072
+闭月	bi yue	565
+毕再遇	bi zai yu	211
+汴京	bian jing	87
+边骑	bian qi	1000
+扁鹊	bian que	722
+汴州	bian zhou	95
+镔铁	bin tie	880
+兵家	bing jia	844
+兵无常势	bing wu chang shi	659
+屏息静气	bing xi jing qi	580
+并州	bing zhou	133
+兵装	bing zhuang	996
+博学宏才	bo xue hong cai	528
+伯颜	bo yan	207
+不动如山	bu dong ru shan	617
+不花一分钱	bu hua yi fen qian	813
+不争朝夕	bu zheng zhao xi	815
+才冠深宫	cai guan shen gong	348
+采石矶	cai shi ji	14
+沧州	cang zhou	92
+曹彬	cao bin	227
+曹刿	cao gui	715
+曹景宗	cao jing zong	247
+曹丕	cao pi	728
+曹仁	cao ren	275
+草原马	cao yuan ma	319
+策定乾坤	ce ding qian kun	474
+长安	chang an	159
+长弓兵	chang gong bing	1022
+昌黎	chang li	117
+长农	chang nong	1193
+长枪兵	chang qiang bing	1025
+长驱直入	chang qu zhi ru	533
+长沙	chang sha	60
+长社	chang she	1130
+昌邑	chang yi	1120
+常遇春	chang yu chun	713
+长垣	chang yuan	1133
+长洲	chang zhou	1079
+潮州	chao zhou	53
+陈霸先	chen ba xian	246
+陈仓	chen cang	7
+陈城	chen cheng	166
+陈留	chen liu	146
+陈庆之	chen qing zhi	673
+陈胜	chen sheng	705
+承安	cheng an	1161
+城池	cheng chi	853
+成都	cheng du	153
+承谷关	cheng gu guan	1178
+乘胜长驱	cheng sheng chang qu	656
+乘势	cheng shi	1082
+乘势而上	cheng shi er shang	634
+承曦	cheng xi	1162
+丞相令	cheng xiang ling	922
+乘虚而入	cheng xu er ru	646
+程咬金	cheng yao jin	729
+成周	cheng zhou	178
+炽地骁战	chi di xiao zhan	466
+持节不移	chi jie bu yi	371
+赤云飞骥	chi yun fei ji	327
+冲车	chong che	1029
+冲车部队	chong che bu dui	1027
+重庆	chong qing	56
+樗里疾	chu li ji	303
+出生州	chu sheng zhou	900
+川武关	chuan wu guan	1186
+船只	chuan zhi	995
+摧城	cui cheng	488
+摧敌锋芒	cui di feng mang	429
+摧阵固垒	cui zhen gu lei	403
+寸土不退	cun tu bu tui	487
+村庄	cun zhuang	852
+大都	da dou	77
+大风	da feng	953
+妲己	da ji	691
+大戟士	da ji shi	1012
+大梁	da liang	174
+大名府	da ming fu	81
+大漠兄弟	da mo xiong di	814
+大破天门	da po tian men	482
+大散关	da san guan	49
+大唐不良人	da tang bu liang ren	803
+大同	da tong	73
+大雾	da wu	954
+大展宏图	da zhan hong tu	904
+代郡	dai jun	121
+胆略兼资	dan lue jian zi	337
+淡宁港	dan ning gang	1071
+单枪匹马	dan qiang pi ma	651
+砀县	dang xian	1084
+刀兵	dao bing	1034
+刀盾兵	dao dun bing	1019
+道家	dao jia	841
+倒马关	dao ma guan	34
+得胜堡	de sheng bao	9
+邓艾	deng ai	268
+邓世昌	deng shi chang	185
+邓禹	deng yu	289
+登州	deng zhou	99
+狄花渡	di hua du	1171
+狄青	di qing	679
+典韦	dian wei	753
+碉堡	diao bao	937
+貂蝉	diao chan	736
+定身	ding shen	980
+定襄	ding xiang	1168
+定州	ding zhou	91
+东恒	dong heng	1049
+东京	dong jing	86
+洞若观火	dong ruo guan huo	374
+东魏	dong wei	1065
+东征西讨	dong zheng xi tao	632
+董卓	dong zhuo	733
+窦宪	dou xian	292
+斗志	dou zhi	907
+毒蒺藜	du ji li	449
+独石口	du shi kou	29
+杜邮	du you	1191
+杜预	du yu	263
+独占天下	du zhan tian xia	817
+独战天下	du zhan tian xia	556
+短兵相接	duan bing xiang jie	595
+短箭轻弓	duan jian qing gong	448
+段颎	duan jiong	290
+断粮之策	duan liang zhi ce	447
+敦煌	dun huang	126
+尔朱荣	er zhu rong	251
+法家	fa jia	846
+伐谋	fa mou	446
+反戈一击	fan ge yi ji	445
+反间连环	fan jian lian huan	428
+樊哙	fan kuai	754
+范蠡	fan li	717
+樊梨花	fan li hua	775
+范阳	fan yang	110
+方与	fang yu	1122
+翡翠戒	fei cui jie	324
+飞火箭	fei huo jian	470
+飞将军	fei jiang jun	623
+分兵合击	fen bing he ji	489
+分城	fen cheng	930
+焚烬	fen jin	584
+汾阴	fen yin	1108
+汾州	fen zhou	1039
+封常清	feng chang qing	233
+丰镐	feng gao	179
+烽火连天	feng huo lian tian	359
+凤击	feng ji	543
+烽烬	feng jin	798
+烽烬丨同舟	feng jin shu tong zhou	797
+烽烬同舟	feng jin tong zhou	796
+风陵渡	feng ling du	15
+锋芒毕露	feng mang bi lu	444
+凤求凰	feng qiu huang	512
+凤阙渡	feng que du	1174
+凤舞	feng wu	542
+冯异	feng yi	294
+冯子材	feng zi cai	188
+府兵制	fu bing zhi	562
+跗骨枪芒	fu gu qiang mang	463
+妇好	fu hao	183
+福将	fu jiang	546
+伏牛山	fu niu shan	1036
+浮秦	fu qin	789
+赋税经纶	fu shui jing lun	347
+扶危济困	fu wei ji kun	465
+伏兴	fu xing	1163
+傅阳	fu yang	1117
+扶摇	fu yao	790
+傅友德	fu you de	204
+拂云共曜	fu yun gong yao	835
+福州	fu zhou	54
+辅周伐纣	fu zhou fa zhou	570
+甘宁	gan ning	272
+高长恭	gao chang gong	255
+高地	gao di	961
+高欢	gao huan	677
+高凉	gao liang	1060
+高顺	gao shun	261
+高谈阔论	gao tan kuo lun	507
+高仙芝	gao xian zhi	234
+革甲	ge jia	317
+哥舒翰	ge shu han	239
+耿恭	geng gong	293
+耿弇	geng yan	287
+弓兵	gong bing	1031
+攻伐九策	gong fa jiu ce	590
+恭合关	gong he guan	1179
+攻坚克难	gong jian ke nan	376
+功铭铁券	gong ming tie quan	356
+弓如霹雳	gong ru pi li	530
+攻守易势	gong shou yi shi	336
+公孙瓒	gong sun zan	725
+共县	gong xian	1058
+勾践	gou jian	772
+钩镰兵	gou lian bing	1011
+古北口	gu bei kou	33
+鼓刀屠狗	gu dao tu gou	603
+孤军奋战	gu jun fen zhan	402
+固伤	gu shang	985
+姑苏	gu su	170
+鼓舞	gu wu	909
+孤勇	gu yong	504
+雇佣军团	gu yong jun tuan	804
+姑臧	gu zang	115
+孤忠亮节	gu zhong liang jie	334
+刮骨疗伤	gua gu liao shang	592
+挂帅	gua shuai	481
+瓜洲渡	gua zhou du	13
+关口	guan kou	898
+贯日箭	guan ri jian	443
+关天培	guan tian pei	186
+关外	guan wai	1139
+观星	guan xing	948
+冠野	guan ye	1146
+关银屏	guan yin ping	727
+灌婴	guan ying	298
+关羽	guan yu	681
+管仲	guan zhong	315
+广昌	guang chang	1167
+广固	guang gu	113
+广吉	guang ji	1151
+广陵	guang ling	168
+广募豪强	guang mu hao qiang	561
+广州	guang zhou	131
+桂林	gui lin	58
+鬼神乱舞	gui shen luan wu	638
+滚木	gun mu	939
+郭昕	guo xin	228
+国之干城	guo zhi gan cheng	621
+郭子仪	guo zi yi	674
+哈密	ha mi	69
+海纳百川	hai na bai chuan	793
+海上迷雾	hai shang mi wu	944
+邯郸	han dan	175
+函谷关	han gu guan	1086
+汉隆	han long	1155
+韩擒虎	han qin hu	245
+韩世忠	han shi zhong	225
+韩信	han xin	301
+汉兴	han xing	1164
+汗血宝马	han xue bao ma	323
+悍勇无惧	han yong wu ju	558
+汉中	han zhong	1087
+汉祚永安	han zuo yong an	349
+杭州	hang zhou	96
+镐京	hao jing	180
+浩然正气	hao ran zheng qi	333
+河东	he dong	1093
+合肥	he fei	149
+和歌	he ge	588
+和林	he lin	75
+河洛	he luo	1141
+河内	he nei	1106
+贺若弼	he ruo bi	244
+河阳	he yang	1050
+合纵连横	he zong lian heng	399
+黑夜阶段	hei ye jie duan	945
+恒农	heng nong	1046
+洪关	hong guan	1053
+鸿鹄之志	hong hu zhi zhi	492
+红笺点兵	hong jian dian bing	501
+鸿门脱身	hong men tuo shen	372
+红妆百炼	hong zhuang bai lian	369
+厚积薄发	hou ji bo fa	442
+后羿	hou yi	765
+虎豹骑	hu bao qi	1007
+壶关	hu guan	1105
+虎牢关	hu lao guan	46
+胡林翼	hu lin yi	189
+斛律光	hu lv guang	256
+虎门关	hu men guan	1182
+虎卫军	hu wei jun	1014
+花开	hua kai	791
+花开富贵	hua kai fu gui	799
+花木兰	hua mu lan	676
+花荣	hua rong	770
+华佗	hua tuo	749
+华州	hua zhou	1042
+怀朔戍边	huai shuo shu bian	367
+涣都	huan dou	1069
+涣丘	huan qiu	1067
+寰宇龍庭	huan yu long ting	784
+寰宇龙庭	huan yu long ting	783
+皇甫嵩	huang fu song	291
+黄盖	huang gai	270
+黄玉戒	huang yu jie	328
+黄忠	huang zhong	750
+回马枪	hui ma qiang	643
+会盟诸侯	hui meng zhu hou	903
+蕙质兰心	hui zhi lan xin	514
+浑瑊	hun jian	237
+火箭塔	huo jian ta	941
+火牛阵	huo niu zhen	551
+霍去病	huo qu bing	297
+吉昌	ji chang	1152
+蓟城	ji cheng	161
+急救	ji jiu	441
+急流勇退	ji liu yong tui	520
+机略百重	ji lue bai zhong	381
+技能自研	ji neng zi yan	863
+技穷	ji qiong	440
+计深虑远	ji shen lv yuan	615
+即时沙盘	ji shi sha pan	860
+济世之略	ji shi zhi lue	537
+急调	ji tiao	921
+济阴	ji yin	1083
+冀州	ji zhou	137
+葭萌关	jia meng guan	23
+贾诩	jia xu	761
+嘉峪关	jia yu guan	27
+建安风骨	jian an feng gu	544
+坚壁固守	jian bi gu shou	438
+剑阁	jian ge	43
+监国立威	jian guo li wei	577
+建康	jian kang	154
+箭溃群敌	jian kui qun di	536
+剑牢关	jian lao guan	1181
+剑落丨星辰	jian luo shu xing chen	839
+剑落星辰	jian luo xing chen	838
+剑门关	jian men guan	44
+箭神	jian shen	629
+坚守孤城	jian shou gu cheng	648
+坚守意志	jian shou yi zhi	486
+箭塔	jian ta	933
+剑舞	jian wu	587
+箭无虚发	jian wu xu fa	552
+建业	jian ye	155
+疆场鏖战	jiang chang ao zhan	582
+江都	jiang du	102
+江淮	jiang huai	1138
+将领	jiang ling	885
+江陵	jiang ling	151
+江山王者	jiang shan wang zhe	836
+姜尚	jiang shang	738
+将帅同心	jiang shuai tong xin	388
+姜维	jiang wei	269
+江夏	jiang xia	150
+江州	jiang zhou	1197
+徼功奋命	jiao gong fen ming	510
+叫阵	jiao zhen	600
+交州	jiao zhou	132
+结冰	jie bing	964
+揭竿而起	jie gan er qi	493
+借力打力	jie li da li	495
+街亭	jie ting	19
+接舷	jie xian	906
+竭忠尽智	jie zhong jin zhi	541
+金刀兵	jin dao bing	1015
+金刚	jin gang	509
+金合	jin he	1160
+金锁关	jin suo guan	10
+晋阳	jin yang	112
+锦州	jin zhou	63
+荆楚	jing chu	1144
+惊鸿舞	jing hong wu	563
+荆轲	jing ke	710
+井陉关	jing xing guan	37
+精英水师	jing ying shui shi	997
+荆州	jing zhou	143
+九级城	jiu ji cheng	855
+久经沙场	jiu jing sha chang	560
+酒泉	jiu quan	127
+九天十地	jiu tian shi di	834
+九霄	jiu xiao	795
+九转元功	jiu zhuan yuan gong	662
+拒敌城外	ju di cheng wai	550
+居高临下	ju gao lin xia	437
+据高御敌	ju gao yu di	593
+拒马	ju ma	934
+巨野泽	ju ye ze	1035
+居庸关	ju yong guan	36
+绝处逢生	jue chu feng sheng	496
+绝代风华	jue dai feng hua	564
+绝计	jue ji	619
+绝境求存	jue jing qiu cun	506
+君臣一心	jun chen yi xin	373
+军功进爵	jun gong jin jue	571
+军师	jun shi	886
+军事堡垒	jun shi bao lei	848
+军师技能	jun shi ji neng	967
+军乐台	jun yue tai	938
+开安	kai an	1170
+开封	kai feng	80
+开山裂石	kai shan lie shi	358
+考城	kao cheng	1059
+克敌制胜	ke di zhi sheng	660
+可塑之才	ke su zhi cai	350
+克制	ke zhi	986
+垦草令	ken cao ling	572
+会稽	kuai ji	169
+狂战不休	kuang zhan bu xiu	464
+溃敌	kui di	427
+夔门	kui men	16
+溃逃	kui tao	981
+昆仑墟	kun lun xu	1077
+昆明	kun ming	57
+昆梧	kun wu	1158
+昆阳	kun yang	1044
+拉萨	la sa	67
+莱州	lai zhou	98
+兰陵王	lan ling wang	254
+蓝玉	lan yu	206
+兰州	lan zhou	71
+浪津港	lang jin gang	1075
+老当益壮	lao dang yi zhuang	616
+乐进	le jin	280
+雷暴	lei bao	950
+擂鼓	lei gu	910
+擂鼓破阵	lei gu po zhen	471
+擂台	lei tai	911
+雷霆之威	lei ting zhi wei	529
+雷泽	lei ze	1137
+冷口	leng kou	31
+李成梁	li cheng liang	769
+李存孝	li cun xiao	758
+砺锋守心	li feng shou xin	331
+李纲	li gang	220
+李广	li guang	763
+李光弼	li guang bi	240
+离狐	li hu	1085
+李勣	li ji	242
+李靖	li jing	243
+李陵	li ling	732
+李牧	li mu	688
+吏清政明	li qing zheng ming	574
+李如松	li ru song	695
+李晟	li sheng	236
+离石	li shi	1116
+李世民	li shi min	669
+李愬	li shuo	231
+离思固守	li si gu shou	346
+李嗣业	li si ye	693
+立体地形战场	li ti di xing zhan chang	862
+李庭芝	li ting zhi	212
+力挽狂澜	li wan kuang lan	549
+李文忠	li wen zhong	205
+李信	li xin	307
+李秀宁	li xiu ning	696
+李渊	li yuan	724
+莲步蹁跹	lian bu pian xian	352
+连环	lian huan	970
+连击	lian ji	644
+联盟	lian meng	888
+联盟资源	lian meng zi yuan	869
+连弩兵	lian nu bing	1003
+连弩飞星	lian nu fei xing	458
+廉颇	lian po	760
+敛袖惊鸿	lian xiu jing hong	351
+连营火	lian ying huo	498
+梁红玉	liang hong yu	689
+凉州	liang zhou	139
+料敌先机	liao di xian ji	354
+辽东	liao dong	118
+烈火焚城	lie huo fen cheng	555
+烈火张天	lie huo zhang tian	586
+临安	lin an	82
+临汾	lin fen	1055
+临危不惧	lin wei bu ju	650
+林下风气	lin xia feng qi	479
+临阵一击	lin zhen yi ji	386
+临淄	lin zi	177
+灵州	ling zhou	1203
+刘邦	liu bang	678
+流风回雪	liu feng hui xue	383
+刘光世	liu guang shi	210
+刘基	liu ji	692
+六级城	liu ji cheng	858
+刘牢之	liu lao zhi	259
+刘铭传	liu ming chuan	187
+刘锜	liu qi	222
+刘禅	liu shan	670
+流亡	liu wang	978
+刘秀	liu xiu	687
+刘晔	liu ye	718
+刘裕	liu yu	258
+流洲	liu zhou	1078
+龙胆	long dan	652
+龙津关	long jin guan	1183
+龙门九歌	long men jiu ge	786
+龙泉关	long quan guan	1038
+龙泉剑	long quan jian	330
+陇西	long xi	125
+隆阳	long yang	1166
+龙御九天	long yu jiu tian	344
+龙漳渡	long zhang du	1175
+楼船	lou chuan	993
+楼犁沧海	lou li cang hai	380
+鲁班	lu ban	748
+鲁班锯	lu ban ju	433
+陆抗	lu kang	265
+卢氏	lu shi	1100
+鲁肃	lu su	273
+卢象升	lu xiang sheng	197
+陆秀夫	lu xiu fu	215
+陆逊	lu xun	707
+鲁阳	lu yang	1048
+鲁阳关	lu yang guan	1047
+鲁智深	lu zhi shen	712
+乱云关	luan yun guan	1184
+论战	lun zhan	517
+罗成	luo cheng	771
+洛神	luo shen	382
+洛阳	luo yang	158
+洛邑	luo yi	1140
+吕布	lv bu	768
+吕蒙	lv meng	672
+率阵技能	lv zhen ji neng	966
+吕雉	lv zhi	759
+马超	ma chao	283
+马陵关	ma ling guan	1125
+马踏八方	ma ta ba fang	519
+码头	ma tou	928
+马援	ma yuan	295
+满堂花醉	man tang hua zui	801
+盟斗会	meng dou hui	912
+孟珙	meng gong	218
+梦回大唐	meng hui da tang	818
+孟津	meng jin	1103
+梦开始的地方	meng kai shi de di fang	821
+蒙恬	meng tian	309
+梦醒时分	meng xing shi fen	820
+猛志常在	meng zhi chang zai	511
+渑池	mian chi	1111
+免战	mian zhan	891
+妙手回春	miao shou hui chun	436
+明察秋毫	ming cha qiu hao	579
+鸣镝无声	ming di wu sheng	406
+明妃	ming fei	654
+名家	ming jia	845
+名将令	ming jiang ling	876
+明修栈道	ming xiu zhan dao	473
+命中率	ming zhong lv	973
+明州	ming zhou	100
+陌刀兵	mo dao bing	1020
+陌刀摧锋	mo dao cui feng	454
+墨海城	mo hai cheng	1074
+墨家	mo jia	842
+沫云港	mo yun gang	1070
+谋士	mou shi	882
+穆桂英	mu gui ying	700
+木华黎	mu hua li	209
+穆棱关	mu ling guan	1126
+木门道	mu men dao	18
+慕容恪	mu rong ke	252
+木石生威	mu shi sheng wei	522
+母仪天下	mu yi tian xia	613
+沐英	mu ying	203
+纳贤令	na xian ling	877
+南昌	nan chang	59
+南霁云	nan ji yun	238
+南解	nan jie	1054
+南京	nan jing	84
+南宛	nan wan	1150
+南阳	nan yang	1129
+内政	nei zheng	865
+内助之贤	nei zhu zhi xian	426
+霓裳羽衣	ni shang yu yi	395
+年羹尧	nian geng yao	194
+娘子关	niang zi guan	38
+娘子军	niang zi jun	472
+涅面战魂	nie mian zhan hun	379
+聂士成	nie shi cheng	184
+宁波	ning bo	55
+凝锋贯甲	ning feng guan jia	397
+宁武关	ning wu guan	41
+宁邑	ning yi	1098
+宁远	ning yuan	64
+宁州	ning zhou	1199
+农家	nong jia	847
+弩兵	nu bing	1021
+怒发冲冠	nu fa chong guan	635
+怒破万军	nu po wan jun	596
+怒气	nu qi	988
+怒气技	nu qi ji	987
+怒炎	nu yan	585
+怒斩	nu zhan	500
+潘凤	pan feng	708
+潘美	pan mei	226
+番禺	pan yu	130
+庞涓	pang juan	703
+庞统	pang tong	745
+沛浔港	pei xun gang	1073
+彭城	peng cheng	167
+彭玉麟	peng yu lin	190
+披甲督战	pi jia du zhan	576
+偏头关	pian tou guan	40
+平城	ping cheng	116
+平心静气	ping xin jing qi	365
+平型关	ping xing guan	39
+平原	ping yuan	959
+平远	ping yuan	1192
+平州	ping zhou	1201
+破釜沉舟	po fu chen zhou	467
+魄力	po li	866
+破晓	po xiao	792
+破晓黎明	po xiao li ming	811
+泼油焚舟	po you fen zhou	377
+破阵	po zhen	435
+蒲坂	pu ban	1043
+普攻	pu gong	984
+蒲津渡	pu jin du	1037
+濮阳	pu yang	1123
+骑兵	qi bing	1032
+奇策	qi ce	523
+七级城	qi ji cheng	857
+戚继光	qi ji guang	704
+麒麟银甲	qi lin yin jia	329
+齐鲁	qi lu	1143
+祁山	qi shan	20
+起死回生	qi si hui sheng	532
+器械	qi xie	1030
+千兵破阵	qian bing po zhen	362
+迁城	qian cheng	895
+乾纲独断	qian gang du duan	573
+乾坤倒转	qian kun dao zhuan	434
+前线	qian xian	919
+前线城池	qian xian cheng chi	918
+枪兵	qiang bing	1033
+枪出如龙	qiang chu ru long	653
+强弓手	qiang gong shou	1004
+强弩劲射	qiang nu jing she	554
+枪卫	qiang wei	1018
+枪镇三关	qiang zhen san guan	477
+樵林	qiao lin	1159
+谯县	qiao xian	1135
+秦良玉	qin liang yu	182
+秦琼	qin qiong	755
+秦锐士	qin rui shi	1001
+琴瑟和鸣	qin se he ming	655
+青锋剑	qing feng jian	326
+轻弩兵	qing nu bing	1002
+青平渡	qing ping du	1173
+轻骑兵	qing qi bing	1024
+晴天	qing tian	956
+清泽	qing ze	1102
+请战	qing zhan	516
+青州	qing zhou	136
+琼州	qiong zhou	52
+穷追猛打	qiong zhui meng da	422
+龟兹	qiu ci	105
+求贤令	qiu xian ling	879
+曲阜	qu fu	176
+曲河	qu he	1190
+瞿塘关	qu tang guan	17
+曲沃	qu wo	1109
+全民皆兵	quan min jie bing	649
+泉州	quan zhou	101
+冉闵	ran min	751
+燃烧	ran shao	983
+肉搏战	rou bo zhan	421
+柔然大营	rou ran da ying	915
+柔然军营	rou ran jun ying	917
+柔然可汗	rou ran ke han	914
+柔然营寨	rou ran ying zhai	916
+锐不可当	rui bu ke dang	340
+润州	run zhou	97
+弱点击破	ruo dian ji po	469
+撒豆成兵	sa dou cheng bing	658
+撒手锏	sa shou jian	606
+塞外平敌	sai wai ping di	539
+三川	san chuan	1089
+三关	san guan	1
+散关	san guan	48
+三军奋命	san jun fen ming	547
+三战定北	san zhan ding bei	341
+扫六合	sao lu he	401
+沙暴	sha bao	951
+杀虎口	sha hu kou	30
+山隘	shan ai	958
+闪避	shan bi	974
+山海关	shan hai guan	28
+闪击	shan ji	420
+陕县	shan xian	1099
+上蔡	shang cai	165
+上党	shang dang	1095
+上都	shang dou	76
+商圣	shang sheng	521
+商鞅	shang yang	739
+哨所	shao suo	942
+射程	she cheng	972
+射虎之威	she hu zhi wei	624
+蛇矛兵	she mao bing	1013
+射日	she ri	628
+射雁	she yan	641
+摄政	she zheng	614
+神箭手	shen jian shou	1005
+身经百战	shen jing bai zhan	425
+深谋远虑	shen mou yuan lv	497
+神圣泰拉	shen sheng tai la	809
+审时度势	shen shi duo shi	462
+申息之师	shen xi zhi shi	999
+沈阳	shen yang	66
+神医	shen yi	591
+绳池	sheng chi	1110
+盛汉临渊	sheng han lin yuan	802
+盛京	sheng jing	65
+生生不息	sheng sheng bu xi	452
+盛世华夏	sheng shi hua xia	832
+盛世崋夏	sheng shi hua xia	833
+盛世三生	sheng shi san sheng	831
+盛世天一	sheng shi tian yi	830
+盛装待战	sheng zhuang dai zhan	332
+湿地	shi di	963
+十级城	shi ji cheng	854
+施琅	shi lang	195
+势力部队	shi li bu dui	925
+势力城池	shi li cheng chi	849
+势力攻城	shi li gong cheng	924
+势力战意	shi li zhan yi	923
+十面埋伏	shi mian mai fu	419
+识破	shi po	979
+士气	shi qi	977
+十骑夺城	shi qi duo cheng	611
+石墙	shi qiang	943
+石阙	shi que	1066
+势如破竹	shi ru po zhu	602
+湿润	shi run	982
+世外桃源	shi wai tao yuan	812
+石阳	shi yang	1188
+寿安	shou an	1165
+寿春	shou chun	171
+授机	shou ji	502
+丨浮秦丨	shu fu qin shu	788
+疏勒	shu le	104
+属性	shu xing	864
+双刀兵	shuang dao bing	1016
+霜风	shuang feng	794
+水港	shui gang	927
+水洼	shui wa	960
+水淹七军	shui yan qi jun	385
+水寨	shui zhai	926
+顺天府	shun tian fu	78
+朔方	shuo fang	109
+朔武龍骧	shuo wu long xiang	782
+朔武龙骧	shuo wu long xiang	781
+朔州	shuo zhou	1204
+伺机而动	si ji er dong	360
+司马错	si ma cuo	302
+司马穰苴	si ma rang ju	310
+司马懿	si ma yi	285
+四面楚歌	si mian chu ge	418
+泗水	si shui	1132
+汜水关	si shui guan	45
+伺隙破虚	si xi po xu	387
+司州	si zhou	1062
+速不台	su bu tai	208
+苏定方	su ding fang	766
+苏秦	su qin	686
+素银指	su yin zhi	320
+速战速决	su zhan su jue	391
+算无遗策	suan wu yi ce	618
+随俗为变	sui su wei bian	531
+睢阳	sui yang	1127
+碎叶	sui ye	106
+孙膑	sun bin	314
+孙承宗	sun cheng zong	199
+孙传庭	sun chuan ting	196
+孙尚香	sun shang xiang	743
+孙武	sun wu	776
+太史慈	tai shi ci	271
+太原	tai yuan	111
+太祖长拳	tai zu chang quan	610
+檀道济	tan dao ji	253
+探花巨制	tan hua ju zhi	826
+谭纶	tan lun	201
+唐休璟	tang xiu jing	664
+韬晦积势	tao hui ji shi	389
+桃林	tao lin	1090
+陶邑	tao yi	1118
+特殊状态	te shu zhuang tai	913
+藤甲兵	teng jia bing	1010
+体积碰撞	ti ji peng zhuang	861
+天策神威	tian ce shen wei	343
+田单	tian dan	731
+天地道盟	tian di dao meng	824
+天工图纸	tian gong tu zhi	874
+田忌	tian ji	312
+天津	tian jin	62
+天井关	tian jing guan	1057
+天命所归	tian ming suo gui	393
+天水	tian shui	124
+天下大势	tian xia da shi	905
+天下无双	tian xia wu shuang	637
+天阳关	tian yang guan	1187
+调弓惊猿	tiao gong jing yuan	567
+挑衅	tiao xin	601
+铁壁镇军	tie bi zhen jun	357
+铁胆枪魂	tie dan qiang hun	597
+铁浮屠	tie fu tu	1009
+铁剑	tie jian	318
+铁门关	tie men guan	24
+铁枪破敌	tie qiang po di	598
+铁血护国	tie xue hu guo	355
+铁血戍障	tie xue shu zhang	378
+铁衣寒刃	tie yi han ren	368
+铁扎甲	tie zha jia	321
+听涛渡	ting tao du	1172
+停渊镇岳	ting yuan zhen yue	405
+亭障	ting zhang	929
+通宝	tong bao	881
+铜镝	tong di	1113
+潼关	tong guan	47
+铜戒	tong jie	316
+铜筋铁骨	tong jin tie gu	485
+桐丘	tong qiu	1068
+统万	tong wan	114
+铜制机件	tong zhi ji jian	527
+投笔从戎	tou bi cong rong	526
+投石车	tou shi che	1028
+投石车部队	tou shi che bu dui	1026
+土木堡	tu mu bao	11
+图穷匕见	tu qiong bi xian	503
+屯兵	tun bing	640
+屯留	tun liu	1094
+拓跋焘	tuo ba tao	250
+拖刀计	tuo dao ji	364
+洼地	wa di	965
+宛城	wan cheng	172
+万夫莫开	wan fu mo kai	417
+万壑江山	wan he jiang shan	785
+万箭齐发	wan jian qi fa	594
+万里封侯	wan li feng hou	524
+完美世界	wan mei shi jie	825
+王贲	wang ben	308
+望断天涯	wang duan tian ya	779
+望火楼	wang huo lou	940
+王濬	wang jun	262
+王猛	wang meng	726
+王平	wang ping	266
+王旗	wang qi	850
+王师镇远	wang shi zhen yuan	778
+王彦章	wang yan zhang	752
+王昭君	wang zhao jun	746
+王镇恶	wang zhen e	249
+王忠嗣	wang zhong si	232
+王佐之才	wang zuo zhi cai	540
+韦皋	wei gao	235
+威名	wei ming	499
+卫青	wei qing	756
+韦睿	wei rui	248
+委托	wei tuo	920
+魏武卒	wei wu zu	998
+韦孝宽	wei xiao kuan	257
+魏延	wei yan	282
+威震边庭	wei zhen bian ting	478
+魏征	wei zheng	742
+魏州	wei zhou	93
+文臣	wen chen	883
+问鼎	wen ding	902
+闻鸡起舞	wen ji qi wu	494
+文天祥	wen tian xiang	665
+文武双全	wen wu shuang quan	416
+文种	wen zhong	304
+卧薪尝胆	wo xin chang dan	647
+武昌	wu chang	61
+乌钢剑	wu gang jian	322
+武攻	wu gong	992
+武攻伤害	wu gong shang hai	990
+武关	wu guan	51
+吴汉	wu han	288
+武将	wu jiang	884
+吴玠	wu jie	224
+武力	wu li	868
+乌林	wu lin	1157
+吴璘	wu lin	223
+武圣	wu sheng	384
+武威	wu wei	129
+武业	wu ye	1195
+武原	wu yuan	1124
+五丈原	wu zhang yuan	8
+伍子胥	wu zi xu	764
+西安	xi an	72
+喜峰口	xi feng kou	32
+西京	xi jing	85
+西宁	xi ning	70
+西秦	xi qin	1145
+西塘	xi tang	1153
+西魏	xi wei	1064
+夏侯惇	xia hou dun	277
+夏侯渊	xia hou yuan	276
+下邳	xia pi	148
+瑕丘	xia qiu	1136
+先发制人	xian fa zhi ren	423
+冼夫人	xian fu ren	181
+弦响甲破	xian xiang jia po	583
+弦响雁落	xian xiang yan luo	642
+咸阳	xian yang	162
+陷阵先锋	xian zhen xian feng	557
+陷阵营	xian zhen ying	1017
+襄城	xiang cheng	1045
+相风铜鸟	xiang feng tong niao	947
+项燕	xiang yan	305
+襄阳	xiang yang	152
+项羽	xiang yu	694
+相州	xiang zhou	94
+萧绰	xiao chuo	741
+销锋铸金	xiao feng zhu jin	400
+晓宫阙	xiao gong que	800
+萧关	xiao guan	50
+崤函	xiao han	3
+萧何	xiao he	300
+枭姬	xiao ji	375
+小沛	xiao pei	147
+骁骑兵	xiao qi bing	1006
+崤山	xiao shan	1112
+骁勇善战	xiao yong shan zhan	548
+谢道韫	xie dao yun	699
+谢玄	xie xuan	260
+新和联胜	xin he lian sheng	787
+信物	xin wu	871
+新郑	xin zheng	1121
+行刺	xing ci	505
+星火燎原	xing huo liao yuan	459
+星罗列岛	xing luo lie dao	1076
+星星之火	xing xing zhi huo	819
+兴原	xing yuan	1169
+幸运星	xing yun xing	392
+兴州	xing zhou	1198
+熊廷弼	xiong ting bi	200
+雄主	xiong zhu	901
+羞花	xiu hua	394
+修养生息	xiu yang sheng xi	569
+休战养民	xiu zhan yang min	415
+许昌	xu chang	157
+许褚	xu chu	274
+徐达	xu da	668
+恤耗存本	xu hao cun ben	345
+徐晃	xu huang	723
+蓄力一击	xu li yi ji	414
+蓄势待发	xu shi dai fa	578
+虚实奇策	xu shi qi ce	456
+徐图缓进	xu tu huan jin	342
+徐州	xu zhou	142
+宣府	xuan fu	74
+悬衡御势	xuan heng yu shi	398
+玄甲军	xuan jia jun	810
+玄甲骑	xuan jia qi	1008
+玄甲铁骑	xuan jia tie qi	605
+玄铁重甲	xuan tie zhong jia	325
+宣战	xuan zhan	894
+玄洲	xuan zhou	1081
+薛讷	xue ne	230
+薛仁贵	xue ren gui	744
+薛涛	xue tao	709
+雪天	xue tian	952
+旬儿关	xun er guan	1177
+浔泽	xun ze	1189
+鄢陵	yan ling	1092
+雁门	yan men	122
+雁门关	yan men guan	42
+炎丨战至终章	yan shu zhan zhi zhong zhang	823
+阏与	yan yu	1119
+烟雨遁行	yan yu dun xing	404
+炎战至终章	yan zhan zhi zhong zhang	822
+燕赵	yan zhao	1142
+兖州	yan zhou	135
+阳城	yang cheng	1088
+阳关	yang guan	25
+羊祜	yang hu	264
+杨戬	yang jian	777
+阳平关	yang ping guan	22
+杨素	yang su	680
+阳夏	yang xia	1128
+杨延昭	yang yan zhao	698
+养由基	yang you ji	737
+杨玉环	yang yu huan	685
+杨再兴	yang zai xing	214
+扬州	yang zhou	141
+邺城	ye cheng	156
+野狐岭	ye hu ling	12
+耶律楚材	ye lv chu cai	667
+野王	ye wang	1101
+野战据点	ye zhan ju dian	931
+以暴制暴	yi bao zhi bao	626
+猗地	yi di	1097
+一夫当关	yi fu dang guan	599
+以攻为守	yi gong wei shou	639
+一鼓作气	yi gu zuo qi	515
+以火乱敌	yi huo luan di	525
+一击制敌	yi ji zhi di	424
+一剑一念	yi jian yi nian	837
+伊犁	yi li	68
+医疗	yi liao	480
+意乱情迷	yi luan qing mi	460
+义气千秋	yi qi qian qiu	805
+義气千秋	yi qi qian qiu	806
+以少击多	yi shao ji duo	553
+猗氏	yi shi	1107
+一条鞭法	yi tiao bian fa	413
+以牙还牙	yi ya huan ya	627
+伊阳	yi yang	1061
+宜阳	yi yang	1051
+以战养战	yi zhan yang zhan	412
+以战止战	yi zhan zhi zhan	411
+以正为奇	yi zheng wei qi	491
+易州	yi zhou	89
+益州	yi zhou	140
+因敌制变	yin di zhi bian	363
+阴平	yin ping	21
+阴平道	yin ping dao	4
+阴阳家	yin yang jia	843
+颖川	ying chuan	1091
+郢都	ying dou	173
+营垒	ying lei	936
+应天府	ying tian fu	79
+鹰崖关	ying ya guan	1185
+嬴政	ying zheng	684
+瀛洲	ying zhou	1080
+营州	ying zhou	88
+英姿勃发	ying zi bo fa	657
+永安	yong an	144
+用兵如神	yong bing ru shen	661
+雍城	yong cheng	164
+勇冠三军	yong guan san jun	410
+庸叙关	yong xu guan	1176
+雍州	yong zhou	1063
+诱敌深入	you di shen ru	335
+友盟	you meng	887
+幽州	you zhou	138
+虞阪	yu ban	1052
+预备兵	yu bei bing	873
+玉币	yu bi	875
+玉璧	yu bi	1041
+玉碧	yu bi	1040
+玉璧鏖兵	yu bi ao bing	366
+尉迟恭	yu chi gong	241
+俞大猷	yu da you	202
+虞姬	yu ji	747
+御驾亲征	yu jia qin zheng	545
+余玠	yu jie	217
+于禁	yu jin	279
+玉京	yu jing	1194
+玉门关	yu men guan	26
+于谦	yu qian	762
+于阗	yu tian	103
+雨天	yu tian	955
+宇文泰	yu wen tai	735
+虞县	yu xian	1131
+渔阳	yu yang	119
+雨夜潜袭	yu ye qian xi	339
+预约攻城	yu yue gong cheng	893
+虞允文	yu yun wen	219
+豫州	yu zhou	134
+猿臂善射	yuan bi shan she	625
+袁崇焕	yuan chong huan	198
+援攻	yuan gong	483
+远射	yuan she	518
+鸳鸯阵	yuan yang zhen	490
+岳飞	yue fei	767
+岳家枪阵	yue jia qiang zhen	633
+栎阳	yue yang	163
+乐毅	yue yi	313
+岳云	yue yun	734
+越战越勇	yue zhan yue yong	409
+岳钟琪	yue zhong qi	193
+越州	yue zhou	1200
+运筹帷幄	yun chou wei wo	475
+云谷	yun gu	1156
+云梯	yun ti	935
+云梯战术	yun ti zhan shu	892
+云中	yun zhong	123
+云州	yun zhou	1202
+灾荒	zai huang	949
+再起	zai qi	896
+藏军于林	zang jun yu lin	455
+凿空引马	zao kong yin ma	370
+曾国藩	zeng guo fan	191
+战场洞察	zhan chang dong cha	396
+战船	zhan chuan	994
+战地大营	zhan di da ying	932
+战功	zhan gong	870
+斩将夺旗	zhan jiang duo qi	612
+战略手游	zhan lue shou you	859
+战仙阁楼	zhan xian ge lou	828
+戰仙阁楼	zhan xian ge lou	829
+战意	zhan yi	976
+战至终章	zhan zhi zhong zhang	780
+张飞	zhang fei	284
+张弓满弦	zhang gong man xian	630
+章邯	zhang han	730
+张郃	zhang he	278
+张居正	zhang ju zheng	740
+张良	zhang liang	697
+张辽	zhang liao	281
+张骞	zhang qian	675
+张世杰	zhang shi jie	216
+张守珪	zhang shou gui	229
+长孙晟	zhang sun sheng	721
+张巡	zhang xun	773
+张掖	zhang ye	128
+赵充国	zhao chong guo	296
+赵飞燕	zhao fei yan	671
+赵匡胤	zhao kuang yin	757
+赵括	zhao kuo	711
+招募令	zhao mu ling	878
+赵奢	zhao she	311
+朝夕与共	zhao xi yu gong	816
+赵云	zhao yun	774
+沼泽	zhao ze	962
+哲别	zhe bie	716
+真定	zhen ding	90
+镇恶	zhen e	508
+振奋军心	zhen fen jun xin	645
+针锋相对	zhen feng xiang dui	338
+甄姬	zhen ji	682
+镇山关	zhen shan guan	1180
+郑成功	zheng cheng gong	683
+整顿吏治	zheng dun li zhi	575
+直道	zhi dao	957
+直捣黄龙	zhi dao huang long	608
+智攻	zhi gong	991
+智攻伤害	zhi gong shang hai	989
+轵关	zhi guan	2
+治军有度	zhi jun you du	534
+智力	zhi li	867
+制怒	zhi nu	408
+重创突击	zhong chuang tu ji	607
+中都	zhong du	1056
+钟会	zhong hui	267
+忠君卫道	zhong jun wei dao	622
+中牟	zhong mu	1114
+中平	zhong ping	1148
+重骑兵	zhong qi bing	1023
+中山	zhong shan	160
+种师道	zhong shi dao	213
+中州	zhong zhou	1196
+周勃	zhou bo	299
+周亚夫	zhou ya fu	701
+昼夜循环	zhou ye xun huan	946
+周瑜	zhou yu	690
+主城	zhu cheng	890
+主城群	zhu cheng qun	889
+主动技能	zhu dong ji neng	968
+诛罚泰拉	zhu fa tai la	808
+诸葛亮	zhu ge liang	286
+筑坚守城	zhu jian shou cheng	620
+珠联璧合	zhu lian bi he	581
+朱文正	zhu wen zheng	702
+朱中	zhu zhong	1149
+诸子百家	zhu zi bai jia	840
+转战千里	zhuan zhan qian li	631
+撞阵冲军	zhuang zhen chong jun	407
+准备状态	zhun bei zhuang tai	971
+涿郡	zhuo jun	120
+卓文君	zhuo wen jun	714
+紫荆关	zi jing guan	35
+自守心	zi shou xin	432
+子午道	zi wu dao	6
+自由组队	zi you zu dui	827
+资源点	zi yuan dian	851
+资源州	zi yuan zhou	899
+宗泽	zong ze	221
+祖冲之	zu chong zhi	720
+阻击战	zu ji zhan	453
+祖逖	zu ti	706
+最后一舞	zui hou yi wu	439
+左芬	zuo fen	666
+坐骑	zuo qi	872
+左邑	zuo yi	1096
+左宗棠	zuo zong tang	192

@@ -1,0 +1,4185 @@
+# 词库名称: 矿物加工与浮选专业词库
+# 词库分类: 矿业勘探
+# 词库描述: 本词库主要收录矿物加工与浮选领域常用专业术语，包括矿物名称、浮选药剂、选矿工艺、矿物表面化学、电化学调控、界面作用、分析测试及计算模拟等内容，重点补充硫化矿浮选、辉钼矿与方铅矿分离等科研场景中的专业词汇，适用于科研论文、实验记录、文献检索及专业交流。
+# 词条样例: 矿物加工、原矿、中矿、矿物、脉石矿物、连生体
+# 解析词数: 4178
+# 解析异常: 0
+
+艾萨磨	ai sa mo	1459
+艾萨磨机	ai sa mo ji	3484
+胺浮选	an fu xuan	2457
+氨基	an ji	605
+胺类捕收剂	an lei bu shou ji	3751
+胺盐	an yan	647
+螯合	ao he	3873
+螯合捕收剂	ao he bu shou ji	3750
+螯合抑制剂	ao he yi zhi ji	2654
+螯合作用	ao he zuo yong	3872
+巴德电荷	ba de dian he	2371
+巴德电荷转移	ba de dian he zhuan yi	400
+白铅矿	bai qian kuang	3521
+白铁矿	bai tie kuang	1664
+白钨矿	bai wu kuang	3585
+白钨矿表面电位	bai wu kuang biao mian dian wei	2062
+白钨矿表面亲水性	bai wu kuang biao mian qin shui xing	2054
+白钨矿表面疏水性	bai wu kuang biao mian shu shui xing	2055
+白钨矿表面物种	bai wu kuang biao mian wu zhong	2050
+白钨矿表面吸附	bai wu kuang biao mian xi fu	2060
+白钨矿表面氧化	bai wu kuang biao mian yang hua	2061
+白钨矿捕收	bai wu kuang bu shou	1153
+白钨矿电化学行为	bai wu kuang dian hua xue xing wei	2051
+白钨矿动电位	bai wu kuang dong dian wei	2063
+白钨矿钝化	bai wu kuang dun hua	1146
+白钨矿浮选	bai wu kuang fu xuan	2476
+白钨矿浮选动力学	bai wu kuang fu xuan dong li xue	2057
+白钨矿浮选回收率	bai wu kuang fu xuan hui shou lv	2058
+白钨矿还原	bai wu kuang huan yuan	1150
+白钨矿活化	bai wu kuang huo hua	1152
+白钨矿接触角	bai wu kuang jie chu jiao	2064
+白钨矿界面性质	bai wu kuang jie mian xing zhi	2049
+白钨矿解吸	bai wu kuang jie xi	1148
+白钨矿溶出	bai wu kuang rong chu	1147
+白钨矿溶出行为	bai wu kuang rong chu xing wei	2052
+白钨矿天然可浮性	bai wu kuang tian ran ke fu xing	2056
+白钨矿吸附	bai wu kuang xi fu	1149
+白钨矿氧化	bai wu kuang yang hua	1151
+白钨矿氧化行为	bai wu kuang yang hua xing wei	2053
+白钨矿药剂吸附	bai wu kuang yao ji xi fu	2059
+白钨矿抑制	bai wu kuang yi zhi	1154
+白云母	bai yun mu	3560
+白云石	bai yun shi	3551
+白云石浮选	bai yun shi fu xuan	2471
+半波电位	ban bo dian wei	449
+半峰宽	ban feng kuan	3304
+半工业试验	ban gong ye shi yan	4118
+半经验模型	ban jing yan mo xing	2812
+伴生矿	ban sheng kuang	3609
+伴生元素	ban sheng yuan su	916
+板钛矿	ban tai kuang	1654
+斑铜矿	ban tong kuang	3643
+半自磨	ban zi mo	3495
+半自磨机	ban zi mo ji	3488
+邦德功指数	bang de gong zhi shu	1479
+棒磨	bang mo	3493
+棒磨机	bang mo ji	3490
+包裹关系	bao guo guan xi	2961
+包裹连生	bao guo lian sheng	2959
+饱和指数	bao he zhi shu	1561
+暴露程度	bao lu cheng du	2921
+暴露面积	bao lu mian ji	2920
+薄膜排液	bao mo pai ye	1529
+背景电解质	bei jing dian jie zhi	3803
+背景扣除	bei jing kou chu	504
+背散射电子像	bei san she dian zi xiang	1304
+苯环	ben huan	2643
+苯甲羟肟酸	ben jia qiang wo suan	2674
+比表面积	bi biao mian ji	3440
+比表面积测试	bi biao mian ji ce shi	3282
+比表面积增大	bi biao mian ji zeng da	2486
+比磁化率	bi ci hua lv	3402
+避光保存	bi guang bao cun	2319
+闭环控制	bi huan kong zhi	329
+闭路回收率	bi lu hui shou lv	1777
+闭路流程	bi lu liu cheng	4043
+闭路磨矿	bi lu mo kuang	1457
+闭路试验	bi lu shi yan	4127
+比能耗	bi neng hao	1467
+比重	bi zhong	1708
+比阻	bi zu	1355
+变化趋势	bian hua qu shi	2186
+边界层	bian jie ceng	695
+扁平度	bian ping du	929
+边缘活性位点	bian yuan huo xing wei dian	881
+边缘面	bian yuan mian	3822
+边缘位点	bian yuan wei dian	3825
+表观黏度	biao guan nian du	2278
+表观气速	biao guan qi su	3995
+表观速率常数	biao guan su lv chang shu	806
+表面螯合	biao mian ao he	590
+表面饱和	biao mian bao he	1795
+表面沉淀	biao mian chen dian	3869
+表面沉淀反应	biao mian chen dian fan ying	897
+表面沉积	biao mian chen ji	2747
+表面驰豫	biao mian chi yu	405
+表面重构	biao mian chong gou	3832
+表面初始氧化	biao mian chu shi yang hua	575
+表面粗糙度	biao mian cu cao du	2931
+表面催化	biao mian cui hua	860
+表面单质硫	biao mian dan zhi liu	2771
+表面电荷	biao mian dian he	3915
+表面电荷密度	biao mian dian he mi du	3904
+表面电位	biao mian dian wei	3914
+表面电位变化	biao mian dian wei bian hua	764
+表面钝化	biao mian dun hua	3841
+表面反应	biao mian fan ying	3791
+表面反应步骤	biao mian fan ying bu zhou	711
+表面反应产物	biao mian fan ying chan wu	751
+表面反应控制	biao mian fan ying kong zhi	1822
+表面反应路径	biao mian fan ying lu jing	1827
+表面反应位点	biao mian fan ying wei dian	1862
+表面分析	biao mian fen xi	3260
+表面覆盖	biao mian fu gai	1595
+表面覆盖产物	biao mian fu gai chan wu	752
+表面覆盖度	biao mian fu gai du	3833
+表面覆盖率	biao mian fu gai lv	816
+表面改性	biao mian gai xing	3125
+表面改性强化	biao mian gai xing qiang hua	1750
+表面过氧化	biao mian guo yang hua	1831
+表面化学	biao mian hua xue	3929
+表面化学成像	biao mian hua xue cheng xiang	465
+表面化学态	biao mian hua xue tai	754
+表面活化	biao mian huo hua	3104
+表面活性	biao mian huo xing	1591
+表面活性位点	biao mian huo xing wei dian	882
+表面机制	biao mian ji zhi	306
+表面扩散	biao mian kuo san	1813
+表面老化	biao mian lao hua	2491
+表面灵敏度	biao mian ling min du	478
+表面硫代硫酸盐	biao mian liu dai liu suan yan	2764
+表面硫化	biao mian liu hua	901
+表面硫酸化	biao mian liu suan hua	560
+表面硫酸盐	biao mian liu suan yan	2766
+表面络合	biao mian luo he	3877
+表面络合反应	biao mian luo he fan ying	898
+表面络合物	biao mian luo he wu	1875
+表面膜	biao mian mo	1798
+表面模型	biao mian mo xing	3208
+表面钼物种	biao mian mu wu zhong	3586
+表面能	biao mian neng	3926
+表面能分量	biao mian neng fen liang	1534
+表面能计算	biao mian neng ji suan	2387
+表面能升高	biao mian neng sheng gao	2485
+表面配位	biao mian pei wei	591
+表面铅沉积	biao mian qian chen ji	3010
+表面铅污染	biao mian qian wu ran	2607
+表面铅物种	biao mian qian wu zhong	3587
+表面铅吸附	biao mian qian xi fu	3009
+表面迁移	biao mian qian yi	911
+表面羟基	biao mian qiang ji	1567
+表面羟基化	biao mian qiang ji hua	902
+表面亲水层	biao mian qin shui ceng	553
+表面亲水性	biao mian qin shui xing	4026
+表面去质子化	biao mian qu zhi zi hua	1869
+表面缺陷	biao mian que xian	3831
+表面失活	biao mian shi huo	3103
+表面疏水性	biao mian shu shui xing	4027
+表面水化结构	biao mian shui hua jie gou	740
+表面水化膜	biao mian shui hua mo	1885
+表面水膜	biao mian shui mo	1884
+表面态	biao mian tai	719
+表面台阶	biao mian tai jie	1683
+表面调控	biao mian tiao kong	3130
+表面脱硫	biao mian tuo liu	900
+表面污染	biao mian wu ran	2539
+表面物种	biao mian wu zhong	3837
+表面新鲜度	biao mian xin xian du	2492
+表面形貌	biao mian xing mao	926
+表面性质	biao mian xing zhi	4092
+表面性质变化	biao mian xing zhi bian hua	3038
+表面选择性	biao mian xuan ze xing	3134
+表面亚硫酸盐	biao mian ya liu suan yan	2765
+表面氧化	biao mian yang hua	3857
+表面氧化层	biao mian yang hua ceng	554
+表面氧化产物	biao mian yang hua chan wu	750
+表面氧化还原	biao mian yang hua huan yuan	899
+表面应变	biao mian ying bian	2488
+表面元素比例	biao mian yuan su bi li	755
+表面元素富集	biao mian yuan su fu ji	483
+表面元素含量	biao mian yuan su han liang	2423
+表面元素亏损	biao mian yuan su kui sun	482
+表面原子比	biao mian yuan zi bi	497
+表面再沉积	biao mian zai chen ji	2748
+表面增强拉曼	biao mian zeng qiang la man	2439
+表面张力	biao mian zhang li	3922
+表面张力梯度	biao mian zhang li ti du	1876
+表面质子化	biao mian zhi zi hua	1870
+表面终止	biao mian zhong zhi	1696
+表面自由能	biao mian zi you neng	3925
+表面组成	biao mian zu cheng	753
+表面组分	biao mian zu fen	484
+表征结果	biao zheng jie guo	2194
+标准差	biao zhun cha	3190
+标准加入法	biao zhun jia ru fa	1287
+标准偏差	biao zhun pian cha	2233
+标准曲线	biao zhun qu xian	3162
+标准溶液	biao zhun rong ye	3159
+标准误	biao zhun wu	2231
+标准误差	biao zhun wu cha	2230
+标准物质	biao zhun wu zhi	1179
+标准样	biao zhun yang	3160
+宾汉模型	bin han mo xing	2268
+伯胺	bo an	645
+铂电极	bo dian ji	1273
+博克斯设计	bo ke si she ji	2214
+玻碳电极	bo tan dian ji	1272
+波特图	bo te tu	2721
+布尔检索	bu er jian suo	296
+部分因子设计	bu fen yin zi she ji	1255
+捕获概率	bu huo gai lv	2828
+布居分析	bu ju fen xi	3219
+不可浮组分	bu ke fu zu fen	803
+布里渊区	bu li yuan qu	2392
+不确定性分析	bu que ding xing fen xi	2798
+捕收剂	bu shou ji	3776
+捕收剂分子	bu shou ji fen zi	620
+捕收机理	bu shou ji li	3146
+捕收剂效应	bu shou ji xiao ying	772
+捕收剂阴离子	bu shou ji yin li zi	621
+捕收剂预吸附	bu shou ji yu xi fu	3005
+捕收能力	bu shou neng li	1614
+捕收强化	bu shou qiang hua	1753
+捕收效率	bu shou xiao lv	1790
+捕收性能	bu shou xing neng	1613
+捕收选择性	bu shou xuan ze xing	1612
+捕收作用	bu shou zuo yong	3769
+不完善度	bu wan shan du	1411
+参比电极	can bi dian ji	3275
+残差分析	can cha fen xi	2211
+参考文献	can kao wen xian	292
+参数拟合	can shu ni he	2822
+参数优化	can shu you hua	2800
+残余浓度	can yu nong du	3651
+残余药剂	can yu yao ji	3652
+槽间流动	cao jian liu dong	352
+草酸	cao suan	3676
+草酸钠	cao suan na	1618
+槽体	cao ti	3351
+操作参数	cao zuo can shu	4086
+操作稳定性	cao zuo wen ding xing	1774
+测量不确定度	ce liang bu que ding du	321
+层状硅酸盐	ceng zhuang gui suan yan	3508
+差分电荷	cha fen dian he	3235
+差分电荷密度	cha fen dian he mi du	2372
+差分电荷图	cha fen dian he tu	399
+差热分析	cha re fen xi	3284
+差示扫描量热	cha shi sao miao liang re	3283
+柴油	chai you	3733
+产率	chan lv	4141
+产品水分	chan pin shui fen	1353
+产物分配	chan wu fen pei	826
+掺杂	chan za	1686
+长宽比	chang kuan bi	928
+长石	chang shi	3564
+长石浮选	chang shi fu xuan	2469
+常数晶格	chang shu jing ge	1719
+常相位元件	chang xiang wei yuan jian	2723
+超胞	chao bao	3209
+超声处理	chao sheng chu li	3114
+超声清洗	chao sheng qing xi	2347
+超声预处理	chao sheng yu chu li	3120
+超细粒浮选	chao xi li fu xuan	3967
+超细粒回收	chao xi li hui shou	2520
+超细粒夹带	chao xi li jia dai	2543
+超细粒矿物	chao xi li kuang wu	3964
+超细粒难浮	chao xi li nan fu	1522
+超细粒效应	chao xi li xiao ying	2545
+超细磨	chao xi mo	3497
+超细碎	chao xi sui	3500
+超氧自由基	chao yang zi you ji	2408
+车轮矿	che lun kuang	3625
+沉淀	chen dian	3871
+沉淀成核	chen dian cheng he	708
+沉淀动力学	chen dian dong li xue	704
+沉淀覆盖	chen dian fu gai	1805
+沉淀平衡	chen dian ping heng	3799
+沉淀生成	chen dian sheng cheng	1558
+沉淀速率	chen dian su lv	1808
+沉降	chen jiang	3424
+沉降末速	chen jiang mo su	1430
+沉降浓缩	chen jiang nong suo	1376
+沉降速度	chen jiang su du	3418
+沉砂	chen sha	3454
+辰砂	chen sha	3637
+沉砂粒度	chen sha li du	1442
+沉砂嘴	chen sha zui	1439
+成本收益	cheng ben shou yi	1206
+成核步骤	cheng he bu zhou	710
+成核速率	cheng he su lv	1807
+成键轨道	cheng jian gui dao	723
+成键强度	cheng jian qiang du	395
+成键作用	cheng jian zuo yong	2368
+称量	cheng liang	3326
+澄清区	cheng qing qu	1369
+称取矿样	cheng qu kuang yang	2341
+称样	cheng yang	2342
+称重化验	cheng zhong hua yan	2333
+赤铁矿	chi tie kuang	3583
+赤铁矿浮选	chi tie kuang fu xuan	2465
+赤铜矿	chi tong kuang	3522
+冲程	chong cheng	1419
+冲次	chong ci	1418
+重复三次	chong fu san ci	2318
+重复试验	chong fu shi yan	4115
+重复性	chong fu xing	3194
+重复性误差	chong fu xing wu cha	2207
+重复样	chong fu yang	3156
+充气机械浮选机	chong qi ji xie fu xuan ji	2254
+充气量	chong qi liang	3998
+充气强度	chong qi qiang du	3996
+充气速度	chong qi su du	3997
+充气速率	chong qi su lv	1488
+充气系统	chong qi xi tong	2247
+充填率	chong tian lv	1473
+重选	chong xuan	3439
+重选流程	chong xuan liu cheng	1346
+稠度系数	chou du xi shu	1315
+储备液	chu bei ye	2323
+触变性	chu bian xing	2271
+处理量	chu li liang	4095
+处理能力	chu li neng li	1227
+处理数据	chu li shu ju	3154
+出溶结构	chu rong jie gou	2955
+初始氧化	chu shi yang hua	576
+串联槽模型	chuan lian cao mo xing	2815
+传质动力学	chuan zhi dong li xue	699
+传质控制	chuan zhi kong zhi	1821
+床层分层	chuang ceng fen ceng	1422
+床层松散	chuang ceng song san	1423
+床面	chuang mian	1420
+创新点	chuang xin dian	2201
+创新性	chuang xin xing	1245
+纯矿物浮选	chun kuang wu fu xuan	2352
+纯矿物试验	chun kuang wu shi yan	2357
+纯矿物制备	chun kuang wu zhi bei	2350
+醇类起泡剂	chun lei qi pao ji	638
+磁场	ci chang	3406
+磁场强度	ci chang qiang du	3405
+磁场梯度	ci chang ti du	1407
+磁感应强度	ci gan ying qiang du	3404
+磁化率	ci hua lv	3403
+磁化强度	ci hua qiang du	1405
+磁黄铁矿	ci huang tie kuang	3645
+磁黄铁矿表面电位	ci huang tie kuang biao mian dian wei	2094
+磁黄铁矿表面亲水性	ci huang tie kuang biao mian qin shui xing	2086
+磁黄铁矿表面疏水性	ci huang tie kuang biao mian shu shui xing	2087
+磁黄铁矿表面物种	ci huang tie kuang biao mian wu zhong	2082
+磁黄铁矿表面吸附	ci huang tie kuang biao mian xi fu	2092
+磁黄铁矿表面氧化	ci huang tie kuang biao mian yang hua	2093
+磁黄铁矿捕收	ci huang tie kuang bu shou	1172
+磁黄铁矿电化学行为	ci huang tie kuang dian hua xue xing wei	2083
+磁黄铁矿动电位	ci huang tie kuang dong dian wei	2095
+磁黄铁矿钝化	ci huang tie kuang dun hua	1165
+磁黄铁矿浮选	ci huang tie kuang fu xuan	1174
+磁黄铁矿浮选动力学	ci huang tie kuang fu xuan dong li xue	2089
+磁黄铁矿浮选回收率	ci huang tie kuang fu xuan hui shou lv	2090
+磁黄铁矿还原	ci huang tie kuang huan yuan	1169
+磁黄铁矿活化	ci huang tie kuang huo hua	1171
+磁黄铁矿接触角	ci huang tie kuang jie chu jiao	2096
+磁黄铁矿界面性质	ci huang tie kuang jie mian xing zhi	2081
+磁黄铁矿解吸	ci huang tie kuang jie xi	1167
+磁黄铁矿溶出	ci huang tie kuang rong chu	1166
+磁黄铁矿溶出行为	ci huang tie kuang rong chu xing wei	2084
+磁黄铁矿天然可浮性	ci huang tie kuang tian ran ke fu xing	2088
+磁黄铁矿吸附	ci huang tie kuang xi fu	1168
+磁黄铁矿氧化	ci huang tie kuang yang hua	1170
+磁黄铁矿氧化行为	ci huang tie kuang yang hua xing wei	2085
+磁黄铁矿药剂吸附	ci huang tie kuang yao ji xi fu	2091
+磁黄铁矿抑制	ci huang tie kuang yi zhi	1173
+磁力	ci li	1406
+磁力选矿	ci li xuan kuang	3416
+次氯酸钠	ci lv suan na	3704
+次氯酸钠捕收作用	ci lv suan na bu shou zuo yong	1023
+次氯酸钠还原	ci lv suan na huan yuan	1028
+次氯酸钠降解	ci lv suan na jiang jie	1027
+次氯酸钠水解	ci lv suan na shui jie	1026
+次氯酸钠吸附	ci lv suan na xi fu	1030
+次氯酸钠选择性	ci lv suan na xuan ze xing	1024
+次氯酸钠氧化	ci lv suan na yang hua	1029
+次氯酸钠抑制作用	ci lv suan na yi zhi zuo yong	1022
+次氯酸钠作用	ci lv suan na zuo yong	1025
+次生矿泥	ci sheng kuang ni	2548
+磁铁矿	ci tie kuang	3582
+磁团聚	ci tuan ju	1400
+磁性	ci xing	1707
+磁性矿物	ci xing kuang wu	1401
+磁性率	ci xing lv	1402
+磁絮凝	ci xu ning	1399
+磁选	ci xuan	3417
+磁选机	ci xuan ji	3410
+磁选流程	ci xuan liu cheng	1345
+从头算动力学	cong tou suan dong li xue	2401
+从头算分子动力学	cong tou suan fen zi dong li xue	3249
+粗糙度参数	cu cao du can shu	927
+粗精矿	cu jing kuang	4054
+粗精矿产率	cu jing kuang chan lv	1781
+粗精矿再磨	cu jing kuang zai mo	1330
+粗粒浮选	cu li fu xuan	3970
+粗粒矿物	cu li kuang wu	3966
+粗粒抛尾	cu li pao wei	1338
+粗粒效应	cu li xiao ying	765
+粗粒载体	cu li zai ti	1512
+粗磨	cu mo	3499
+粗碎	cu sui	3503
+粗选	cu xuan	4057
+催化过氧化	cui hua guo yang hua	415
+催化活性	cui hua huo xing	862
+催化活性位点	cui hua huo xing wei dian	2701
+催化位点	cui hua wei dian	861
+催化氧化	cui hua yang hua	3107
+错配物	cuo pei wu	1444
+达产率	da chan lv	1203
+代表性样品	dai biao xing yang pin	3334
+带隙	dai xi	728
+蛋白石	dan bai shi	1648
+单层吸附	dan ceng xi fu	3884
+单齿配位	dan chi pei wei	589
+单分子层	dan fen zi ceng	1796
+单晶	dan jing	1677
+单矿物试验	dan kuang wu shi yan	2354
+单宁	dan ning	3690
+氮气气氛	dan qi qi fen	1838
+单体解离	dan ti jie li	4161
+单体解离率	dan ti jie li lv	2950
+单体颗粒	dan ti ke li	2946
+单体矿物	dan ti kuang wu	4159
+单位成本	dan wei cheng ben	1223
+单位处理量	dan wei chu li liang	3346
+单位功耗	dan wei gong hao	2239
+单位面积	dan wei mian ji	1365
+单位能耗	dan wei neng hao	1466
+单线态氧	dan xian tai yang	426
+单因素	dan yin su	3170
+单因素试验	dan yin su shi yan	4125
+单质硫	dan zhi liu	2772
+导带	dao dai	729
+导电性	dao dian xing	3391
+导流筒	dao liu tong	2242
+德亚理论	de ya li lun	3199
+等沉	deng chen	1431
+等沉比	deng chen bi	3420
+等电点	deng dian dian	3911
+等降颗粒	deng jiang ke li	3419
+等可浮浮选	deng ke fu fu xuan	4070
+等效电路	deng xiao dian lu	1263
+低毒药剂	di du yao ji	3073
+第二水化层	di er shui hua ceng	386
+低附着概率	di fu zhuo gai lv	1520
+低价硫	di jia liu	563
+低碱度	di jian du	1843
+低结合能	di jie he neng	494
+底流	di liu	1368
+底流浓度	di liu nong du	1437
+低碰撞概率	di peng zhuang gai lv	1521
+低品位矿石	di pin wei kuang shi	1747
+低碳选矿	di tan xuan kuang	1237
+低温转移	di wen zhuan yi	459
+第一水化层	di yi shui hua ceng	387
+第一性原理	di yi xing yuan li	3252
+第一性原理表征	di yi xing yuan li biao zheng	1889
+第一性原理测试	di yi xing yuan li ce shi	1890
+第一性原理分析	di yi xing yuan li fen xi	1891
+第一性原理计算	di yi xing yuan li ji suan	2402
+第一性原理结果	di yi xing yuan li jie guo	935
+第一性原理数据	di yi xing yuan li shu ju	934
+第一性原理研究	di yi xing yuan li yan jiu	1888
+电场方向	dian chang fang xiang	1380
+电场分离	dian chang fen li	3386
+电场分选	dian chang fen xuan	1393
+电场浮选	dian chang fu xuan	4060
+电场强度	dian chang qiang du	1392
+电场调控	dian chang tiao kong	677
+电磁磁选	dian ci ci xuan	1408
+电磁磁选机	dian ci ci xuan ji	3408
+电催化	dian cui hua	3109
+电催化反应	dian cui hua fan ying	430
+电催化还原	dian cui hua huan yuan	2703
+电催化活性	dian cui hua huo xing	2702
+电催化氧化	dian cui hua yang hua	3108
+电催化氧化反应	dian cui hua yang hua fan ying	429
+电催化氧化体系	dian cui hua yang hua ti xi	414
+电导率	dian dao lv	3390
+淀粉	dian fen	3692
+淀粉捕收作用	dian fen bu shou zuo yong	978
+淀粉还原	dian fen huan yuan	983
+淀粉降解	dian fen jiang jie	982
+淀粉水解	dian fen shui jie	981
+淀粉吸附	dian fen xi fu	985
+淀粉选择性	dian fen xuan ze xing	979
+淀粉氧化	dian fen yang hua	984
+淀粉抑制	dian fen yi zhi	2450
+淀粉抑制作用	dian fen yi zhi zuo yong	977
+淀粉作用	dian fen zuo yong	980
+电感耦合等离子体	dian gan ou he deng li zi ti	3295
+电耗	dian hao	1218
+电荷布居	dian he bu ju	3218
+电荷重排	dian he chong pai	1867
+电荷反转	dian he fan zhuan	1553
+电荷量	dian he liang	3389
+电荷密度	dian he mi du	3905
+电荷密度差	dian he mi du cha	725
+电荷调控	dian he tiao kong	3127
+电荷中和	dian he zhong he	2531
+电荷转移	dian he zhuan yi	3786
+电荷转移电阻	dian he zhuan yi dian zu	2725
+电荷转移动力学	dian he zhuan yi dong li xue	700
+电荷转移量	dian he zhuan yi liang	401
+电荷转移阻抗	dian he zhuan yi zu kang	444
+电化学表征	dian hua xue biao zheng	1897
+电化学测试	dian hua xue ce shi	1898
+电化学分析	dian hua xue fen xi	1899
+电化学腐蚀	dian hua xue fu shi	3783
+电化学浮选	dian hua xue fu xuan	4061
+电化学浮选机理	dian hua xue fu xuan ji li	2741
+电化学工作站	dian hua xue gong zuo zhan	3278
+电化学还原	dian hua xue huan yuan	2739
+电化学活性	dian hua xue huo xing	3778
+电化学结果	dian hua xue jie guo	939
+电化学数据	dian hua xue shu ju	938
+电化学响应	dian hua xue xiang ying	3779
+电化学行为	dian hua xue xing wei	3780
+电化学研究	dian hua xue yan jiu	1896
+电化学氧化	dian hua xue yang hua	2740
+电化学预处理	dian hua xue yu chu li	3117
+电化学阻抗	dian hua xue zu kang	2726
+电极表面反应	dian ji biao mian fan ying	432
+电极电位	dian ji dian wei	3845
+电极动力学	dian ji dong li xue	701
+电极反应	dian ji fan ying	2700
+电极过程	dian ji guo cheng	2699
+电极极化	dian ji ji hua	690
+电极间距	dian ji jian ju	1379
+电极结构	dian ji jie gou	1378
+电解质	dian jie zhi	3804
+电力选矿	dian li xuan kuang	3397
+电流阶跃	dian liu jie yue	1265
+电流密度	dian liu mi du	3266
+电流响应	dian liu xiang ying	434
+电偶电流	dian ou dian liu	2711
+电偶腐蚀	dian ou fu shi	3782
+电偶作用	dian ou zuo yong	2712
+电气石	dian qi shi	3534
+点缺陷	dian que xian	1694
+点群	dian qun	1713
+电双层	dian shuang ceng	692
+电双层充电	dian shuang ceng chong dian	2696
+电位窗口	dian wei chuang kou	2720
+电位滴定	dian wei di ding	2405
+电位范围	dian wei fan wei	1264
+电位分布	dian wei fen bu	691
+电位阶跃	dian wei jie yue	1266
+电位扫描	dian wei sao miao	2718
+电位梯度	dian wei ti du	1391
+电位调控	dian wei tiao kong	3129
+电位响应	dian wei xiang ying	433
+电位依赖性	dian wei yi lai xing	435
+电选	dian xuan	3398
+电泳	dian yong	3388
+电泳分离	dian yong fen li	3387
+电泳分选	dian yong fen xuan	1394
+电泳迁移率	dian yong qian yi lv	1382
+电晕充电	dian yun chong dian	1389
+电晕电选	dian yun dian xuan	3394
+电子传递速率	dian zi chuan di su lv	2706
+电子富集	dian zi fu ji	1866
+电子耗尽	dian zi hao jin	1865
+电子积累	dian zi ji lei	724
+电子机制	dian zi ji zhi	307
+电子结构	dian zi jie gou	731
+电子局域函数	dian zi ju yu han shu	2373
+电子局域图	dian zi ju yu tu	398
+电子顺磁	dian zi shun ci	863
+电子顺磁共振	dian zi shun ci gong zhen	2412
+电子显微镜	dian zi xian wei jing	3321
+电子效应	dian zi xiao ying	1585
+电子衍射	dian zi yan she	1301
+电子云	dian zi yun	3225
+电子转移	dian zi zhuan yi	3787
+电子转移反应	dian zi zhuan yi fan ying	683
+电子自旋共振	dian zi zi xuan gong zhen	1298
+丁铵黑药	ding an hei yao	3739
+丁黄药	ding huang yao	1635
+丁基黄药	ding ji huang yao	3744
+丁基黄原酸钾	ding ji huang yuan suan jia	2680
+定量矿物学	ding liang kuang wu xue	923
+定量限	ding liang xian	3163
+定容	ding rong	2326
+定子	ding zi	3355
+动电位	dong dian wei	3913
+动电位表征	dong dian wei biao zheng	1913
+动电位测试	dong dian wei ce shi	3289
+动电位分析	dong dian wei fen xi	1914
+动电位结果	dong dian wei jie guo	965
+动电位数据	dong dian wei shu ju	964
+动电位研究	dong dian wei yan jiu	1912
+动力学	dong li xue	3204
+动力学控制	dong li xue kong zhi	1825
+动力学拟合	dong li xue ni he	2824
+动力学曲线	dong li xue qu xian	799
+动态接触角	dong tai jie chu jiao	1543
+动态黏度	dong tai nian du	1317
+独居石	du ju shi	3542
+毒砂	du sha	3644
+毒砂表面电位	du sha biao mian dian wei	2078
+毒砂表面亲水性	du sha biao mian qin shui xing	2070
+毒砂表面疏水性	du sha biao mian shu shui xing	2071
+毒砂表面物种	du sha biao mian wu zhong	2066
+毒砂表面吸附	du sha biao mian xi fu	2076
+毒砂表面氧化	du sha biao mian yang hua	2077
+毒砂捕收	du sha bu shou	1162
+毒砂电化学行为	du sha dian hua xue xing wei	2067
+毒砂动电位	du sha dong dian wei	2079
+毒砂钝化	du sha dun hua	1155
+毒砂浮选	du sha fu xuan	1164
+毒砂浮选动力学	du sha fu xuan dong li xue	2073
+毒砂浮选回收率	du sha fu xuan hui shou lv	2074
+毒砂还原	du sha huan yuan	1159
+毒砂活化	du sha huo hua	1161
+毒砂接触角	du sha jie chu jiao	2080
+毒砂界面性质	du sha jie mian xing zhi	2065
+毒砂解吸	du sha jie xi	1157
+毒砂溶出	du sha rong chu	1156
+毒砂溶出行为	du sha rong chu xing wei	2068
+毒砂天然可浮性	du sha tian ran ke fu xing	2072
+毒砂吸附	du sha xi fu	1158
+毒砂氧化	du sha yang hua	1160
+毒砂氧化行为	du sha yang hua xing wei	2069
+毒砂药剂吸附	du sha yao ji xi fu	2075
+毒砂抑制	du sha yi zhi	1163
+断口	duan kou	1711
+断裂面	duan lie mian	3821
+短路流	duan lu liu	2846
+对电极	dui dian ji	3274
+对照试验	dui zhao shi yan	3196
+对照体系	dui zhao ti xi	2187
+钝化	dun hua	3842
+钝化层	dun hua ceng	3839
+钝化膜	dun hua mo	3840
+钝化膜厚度	dun hua mo hou du	747
+钝化膜破坏	dun hua mo po huai	556
+钝化膜形成	dun hua mo xing cheng	557
+多变量优化	duo bian liang you hua	2801
+多层吸附	duo ceng xi fu	3885
+多尺度表征	duo chi du biao zheng	316
+多尺度模拟	duo chi du mo ni	315
+多齿配位	duo chi pei wei	587
+多段精选	duo duan jing xuan	1329
+多段扫选	duo duan sao xuan	1328
+多分子层	duo fen zi ceng	1797
+多价离子	duo jia li zi	2299
+多金属分离	duo jin shu fen li	2552
+多金属硫化矿	duo jin shu liu hua kuang	3610
+多晶	duo jing	1678
+多硫化物	duo liu hua wu	3814
+多硫化物层	duo liu hua wu ceng	2770
+多目标优化	duo mu biao you hua	2802
+多项式回归	duo xiang shi hui gui	2218
+惰性介质	duo xing jie zhi	2496
+多型现象	duo xing xian xiang	1672
+多因素	duo yin su	3169
+多因素试验	duo yin su shi yan	1258
+多元回归	duo yuan hui gui	2219
+多元连生	duo yuan lian sheng	358
+俄歇电子能谱	e xie dian zi neng pu	1300
+俄歇能谱	e xie neng pu	3298
+二次沉淀	er ci chen dian	2750
+二次电子像	er ci dian zi xiang	1305
+二次精选	er ci jing xuan	4049
+二次矿化	er ci kuang hua	2749
+二次离子	er ci li zi	476
+二次离子信号	er ci li zi xin hao	475
+二次离子质谱	er ci li zi zhi pu	3297
+二次离子质谱表征	er ci li zi zhi pu biao zheng	949
+二次离子质谱测试	er ci li zi zhi pu ce shi	951
+二次离子质谱分析	er ci li zi zhi pu fen xi	950
+二次离子质谱结果	er ci li zi zhi pu jie guo	947
+二次离子质谱数据	er ci li zi zhi pu shu ju	946
+二次离子质谱研究	er ci li zi zhi pu yan jiu	948
+二次扫选	er ci sao xuan	4046
+二次资源	er ci zi yuan	3093
+二丁基二硫代磷酸铵	er ding ji er liu dai lin suan an	2686
+二级动力学	er ji dong li xue	2838
+二甲酚黑药	er jia fen hei yao	3738
+二甲酚基二硫代磷酸	er jia fen ji er liu dai lin suan	2685
+二价离子	er jia li zi	2298
+二硫代氨基甲酸盐	er liu dai an ji jia suan yan	2694
+二硫代氨基酸	er liu dai an ji suan	3735
+二硫代基	er liu dai ji	608
+二硫代磷酸	er liu dai lin suan	2695
+二硫代磷酸盐	er liu dai lin suan yan	3737
+二硫代碳酸盐	er liu dai tan suan yan	2691
+二烷基二硫代磷酸盐	er wan ji er liu dai lin suan yan	654
+二维成像	er wei cheng xiang	467
+二氧化钼	er yang hua mu	3589
+二元连生	er yuan lian sheng	359
+法拉第电流	fa la di dian liu	439
+法拉第过程	fa la di guo cheng	2698
+发射光谱	fa she guang pu	1292
+范德华力	fan de hua li	3899
+范德华修正	fan de hua xiu zheng	2400
+反浮选	fan fu xuan	4073
+返混模型	fan hun mo xing	2814
+反键轨道	fan jian gui dao	722
+反键作用	fan jian zuo yong	2367
+反馈控制	fan kui kong zhi	3340
+返砂比	fan sha bi	3448
+返砂量	fan sha liang	3447
+反应初态	fan ying chu tai	716
+反应动力学	fan ying dong li xue	3203
+反应路径	fan ying lu jing	3237
+反应路径比较	fan ying lu jing bi jiao	392
+反应能	fan ying neng	3240
+反应能垒	fan ying neng lei	1259
+反应能垒比较	fan ying neng lei bi jiao	394
+反应热力学	fan ying re li xue	715
+反应中间体	fan ying zhong jian ti	1830
+反应终态	fan ying zhong tai	717
+反应自由能	fan ying zi you neng	2378
+反应坐标	fan ying zuo biao	2374
+方差分析	fang cha fen xi	3174
+方差齐性	fang cha qi xing	2228
+放大试验	fang da shi yan	4116
+放大验证	fang da yan zheng	2173
+方法学	fang fa xue	326
+防护手套	fang hu shou tao	1197
+芳环效应	fang huan xiao ying	1587
+芳基二硫代磷酸盐	fang ji er liu dai lin suan yan	653
+芳基黑药	fang ji hei yao	2688
+芳基黄药	fang ji huang yao	658
+方解石	fang jie shi	3552
+方解石表面电位	fang jie shi biao mian dian wei	2030
+方解石表面亲水性	fang jie shi biao mian qin shui xing	2022
+方解石表面疏水性	fang jie shi biao mian shu shui xing	2023
+方解石表面物种	fang jie shi biao mian wu zhong	2018
+方解石表面吸附	fang jie shi biao mian xi fu	2028
+方解石表面氧化	fang jie shi biao mian yang hua	2029
+方解石捕收	fang jie shi bu shou	1130
+方解石电化学行为	fang jie shi dian hua xue xing wei	2019
+方解石动电位	fang jie shi dong dian wei	2031
+方解石钝化	fang jie shi dun hua	1123
+方解石浮选	fang jie shi fu xuan	2472
+方解石浮选动力学	fang jie shi fu xuan dong li xue	2025
+方解石浮选回收率	fang jie shi fu xuan hui shou lv	2026
+方解石还原	fang jie shi huan yuan	1127
+方解石活化	fang jie shi huo hua	1129
+方解石接触角	fang jie shi jie chu jiao	2032
+方解石界面性质	fang jie shi jie mian xing zhi	2017
+方解石解吸	fang jie shi jie xi	1125
+方解石溶出	fang jie shi rong chu	1124
+方解石溶出行为	fang jie shi rong chu xing wei	2020
+方解石天然可浮性	fang jie shi tian ran ke fu xing	2024
+方解石吸附	fang jie shi xi fu	1126
+方解石氧化	fang jie shi yang hua	1128
+方解石氧化行为	fang jie shi yang hua xing wei	2021
+方解石药剂吸附	fang jie shi yao ji xi fu	2027
+方解石抑制	fang jie shi yi zhi	2460
+方铅矿	fang qian kuang	3649
+方铅矿表面	fang qian kuang biao mian	3603
+方铅矿表面电位	fang qian kuang biao mian dian wei	2156
+方铅矿表面钝化	fang qian kuang biao mian dun hua	530
+方铅矿表面铅位点	fang qian kuang biao mian qian wei dian	2617
+方铅矿表面亲水性	fang qian kuang biao mian qin shui xing	2149
+方铅矿表面缺陷	fang qian kuang biao mian que xian	536
+方铅矿表面疏水性	fang qian kuang biao mian shu shui xing	2150
+方铅矿表面水化	fang qian kuang biao mian shui hua	535
+方铅矿表面物种	fang qian kuang biao mian wu zhong	2619
+方铅矿表面吸附	fang qian kuang biao mian xi fu	2155
+方铅矿表面氧化	fang qian kuang biao mian yang hua	2621
+方铅矿捕收	fang qian kuang bu shou	3017
+方铅矿捕收机理	fang qian kuang bu shou ji li	2585
+方铅矿电化学测试	fang qian kuang dian hua xue ce shi	223
+方铅矿电化学分析	fang qian kuang dian hua xue fen xi	224
+方铅矿电化学行为	fang qian kuang dian hua xue xing wei	2146
+方铅矿电化学研究	fang qian kuang dian hua xue yan jiu	222
+方铅矿动电位	fang qian kuang dong dian wei	2157
+方铅矿动电位测试	fang qian kuang dong dian wei ce shi	235
+方铅矿动电位分析	fang qian kuang dong dian wei fen xi	236
+方铅矿动电位研究	fang qian kuang dong dian wei yan jiu	234
+方铅矿钝化	fang qian kuang dun hua	1944
+方铅矿钝化膜	fang qian kuang dun hua mo	529
+方铅矿浮选	fang qian kuang fu xuan	3021
+方铅矿浮选动力学	fang qian kuang fu xuan dong li xue	2152
+方铅矿浮选回收率	fang qian kuang fu xuan hui shou lv	2153
+方铅矿光电子能谱测试	fang qian kuang guang dian zi neng pu ce shi	241
+方铅矿光电子能谱分析	fang qian kuang guang dian zi neng pu fen xi	242
+方铅矿光电子能谱研究	fang qian kuang guang dian zi neng pu yan jiu	240
+方铅矿红外光谱测试	fang qian kuang hong wai guang pu ce shi	247
+方铅矿红外光谱分析	fang qian kuang hong wai guang pu fen xi	248
+方铅矿红外光谱研究	fang qian kuang hong wai guang pu yan jiu	246
+方铅矿还原	fang qian kuang huan yuan	1947
+方铅矿黄铁矿分离	fang qian kuang huang tie kuang fen li	2553
+方铅矿活化	fang qian kuang huo hua	3016
+方铅矿接触角	fang qian kuang jie chu jiao	2158
+方铅矿接触角测试	fang qian kuang jie chu jiao ce shi	238
+方铅矿接触角分析	fang qian kuang jie chu jiao fen xi	239
+方铅矿接触角研究	fang qian kuang jie chu jiao yan jiu	237
+方铅矿界面性质	fang qian kuang jie mian xing zhi	2145
+方铅矿解吸	fang qian kuang jie xi	1945
+方铅矿拉曼光谱测试	fang qian kuang la man guang pu ce shi	244
+方铅矿拉曼光谱分析	fang qian kuang la man guang pu fen xi	245
+方铅矿拉曼光谱研究	fang qian kuang la man guang pu yan jiu	243
+方铅矿硫酸铅膜	fang qian kuang liu suan qian mo	528
+方铅矿硫酸盐化	fang qian kuang liu suan yan hua	532
+方铅矿硫位点	fang qian kuang liu wei dian	537
+方铅矿铅位点	fang qian kuang qian wei dian	538
+方铅矿亲水化	fang qian kuang qin shui hua	531
+方铅矿溶出	fang qian kuang rong chu	3014
+方铅矿溶出测试	fang qian kuang rong chu ce shi	232
+方铅矿溶出分析	fang qian kuang rong chu fen xi	233
+方铅矿溶出铅	fang qian kuang rong chu qian	2614
+方铅矿溶出行为	fang qian kuang rong chu xing wei	2147
+方铅矿溶出研究	fang qian kuang rong chu yan jiu	231
+方铅矿溶解	fang qian kuang rong jie	3013
+方铅矿闪锌矿分离	fang qian kuang shan xin kuang fen li	2568
+方铅矿天然可浮	fang qian kuang tian ran ke fu	2622
+方铅矿天然可浮性	fang qian kuang tian ran ke fu xing	2151
+方铅矿吸附	fang qian kuang xi fu	1946
+方铅矿吸附测试	fang qian kuang xi fu ce shi	226
+方铅矿吸附分析	fang qian kuang xi fu fen xi	227
+方铅矿吸附研究	fang qian kuang xi fu yan jiu	225
+方铅矿选择性钝化	fang qian kuang xuan ze xing dun hua	2624
+方铅矿选择性溶出	fang qian kuang xuan ze xing rong chu	533
+方铅矿选择性氧化	fang qian kuang xuan ze xing yang hua	2626
+方铅矿选择性抑制	fang qian kuang xuan ze xing yi zhi	2628
+方铅矿氧化	fang qian kuang yang hua	3602
+方铅矿氧化测试	fang qian kuang yang hua ce shi	229
+方铅矿氧化产物	fang qian kuang yang hua chan wu	2795
+方铅矿氧化分析	fang qian kuang yang hua fen xi	230
+方铅矿氧化溶出	fang qian kuang yang hua rong chu	534
+方铅矿氧化行为	fang qian kuang yang hua xing wei	2148
+方铅矿氧化研究	fang qian kuang yang hua yan jiu	228
+方铅矿药剂吸附	fang qian kuang yao ji xi fu	2154
+方铅矿抑制	fang qian kuang yi zhi	3020
+方铅矿抑制机理	fang qian kuang yi zhi ji li	2587
+芳香环	fang xiang huan	2644
+芳香基	fang xiang ji	612
+非磁性矿物	fei ci xing kuang wu	3399
+非法拉第电流	fei fa la di dian liu	438
+非法拉第过程	fei fa la di guo cheng	2697
+非极性捕收剂	fei ji xing bu shou ji	3755
+非极性基	fei ji xing ji	2649
+非极性尾链	fei ji xing wei lian	616
+非极性油	fei ji xing you	642
+非晶	fei jing	1676
+非离子表面活性剂	fei li zi biao mian huo xing ji	2666
+非离子捕收剂	fei li zi bu shou ji	3759
+非硫化矿浮选	fei liu hua kuang fu xuan	3932
+费米能级	fei mi neng ji	3231
+费米能级移动	fei mi neng ji yi dong	727
+非牛顿流体	fei niu dun liu ti	2269
+废水	fei shui	3091
+废水处理	fei shui chu li	3085
+废水回用	fei shui hui yong	3069
+非特异吸附	fei te yi xi fu	3889
+非线性回归	fei xian xing hui gui	3180
+飞行时间二次离子质谱	fei xing shi jian er ci li zi zhi pu	2438
+飞行时间质谱	fei xing shi jian zhi pu	3296
+废液收集	fei ye shou ji	1194
+分步浮选	fen bu fu xuan	4068
+分布速率常数	fen bu su lv chang shu	2834
+分层	fen ceng	3436
+分段加药	fen duan jia yao	3660
+分峰	fen feng	3262
+分级	fen ji	3505
+分级返砂	fen ji fan sha	1455
+分级精度	fen ji jing du	3451
+分级粒度	fen ji li du	3452
+分级流程	fen ji liu cheng	1347
+分级调控	fen ji tiao kong	664
+分级脱泥	fen ji tuo ni	3950
+分级效率	fen ji xiao lv	3453
+分级效率曲线	fen ji xiao lv qu xian	3450
+分级优化	fen ji you hua	1759
+分级制度	fen ji zhi du	4082
+分离机理	fen li ji li	3147
+分离粒度	fen li li du	1446
+分离效率	fen li xiao lv	1788
+分离选择性	fen li xuan ze xing	834
+分离因子	fen li yin zi	824
+分离指数	fen li zhi shu	833
+分散	fen san	3955
+分散剂	fen san ji	3770
+分散剂效应	fen san ji xiao ying	768
+分散剂作用	fen san ji zuo yong	2528
+分散絮凝	fen san xu ning	2529
+分态密度	fen tai mi du	3233
+分选	fen xuan	3435
+分选密度	fen xuan mi du	1413
+分选效率	fen xuan xiao lv	4128
+分选指数	fen xuan zhi shu	832
+分支浮选	fen zhi fu xuan	4067
+分子尺度	fen zi chi du	313
+分子电荷	fen zi dian he	596
+分子动力学	fen zi dong li xue	3250
+分子动力学表征	fen zi dong li xue biao zheng	1893
+分子动力学测试	fen zi dong li xue ce shi	1894
+分子动力学分析	fen zi dong li xue fen xi	1895
+分子动力学轨迹	fen zi dong li xue gui ji	2365
+分子动力学结果	fen zi dong li xue jie guo	937
+分子动力学数据	fen zi dong li xue shu ju	936
+分子动力学研究	fen zi dong li xue yan jiu	1892
+分子构象	fen zi gou xiang	595
+分子轨道	fen zi gui dao	3226
+分子化学成像	fen zi hua xue cheng xiang	463
+分子极性	fen zi ji xing	597
+分子机制	fen zi ji zhi	308
+分子静电势	fen zi jing dian shi	3223
+分子链长	fen zi lian chang	2646
+分子模拟	fen zi mo ni	3212
+分子模型	fen zi mo xing	3211
+分子亲水性	fen zi qin shui xing	599
+分子取向	fen zi qu xiang	594
+分子疏水性	fen zi shu shui xing	598
+分子碎片	fen zi sui pian	471
+峰电流	feng dian liu	2733
+峰电流密度	feng dian liu mi du	451
+峰电位	feng dian wei	2734
+峰分离	feng fen li	506
+峰面积	feng mian ji	2426
+峰面积比	feng mian ji bi	2425
+峰面积变化	feng mian ji bian hua	759
+峰面积积分	feng mian ji ji fen	499
+峰拟合	feng ni he	3263
+峰强	feng qiang	3305
+峰位	feng wei	3306
+峰位偏移	feng wei pian yi	2430
+浮沉	fu chen	3437
+赋存形式	fu cun xing shi	2927
+赋存状态	fu cun zhuang tai	2928
+复合捕收剂	fu he bu shou ji	2664
+复合电场	fu he dian chang	1377
+复合抑制剂	fu he yi zhi ji	2662
+富集倍数	fu ji bei shu	825
+富集比	fu ji bi	4138
+富集率	fu ji lv	4137
+富集效率	fu ji xiao lv	1786
+负累积	fu lei ji	3445
+负离子模式	fu li zi mo shi	473
+浮钼抑铅	fu mu yi qian	3941
+浮钼抑铜	fu mu yi tong	2577
+复配比例	fu pei bi li	1602
+复配体系	fu pei ti xi	1601
+复配药剂	fu pei yao ji	3657
+浮铅抑钼	fu qian yi mu	3940
+浮铅抑铜	fu qian yi tong	2570
+浮铅抑锌	fu qian yi xin	2565
+腐蚀	fu shi	3784
+腐蚀电流	fu shi dian liu	2728
+腐蚀电位	fu shi dian wei	2729
+腐蚀反应	fu shi fan ying	685
+氟碳铈矿	fu tan shi kuang	3541
+浮铜抑硫	fu tong yi liu	2557
+浮铜抑钼	fu tong yi mu	2576
+浮铜抑铅	fu tong yi qian	2571
+浮锌抑铅	fu xin yi qian	2564
+浮选	fu xuan	4076
+浮选槽	fu xuan cao	3979
+浮选槽单元	fu xuan cao dan yuan	2249
+浮选槽流场	fu xuan cao liu chang	2853
+浮选槽组	fu xuan cao zu	353
+浮选产物	fu xuan chan wu	1780
+浮选窗口	fu xuan chuang kou	1770
+浮选电化学	fu xuan dian hua xue	2742
+浮选动力学	fu xuan dong li xue	4037
+浮选动力学参数	fu xuan dong li xue can shu	802
+浮选动力学模型	fu xuan dong li xue mo xing	2836
+浮选废水	fu xuan fei shui	3089
+浮选概率	fu xuan gai lv	2829
+浮选刮泡	fu xuan gua pao	2337
+浮选回路	fu xuan hui lu	4045
+浮选回收率	fu xuan hui shou lv	4033
+浮选机	fu xuan ji	3978
+浮选机组	fu xuan ji zu	354
+浮选夹带	fu xuan jia dai	2990
+浮选流程	fu xuan liu cheng	4044
+浮选品位	fu xuan pin wei	4032
+浮选强化	fu xuan qiang hua	1756
+浮选曲线	fu xuan qu xian	800
+浮选时间	fu xuan shi jian	4038
+浮选时间曲线	fu xuan shi jian qu xian	2827
+浮选时间效应	fu xuan shi jian xiao ying	779
+浮选速度	fu xuan su du	4039
+浮选速率	fu xuan su lv	4036
+浮选速率常数	fu xuan su lv chang shu	4035
+浮选行为	fu xuan xing wei	4030
+浮选选择性	fu xuan xuan ze xing	4034
+浮选选择性指数	fu xuan xuan ze xing zhi shu	835
+浮选药剂	fu xuan yao ji	3777
+浮选指标	fu xuan zhi biao	4031
+浮选制度	fu xuan zhi du	4083
+浮选智能控制	fu xuan zhi neng kong zhi	332
+浮选柱	fu xuan zhu	3977
+复杂矿石	fu za kuang shi	3606
+复杂硫化矿	fu za liu hua kuang	3611
+复杂硫化矿分离	fu za liu hua kuang fen li	2551
+复杂嵌布矿石	fu za qian bu kuang shi	1744
+腐殖酸	fu zhi suan	3687
+腐殖酸钠	fu zhi suan na	3686
+附着	fu zhuo	4020
+附着概率	fu zhuo gai lv	4014
+附着强度	fu zhuo qiang du	884
+附着时间	fu zhuo shi jian	2975
+钙长石	gai chang shi	1647
+钙离子	gai li zi	2311
+钙镁沉淀	gai mei chen dian	2291
+钙质矿物浮选	gai zhi kuang wu fu xuan	2455
+甘汞电极	gan gong dian ji	1275
+橄榄石	gan lan shi	1644
+干磨	gan mo	2497
+干筛	gan shai	1453
+干涉沉降	gan she chen jiang	3421
+干式磁选	gan shi ci xuan	3411
+感应带电	gan ying dai dian	1386
+干燥	gan zao	3363
+钢棒	gang bang	3481
+钢耗	gang hao	1217
+钢介质	gang jie zhi	2495
+钢球	gang qiu	3482
+钢球腐蚀	gang qiu fu shi	2507
+钢球介质	gang qiu jie zhi	1469
+刚玉	gang yu	3569
+高分辨光电子谱	gao fen bian guang dian zi pu	2434
+高分辨能谱	gao fen bian neng pu	2433
+高分辨谱	gao fen bian pu	508
+高分辨透射	gao fen bian tou she	1303
+高分子桥联	gao fen zi qiao lian	2533
+高分子抑制剂	gao fen zi yi zhi ji	2658
+高级检索	gao ji jian suo	294
+高级氧化	gao ji yang hua	1230
+高级氧化体系	gao ji yang hua ti xi	416
+高夹带	gao jia dai	1519
+高价硫	gao jia liu	562
+高碱度	gao jian du	1842
+高剪切调理	gao jian qie tiao li	852
+高结合能	gao jie he neng	493
+高矿化度水	gao kuang hua du shui	2283
+高岭石	gao ling shi	3558
+高锰酸钾	gao meng suan jia	3702
+高锰酸钾捕收作用	gao meng suan jia bu shou zuo yong	1005
+高锰酸钾还原	gao meng suan jia huan yuan	1010
+高锰酸钾降解	gao meng suan jia jiang jie	1009
+高锰酸钾水解	gao meng suan jia shui jie	1008
+高锰酸钾吸附	gao meng suan jia xi fu	1012
+高锰酸钾选择性	gao meng suan jia xuan ze xing	1006
+高锰酸钾氧化	gao meng suan jia yang hua	1011
+高锰酸钾抑制作用	gao meng suan jia yi zhi zuo yong	1004
+高锰酸钾作用	gao meng suan jia zuo yong	1007
+高频筛	gao pin shai	3458
+高强磁选	gao qiang ci xuan	1410
+高强度调浆	gao qiang du tiao jiang	851
+锆石	gao shi	3536
+高梯度磁选	gao ti du ci xuan	3413
+高梯度磁选机	gao ti du ci xuan ji	3407
+高效浓缩	gao xiao nong suo	1375
+高压电选	gao ya dian xuan	3395
+个人防护	ge ren fang hu	1198
+铬铁矿	ge tie kuang	3571
+给矿粒度	gei kuang li du	4097
+给矿量	gei kuang liang	4100
+给矿浓度	gei kuang nong du	4099
+给矿品位	gei kuang pin wei	4098
+给矿速度	gei kuang su du	4096
+给矿压力	gei kuang ya li	1438
+给矿组成	gei kuang zu cheng	836
+给料泵	gei liao beng	3374
+给料机	gei liao ji	3360
+根本原因	gen ben yuan yin	2184
+共被引分析	gong bei yin fen xi	279
+共沉淀	gong chen dian	3870
+工程放大	gong cheng fang da	1243
+工程应用	gong cheng ying yong	2174
+功函数	gong han shu	3230
+功函数变化	gong han shu bian hua	726
+功率输入	gong lv shu ru	2240
+共生关系	gong sheng guan xi	2962
+共生矿	gong sheng kuang	3608
+共吸附	gong xi fu	3886
+共吸附结构	gong xi fu jie gou	389
+共吸附模型	gong xi fu mo xing	2385
+共现分析	gong xian fen xi	280
+工业浮选槽	gong ye fu xuan cao	356
+工业浮选机	gong ye fu xuan ji	2236
+工业浮选柱	gong ye fu xuan zhu	355
+工业回收率	gong ye hui shou lv	1776
+工业价值	gong ye jia zhi	3028
+工业流程	gong ye liu cheng	1322
+工业实践	gong ye shi jian	3029
+工业试验	gong ye shi yan	4117
+工业适用性	gong ye shi yong xing	2175
+工业验证	gong ye yan zheng	1241
+工业应用	gong ye ying yong	3030
+工业指标	gong ye zhi biao	1205
+工艺参数	gong yi can shu	4087
+工艺矿物学	gong yi kuang wu xue	4150
+工艺矿物学参数	gong yi kuang wu xue can shu	2915
+工艺矿物学研究	gong yi kuang wu xue yan jiu	2916
+工艺水	gong yi shui	3086
+工艺稳定性	gong yi wen ding xing	1775
+工艺指标	gong yi zhi biao	4080
+工作电极	gong zuo dian ji	3276
+工作液	gong zuo ye	2322
+构效关系	gou xiao guan xi	3137
+固含量	gu han liang	1314
+固溶	gu rong	1671
+固溶体	gu rong ti	2956
+固体浓度	gu ti nong du	4106
+固体体积分数	gu ti ti ji fen shu	2262
+固体通量	gu ti tong liang	1364
+固体悬浮	gu ti xuan fu	1482
+固相体积分数	gu xiang ti ji fen shu	1313
+固液比	gu ye bi	4103
+瓜尔胶	gua er jiao	3682
+刮泡	gua pao	1497
+刮泡时间	gua pao shi jian	3984
+刮泡速度	gua pao su du	3985
+刮泡系统	gua pao xi tong	2246
+拐角位点	guai jiao wei dian	1682
+关键变量	guan jian bian liang	301
+关键词	guan jian ci	299
+关键词聚类	guan jian ci ju lei	278
+关键问题	guan jian wen ti	2203
+官能团	guan neng tuan	2651
+光催化	guang cui hua	3110
+光催化氧化	guang cui hua yang hua	1229
+光电子能谱	guang dian zi neng pu	3299
+光电子能谱表征	guang dian zi neng pu biao zheng	1901
+光电子能谱测试	guang dian zi neng pu ce shi	1902
+光电子能谱分析	guang dian zi neng pu fen xi	1903
+光电子能谱结果	guang dian zi neng pu jie guo	959
+光电子能谱数据	guang dian zi neng pu shu ju	958
+光电子能谱研究	guang dian zi neng pu yan jiu	1900
+光学显微镜	guang xue xian wei jing	3323
+广义梯度近似	guang yi ti du jin si	2398
+光泽	guang ze	1706
+轨道重叠	gui dao chong die	1863
+轨道贡献	gui dao gong xian	721
+轨道耦合	gui dao ou he	1864
+轨道杂化	gui dao za hua	2369
+轨道杂化作用	gui dao za hua zuo yong	396
+硅孔雀石	gui kong que shi	3523
+硅酸钠	gui suan na	3711
+硅酸盐浮选	gui suan yan fu xuan	2479
+硅酸盐矿物	gui suan yan kuang wu	3514
+硅酸盐脉石	gui suan yan mai shi	2453
+硅锌矿	gui xin kuang	3518
+辊式磁选机	gun shi ci xuan ji	1395
+过饱和	guo bao he	1560
+过程控制	guo cheng kong zhi	3342
+过程优化	guo cheng you hua	328
+过电位	guo dian wei	447
+过渡态	guo du tai	2377
+过渡态结构	guo du tai jie gou	2375
+过渡态能垒	guo du tai neng lei	393
+过渡态搜索	guo du tai sou suo	1260
+过度氧化	guo du yang hua	3853
+过粉碎	guo fen sui	1464
+过滤	guo lv	3364
+过滤烘干	guo lv hong gan	2334
+过滤机	guo lv ji	3372
+过滤阻力	guo lv zu li	1356
+过磨	guo mo	3472
+过氧化氢	guo yang hua qing	3703
+过氧化氢捕收作用	guo yang hua qing bu shou zuo yong	1032
+过氧化氢方铅矿浮选	guo yang hua qing fang qian kuang fu xuan	59
+过氧化氢方铅矿吸附	guo yang hua qing fang qian kuang xi fu	60
+过氧化氢方铅矿氧化	guo yang hua qing fang qian kuang yang hua	57
+过氧化氢方铅矿抑制	guo yang hua qing fang qian kuang yi zhi	58
+过氧化氢还原	guo yang hua qing huan yuan	1037
+过氧化氢黄铁矿浮选	guo yang hua qing huang tie kuang fu xuan	47
+过氧化氢黄铁矿吸附	guo yang hua qing huang tie kuang xi fu	48
+过氧化氢黄铁矿氧化	guo yang hua qing huang tie kuang yang hua	45
+过氧化氢黄铁矿抑制	guo yang hua qing huang tie kuang yi zhi	46
+过氧化氢黄铜矿浮选	guo yang hua qing huang tong kuang fu xuan	51
+过氧化氢黄铜矿吸附	guo yang hua qing huang tong kuang xi fu	52
+过氧化氢黄铜矿氧化	guo yang hua qing huang tong kuang yang hua	49
+过氧化氢黄铜矿抑制	guo yang hua qing huang tong kuang yi zhi	50
+过氧化氢辉钼矿浮选	guo yang hua qing hui mu kuang fu xuan	55
+过氧化氢辉钼矿吸附	guo yang hua qing hui mu kuang xi fu	56
+过氧化氢辉钼矿氧化	guo yang hua qing hui mu kuang yang hua	53
+过氧化氢辉钼矿抑制	guo yang hua qing hui mu kuang yi zhi	54
+过氧化氢降解	guo yang hua qing jiang jie	1036
+过氧化氢闪锌矿浮选	guo yang hua qing shan xin kuang fu xuan	43
+过氧化氢闪锌矿吸附	guo yang hua qing shan xin kuang xi fu	44
+过氧化氢闪锌矿氧化	guo yang hua qing shan xin kuang yang hua	41
+过氧化氢闪锌矿抑制	guo yang hua qing shan xin kuang yi zhi	42
+过氧化氢水解	guo yang hua qing shui jie	1035
+过氧化氢吸附	guo yang hua qing xi fu	1039
+过氧化氢选择性	guo yang hua qing xuan ze xing	1033
+过氧化氢氧化	guo yang hua qing yang hua	1038
+过氧化氢抑制作用	guo yang hua qing yi zhi zuo yong	1031
+过氧化氢作用	guo yang hua qing zuo yong	1034
+过氧化物氧化	guo yang hua wu yang hua	1832
+过氧化氧化	guo yang hua yang hua	866
+过氧自由基	guo yang zi you ji	865
+还原型抑制剂	hai yuan xing yi zhi ji	629
+海藻酸钠	hai zao suan na	3681
+含硫捕收剂	han liu bu shou ji	2689
+含铅废液	han qian fei ye	1190
+含铜废液	han tong fei ye	1189
+含锌废液	han xin fei ye	1188
+合成高分子抑制剂	he cheng gao fen zi yi zhi ji	626
+核磁共振	he ci gong zhen	1299
+荷电校正	he dian jiao zheng	503
+褐铁矿	he tie kuang	3581
+赫歇尔模型	he xie er mo xing	2266
+核心问题	he xin wen ti	2202
+黑铜矿	hei tong kuang	1666
+黑钨矿	hei wu kuang	3584
+黑钨矿浮选	hei wu kuang fu xuan	2475
+黑药	hei yao	3748
+黑药捕收作用	hei yao bu shou zuo yong	1086
+黑药方铅矿浮选	hei yao fang qian kuang fu xuan	119
+黑药方铅矿吸附	hei yao fang qian kuang xi fu	120
+黑药方铅矿氧化	hei yao fang qian kuang yang hua	117
+黑药方铅矿抑制	hei yao fang qian kuang yi zhi	118
+黑药还原	hei yao huan yuan	1091
+黑药黄铁矿浮选	hei yao huang tie kuang fu xuan	107
+黑药黄铁矿吸附	hei yao huang tie kuang xi fu	108
+黑药黄铁矿氧化	hei yao huang tie kuang yang hua	105
+黑药黄铁矿抑制	hei yao huang tie kuang yi zhi	106
+黑药黄铜矿浮选	hei yao huang tong kuang fu xuan	111
+黑药黄铜矿吸附	hei yao huang tong kuang xi fu	112
+黑药黄铜矿氧化	hei yao huang tong kuang yang hua	109
+黑药黄铜矿抑制	hei yao huang tong kuang yi zhi	110
+黑药辉钼矿浮选	hei yao hui mu kuang fu xuan	115
+黑药辉钼矿吸附	hei yao hui mu kuang xi fu	116
+黑药辉钼矿氧化	hei yao hui mu kuang yang hua	113
+黑药辉钼矿抑制	hei yao hui mu kuang yi zhi	114
+黑药降解	hei yao jiang jie	1090
+黑药闪锌矿浮选	hei yao shan xin kuang fu xuan	103
+黑药闪锌矿吸附	hei yao shan xin kuang xi fu	104
+黑药闪锌矿氧化	hei yao shan xin kuang yang hua	101
+黑药闪锌矿抑制	hei yao shan xin kuang yi zhi	102
+黑药水解	hei yao shui jie	1089
+黑药吸附	hei yao xi fu	1093
+黑药选择性	hei yao xuan ze xing	1087
+黑药氧化	hei yao yang hua	1092
+黑药抑制作用	hei yao yi zhi zuo yong	1085
+黑药作用	hei yao zuo yong	1088
+黑云母	hei yun mu	3559
+恒电流	heng dian liu	3267
+恒电流还原	heng dian liu huan yuan	2714
+恒电流氧化	heng dian liu yang hua	2715
+恒电位	heng dian wei	3268
+恒电位还原	heng dian wei huan yuan	2716
+恒电位控制	heng dian wei kong zhi	680
+恒电位氧化	heng dian wei yang hua	2717
+恒温干燥	heng wen gan zao	2343
+横向水流	heng xiang shui liu	1417
+烘干	hong gan	3327
+宏观尺度	hong guan chi du	311
+宏观混合	hong guan hun he	2886
+红外光谱	hong wai guang pu	3303
+红外光谱表征	hong wai guang pu biao zheng	1909
+红外光谱测试	hong wai guang pu ce shi	1910
+红外光谱分析	hong wai guang pu fen xi	1911
+红外光谱结果	hong wai guang pu jie guo	963
+红外光谱数据	hong wai guang pu shu ju	962
+红外光谱研究	hong wai guang pu yan jiu	1908
+红外吸收峰	hong wai xi shou feng	2420
+后退角	hou tui jiao	3916
+后退接触角	hou tui jie chu jiao	1544
+后吸附	hou xi fu	1597
+互补证据	hu bu zheng ju	317
+糊精	hu jing	3691
+糊精捕收作用	hu jing bu shou zuo yong	987
+糊精还原	hu jing huan yuan	992
+糊精降解	hu jing jiang jie	991
+糊精水解	hu jing shui jie	990
+糊精吸附	hu jing xi fu	994
+糊精选择性	hu jing xuan ze xing	988
+糊精氧化	hu jing yang hua	993
+糊精抑制作用	hu jing yi zhi zuo yong	986
+糊精作用	hu jing zuo yong	989
+护目镜	hu mu jing	1196
+弧形筛	hu xing shai	1435
+滑石	hua shi	3554
+滑石表面电位	hua shi biao mian dian wei	1998
+滑石表面亲水性	hua shi biao mian qin shui xing	1990
+滑石表面疏水性	hua shi biao mian shu shui xing	1991
+滑石表面物种	hua shi biao mian wu zhong	1986
+滑石表面吸附	hua shi biao mian xi fu	1996
+滑石表面氧化	hua shi biao mian yang hua	1997
+滑石捕收	hua shi bu shou	1120
+滑石电化学行为	hua shi dian hua xue xing wei	1987
+滑石动电位	hua shi dong dian wei	1999
+滑石钝化	hua shi dun hua	1113
+滑石浮选	hua shi fu xuan	1122
+滑石浮选动力学	hua shi fu xuan dong li xue	1993
+滑石浮选回收率	hua shi fu xuan hui shou lv	1994
+滑石还原	hua shi huan yuan	1117
+滑石活化	hua shi huo hua	1119
+滑石接触角	hua shi jie chu jiao	2000
+滑石界面性质	hua shi jie mian xing zhi	1985
+滑石解吸	hua shi jie xi	1115
+滑石溶出	hua shi rong chu	1114
+滑石溶出行为	hua shi rong chu xing wei	1988
+滑石天然可浮性	hua shi tian ran ke fu xing	1992
+滑石吸附	hua shi xi fu	1116
+滑石氧化	hua shi yang hua	1118
+滑石氧化行为	hua shi yang hua xing wei	1989
+滑石药剂吸附	hua shi yao ji xi fu	1995
+滑石抑制	hua shi yi zhi	1121
+化学成像	hua xue cheng xiang	468
+化学分析	hua xue fen xi	3292
+化学环境	hua xue huan jing	1848
+化学键合	hua xue jian he	585
+化学品安全	hua xue pin an quan	1200
+化学平衡	hua xue ping heng	3797
+化学态分析	hua xue tai fen xi	2431
+化学态峰	hua xue tai feng	500
+化学位移	hua xue wei yi	496
+化学吸附	hua xue xi fu	3891
+化学性质	hua xue xing zhi	4088
+化学需氧量	hua xue xu yang liang	2404
+化学预处理	hua xue yu chu li	3118
+滑移面	hua yi mian	3906
+缓冲能力	huan chong neng li	1577
+缓冲体系	huan chong ti xi	1578
+环境友好药剂	huan jing you hao yao ji	3071
+还原	huan yuan	3859
+还原产物	huan yuan chan wu	3816
+还原催化	huan yuan cui hua	857
+还原电流	huan yuan dian liu	436
+还原电位	huan yuan dian wei	3850
+还原反应	huan yuan fan ying	3788
+还原峰	huan yuan feng	2735
+还原剂效应	huan yuan ji xiao ying	774
+还原气氛	huan yuan qi fen	1840
+还原溶解	huan yuan rong jie	873
+还原态	huan yuan tai	490
+还原诱导活化	huan yuan you dao huo hua	570
+还原诱导疏水化	huan yuan you dao shu shui hua	569
+还原预处理	huan yuan yu chu li	3121
+磺酸基	huang suan ji	601
+磺酸盐	huang suan yan	1628
+黄铁矿	huang tie kuang	3647
+黄铁矿表面电位	huang tie kuang biao mian dian wei	2126
+黄铁矿表面亲水性	huang tie kuang biao mian qin shui xing	2118
+黄铁矿表面疏水性	huang tie kuang biao mian shu shui xing	2119
+黄铁矿表面物种	huang tie kuang biao mian wu zhong	2114
+黄铁矿表面吸附	huang tie kuang biao mian xi fu	2124
+黄铁矿表面氧化	huang tie kuang biao mian yang hua	2125
+黄铁矿捕收	huang tie kuang bu shou	1935
+黄铁矿电化学测试	huang tie kuang dian hua xue ce shi	169
+黄铁矿电化学分析	huang tie kuang dian hua xue fen xi	170
+黄铁矿电化学行为	huang tie kuang dian hua xue xing wei	2115
+黄铁矿电化学研究	huang tie kuang dian hua xue yan jiu	168
+黄铁矿动电位	huang tie kuang dong dian wei	2127
+黄铁矿动电位测试	huang tie kuang dong dian wei ce shi	181
+黄铁矿动电位分析	huang tie kuang dong dian wei fen xi	182
+黄铁矿动电位研究	huang tie kuang dong dian wei yan jiu	180
+黄铁矿毒砂分离	huang tie kuang du sha fen li	2561
+黄铁矿钝化	huang tie kuang dun hua	1927
+黄铁矿浮选	huang tie kuang fu xuan	1176
+黄铁矿浮选动力学	huang tie kuang fu xuan dong li xue	2121
+黄铁矿浮选回收率	huang tie kuang fu xuan hui shou lv	2122
+黄铁矿光电子能谱测试	huang tie kuang guang dian zi neng pu ce shi	187
+黄铁矿光电子能谱分析	huang tie kuang guang dian zi neng pu fen xi	188
+黄铁矿光电子能谱研究	huang tie kuang guang dian zi neng pu yan jiu	186
+黄铁矿红外光谱测试	huang tie kuang hong wai guang pu ce shi	193
+黄铁矿红外光谱分析	huang tie kuang hong wai guang pu fen xi	194
+黄铁矿红外光谱研究	huang tie kuang hong wai guang pu yan jiu	192
+黄铁矿还原	huang tie kuang huan yuan	1931
+黄铁矿活化	huang tie kuang huo hua	1933
+黄铁矿接触角	huang tie kuang jie chu jiao	2128
+黄铁矿接触角测试	huang tie kuang jie chu jiao ce shi	184
+黄铁矿接触角分析	huang tie kuang jie chu jiao fen xi	185
+黄铁矿接触角研究	huang tie kuang jie chu jiao yan jiu	183
+黄铁矿界面性质	huang tie kuang jie mian xing zhi	2113
+黄铁矿解吸	huang tie kuang jie xi	1929
+黄铁矿拉曼光谱测试	huang tie kuang la man guang pu ce shi	190
+黄铁矿拉曼光谱分析	huang tie kuang la man guang pu fen xi	191
+黄铁矿拉曼光谱研究	huang tie kuang la man guang pu yan jiu	189
+黄铁矿溶出	huang tie kuang rong chu	1928
+黄铁矿溶出测试	huang tie kuang rong chu ce shi	178
+黄铁矿溶出分析	huang tie kuang rong chu fen xi	179
+黄铁矿溶出行为	huang tie kuang rong chu xing wei	2116
+黄铁矿溶出研究	huang tie kuang rong chu yan jiu	177
+黄铁矿天然可浮性	huang tie kuang tian ran ke fu xing	2120
+黄铁矿吸附	huang tie kuang xi fu	1930
+黄铁矿吸附测试	huang tie kuang xi fu ce shi	172
+黄铁矿吸附分析	huang tie kuang xi fu fen xi	173
+黄铁矿吸附研究	huang tie kuang xi fu yan jiu	171
+黄铁矿氧化	huang tie kuang yang hua	1932
+黄铁矿氧化测试	huang tie kuang yang hua ce shi	175
+黄铁矿氧化产物	huang tie kuang yang hua chan wu	2792
+黄铁矿氧化分析	huang tie kuang yang hua fen xi	176
+黄铁矿氧化行为	huang tie kuang yang hua xing wei	2117
+黄铁矿氧化研究	huang tie kuang yang hua yan jiu	174
+黄铁矿药剂吸附	huang tie kuang yao ji xi fu	2123
+黄铁矿抑制	huang tie kuang yi zhi	1934
+黄铜矿	huang tong kuang	3648
+黄铜矿表面电位	huang tong kuang biao mian dian wei	2142
+黄铜矿表面亲水性	huang tong kuang biao mian qin shui xing	2134
+黄铜矿表面疏水性	huang tong kuang biao mian shu shui xing	2135
+黄铜矿表面物种	huang tong kuang biao mian wu zhong	2130
+黄铜矿表面吸附	huang tong kuang biao mian xi fu	2140
+黄铜矿表面氧化	huang tong kuang biao mian yang hua	2141
+黄铜矿捕收	huang tong kuang bu shou	1943
+黄铜矿电化学测试	huang tong kuang dian hua xue ce shi	196
+黄铜矿电化学分析	huang tong kuang dian hua xue fen xi	197
+黄铜矿电化学行为	huang tong kuang dian hua xue xing wei	2131
+黄铜矿电化学研究	huang tong kuang dian hua xue yan jiu	195
+黄铜矿动电位	huang tong kuang dong dian wei	2143
+黄铜矿动电位测试	huang tong kuang dong dian wei ce shi	208
+黄铜矿动电位分析	huang tong kuang dong dian wei fen xi	209
+黄铜矿动电位研究	huang tong kuang dong dian wei yan jiu	207
+黄铜矿钝化	huang tong kuang dun hua	1936
+黄铜矿方铅矿分离	huang tong kuang fang qian kuang fen li	2574
+黄铜矿浮选	huang tong kuang fu xuan	1177
+黄铜矿浮选动力学	huang tong kuang fu xuan dong li xue	2137
+黄铜矿浮选回收率	huang tong kuang fu xuan hui shou lv	2138
+黄铜矿光电子能谱测试	huang tong kuang guang dian zi neng pu ce shi	214
+黄铜矿光电子能谱分析	huang tong kuang guang dian zi neng pu fen xi	215
+黄铜矿光电子能谱研究	huang tong kuang guang dian zi neng pu yan jiu	213
+黄铜矿红外光谱测试	huang tong kuang hong wai guang pu ce shi	220
+黄铜矿红外光谱分析	huang tong kuang hong wai guang pu fen xi	221
+黄铜矿红外光谱研究	huang tong kuang hong wai guang pu yan jiu	219
+黄铜矿还原	huang tong kuang huan yuan	1940
+黄铜矿黄铁矿分离	huang tong kuang huang tie kuang fen li	2559
+黄铜矿辉钼矿分离	huang tong kuang hui mu kuang fen li	2581
+黄铜矿活化	huang tong kuang huo hua	1942
+黄铜矿接触角	huang tong kuang jie chu jiao	2144
+黄铜矿接触角测试	huang tong kuang jie chu jiao ce shi	211
+黄铜矿接触角分析	huang tong kuang jie chu jiao fen xi	212
+黄铜矿接触角研究	huang tong kuang jie chu jiao yan jiu	210
+黄铜矿界面性质	huang tong kuang jie mian xing zhi	2129
+黄铜矿解吸	huang tong kuang jie xi	1938
+黄铜矿拉曼光谱测试	huang tong kuang la man guang pu ce shi	217
+黄铜矿拉曼光谱分析	huang tong kuang la man guang pu fen xi	218
+黄铜矿拉曼光谱研究	huang tong kuang la man guang pu yan jiu	216
+黄铜矿溶出	huang tong kuang rong chu	1937
+黄铜矿溶出测试	huang tong kuang rong chu ce shi	205
+黄铜矿溶出分析	huang tong kuang rong chu fen xi	206
+黄铜矿溶出行为	huang tong kuang rong chu xing wei	2132
+黄铜矿溶出研究	huang tong kuang rong chu yan jiu	204
+黄铜矿闪锌矿分离	huang tong kuang shan xin kuang fen li	2563
+黄铜矿天然可浮性	huang tong kuang tian ran ke fu xing	2136
+黄铜矿吸附	huang tong kuang xi fu	1939
+黄铜矿吸附测试	huang tong kuang xi fu ce shi	199
+黄铜矿吸附分析	huang tong kuang xi fu fen xi	200
+黄铜矿吸附研究	huang tong kuang xi fu yan jiu	198
+黄铜矿氧化	huang tong kuang yang hua	1941
+黄铜矿氧化测试	huang tong kuang yang hua ce shi	202
+黄铜矿氧化产物	huang tong kuang yang hua chan wu	2793
+黄铜矿氧化分析	huang tong kuang yang hua fen xi	203
+黄铜矿氧化行为	huang tong kuang yang hua xing wei	2133
+黄铜矿氧化研究	huang tong kuang yang hua yan jiu	201
+黄铜矿药剂吸附	huang tong kuang yao ji xi fu	2139
+黄铜矿抑制	huang tong kuang yi zhi	2580
+黄药	huang yao	3749
+黄药捕收作用	huang yao bu shou zuo yong	1095
+黄药方铅矿浮选	huang yao fang qian kuang fu xuan	139
+黄药方铅矿吸附	huang yao fang qian kuang xi fu	140
+黄药方铅矿氧化	huang yao fang qian kuang yang hua	137
+黄药方铅矿抑制	huang yao fang qian kuang yi zhi	138
+黄药还原	huang yao huan yuan	1100
+黄药黄铁矿浮选	huang yao huang tie kuang fu xuan	127
+黄药黄铁矿吸附	huang yao huang tie kuang xi fu	128
+黄药黄铁矿氧化	huang yao huang tie kuang yang hua	125
+黄药黄铁矿抑制	huang yao huang tie kuang yi zhi	126
+黄药黄铜矿浮选	huang yao huang tong kuang fu xuan	131
+黄药黄铜矿吸附	huang yao huang tong kuang xi fu	132
+黄药黄铜矿氧化	huang yao huang tong kuang yang hua	129
+黄药黄铜矿抑制	huang yao huang tong kuang yi zhi	130
+黄药辉钼矿浮选	huang yao hui mu kuang fu xuan	135
+黄药辉钼矿吸附	huang yao hui mu kuang xi fu	136
+黄药辉钼矿氧化	huang yao hui mu kuang yang hua	133
+黄药辉钼矿抑制	huang yao hui mu kuang yi zhi	134
+黄药降解	huang yao jiang jie	1099
+黄药闪锌矿浮选	huang yao shan xin kuang fu xuan	123
+黄药闪锌矿吸附	huang yao shan xin kuang xi fu	124
+黄药闪锌矿氧化	huang yao shan xin kuang yang hua	121
+黄药闪锌矿抑制	huang yao shan xin kuang yi zhi	122
+黄药水解	huang yao shui jie	1098
+黄药吸附	huang yao xi fu	1102
+黄药选择性	huang yao xuan ze xing	1096
+黄药盐	huang yao yan	657
+黄药氧化	huang yao yang hua	1101
+黄药抑制作用	huang yao yi zhi zuo yong	1094
+黄药酯	huang yao zhi	656
+黄药作用	huang yao zuo yong	1097
+黄原酸	huang yuan suan	1640
+黄原酸盐	huang yuan suan yan	3736
+黄原酸酯	huang yuan suan zhi	1639
+辉铋矿	hui bi kuang	3631
+回归分析	hui gui fen xi	3182
+回归模型	hui gui mo xing	2809
+辉钼矿	hui mu kuang	3650
+辉钼矿边缘	hui mu kuang bian yuan	3604
+辉钼矿边缘面	hui mu kuang bian yuan mian	548
+辉钼矿边缘钼位点	hui mu kuang bian yuan mu wei dian	2616
+辉钼矿边缘位点	hui mu kuang bian yuan wei dian	546
+辉钼矿表面电位	hui mu kuang biao mian dian wei	2170
+辉钼矿表面铅沉积	hui mu kuang biao mian qian chen ji	541
+辉钼矿表面铅吸附	hui mu kuang biao mian qian xi fu	542
+辉钼矿表面亲水性	hui mu kuang biao mian qin shui xing	2163
+辉钼矿表面缺陷	hui mu kuang biao mian que xian	544
+辉钼矿表面疏水性	hui mu kuang biao mian shu shui xing	2164
+辉钼矿表面水化	hui mu kuang biao mian shui hua	543
+辉钼矿表面物种	hui mu kuang biao mian wu zhong	2618
+辉钼矿表面吸附	hui mu kuang biao mian xi fu	2169
+辉钼矿表面氧化	hui mu kuang biao mian yang hua	2620
+辉钼矿捕收	hui mu kuang bu shou	3018
+辉钼矿捕收机理	hui mu kuang bu shou ji li	2584
+辉钼矿电化学测试	hui mu kuang dian hua xue ce shi	250
+辉钼矿电化学分析	hui mu kuang dian hua xue fen xi	251
+辉钼矿电化学行为	hui mu kuang dian hua xue xing wei	2160
+辉钼矿电化学研究	hui mu kuang dian hua xue yan jiu	249
+辉钼矿动电位	hui mu kuang dong dian wei	2171
+辉钼矿动电位测试	hui mu kuang dong dian wei ce shi	262
+辉钼矿动电位分析	hui mu kuang dong dian wei fen xi	263
+辉钼矿动电位研究	hui mu kuang dong dian wei yan jiu	261
+辉钼矿钝化	hui mu kuang dun hua	1948
+辉钼矿方铅矿分离	hui mu kuang fang qian kuang fen li	2632
+辉钼矿方铅矿浮选	hui mu kuang fang qian kuang fu xuan	2631
+辉钼矿方铅矿混合矿	hui mu kuang fang qian kuang hun he kuang	2629
+辉钼矿方铅矿体系	hui mu kuang fang qian kuang ti xi	2630
+辉钼矿浮选	hui mu kuang fu xuan	3022
+辉钼矿浮选动力学	hui mu kuang fu xuan dong li xue	2166
+辉钼矿浮选回收率	hui mu kuang fu xuan hui shou lv	2167
+辉钼矿光电子能谱测试	hui mu kuang guang dian zi neng pu ce shi	268
+辉钼矿光电子能谱分析	hui mu kuang guang dian zi neng pu fen xi	269
+辉钼矿光电子能谱研究	hui mu kuang guang dian zi neng pu yan jiu	267
+辉钼矿红外光谱测试	hui mu kuang hong wai guang pu ce shi	274
+辉钼矿红外光谱分析	hui mu kuang hong wai guang pu fen xi	275
+辉钼矿红外光谱研究	hui mu kuang hong wai guang pu yan jiu	273
+辉钼矿还原	hui mu kuang huan yuan	1952
+辉钼矿活化	hui mu kuang huo hua	3015
+辉钼矿基面	hui mu kuang ji mian	3605
+辉钼矿基面疏水性	hui mu kuang ji mian shu shui xing	2615
+辉钼矿基面位点	hui mu kuang ji mian wei dian	547
+辉钼矿接触角	hui mu kuang jie chu jiao	2172
+辉钼矿接触角测试	hui mu kuang jie chu jiao ce shi	265
+辉钼矿接触角分析	hui mu kuang jie chu jiao fen xi	266
+辉钼矿接触角研究	hui mu kuang jie chu jiao yan jiu	264
+辉钼矿界面性质	hui mu kuang jie mian xing zhi	2159
+辉钼矿解吸	hui mu kuang jie xi	1950
+辉钼矿拉曼光谱测试	hui mu kuang la man guang pu ce shi	271
+辉钼矿拉曼光谱分析	hui mu kuang la man guang pu fen xi	272
+辉钼矿拉曼光谱研究	hui mu kuang la man guang pu yan jiu	270
+辉钼矿硫空位	hui mu kuang liu kong wei	545
+辉钼矿铅离子活化	hui mu kuang qian li zi huo hua	540
+辉钼矿铅离子污染	hui mu kuang qian li zi wu ran	539
+辉钼矿铅污染	hui mu kuang qian wu ran	2608
+辉钼矿溶出	hui mu kuang rong chu	1949
+辉钼矿溶出测试	hui mu kuang rong chu ce shi	259
+辉钼矿溶出分析	hui mu kuang rong chu fen xi	260
+辉钼矿溶出行为	hui mu kuang rong chu xing wei	2161
+辉钼矿溶出研究	hui mu kuang rong chu yan jiu	258
+辉钼矿天然可浮性	hui mu kuang tian ran ke fu xing	2165
+辉钼矿天然疏水	hui mu kuang tian ran shu shui	2623
+辉钼矿吸附	hui mu kuang xi fu	1951
+辉钼矿吸附测试	hui mu kuang xi fu ce shi	253
+辉钼矿吸附分析	hui mu kuang xi fu fen xi	254
+辉钼矿吸附研究	hui mu kuang xi fu yan jiu	252
+辉钼矿选择性氧化	hui mu kuang xuan ze xing yang hua	2625
+辉钼矿选择性抑制	hui mu kuang xuan ze xing yi zhi	2627
+辉钼矿氧化	hui mu kuang yang hua	3601
+辉钼矿氧化测试	hui mu kuang yang hua ce shi	256
+辉钼矿氧化产物	hui mu kuang yang hua chan wu	2794
+辉钼矿氧化分析	hui mu kuang yang hua fen xi	257
+辉钼矿氧化行为	hui mu kuang yang hua xing wei	2162
+辉钼矿氧化研究	hui mu kuang yang hua yan jiu	255
+辉钼矿药剂吸附	hui mu kuang yao ji xi fu	2168
+辉钼矿抑制	hui mu kuang yi zhi	3019
+辉钼矿抑制机理	hui mu kuang yi zhi ji li	2586
+辉镍矿	hui nie kuang	3634
+辉砷钴矿	hui shen gu kuang	3628
+辉石	hui shi	1643
+回收率	hui shou lv	4140
+回收率曲线	hui shou lv qu xian	2826
+回收率时间曲线	hui shou lv shi jian qu xian	798
+回收率试验	hui shou lv shi yan	1283
+回收率提高	hui shou lv ti gao	3040
+回水	hui shui	3095
+回水影响	hui shui ying xiang	2313
+辉锑矿	hui ti kuang	3638
+辉锑铅矿	hui ti qian kuang	3627
+辉铜矿	hui tong kuang	3642
+辉银矿	hui yin kuang	3633
+回用水	hui yong shui	3087
+混合比例	hun he bi li	839
+混合捕收剂	hun he bu shou ji	2663
+混合电位	hun he dian wei	3849
+混合浮选	hun he fu xuan	4071
+混合精矿再磨	hun he jing kuang zai mo	2998
+混合矿试验	hun he kuang shi yan	2353
+混合模型	hun he mo xing	2817
+混合特性	hun he te xing	1480
+混合烃油	hun he ting you	640
+混合抑制剂	hun he yi zhi ji	2661
+混凝	hun ning	3084
+混匀	hun yun	3328
+活度	huo du	3796
+活度系数	huo du xi shu	3795
+活化剂	huo hua ji	3774
+活化机理	huo hua ji li	3144
+活化剂离子	huo hua ji li zi	618
+活化剂效应	huo hua ji xiao ying	770
+活化能	huo hua neng	3239
+活化能力	huo hua neng li	1608
+活化强化	huo hua qiang hua	1752
+活化效率	huo hua xiao lv	1789
+活化性能	huo hua xing neng	1607
+活化选择性	huo hua xuan ze xing	1606
+活化作用	huo hua zuo yong	3767
+活性位点	huo xing wei dian	3878
+活性物种	huo xing wu zhong	3834
+活性氧	huo xing yang	428
+活性氧物种	huo xing yang wu zhong	427
+季铵盐	ji an yan	1626
+季铵盐捕收剂	ji an yan bu shou ji	2671
+吉布斯自由能	ji bu si zi you neng	1548
+激光粒度	ji guang li du	3441
+激光粒度仪	ji guang li du yi	3279
+几何参数	ji he can shu	404
+几何优化	ji he you hua	3245
+极化电阻	ji hua dian zu	446
+极化曲线	ji hua qu xian	3272
+极化行为	ji hua xing wei	2732
+机理分析	ji li fen xi	3052
+机理模型	ji li mo xing	2811
+机理验证	ji li yan zheng	2195
+剂量效应	ji liang xiao ying	843
+基面	ji mian	3823
+基面活性位点	ji mian huo xing wei dian	880
+基面位点	ji mian wei dian	3824
+机器学习	ji qi xue xi	2805
+计时电流	ji shi dian liu	1268
+计时电位	ji shi dian wei	1267
+技术经济指标	ji shu jing ji zhi biao	1208
+技术路线	ji shu lu xian	2199
+技术问题	ji shu wen ti	2204
+技术指标	ji shu zhi biao	4081
+计算化学	ji suan hua xue	3247
+计算结果	ji suan jie guo	2193
+计算矿物学	ji suan kuang wu xue	3246
+基体效应	ji ti xiao ying	1290
+极限回收率	ji xian hui shou lv	2832
+基线扣除	ji xian kou chu	505
+机械化学作用	ji xie hua xue zuo yong	2503
+机械活化	ji xie huo hua	2504
+机械夹带	ji xie jia dai	4002
+机械搅拌浮选机	ji xie jiao ban fu xuan ji	2255
+机械搅拌式	ji xie jiao ban shi	3976
+机械预处理	ji xie yu chu li	3119
+极性捕收剂	ji xing bu shou ji	3754
+极性分量	ji xing fen liang	1536
+极性基	ji xing ji	2650
+极性头基	ji xing tou ji	617
+机制证据	ji zhi zheng ju	320
+基组	ji zu	2394
+加标回收	jia biao hui shou	1282
+钾长石	jia chang shi	3563
+价带	jia dai	730
+夹带回收	jia dai hui shou	2855
+夹带率	jia dai lv	814
+甲基异丁基甲醇	jia ji yi ding ji jia chun	3727
+钾离子	jia li zi	2304
+架桥作用	jia qiao zuo yong	2532
+价态比例	jia tai bi li	2421
+价态分析	jia tai fen xi	2432
+价态转变	jia tai zhuan bian	492
+加压过滤	jia ya guo lv	1360
+加药	jia yao	2339
+加药泵	jia yao beng	343
+加药点	jia yao dian	344
+加药顺序	jia yao shun xu	3661
+加药顺序效应	jia yao shun xu xiao ying	778
+加药系统	jia yao xi tong	3339
+键布居	jian bu ju	2370
+检测深度	jian ce shen du	477
+键长	jian chang	3221
+键长变化	jian chang bian hua	407
+检出限	jian chu xian	3164
+键级	jian ji	3222
+键角	jian jiao	3220
+键角变化	jian jiao bian hua	406
+间接证据	jian jie zheng ju	318
+剪切变稀	jian qie bian xi	2273
+剪切速率	jian qie su lv	2274
+剪切絮凝	jian qie xu ning	2516
+剪切应力	jian qie ying li	2275
+剪切增稠	jian qie zeng chou	2272
+溅射深度	jian she shen du	2435
+溅射时间	jian she shi jian	480
+溅射速率	jian she su lv	479
+检索词	jian suo ci	298
+间隙原子	jian xi yuan zi	1689
+碱性条件	jian xing tiao jian	1844
+降本增效	jiang ben zeng xiao	3067
+搅拌	jiao ban	2338
+搅拌槽	jiao ban cao	3381
+搅拌磨	jiao ban mo	1462
+搅拌磨机	jiao ban mo ji	3487
+搅拌器	jiao ban qi	3357
+搅拌强度效应	jiao ban qiang du xiao ying	780
+搅拌速度	jiao ban su du	3982
+交叉验证	jiao cha yan zheng	1239
+交代结构	jiao dai jie gou	2957
+交互作用	jiao hu zuo yong	3172
+交换电流	jiao huan dian liu	3265
+交换电流密度	jiao huan dian liu mi du	2727
+焦磷酸钠	jiao lin suan na	1621
+交流电场	jiao liu dian chang	3383
+角闪石	jiao shan shi	1642
+胶体化学	jiao ti hua xue	3927
+胶体稳定性	jiao ti wen ding xing	3200
+矫顽力	jiao wan li	1403
+焦亚硫酸钠	jiao ya liu suan na	3698
+校准曲线	jiao zhun qu xian	3161
+接触带电	jie chu dai dian	1388
+接触角	jie chu jiao	3918
+接触角变化	jie chu jiao bian hua	763
+接触角表征	jie chu jiao biao zheng	1916
+接触角测试	jie chu jiao ce shi	3290
+接触角分析	jie chu jiao fen xi	1917
+接触角结果	jie chu jiao jie guo	967
+接触角数据	jie chu jiao shu ju	966
+接触角研究	jie chu jiao yan jiu	1915
+接触角滞后	jie chu jiao zhi hou	1541
+介电常数	jie dian chang shu	1385
+介电分选	jie dian fen xuan	3392
+介电损耗	jie dian sun hao	1384
+阶段分级	jie duan fen ji	1333
+阶段浮选	jie duan fu xuan	1334
+阶段磨矿	jie duan mo kuang	1336
+截断能	jie duan neng	2393
+阶段选别	jie duan xuan bie	1335
+结构恢复	jie gou hui fu	1311
+结构效应	jie gou xiao ying	3136
+结构性能关系	jie gou xing neng guan xi	305
+结构优化	jie gou you hua	3244
+结果表明	jie guo biao ming	3036
+结果分析	jie guo fen xi	3053
+结果显示	jie guo xian shi	3035
+结合能	jie he neng	3241
+结合能变化	jie he neng bian hua	758
+结合能校正	jie he neng jiao zheng	502
+结合能偏移	jie he neng pian yi	2429
+结合能位移	jie he neng wei yi	495
+结合强度	jie he qiang du	735
+解聚作用	jie ju zuo yong	2527
+拮抗作用	jie kang zuo yong	3139
+解理	jie li	1712
+解离	jie li	3863
+解离度	jie li du	4156
+解离粒度	jie li li du	4155
+解理面	jie li mian	3820
+解离模型	jie li mo xing	2952
+解离曲线	jie li qu xian	2951
+解离特征	jie li te zheng	2954
+解离特征分析	jie li te zheng fen xi	2911
+解离行为	jie li xing wei	2953
+界面差异	jie mian cha yi	2178
+界面尺度	jie mian chi du	310
+界面传质	jie mian chuan zhi	1816
+界面电荷转移	jie mian dian he zhuan yi	2704
+界面电容	jie mian dian rong	441
+界面电子转移	jie mian dian zi zhuan yi	2705
+界面反应	jie mian fan ying	3790
+界面分析	jie mian fen xi	3259
+界面改性	jie mian gai xing	3124
+界面化学	jie mian hua xue	3928
+界面环境	jie mian huan jing	1847
+界面结构	jie mian jie gou	746
+界面扩散	jie mian kuo san	382
+界面能	jie mian neng	3924
+界面迁移	jie mian qian yi	3011
+界面氢键	jie mian qing jian	744
+界面溶剂化	jie mian rong ji hua	741
+界面水	jie mian shui	745
+界面水层	jie mian shui ceng	388
+界面水分子	jie mian shui fen zi	1886
+界面水结构	jie mian shui jie gou	1887
+界面调控	jie mian tiao kong	3131
+界面物种保留	jie mian wu zhong bao liu	456
+界面性质	jie mian xing zhi	4091
+界面张力	jie mian zhang li	3923
+界面质子转移	jie mian zhi zi zhuan yi	896
+界面自由能	jie mian zi you neng	1880
+节能降耗	jie neng jiang hao	3068
+节能选矿	jie neng xuan kuang	1236
+解吸动力学	jie xi dong li xue	702
+解吸速率	jie xi su lv	1811
+介质尺寸	jie zhi chi cun	1471
+介质级配	jie zhi ji pei	1470
+介质稳定性	jie zhi wen ding xing	1414
+介质消耗	jie zhi xiao hao	1216
+近边吸收结构	jin bian xi shou jie gou	2441
+金刚石	jin gang shi	3532
+金红石	jin hong shi	3573
+金属产量	jin shu chan liang	1212
+金属分配	jin shu fen pei	828
+金属分配率	jin shu fen pei lv	1785
+金属回收率	jin shu hui shou lv	4132
+金属活性位点	jin shu huo xing wei dian	879
+金属空位	jin shu kong wei	3827
+金属离子活化	jin shu li zi huo hua	2293
+金属离子迁移	jin shu li zi qian yi	2752
+金属离子吸附	jin shu li zi xi fu	2294
+金属离子再吸附	jin shu li zi zai xi fu	2751
+金属硫化物溶出	jin shu liu hua wu rong chu	567
+金属流失	jin shu liu shi	1736
+金属浓度	jin shu nong du	1276
+金属平衡	jin shu ping heng	4109
+金属羟基物	jin shu qiang ji wu	3808
+金属释放	jin shu shi fang	818
+金属损失率	jin shu sun shi lv	1784
+金属氧化	jin shu yang hua	565
+进一步表明	jin yi bu biao ming	3037
+进一步研究	jin yi bu yan jiu	2177
+金云母	jin yun mu	1646
+晶胞	jing bao	3210
+晶带	jing dai	1721
+经典成核理论	jing dian cheng he li lun	3202
+经典动力学	jing dian dong li xue	2837
+静电分选	jing dian fen xuan	3396
+静电排斥	jing dian pai chi	3900
+静电势	jing dian shi	3224
+静电吸附	jing dian xi fu	584
+静电吸引	jing dian xi yin	3901
+静电作用	jing dian zuo yong	3902
+晶格	jing ge	1720
+晶格参数	jing ge can shu	3308
+晶格畸变	jing ge ji bian	2489
+晶格缺陷	jing ge que xian	3830
+晶格替位	jing ge ti wei	1684
+晶格氧化	jing ge yang hua	877
+晶格优化	jing ge you hua	1262
+晶核	jing he	1680
+经济效益	jing ji xiao yi	1207
+经济指标	jing ji zhi biao	1209
+精矿	jing kuang	4169
+精矿槽	jing kuang cao	350
+精矿产量	jing kuang chan liang	1214
+精矿产率	jing kuang chan lv	1783
+精矿夹杂	jing kuang jia za	1738
+精矿品位	jing kuang pin wei	4134
+精矿收集	jing kuang shou ji	2336
+精矿再磨	jing kuang zai mo	1331
+精矿质量	jing kuang zhi liang	831
+晶棱	jing leng	1722
+晶粒尺寸	jing li chi cun	2934
+精密度	jing mi du	1281
+晶面	jing mian	1723
+晶面暴露	jing mian bao lu	1700
+晶面反应性	jing mian fan ying xing	1697
+晶面模型	jing mian mo xing	3207
+晶面能	jing mian neng	1698
+晶面切割	jing mian qie ge	2388
+晶面调控	jing mian tiao kong	676
+晶面效应	jing mian xiao ying	1859
+晶面选择性	jing mian xuan ze xing	1860
+晶面指数	jing mian zhi shu	1702
+静态接触角	jing tai jie chu jiao	1542
+晶体对称	jing ti dui chen	1716
+晶体化学	jing ti hua xue	1725
+晶体结构	jing ti jie gou	3309
+晶体缺陷	jing ti que xian	1724
+晶体生长	jing ti sheng zhang	1806
+晶体生长步骤	jing ti sheng zhang bu zhou	709
+晶体生长速率	jing ti sheng zhang su lv	705
+晶体性质	jing ti xing zhi	4090
+精尾矿	jing wei kuang	4053
+晶系	jing xi	1715
+静息电位	jing xi dian wei	3847
+径向分布函数	jing xiang fen bu han shu	2364
+晶相分析	jing xiang fen xi	3310
+晶向指数	jing xiang zhi shu	1701
+精选	jing xuan	4056
+经验模型	jing yan mo xing	2813
+竞争络合	jing zheng luo he	1853
+竞争吸附	jing zheng xi fu	3887
+竞争吸附效应	jing zheng xi fu xiao ying	1852
+酒石酸	jiu shi suan	3675
+聚丙二醇	ju bing er chun	1625
+聚丙烯酰胺	ju bing xi xian an	3680
+局部电池	ju bu dian chi	2708
+局部电荷	ju bu dian he	1868
+局部腐蚀	ju bu fu shi	874
+局部耗散率	ju bu hao san lv	1484
+局部结构	ju bu jie gou	732
+局部湍流	ju bu tuan liu	2887
+局部氧化	ju bu yang hua	875
+聚类分析	ju lei fen xi	2221
+矩量分析	ju liang fen xi	2821
+聚醚起泡剂	ju mi qi pao ji	635
+聚团浮选	ju tuan fu xuan	1516
+聚乙二醇	ju yi er chun	3679
+聚乙烯醇	ju yi xi chun	3678
+局域密度近似	ju yu mi du jin si	2397
+决定系数	jue ding xi shu	3178
+绝对误差	jue dui wu cha	3188
+均方位移	jun fang wei yi	2363
+均相成核	jun xiang cheng he	706
+开路电位	kai lu dian wei	3848
+开路电位测试	kai lu dian wei ce shi	3269
+开路电位演化	kai lu dian wei yan hua	2713
+开路回收率	kai lu hui shou lv	1778
+开路流程	kai lu liu cheng	4042
+开路磨矿	kai lu mo kuang	1456
+开路试验	kai lu shi yan	4126
+可重复性	ke chong fu xing	325
+可浮性	ke fu xing	4153
+可降解药剂	ke jiang jie yao ji	1580
+壳聚糖	ke ju tang	3684
+颗粒边界	ke li bian jie	369
+颗粒表面	ke li biao mian	2970
+颗粒捕获	ke li bu huo	2875
+颗粒沉降	ke li chen jiang	3423
+颗粒粗糙度	ke li cu cao du	2932
+颗粒附着	ke li fu zhuo	2968
+颗粒荷电	ke li he dian	1390
+颗粒回收	ke li hui shou	2874
+颗粒回收概率	ke li hui shou gai lv	812
+颗粒夹带	ke li jia dai	2873
+颗粒间相互作用	ke li jian xiang hu zuo yong	893
+颗粒间作用	ke li jian zuo yong	2971
+颗粒间作用力	ke li jian zuo yong li	1506
+颗粒聚并	ke li ju bing	1508
+颗粒内扩散	ke li nei kuo san	1814
+颗粒浓度	ke li nong du	2261
+颗粒碰撞	ke li peng zhuang	2969
+颗粒气泡聚集	ke li qi pao ju ji	2841
+颗粒气泡脱附	ke li qi pao tuo fu	2842
+颗粒调控	ke li tiao kong	667
+颗粒团聚体	ke li tuan ju ti	1511
+颗粒网络	ke li wang luo	2259
+颗粒形貌	ke li xing mao	2933
+颗粒形貌效应	ke li xing mao xiao ying	1858
+颗粒悬浮	ke li xuan fu	2884
+可磨性	ke mo xing	4152
+可能偏差	ke neng pian cha	1412
+可溶性铅	ke rong xing qian	3596
+可选性	ke xuan xing	4154
+可选性试验	ke xuan xing shi yan	4151
+科学假设	ke xue jia she	2200
+科学空白	ke xue kong bai	285
+科学问题	ke xue wen ti	2205
+可再现性	ke zai xian xing	324
+空白校正	kong bai jiao zheng	1291
+空白校准	kong bai jiao zhun	1180
+空白试验	kong bai shi yan	3195
+空白样	kong bai yang	3158
+空间群	kong jian qun	1714
+空间位阻	kong jian wei zu	1586
+孔径分布	kong jing fen bu	3281
+空气分级	kong qi fen ji	1447
+空气流量	kong qi liu liang	3999
+空气气氛	kong qi qi fen	1839
+空气氧化	kong qi yang hua	868
+孔雀石	kong que shi	3525
+空位	kong wei	1690
+空位缺陷	kong wei que xian	3829
+控制变量	kong zhi bian liang	302
+快浮组分	kuai fu zu fen	805
+快速冷冻	kuai su leng dong	461
+矿仓	kuang cang	3362
+矿化	kuang hua	4023
+矿化过程	kuang hua guo cheng	4022
+矿化泡沫	kuang hua pao mo	788
+矿化气泡	kuang hua qi pao	2872
+矿化气泡群	kuang hua qi pao qun	2871
+矿浆泵	kuang jiang beng	3378
+矿浆充气	kuang jiang chong qi	3973
+矿浆传质	kuang jiang chuan zhi	1817
+矿浆电导率	kuang jiang dian dao lv	1573
+矿浆电位	kuang jiang dian wei	3843
+矿浆电位调控	kuang jiang dian wei tiao kong	679
+矿浆化学	kuang jiang hua xue	3931
+矿浆结构	kuang jiang jie gou	2260
+矿浆老化	kuang jiang lao hua	871
+矿浆流变	kuang jiang liu bian	2281
+矿浆黏度	kuang jiang nian du	2263
+矿浆浓度	kuang jiang nong du	4107
+矿浆浓度效应	kuang jiang nong du xiao ying	842
+矿浆区回收率	kuang jiang qu hui shou lv	809
+矿浆酸碱度	kuang jiang suan jian du	1579
+矿浆体积	kuang jiang ti ji	4101
+矿浆调理	kuang jiang tiao li	853
+矿浆湍流	kuang jiang tuan liu	2891
+矿浆稳定性	kuang jiang wen ding xing	1772
+矿浆温度	kuang jiang wen du	847
+矿浆相	kuang jiang xiang	4009
+矿浆循环	kuang jiang xun huan	3353
+矿浆循环量	kuang jiang xun huan liang	2241
+矿浆液面	kuang jiang ye mian	3988
+矿粒附着效率	kuang li fu zhuo xiao lv	888
+矿粒间作用力	kuang li jian zuo yong li	1507
+矿粒碰撞效率	kuang li peng zhuang xiao lv	889
+矿粒气泡附着	kuang li qi pao fu zhuo	2979
+矿粒气泡聚集体	kuang li qi pao ju ji ti	1524
+矿粒脱附	kuang li tuo fu	885
+矿泥	kuang ni	2550
+矿泥分散	kuang ni fen san	2526
+矿泥化	kuang ni hua	2549
+矿泥夹带率	kuang ni jia dai lv	813
+矿泥颗粒相互作用	kuang ni ke li xiang hu zuo yong	890
+矿泥调控	kuang ni tiao kong	666
+矿泥脱除	kuang ni tuo chu	2525
+矿泥污染	kuang ni wu ran	2540
+矿泥效应	kuang ni xiao ying	766
+矿泥影响	kuang ni ying xiang	3960
+矿泥罩盖	kuang ni zhao gai	3959
+矿石	kuang shi	4166
+矿石构造	kuang shi gou zao	2940
+矿石结构	kuang shi jie gou	2939
+矿石性质	kuang shi xing zhi	4094
+矿物	kuang wu	4165
+矿物包裹	kuang wu bao guo	2918
+矿物暴露	kuang wu bao lu	2922
+矿物暴露分析	kuang wu bao lu fen xi	373
+矿物暴露率	kuang wu bao lu lv	925
+矿物暴露曲线	kuang wu bao lu qu xian	361
+矿物比例效应	kuang wu bi li xiao ying	840
+矿物边界	kuang wu bian jie	370
+矿物电化学	kuang wu dian hua xue	2743
+矿物电极	kuang wu dian ji	1271
+矿物电极表面	kuang wu dian ji biao mian	431
+矿物电偶	kuang wu dian ou	2710
+矿物定量	kuang wu ding liang	2926
+矿物定量分析	kuang wu ding liang fen xi	379
+矿物分布	kuang wu fen bu	2930
+矿物共生	kuang wu gong sheng	1740
+矿物含量	kuang wu han liang	4147
+矿物回收率	kuang wu hui shou lv	815
+矿物加工	kuang wu jia gong	4178
+矿物间电子传递	kuang wu jian dian zi chuan di	894
+矿物间电子转移	kuang wu jian dian zi zhuan yi	3007
+矿物间离子迁移	kuang wu jian li zi qian yi	2588
+矿物间污染	kuang wu jian wu ran	1850
+矿物间相互作用	kuang wu jian xiang hu zuo yong	1851
+矿物间作用	kuang wu jian zuo yong	3008
+矿物接触关系	kuang wu jie chu guan xi	372
+矿物解离度	kuang wu jie li du	2949
+矿物解离分析	kuang wu jie li fen xi	377
+矿物解离率	kuang wu jie li lv	924
+矿物解离曲线	kuang wu jie li qu xian	362
+矿物晶体	kuang wu jing ti	1726
+矿物晶型	kuang wu jing xing	1675
+矿物颗粒分析	kuang wu ke li fen xi	378
+矿物粒度分析	kuang wu li du fen xi	374
+矿物粒径	kuang wu li jing	2935
+矿物连生	kuang wu lian sheng	2917
+矿物连生分析	kuang wu lian sheng fen xi	376
+矿物连生体	kuang wu lian sheng ti	2948
+矿物邻接关系	kuang wu lin jie guan xi	371
+矿物面积分数	kuang wu mian ji fen shu	367
+矿物配比	kuang wu pei bi	837
+矿物嵌布	kuang wu qian bu	2967
+矿物嵌布分析	kuang wu qian bu fen xi	375
+矿物溶解	kuang wu rong jie	3100
+矿物释放	kuang wu shi fang	2923
+矿物锁定	kuang wu suo ding	2919
+矿物体积分数	kuang wu ti ji fen shu	365
+矿物相	kuang wu xiang	919
+矿物相识别	kuang wu xiang shi bie	381
+矿物性质	kuang wu xing zhi	4093
+矿物选择性	kuang wu xuan ze xing	3133
+矿物氧化	kuang wu yang hua	3099
+矿物质量分数	kuang wu zhi liang fen shu	366
+矿物自动定量	kuang wu zi dong ding liang	922
+矿物自动分析	kuang wu zi dong fen xi	2924
+矿物自动识别	kuang wu zi dong shi bie	380
+矿物组成	kuang wu zu cheng	4149
+矿物组成分析	kuang wu zu cheng fen xi	2914
+矿相分析	kuang xiang fen xi	4146
+矿相组成	kuang xiang zu cheng	918
+矿样	kuang yang	3333
+矿样制备	kuang yang zhi bei	2351
+扩散边界层	kuo san bian jie ceng	694
+扩散层	kuo san ceng	3908
+扩散层厚度	kuo san ceng hou du	1819
+扩散传质	kuo san chuan zhi	697
+扩散控制	kuo san kong zhi	1823
+扩散控制步骤	kuo san kong zhi bu zhou	713
+扩散系数	kuo san xi shu	2362
+扩散行为	kuo san xing wei	383
+扩散阻抗	kuo san zu kang	443
+扩展吸收精细结构	kuo zhan xi shou jing xi jie gou	2440
+拉曼光谱	la man guang pu	3302
+拉曼光谱表征	la man guang pu biao zheng	1905
+拉曼光谱测试	la man guang pu ce shi	1906
+拉曼光谱分析	la man guang pu fen xi	1907
+拉曼光谱结果	la man guang pu jie guo	961
+拉曼光谱数据	la man guang pu shu ju	960
+拉曼光谱研究	la man guang pu yan jiu	1904
+拉曼特征峰	la man te zheng feng	2419
+蓝铜矿	lan tong kuang	3524
+累积回收率	lei ji hui shou lv	2831
+累计回收率	lei ji hui shou lv	4130
+雷诺数	lei nuo shu	1483
+雷诺准数	lei nuo zhun shu	1427
+类质同象	lei zhi tong xiang	1673
+冷冻表面分析	leng dong biao mian fen xi	458
+冷冻表征	leng dong biao zheng	3256
+冷冻电镜	leng dong dian jing	1297
+冷冻干燥	leng dong gan zao	2344
+冷冻固定	leng dong gu ding	462
+冷冻真空转移	leng dong zhen kong zhuan yi	460
+冷冻制样	leng dong zhi yang	3255
+冷冻转移	leng dong zhuan yi	1296
+粒度	li du	3469
+粒度分布	li du fen bu	4142
+粒度分级	li du fen ji	1449
+粒度分析	li du fen xi	3443
+粒度上限	li du shang xian	3465
+粒度特性	li du te xing	933
+粒度特征	li du te zheng	2938
+粒度调控	li du tiao kong	674
+粒度下限	li du xia xian	3464
+粒度效应	li du xiao ying	3963
+粒度仪	li du yi	3280
+粒度依赖性	li du yi lai xing	1857
+粒度组成	li du zu cheng	4144
+立环高梯度磁选	li huan gao ti du ci xuan	1397
+锂辉石	li hui shi	3539
+锂辉石表面电位	li hui shi biao mian dian wei	1966
+锂辉石表面亲水性	li hui shi biao mian qin shui xing	1958
+锂辉石表面疏水性	li hui shi biao mian shu shui xing	1959
+锂辉石表面物种	li hui shi biao mian wu zhong	1954
+锂辉石表面吸附	li hui shi biao mian xi fu	1964
+锂辉石表面氧化	li hui shi biao mian yang hua	1965
+锂辉石电化学行为	li hui shi dian hua xue xing wei	1955
+锂辉石动电位	li hui shi dong dian wei	1967
+锂辉石浮选	li hui shi fu xuan	2468
+锂辉石浮选动力学	li hui shi fu xuan dong li xue	1961
+锂辉石浮选回收率	li hui shi fu xuan hui shou lv	1962
+锂辉石接触角	li hui shi jie chu jiao	1968
+锂辉石界面性质	li hui shi jie mian xing zhi	1953
+锂辉石溶出行为	li hui shi rong chu xing wei	1956
+锂辉石天然可浮性	li hui shi tian ran ke fu xing	1960
+锂辉石氧化行为	li hui shi yang hua xing wei	1957
+锂辉石药剂吸附	li hui shi yao ji xi fu	1963
+粒级金属分布	li ji jin shu fen bu	363
+粒级矿物组成	li ji kuang wu zu cheng	364
+粒级特征	li ji te zheng	2937
+粒级效应	li ji xiao ying	3962
+粒级组成	li ji zu cheng	4143
+粒间连生	li jian lian sheng	2960
+离解	li jie	3864
+粒径	li jing	3468
+粒径减小	li jing jian xiao	2487
+理论分析	li lun fen xi	2192
+理论框架	li lun kuang jia	1248
+理论验证	li lun yan zheng	1240
+砾磨	li mo	3492
+立磨	li mo	1461
+粒群平衡	li qun ping heng	2820
+粒群平衡模型	li qun ping heng mo xing	2819
+立式磨机	li shi mo ji	3486
+力收敛	li shou lian	2390
+粒团	li tuan	1510
+离心	li xin	3324
+离心分离	li xin fen li	2330
+离心力场	li xin li chang	1416
+离心脱水	li xin tuo shui	1351
+离心选矿	li xin xuan kuang	3431
+离心选矿机	li xin xuan kuang ji	3428
+粒形参数	li xing can shu	932
+粒形特征	li xing te zheng	2936
+锂云母	li yun mu	3538
+锂云母浮选	li yun mu fu xuan	2467
+离子浮选	li zi fu xuan	4064
+离子活度	li zi huo du	3794
+离子溅射	li zi jian she	2436
+离子交换	li zi jiao huan	1557
+离子竞争	li zi jing zheng	2296
+离子浓度	li zi nong du	1277
+离子强度	li zi qiang du	3805
+离子强度效应	li zi qiang du xiao ying	2290
+离子桥联	li zi qiao lian	2292
+离子溶出	li zi rong chu	817
+离子释放	li zi shi fang	819
+离子水化	li zi shui hua	1571
+离子碎片	li zi sui pian	472
+离子图像	li zi tu xiang	469
+离子物种	li zi wu zhong	3835
+离子吸附	li zi xi fu	2295
+链长效应	lian chang xiao ying	1589
+联合流程	lian he liu cheng	1344
+联合选矿	lian he xuan kuang	1343
+联合药剂	lian he yao ji	1600
+联合用药	lian he yong yao	3659
+连生关系	lian sheng guan xi	2963
+连生颗粒	lian sheng ke li	2947
+连生类型	lian sheng lei xing	360
+连生体	lian sheng ti	4160
+连续试验	lian xu shi yan	4119
+两粗两精	liang cu liang jing	1324
+两性表面活性剂	liang xing biao mian huo xing ji	2665
+两性捕收剂	liang xing bu shou ji	3758
+量子化学	liang zi hua xue	3248
+料仓	liao cang	3361
+磷灰石	lin hui shi	3545
+磷灰石浮选	lin hui shi fu xuan	2473
+临界表面张力	lin jie biao mian zhang li	1877
+临界胶束浓度	lin jie jiao shu nong du	1592
+临界接触角	lin jie jie chu jiao	2974
+临界气速	lin jie qi su	2894
+临界悬浮速度	lin jie xuan fu su du	2882
+临界转速	lin jie zhuan su	1475
+磷块岩	lin kuai yan	1652
+磷酸基	lin suan ji	603
+膦酸基	lin suan ji	602
+膦酸类药剂	lin suan lei yao ji	2678
+磷酸盐矿物	lin suan yan kuang wu	3511
+膦酸盐类药剂	lin suan yan lei yao ji	2677
+磷钇矿	lin yi kuang	1641
+零电荷点	ling dian he dian	3910
+菱钴矿	ling gu kuang	3547
+菱镁矿	ling mei kuang	3550
+菱锰矿	ling meng kuang	3576
+菱铁矿	ling tie kuang	3580
+菱铜矿	ling tong kuang	3548
+菱锌矿	ling xin kuang	3549
+硫氨酯	liu an zhi	3746
+硫铋矿	liu bi kuang	3630
+流变曲线	liu bian qu xian	2265
+流变调控	liu bian tiao kong	2257
+流变性	liu bian xing	1319
+流变行为	liu bian xing wei	2279
+流变性质	liu bian xing zhi	2280
+流变学	liu bian xue	1318
+流变指数	liu bian zhi shu	1316
+流场	liu chang	1481
+流场调控	liu chang tiao kong	669
+流程计算	liu cheng ji suan	4111
+流程简化	liu cheng jian hua	1320
+流程结构	liu cheng jie gou	1321
+流程考查	liu cheng kao cha	4113
+流程控制	liu cheng kong zhi	3341
+流程调控	liu cheng tiao kong	665
+流程优化	liu cheng you hua	1760
+硫代氨基甲酸盐	liu dai an ji jia suan yan	652
+硫代氨基甲酸酯	liu dai an ji jia suan zhi	2693
+硫代氨酯捕收剂	liu dai an zhi bu shou ji	2679
+硫代硫酸根	liu dai liu suan gen	2767
+硫代硫酸钠	liu dai liu suan na	3721
+硫代硫酸盐	liu dai liu suan yan	3810
+硫代碳酸盐	liu dai tan suan yan	2692
+硫代乙醇酸	liu dai yi chun suan	3724
+硫氮	liu dan	1638
+硫钴矿	liu gu kuang	3629
+硫化矿捕收剂	liu hua kuang bu shou ji	3757
+硫化矿电化学	liu hua kuang dian hua xue	2744
+硫化矿电偶	liu hua kuang dian ou	2709
+硫化矿浮选	liu hua kuang fu xuan	3934
+硫化矿氧化	liu hua kuang yang hua	2797
+硫化钼	liu hua mu	3623
+硫化钠	liu hua na	3723
+硫化钠捕收作用	liu hua na bu shou zuo yong	1050
+硫化钠方铅矿浮选	liu hua na fang qian kuang fu xuan	39
+硫化钠方铅矿吸附	liu hua na fang qian kuang xi fu	40
+硫化钠方铅矿氧化	liu hua na fang qian kuang yang hua	37
+硫化钠方铅矿抑制	liu hua na fang qian kuang yi zhi	38
+硫化钠还原	liu hua na huan yuan	1055
+硫化钠黄铁矿浮选	liu hua na huang tie kuang fu xuan	27
+硫化钠黄铁矿吸附	liu hua na huang tie kuang xi fu	28
+硫化钠黄铁矿氧化	liu hua na huang tie kuang yang hua	25
+硫化钠黄铁矿抑制	liu hua na huang tie kuang yi zhi	26
+硫化钠黄铜矿浮选	liu hua na huang tong kuang fu xuan	31
+硫化钠黄铜矿吸附	liu hua na huang tong kuang xi fu	32
+硫化钠黄铜矿氧化	liu hua na huang tong kuang yang hua	29
+硫化钠黄铜矿抑制	liu hua na huang tong kuang yi zhi	30
+硫化钠辉钼矿浮选	liu hua na hui mu kuang fu xuan	35
+硫化钠辉钼矿吸附	liu hua na hui mu kuang xi fu	36
+硫化钠辉钼矿氧化	liu hua na hui mu kuang yang hua	33
+硫化钠辉钼矿抑制	liu hua na hui mu kuang yi zhi	34
+硫化钠降解	liu hua na jiang jie	1054
+硫化钠闪锌矿浮选	liu hua na shan xin kuang fu xuan	23
+硫化钠闪锌矿吸附	liu hua na shan xin kuang xi fu	24
+硫化钠闪锌矿氧化	liu hua na shan xin kuang yang hua	21
+硫化钠闪锌矿抑制	liu hua na shan xin kuang yi zhi	22
+硫化钠水解	liu hua na shui jie	1053
+硫化钠吸附	liu hua na xi fu	1057
+硫化钠选择性	liu hua na xuan ze xing	1051
+硫化钠氧化	liu hua na yang hua	1056
+硫化钠抑制作用	liu hua na yi zhi zuo yong	1049
+硫化钠作用	liu hua na zuo yong	1052
+硫化铅	liu hua qian	3624
+硫化态	liu hua tai	489
+硫化铁	liu hua tie	3620
+硫化铜	liu hua tong	3622
+硫化物表面氧化	liu hua wu biao mian yang hua	2790
+硫化物溶出	liu hua wu rong chu	568
+硫化物氧化	liu hua wu yang hua	2796
+硫化锌	liu hua xin	3621
+硫活性位点	liu huo xing wei dian	878
+硫空位	liu kong wei	3828
+硫脲	liu niao	3745
+硫脲衍生物	liu niao yan sheng wu	650
+六偏磷酸钠	liu pian lin suan na	3710
+硫氢化钠	liu qing hua na	3722
+硫氢化钠捕收作用	liu qing hua na bu shou zuo yong	1041
+硫氢化钠还原	liu qing hua na huan yuan	1046
+硫氢化钠降解	liu qing hua na jiang jie	1045
+硫氢化钠水解	liu qing hua na shui jie	1044
+硫氢化钠吸附	liu qing hua na xi fu	1048
+硫氢化钠选择性	liu qing hua na xuan ze xing	1042
+硫氢化钠氧化	liu qing hua na yang hua	1047
+硫氢化钠抑制作用	liu qing hua na yi zhi zuo yong	1040
+硫氢化钠作用	liu qing hua na zuo yong	1043
+硫砷分离	liu shen fen li	2562
+硫酸	liu suan	3705
+硫酸根	liu suan gen	2768
+硫酸根离子	liu suan gen li zi	2302
+硫酸基	liu suan ji	600
+硫酸铝	liu suan lv	3697
+硫酸铅	liu suan qian	3716
+硫酸铅钝化	liu suan qian dun hua	552
+硫酸铅覆盖	liu suan qian fu gai	551
+硫酸铅膜	liu suan qian mo	3594
+硫酸铅原位钝化	liu suan qian yuan wei dun hua	2601
+硫酸铁	liu suan tie	3717
+硫酸铜	liu suan tong	3720
+硫酸锌	liu suan xin	3719
+硫酸亚铁	liu suan ya tie	3718
+硫酸盐	liu suan yan	3812
+硫酸盐表活剂	liu suan yan biao huo ji	1627
+硫酸盐层	liu suan yan ceng	2786
+硫酸盐化	liu suan yan hua	561
+硫酸盐矿物	liu suan yan kuang wu	3512
+硫酸盐态	liu suan yan tai	488
+硫锑铅矿	liu ti qian kuang	3626
+硫物种转化	liu wu zhong zhuan hua	564
+硫氧化	liu yang hua	566
+硫氧物种	liu yang wu zhong	3813
+卤化物矿物	lu hua wu kuang wu	3510
+络合	luo he	3876
+络合常数	luo he chang shu	1563
+络合竞争	luo he jing zheng	1555
+络合平衡	luo he ping heng	3800
+络合物	luo he wu	1564
+络合型抑制剂	luo he xing yi zhi ji	628
+螺旋溜槽	luo xuan liu cao	3432
+螺状硫银矿	luo zhuang liu yin kuang	3632
+滤饼	lv bing	1358
+滤饼水分	lv bing shui fen	1354
+滤布	lv bu	1357
+氯化钙	lv hua gai	3696
+氯化钠	lv hua na	3695
+氯化铁	lv hua tie	1620
+氯离子	lv li zi	2303
+铝离子	lv li zi	2308
+绿泥石	lv ni shi	3555
+绿色捕收剂	lv se bu shou ji	2655
+绿色调控	lv se tiao kong	660
+绿色选矿	lv se xuan kuang	3075
+绿色药剂	lv se yao ji	3074
+绿色抑制剂	lv se yi zhi ji	2656
+铝土矿	lv tu kuang	3570
+铝土矿浮选	lv tu kuang fu xuan	2466
+滤液	lv ye	2328
+滤渣	lv zha	2327
+脉冲电场	mai chong dian chang	3382
+脉动高梯度磁选	mai dong gao ti du ci xuan	1398
+脉石	mai shi	4164
+脉石夹杂	mai shi jia za	1739
+脉石矿物	mai shi kuang wu	4162
+脉石组成	mai shi zu cheng	917
+脉石组分	mai shi zu fen	2943
+脉状连生	mai zhuang lian sheng	2958
+慢浮组分	man fu zu fen	804
+毛细力	mao xi li	1525
+镁离子	mei li zi	2310
+煤油	mei you	3734
+煤油乳液	mei you ru ye	3732
+镁质矿物浮选	mei zhi kuang wu fu xuan	2454
+锰矿	meng kuang	3575
+蒙脱石	meng tuo shi	3557
+醚胺	mi an	1632
+醚胺盐	mi an yan	646
+醚醇	mi chun	3729
+醚醇起泡剂	mi chun qi pao ji	1624
+密度	mi du	1709
+密度泛函计算	mi du fan han ji suan	2403
+密度泛函理论	mi du fan han li lun	3251
+密度分选	mi du fen xuan	1432
+醚类起泡剂	mi lei qi pao ji	637
+幂律模型	mi lv mo xing	2267
+面缺陷	mian que xian	1692
+面扫描	mian sao miao	3315
+敏感性分析	min gan xing fen xi	2799
+明显降低	ming xian jiang di	3043
+明显提高	ming xian ti gao	3044
+摩擦带电	mo ca dai dian	1387
+摩擦电选	mo ca dian xuan	3393
+磨矿	mo kuang	3506
+磨矿比	mo kuang bi	1476
+磨矿产品	mo kuang chan pin	3475
+磨矿产品粒度	mo kuang chan pin li du	1463
+磨矿产物	mo kuang chan wu	3474
+磨矿电化学	mo kuang dian hua xue	2501
+磨矿动力学	mo kuang dong li xue	1465
+磨矿给矿	mo kuang gei kuang	3473
+磨矿功指数	mo kuang gong zhi shu	1478
+磨矿化学	mo kuang hua xue	2502
+磨矿环境	mo kuang huan jing	2500
+磨矿还原	mo kuang huan yuan	2509
+磨矿回路	mo kuang hui lu	1458
+磨矿介质	mo kuang jie zhi	3483
+磨矿介质腐蚀	mo kuang jie zhi fu shi	2508
+磨矿介质效应	mo kuang jie zhi xiao ying	2493
+磨矿流程	mo kuang liu cheng	1348
+磨矿能耗	mo kuang neng hao	1468
+磨矿浓度	mo kuang nong du	3478
+磨矿气氛	mo kuang qi fen	2499
+磨矿时间	mo kuang shi jian	3477
+磨矿调控	mo kuang tiao kong	662
+磨矿细度	mo kuang xi du	3479
+磨矿效率	mo kuang xiao lv	3476
+磨矿氧化	mo kuang yang hua	2510
+磨矿诱导缺陷	mo kuang you dao que xian	2490
+磨矿优化	mo kuang you hua	1758
+磨矿制度	mo kuang zhi du	4084
+模型拟合	mo xing ni he	2823
+模型显著性	mo xing xian zhu xing	2213
+模型预测控制	mo xing yu ce kong zhi	330
+钼捕收剂	mu bu shou ji	2993
+目的矿物	mu di kuang wu	2945
+钼富集	mu fu ji	1730
+钼华	mu hua	1660
+钼回收率	mu hui shou lv	2596
+钼品位	mu pin wei	2594
+钼铅纯矿物体系	mu qian chun kuang wu ti xi	517
+钼铅电化学分离	mu qian dian hua xue fen li	510
+钼铅分离	mu qian fen li	3939
+钼铅分离窗口	mu qian fen li chuang kou	514
+钼铅分离效率	mu qian fen li xiao lv	2999
+钼铅分离选择性	mu qian fen li xuan ze xing	2597
+钼铅分离指数	mu qian fen li zhi shu	515
+钼铅分选	mu qian fen xuan	3023
+钼铅浮选	mu qian fu xuan	3024
+钼铅浮选分离	mu qian fu xuan fen li	2633
+钼铅浮选选择性	mu qian fu xuan xuan ze xing	516
+钼铅互含	mu qian hu han	2592
+钼铅混合浮选	mu qian hun he fu xuan	2636
+钼铅混合精矿	mu qian hun he jing kuang	3026
+钼铅混合矿	mu qian hun he kuang	3025
+钼铅混合体系	mu qian hun he ti xi	519
+钼铅界面作用	mu qian jie mian zuo yong	2589
+钼铅矿	mu qian kuang	1661
+钼铅矿石	mu qian kuang shi	3615
+钼铅矿物间电子转移	mu qian kuang wu jian dian zi zhuan yi	521
+钼铅矿物间离子迁移	mu qian kuang wu jian li zi qian yi	520
+钼铅矿物间作用	mu qian kuang wu jian zuo yong	522
+钼铅人工混合矿	mu qian ren gong hun he kuang	518
+钼铅选择性	mu qian xuan ze xing	3000
+钼铅选择性分离	mu qian xuan ze xing fen li	2634
+钼铅氧化分离	mu qian yang hua fen li	511
+钼铅优先浮选	mu qian you xian fu xuan	2635
+钼酸钙矿	mu suan gai kuang	1659
+钼酸根	mu suan gen	3599
+钼酸根物种	mu suan gen wu zhong	2774
+钼酸盐	mu suan yan	3588
+钼损失	mu sun shi	1734
+钼物种	mu wu zhong	3598
+钼氧化物	mu yang hua wu	3591
+钼氧化物覆盖	mu yang hua wu fu gai	549
+钼氧化物物种	mu yang hua wu wu zhong	2773
+钼氧物种	mu yang wu zhong	2781
+母液	mu ye	2324
+钼抑制剂	mu yi zhi ji	2995
+木质素	mu zhi su	3689
+木质素磺酸钠	mu zhi su huang suan na	3688
+木质素磺酸钠捕收作用	mu zhi su huang suan na bu shou zuo yong	969
+木质素磺酸钠还原	mu zhi su huang suan na huan yuan	974
+木质素磺酸钠降解	mu zhi su huang suan na jiang jie	973
+木质素磺酸钠水解	mu zhi su huang suan na shui jie	972
+木质素磺酸钠吸附	mu zhi su huang suan na xi fu	976
+木质素磺酸钠选择性	mu zhi su huang suan na xuan ze xing	970
+木质素磺酸钠氧化	mu zhi su huang suan na yang hua	975
+木质素磺酸钠抑制作用	mu zhi su huang suan na yi zhi zuo yong	968
+木质素磺酸钠作用	mu zhi su huang suan na zuo yong	971
+钼中含铅	mu zhong han qian	2591
+钠长石	na chang shi	3562
+钠离子	na li zi	2305
+纳米气泡	na mi qi pao	3989
+纳米气泡浮选	na mi qi pao fu xuan	4058
+纳米气泡强化	na mi qi pao qiang hua	2515
+纳米气泡桥联	na mi qi pao qiao lian	1514
+纳入标准	na ru biao zhun	283
+奈奎斯特图	nai kui si te tu	2722
+难处理矿石	nan chu li kuang shi	1745
+难选复杂矿石	nan xuan fu za kuang shi	1746
+难选矿石	nan xuan kuang shi	3607
+内标法	nei biao fa	1289
+内层络合	nei ceng luo he	1874
+内在机制	nei zai ji zhi	2183
+能带结构	neng dai jie gou	3232
+能耗成本	neng hao cheng ben	1220
+能垒	neng lei	3238
+能量耗散	neng liang hao san	2238
+能量耗散率	neng liang hao san lv	1485
+能量收敛	neng liang shou lian	2391
+能量优化	neng liang you hua	3243
+能谱	neng pu	3316
+能谱分析	neng pu fen xi	1307
+泥层高度	ni ceng gao du	1363
+拟合	ni he	3264
+拟合参数	ni he can shu	2225
+拟合误差	ni he wu cha	3261
+拟合优度	ni he you du	3179
+泥化效应	ni hua xiao ying	3961
+年处理量	nian chu li liang	1224
+黏度降低	nian du jiang di	2256
+黏度曲线	nian du qu xian	2264
+黏度调控	nian du tiao kong	1310
+黏附	nian fu	1538
+黏附功	nian fu gong	1879
+黏附力	nian fu li	1526
+黏附强度	nian fu qiang du	883
+黏土矿物	nian tu kuang wu	3509
+镍黄铁矿	nie huang tie kuang	3636
+柠檬酸	ning meng suan	3677
+柠檬酸钠	ning meng suan na	3672
+牛顿流体	niu dun liu ti	2270
+浓度边界层	nong du bian jie ceng	693
+浓度梯度	nong du ti du	1820
+浓度效应	nong du xiao ying	844
+浓密池	nong mi chi	1373
+浓密机	nong mi ji	3373
+浓缩	nong suo	3365
+排除标准	pai chu biao zhun	282
+排出区	pai chu qu	2849
+泡铋矿	pao bi kuang	1662
+抛废	pao fei	1340
+泡沫	pao mo	1502
+泡沫泵	pao mo beng	3377
+泡沫槽	pao mo cao	351
+泡沫层	pao mo ceng	4011
+泡沫层高度	pao mo ceng gao du	2869
+泡沫层厚度	pao mo ceng hou du	1496
+泡沫层结构	pao mo ceng jie gou	2870
+泡沫层水含量	pao mo ceng shui han liang	2868
+泡沫产品	pao mo chan pin	2988
+泡沫产品含水	pao mo chan pin han shui	2857
+泡沫尺寸	pao mo chi cun	2866
+泡沫尺寸分布	pao mo chi cun fen bu	1501
+泡沫浮选	pao mo fu xuan	4075
+泡沫负载	pao mo fu zai	2859
+泡沫负载量	pao mo fu zai liang	793
+泡沫高度	pao mo gao du	3986
+泡沫含水率	pao mo han shui lv	2867
+泡沫厚度	pao mo hou du	3987
+泡沫回收率	pao mo hui shou lv	810
+泡沫机器视觉	pao mo ji qi shi jue	334
+泡沫夹带	pao mo jia dai	4003
+泡沫夹带效应	pao mo jia dai xiao ying	785
+泡沫兼并	pao mo jian bing	2863
+泡沫兼并速率	pao mo jian bing su lv	790
+泡沫结构	pao mo jie gou	4005
+泡沫精矿	pao mo jing kuang	2987
+泡沫聚并	pao mo ju bing	1504
+泡沫颗粒相互作用	pao mo ke li xiang hu zuo yong	891
+泡沫矿化度	pao mo kuang hua du	2858
+泡沫流动性	pao mo liu dong xing	4007
+泡沫黏度	pao mo nian du	4006
+泡沫黏附	pao mo nian fu	787
+泡沫排液	pao mo pai ye	4004
+泡沫排液速度	pao mo pai ye su du	2864
+泡沫排液速率	pao mo pai ye su lv	792
+泡沫品位	pao mo pin wei	794
+泡沫破裂	pao mo po lie	2862
+泡沫破裂速率	pao mo po lie su lv	791
+泡沫气泡	pao mo qi pao	2865
+泡沫区回收率	pao mo qu hui shou lv	808
+泡沫视觉	pao mo shi jue	336
+泡沫收集槽	pao mo shou ji cao	2244
+泡沫寿命	pao mo shou ming	2861
+泡沫水回收	pao mo shui hui shou	2856
+泡沫速度	pao mo su du	1498
+泡沫弹性	pao mo tan xing	1505
+泡沫调控	pao mo tiao kong	671
+泡沫图像	pao mo tu xiang	335
+泡沫稳定时间	pao mo wen ding shi jian	789
+泡沫稳定性	pao mo wen ding xing	4008
+泡沫稳定指数	pao mo wen ding zhi shu	1771
+泡沫纹理	pao mo wen li	1499
+泡沫相	pao mo xiang	4010
+泡沫携带	pao mo xie dai	786
+泡沫颜色	pao mo yan se	1500
+泡沫液膜	pao mo ye mo	1503
+泡沫移动性	pao mo yi dong xing	2860
+泡沫溢流	pao mo yi liu	3352
+配体交换	pei ti jiao huan	1872
+配位	pei wei	3875
+配位多面体	pei wei duo mian ti	1717
+配位环境	pei wei huan jing	733
+配位基	pei wei ji	1590
+配位键	pei wei jian	3874
+配位交换	pei wei jiao huan	1871
+配位结构	pei wei jie gou	734
+配位距离	pei wei ju li	408
+配位数	pei wei shu	2360
+配位作用	pei wei zuo yong	581
+喷射浮选	pen she fu xuan	3974
+碰撞	peng zhuang	4021
+碰撞概率	peng zhuang gai lv	4015
+批次试验	pi ci shi yan	4120
+皮带机	pi dai ji	3359
+皮尔逊相关	pi er xun xiang guan	2223
+毗邻连生	pi lin lian sheng	357
+偏光显微镜	pian guang xian wei jing	3322
+品位	pin wei	4139
+品位产率关系	pin wei chan lv guan xi	796
+品位回收率关系	pin wei hui shou lv guan xi	797
+品位回收率模型	pin wei hui shou lv mo xing	795
+品位回收率曲线	pin wei hui shou lv qu xian	2825
+品位提高	pin wei ti gao	3039
+屏蔽效应	ping bi xiao ying	1554
+平衡常数	ping heng chang shu	3792
+平衡电位	ping heng dian wei	448
+平均粒径	ping jun li jing	3466
+平均力势	ping jun li shi	2358
+平均值	ping jun zhi	3153
+平面波	ping mian bo	2395
+平行三次	ping xing san ci	2317
+平行试验	ping xing shi yan	4114
+平行性	ping xing xing	3192
+平行样	ping xing yang	3157
+破碎	po sui	3507
+破碎比	po sui bi	1477
+破碎筛分	po sui shai fen	2348
+铺展	pu zhan	1540
+铺展系数	pu zhan xi shu	1537
+气含率	qi han lv	2897
+气泡半径	qi pao ban jing	1494
+气泡变形	qi pao bian xing	1491
+气泡表面	qi pao biao mian	2986
+气泡表面积	qi pao biao mian ji	2892
+气泡表面积通量	qi pao biao mian ji tong liang	2893
+气泡捕获效率	qi pao bu huo xiao lv	887
+气泡成核	qi pao cheng he	2909
+气泡尺寸	qi pao chi cun	3994
+气泡尺寸分布	qi pao chi cun fen bu	2901
+气泡尺寸效应	qi pao chi cun xiao ying	2513
+气泡发生器	qi pao fa sheng qi	3972
+气泡分布	qi pao fen bu	3992
+气泡负载	qi pao fu zai	4016
+气泡附着时间	qi pao fu zhuo shi jian	1528
+气泡附着效率	qi pao fu zhuo xiao lv	2877
+气泡滑移速度	qi pao hua yi su du	2898
+气泡回收概率	qi pao hui shou gai lv	811
+起泡剂	qi pao ji	3773
+起泡剂效应	qi pao ji xiao ying	773
+气泡夹带	qi pao jia dai	2906
+气泡界面	qi pao jie mian	2985
+气泡聚并	qi pao ju bing	2984
+气泡颗粒附着	qi pao ke li fu zhuo	2843
+气泡颗粒碰撞	qi pao ke li peng zhuang	2844
+气泡颗粒相互作用	qi pao ke li xiang hu zuo yong	892
+气泡矿化	qi pao kuang hua	4017
+气泡矿化效率	qi pao kuang hua xiao lv	886
+气泡矿粒聚合体	qi pao kuang li ju he ti	2980
+起泡能力	qi pao neng li	1605
+气泡碰撞效率	qi pao peng zhuang xiao lv	2878
+气泡破裂	qi pao po lie	2983
+气泡破碎	qi pao po sui	2907
+气泡桥联	qi pao qiao lian	1515
+气泡群	qi pao qun	2905
+气泡群体	qi pao qun ti	2904
+气泡群行为	qi pao qun xing wei	2903
+气泡上升	qi pao shang sheng	2982
+气泡上升速度	qi pao shang sheng su du	2899
+气泡生成	qi pao sheng cheng	2910
+气泡生长	qi pao sheng zhang	2908
+气泡数量	qi pao shu liang	1493
+气泡速度	qi pao su du	2900
+气泡调控	qi pao tiao kong	670
+气泡停留	qi pao ting liu	2981
+气泡停留率	qi pao ting liu lv	1490
+气泡停留时间	qi pao ting liu shi jian	2902
+气泡脱附	qi pao tuo fu	2876
+起泡性能	qi pao xing neng	1604
+起泡油	qi pao you	3728
+气泡直径	qi pao zhi jing	3993
+起泡作用	qi pao zuo yong	3766
+气升式浮选柱	qi sheng shi fu xuan zhu	3975
+起始电位	qi shi dian wei	450
+气速效应	qi su xiao ying	783
+气体分散	qi ti fen san	1487
+气体分散度	qi ti fen san du	2896
+气体停留率	qi ti ting liu lv	2895
+气液比	qi ye bi	1489
+气液固三相	qi ye gu san xiang	2880
+气液两相	qi ye liang xiang	2881
+欠饱和	qian bao he	1559
+嵌布关系	qian bu guan xi	2966
+嵌布类型	qian bu lei xing	2965
+嵌布粒度	qian bu li du	4158
+铅捕收剂	qian bu shou ji	2994
+嵌布特征	qian bu te zheng	4157
+嵌布特征分析	qian bu te zheng fen xi	2912
+嵌布形式	qian bu xing shi	2964
+浅度氧化	qian du yang hua	2760
+铅矾	qian fan	3520
+铅富集	qian fu ji	1731
+铅黄	qian huang	1665
+铅回收率	qian hui shou lv	2595
+铅活化剂	qian huo hua ji	2992
+前进角	qian jin jiao	3917
+前进接触角	qian jin jie chu jiao	1545
+铅离子	qian li zi	3600
+铅离子表面沉积	qian li zi biao mian chen ji	523
+铅离子对辉钼矿影响	qian li zi dui hui mu kuang ying xiang	2606
+铅离子活化	qian li zi huo hua	2610
+铅离子迁移	qian li zi qian yi	2613
+铅离子溶出	qian li zi rong chu	2756
+铅离子异相吸附	qian li zi yi xiang xi fu	524
+铅离子罩盖	qian li zi zhao gai	2609
+铅硫分离	qian liu fen li	2554
+铅硫酸盐物种	qian liu suan yan wu zhong	2776
+铅硫物种	qian liu wu zhong	2783
+欠磨	qian mo	3471
+铅品位	qian pin wei	2593
+铅羟基络合物	qian qiang ji luo he wu	2777
+铅羟基物	qian qiang ji wu	3592
+铅羟基物覆盖	qian qiang ji wu fu gai	550
+铅损失	qian sun shi	1735
+铅碳酸盐物种	qian tan suan yan wu zhong	2775
+铅污染	qian wu ran	3080
+铅物种	qian wu zhong	3597
+铅物种沉积	qian wu zhong chen ji	2612
+铅物种界面迁移	qian wu zhong jie mian qian yi	527
+铅物种跨矿物迁移	qian wu zhong kua kuang wu qian yi	526
+铅物种迁移	qian wu zhong qian yi	3012
+铅物种再吸附	qian wu zhong zai xi fu	2611
+前线轨道	qian xian gui dao	3229
+铅锌分离	qian xin fen li	3936
+铅锌浮选	qian xin fu xuan	2569
+铅锌矿石	qian xin kuang shi	3618
+铅锌硫化矿	qian xin liu hua kuang	3614
+铅氧化物	qian yang hua wu	3593
+铅氧物种	qian yang wu zhong	2782
+迁移率	qian yi lv	1383
+铅抑制剂	qian yi zhi ji	2996
+潜在机制	qian zai ji zhi	2176
+铅中含钼	qian zhong han mu	2590
+强磁性矿物	qiang ci xing kuang wu	3401
+强磁选	qiang ci xuan	3415
+强化脱药	qiang hua tuo yao	2598
+羟基	qiang ji	606
+羟基层	qiang ji ceng	2785
+羟基化	qiang ji hua	559
+羟基络合物	qiang ji luo he wu	1565
+羟基态	qiang ji tai	487
+羟基物种	qiang ji wu zhong	3809
+羟基自由基	qiang ji zi you ji	2409
+羟基自由基氧化	qiang ji zi you ji yang hua	1833
+强烈氧化	qiang lie yang hua	572
+羟肟酸	qiang wo suan	2676
+羟肟酸浮选	qiang wo suan fu xuan	2456
+羟肟酸类捕收剂	qiang wo suan lei bu shou ji	2675
+羟肟酸钠	qiang wo suan na	1630
+羟肟酸盐	qiang wo suan yan	649
+桥式配位	qiao shi pei wei	586
+切割粒径	qie ge li jing	1445
+亲矿基	qin kuang ji	2648
+亲水层	qin shui ceng	1803
+亲水产物	qin shui chan wu	3819
+亲水化	qin shui hua	4024
+亲水膜	qin shui mo	1533
+亲水膜覆盖	qin shui mo fu gai	2600
+亲水相互作用	qin shui xiang hu zuo yong	1881
+亲水性	qin shui xing	1546
+轻柴油	qing chai you	1623
+轻度氧化	qing du yang hua	3854
+氰化钠	qing hua na	3693
+氰化物	qing hua wu	3694
+氢键分析	qing jian fen xi	2361
+氢键寿命	qing jian shou ming	384
+氢键数量	qing jian shu liang	385
+氢键网络	qing jian wang luo	743
+氢键作用	qing jian zuo yong	582
+清洁生产	qing jie sheng chan	3076
+清洁选矿	qing jie xuan kuang	1238
+清水泵	qing shui beng	3375
+轻微氧化	qing wei yang hua	574
+清洗预处理	qing xi yu chu li	3115
+氢氧化钠	qing yang hua na	3708
+氢氧化铅	qing yang hua qian	3714
+氢氧化物	qing yang hua wu	3807
+巯基	qiu ji	609
+巯基苯并噻唑	qiu ji ben bing sai zuo	1637
+巯基捕收剂	qiu ji bu shou ji	3753
+巯基化合物	qiu ji hua he wu	2690
+巯基噻唑	qiu ji sai zuo	651
+巯基乙酸	qiu ji yi suan	3726
+巯基乙酸钠	qiu ji yi suan na	3725
+巯基乙酸钠捕收作用	qiu ji yi suan na bu shou zuo yong	1068
+巯基乙酸钠方铅矿浮选	qiu ji yi suan na fang qian kuang fu xuan	79
+巯基乙酸钠方铅矿吸附	qiu ji yi suan na fang qian kuang xi fu	80
+巯基乙酸钠方铅矿氧化	qiu ji yi suan na fang qian kuang yang hua	77
+巯基乙酸钠方铅矿抑制	qiu ji yi suan na fang qian kuang yi zhi	78
+巯基乙酸钠还原	qiu ji yi suan na huan yuan	1073
+巯基乙酸钠黄铁矿浮选	qiu ji yi suan na huang tie kuang fu xuan	67
+巯基乙酸钠黄铁矿吸附	qiu ji yi suan na huang tie kuang xi fu	68
+巯基乙酸钠黄铁矿氧化	qiu ji yi suan na huang tie kuang yang hua	65
+巯基乙酸钠黄铁矿抑制	qiu ji yi suan na huang tie kuang yi zhi	66
+巯基乙酸钠黄铜矿浮选	qiu ji yi suan na huang tong kuang fu xuan	71
+巯基乙酸钠黄铜矿吸附	qiu ji yi suan na huang tong kuang xi fu	72
+巯基乙酸钠黄铜矿氧化	qiu ji yi suan na huang tong kuang yang hua	69
+巯基乙酸钠黄铜矿抑制	qiu ji yi suan na huang tong kuang yi zhi	70
+巯基乙酸钠辉钼矿浮选	qiu ji yi suan na hui mu kuang fu xuan	75
+巯基乙酸钠辉钼矿吸附	qiu ji yi suan na hui mu kuang xi fu	76
+巯基乙酸钠辉钼矿氧化	qiu ji yi suan na hui mu kuang yang hua	73
+巯基乙酸钠辉钼矿抑制	qiu ji yi suan na hui mu kuang yi zhi	74
+巯基乙酸钠降解	qiu ji yi suan na jiang jie	1072
+巯基乙酸钠闪锌矿浮选	qiu ji yi suan na shan xin kuang fu xuan	63
+巯基乙酸钠闪锌矿吸附	qiu ji yi suan na shan xin kuang xi fu	64
+巯基乙酸钠闪锌矿氧化	qiu ji yi suan na shan xin kuang yang hua	61
+巯基乙酸钠闪锌矿抑制	qiu ji yi suan na shan xin kuang yi zhi	62
+巯基乙酸钠水解	qiu ji yi suan na shui jie	1071
+巯基乙酸钠吸附	qiu ji yi suan na xi fu	1075
+巯基乙酸钠选择性	qiu ji yi suan na xuan ze xing	1069
+巯基乙酸钠氧化	qiu ji yi suan na yang hua	1074
+巯基乙酸钠抑制作用	qiu ji yi suan na yi zhi zuo yong	1067
+巯基乙酸钠作用	qiu ji yi suan na zuo yong	1070
+巯基乙酸盐	qiu ji yi suan yan	1636
+球料比	qiu liao bi	1472
+球磨	qiu mo	3494
+球磨机	qiu mo ji	3491
+球形度	qiu xing du	931
+取代基	qu dai ji	2642
+取代基效应	qu dai ji xiao ying	3135
+屈服应力	qu fu ying li	2276
+去离子水	qu li zi shui	2286
+去离子水洗	qu li zi shui xi	2346
+取平均值	qu ping jun zhi	2316
+取样	qu yang	3337
+取样点	qu yang dian	3336
+取样频率	qu yang pin lv	3335
+去质子化	qu zhi zi hua	3861
+全流程	quan liu cheng	1323
+全谱	quan pu	509
+全因子设计	quan yin zi she ji	1256
+全元素分析	quan yuan su fen xi	3291
+缺陷表面	que xian biao mian	2384
+缺陷活性位点	que xian huo xing wei dian	1861
+缺陷模型	que xian mo xing	3206
+缺陷态	que xian tai	718
+缺陷调控	que xian tiao kong	675
+缺陷位点	que xian wei dian	1681
+缺陷氧化	que xian yang hua	876
+热处理	re chu li	3112
+热风干燥	re feng gan zao	1350
+热力学	re li xue	3205
+热力学控制	re li xue kong zhi	1824
+热力学平衡	re li xue ping heng	1549
+热预处理	re yu chu li	855
+热重分析	re zhong fen xi	3285
+人工混合矿	ren gong hun he kuang	2356
+人工混合矿比例	ren gong hun he kuang bi li	838
+人工混合矿物	ren gong hun he kuang wu	2355
+人工神经网络	ren gong shen jing wang luo	2807
+日处理量	ri chu li liang	1225
+溶出	rong chu	3867
+溶出测试	rong chu ce shi	3287
+溶出动力学	rong chu dong li xue	3866
+溶出量	rong chu liang	820
+溶出平衡	rong chu ping heng	872
+溶出铅	rong chu qian	3595
+溶出铅再吸附	rong chu qian zai xi fu	525
+溶出速率	rong chu su lv	1809
+溶出液	rong chu ye	1279
+溶度积	rong du ji	3793
+容积	rong ji	3350
+溶剂化自由能	rong ji hua zi you neng	2380
+溶剂化作用	rong ji hua zuo yong	1572
+溶剂效应	rong ji xiao ying	3217
+溶解	rong jie	3868
+溶解动力学	rong jie dong li xue	703
+溶解平衡	rong jie ping heng	3798
+溶解氧	rong jie yang	1837
+溶解氧氧化	rong jie yang yang hua	867
+溶液电导率	rong ye dian dao lv	2406
+溶液电阻	rong ye dian zu	445
+溶液化学	rong ye hua xue	3930
+溶液化学条件	rong ye hua xue tiao jian	1849
+溶液取样	rong ye qu yang	1278
+溶液物种	rong ye wu zhong	3836
+溶液物种保留	rong ye wu zhong bao liu	455
+乳化煤油	ru hua mei you	639
+软锰矿	ruan meng kuang	3578
+软水	ruan shui	2287
+锐钛矿	rui tai kuang	1655
+润湿	run shi	3921
+润湿功	run shi gong	1878
+润湿机理	run shi ji li	3141
+润湿角	run shi jiao	3919
+润湿铺展	run shi pu zhan	1539
+润湿性	run shi xing	3920
+弱磁性矿物	ruo ci xing kuang wu	3400
+弱磁选	ruo ci xuan	3414
+三次精选	san ci jing xuan	4048
+三电极体系	san dian ji ti xi	3277
+三价离子	san jia li zi	2297
+三水铝石	san shui lv shi	3566
+三维成像	san wei cheng xiang	466
+三相接触角	san xiang jie chu jiao	2977
+三相接触线	san xiang jie chu xian	2978
+三相流	san xiang liu	2879
+三氧化钼	san yang hua mu	3590
+扫描电镜	sao miao dian jing	3320
+扫描电子显微镜	sao miao dian zi xian wei jing	1309
+扫描速率	sao miao su lv	2719
+扫描隧道显微镜	sao miao sui dao xian wei jing	3317
+扫选	sao xuan	4055
+扫选精矿	sao xuan jing kuang	4052
+扫选尾矿	sao xuan wei kuang	4051
+色散分量	se san fen liang	1535
+色散修正	se san xiu zheng	2399
+筛分	shai fen	3504
+筛分分析	shai fen fen xi	3442
+筛分曲线	shai fen qu xian	1450
+筛分效率	shai fen xiao lv	1451
+筛孔	shai kong	3461
+筛孔尺寸	shai kong chi cun	1452
+筛上产物	shai shang chan wu	3463
+筛网	shai wang	3460
+筛下产物	shai xia chan wu	3462
+闪速浮选	shan su fu xuan	4066
+闪锌矿	shan xin kuang	3646
+闪锌矿表面电位	shan xin kuang biao mian dian wei	2110
+闪锌矿表面亲水性	shan xin kuang biao mian qin shui xing	2102
+闪锌矿表面疏水性	shan xin kuang biao mian shu shui xing	2103
+闪锌矿表面物种	shan xin kuang biao mian wu zhong	2098
+闪锌矿表面吸附	shan xin kuang biao mian xi fu	2108
+闪锌矿表面氧化	shan xin kuang biao mian yang hua	2109
+闪锌矿捕收	shan xin kuang bu shou	1926
+闪锌矿电化学测试	shan xin kuang dian hua xue ce shi	142
+闪锌矿电化学分析	shan xin kuang dian hua xue fen xi	143
+闪锌矿电化学行为	shan xin kuang dian hua xue xing wei	2099
+闪锌矿电化学研究	shan xin kuang dian hua xue yan jiu	141
+闪锌矿动电位	shan xin kuang dong dian wei	2111
+闪锌矿动电位测试	shan xin kuang dong dian wei ce shi	154
+闪锌矿动电位分析	shan xin kuang dong dian wei fen xi	155
+闪锌矿动电位研究	shan xin kuang dong dian wei yan jiu	153
+闪锌矿钝化	shan xin kuang dun hua	1918
+闪锌矿浮选	shan xin kuang fu xuan	1175
+闪锌矿浮选动力学	shan xin kuang fu xuan dong li xue	2105
+闪锌矿浮选回收率	shan xin kuang fu xuan hui shou lv	2106
+闪锌矿光电子能谱测试	shan xin kuang guang dian zi neng pu ce shi	160
+闪锌矿光电子能谱分析	shan xin kuang guang dian zi neng pu fen xi	161
+闪锌矿光电子能谱研究	shan xin kuang guang dian zi neng pu yan jiu	159
+闪锌矿红外光谱测试	shan xin kuang hong wai guang pu ce shi	166
+闪锌矿红外光谱分析	shan xin kuang hong wai guang pu fen xi	167
+闪锌矿红外光谱研究	shan xin kuang hong wai guang pu yan jiu	165
+闪锌矿还原	shan xin kuang huan yuan	1922
+闪锌矿黄铁矿分离	shan xin kuang huang tie kuang fen li	2555
+闪锌矿活化	shan xin kuang huo hua	1924
+闪锌矿接触角	shan xin kuang jie chu jiao	2112
+闪锌矿接触角测试	shan xin kuang jie chu jiao ce shi	157
+闪锌矿接触角分析	shan xin kuang jie chu jiao fen xi	158
+闪锌矿接触角研究	shan xin kuang jie chu jiao yan jiu	156
+闪锌矿界面性质	shan xin kuang jie mian xing zhi	2097
+闪锌矿解吸	shan xin kuang jie xi	1920
+闪锌矿拉曼光谱测试	shan xin kuang la man guang pu ce shi	163
+闪锌矿拉曼光谱分析	shan xin kuang la man guang pu fen xi	164
+闪锌矿拉曼光谱研究	shan xin kuang la man guang pu yan jiu	162
+闪锌矿溶出	shan xin kuang rong chu	1919
+闪锌矿溶出测试	shan xin kuang rong chu ce shi	151
+闪锌矿溶出分析	shan xin kuang rong chu fen xi	152
+闪锌矿溶出行为	shan xin kuang rong chu xing wei	2100
+闪锌矿溶出研究	shan xin kuang rong chu yan jiu	150
+闪锌矿天然可浮性	shan xin kuang tian ran ke fu xing	2104
+闪锌矿吸附	shan xin kuang xi fu	1921
+闪锌矿吸附测试	shan xin kuang xi fu ce shi	145
+闪锌矿吸附分析	shan xin kuang xi fu fen xi	146
+闪锌矿吸附研究	shan xin kuang xi fu yan jiu	144
+闪锌矿氧化	shan xin kuang yang hua	1923
+闪锌矿氧化测试	shan xin kuang yang hua ce shi	148
+闪锌矿氧化产物	shan xin kuang yang hua chan wu	2791
+闪锌矿氧化分析	shan xin kuang yang hua fen xi	149
+闪锌矿氧化行为	shan xin kuang yang hua xing wei	2101
+闪锌矿氧化研究	shan xin kuang yang hua yan jiu	147
+闪锌矿药剂吸附	shan xin kuang yao ji xi fu	2107
+闪锌矿抑制	shan xin kuang yi zhi	1925
+上清液	shang qing ye	2329
+上升速度	shang sheng su du	1492
+设备放大	she bei fang da	2237
+设备利用率	she bei li yong lv	1201
+设备能力	she bei neng li	3347
+设备作业率	she bei zuo ye lv	1202
+射流浮选机	she liu fu xuan ji	2251
+蛇纹石	she wen shi	3553
+蛇纹石表面电位	she wen shi biao mian dian wei	1982
+蛇纹石表面亲水性	she wen shi biao mian qin shui xing	1974
+蛇纹石表面疏水性	she wen shi biao mian shu shui xing	1975
+蛇纹石表面物种	she wen shi biao mian wu zhong	1970
+蛇纹石表面吸附	she wen shi biao mian xi fu	1980
+蛇纹石表面氧化	she wen shi biao mian yang hua	1981
+蛇纹石捕收	she wen shi bu shou	1110
+蛇纹石电化学行为	she wen shi dian hua xue xing wei	1971
+蛇纹石动电位	she wen shi dong dian wei	1983
+蛇纹石钝化	she wen shi dun hua	1103
+蛇纹石浮选	she wen shi fu xuan	1112
+蛇纹石浮选动力学	she wen shi fu xuan dong li xue	1977
+蛇纹石浮选回收率	she wen shi fu xuan hui shou lv	1978
+蛇纹石还原	she wen shi huan yuan	1107
+蛇纹石活化	she wen shi huo hua	1109
+蛇纹石接触角	she wen shi jie chu jiao	1984
+蛇纹石界面性质	she wen shi jie mian xing zhi	1969
+蛇纹石解吸	she wen shi jie xi	1105
+蛇纹石溶出	she wen shi rong chu	1104
+蛇纹石溶出行为	she wen shi rong chu xing wei	1972
+蛇纹石天然可浮性	she wen shi tian ran ke fu xing	1976
+蛇纹石吸附	she wen shi xi fu	1106
+蛇纹石氧化	she wen shi yang hua	1108
+蛇纹石氧化行为	she wen shi yang hua xing wei	1973
+蛇纹石药剂吸附	she wen shi yao ji xi fu	1979
+蛇纹石抑制	she wen shi yi zhi	1111
+深度分布	shen du fen bu	481
+深度分析	shen du fen xi	3253
+深度剖面	shen du pou mian	2437
+深度剖析	shen du pou xi	3254
+深度学习	shen du xue xi	2804
+深度氧化	shen du yang hua	3855
+砷黝铜矿	shen you tong kuang	3639
+深锥浓缩	shen zhui nong suo	1374
+生产指标	sheng chan zhi biao	1204
+剩磁	sheng ci	1404
+生长面	sheng zhang mian	1679
+十八胺	shi ba an	3670
+实测值	shi ce zhi	2209
+十二胺	shi er an	3671
+十二烷基苯磺酸钠	shi er wan ji ben huang suan na	1616
+十二烷基硫酸钠	shi er wan ji liu suan na	1617
+石膏	shi gao	1651
+石灰	shi hui	3707
+时间效应	shi jian xiao ying	845
+十六烷基三甲基溴化铵	shi liu wan ji san jia ji xiu hua an	1615
+石榴子石	shi liu zi shi	3535
+石棉	shi mian	1645
+湿磨	shi mo	2498
+石墨	shi mo	3533
+失拟检验	shi ni jian yan	2212
+湿筛	shi shai	1454
+湿式磁选	shi shi ci xuan	3412
+实时优化	shi shi you hua	327
+石盐	shi yan	1650
+实验不确定度	shi yan bu que ding du	322
+实验方案	shi yan fang an	2197
+试验方案	shi yan fang an	2196
+实验记录	shi yan ji lu	1184
+试验结果	shi yan jie guo	3054
+实验矩阵	shi yan ju zhen	2216
+实验设计	shi yan she ji	3198
+试验设计	shi yan she ji	3197
+实验室安全	shi yan shi an quan	1199
+实验室浮选机	shi yan shi fu xuan ji	2235
+试验条件	shi yan tiao jian	4079
+实验误差	shi yan wu cha	3152
+实验验证	shi yan yan zheng	2191
+试样	shi yang	3331
+石英	shi ying	3565
+石英表面电位	shi ying biao mian dian wei	2014
+石英表面亲水性	shi ying biao mian qin shui xing	2006
+石英表面疏水性	shi ying biao mian shu shui xing	2007
+石英表面物种	shi ying biao mian wu zhong	2002
+石英表面吸附	shi ying biao mian xi fu	2012
+石英表面氧化	shi ying biao mian yang hua	2013
+石英捕收	shi ying bu shou	1137
+石英电化学行为	shi ying dian hua xue xing wei	2003
+石英动电位	shi ying dong dian wei	2015
+石英钝化	shi ying dun hua	1131
+石英浮选	shi ying fu xuan	2470
+石英浮选动力学	shi ying fu xuan dong li xue	2009
+石英浮选回收率	shi ying fu xuan hui shou lv	2010
+石英还原	shi ying huan yuan	1135
+石英活化	shi ying huo hua	2462
+石英接触角	shi ying jie chu jiao	2016
+石英界面性质	shi ying jie mian xing zhi	2001
+石英解吸	shi ying jie xi	1133
+石英溶出	shi ying rong chu	1132
+石英溶出行为	shi ying rong chu xing wei	2004
+石英天然可浮性	shi ying tian ran ke fu xing	2008
+石英吸附	shi ying xi fu	1134
+石英氧化	shi ying yang hua	1136
+石英氧化行为	shi ying yang hua xing wei	2005
+石英药剂吸附	shi ying yao ji xi fu	2011
+石英抑制	shi ying yi zhi	2461
+手工挑选	shou gong tiao xuan	2349
+叔胺	shu an	643
+数据备份	shu ju bei fen	1182
+数据处理	shu ju chu li	3168
+数据分析	shu ju fen xi	3167
+数据拟合	shu ju ni he	3166
+数据驱动模型	shu ju qu dong mo xing	2803
+疏水层	shu shui ceng	1801
+疏水层覆盖	shu shui ceng fu gai	2599
+疏水产物	shu shui chan wu	3818
+疏水化	shu shui hua	4025
+疏水基	shu shui ji	2647
+疏水力	shu shui li	3897
+疏水膜	shu shui mo	1532
+疏水凝聚	shu shui ning ju	1517
+疏水调控	shu shui tiao kong	3126
+疏水团聚	shu shui tuan ju	2536
+疏水吸附	shu shui xi fu	583
+疏水相互作用	shu shui xiang hu zuo yong	1882
+疏水性	shu shui xing	1547
+疏水絮凝	shu shui xu ning	2518
+疏水作用	shu shui zuo yong	3898
+输送机	shu song ji	3358
+数质量流程	shu zhi liang liu cheng	4112
+双齿配位	shuang chi pei wei	588
+双电层	shuang dian ceng	3909
+双电层充放电	shuang dian ceng chong fang dian	440
+双电层电容	shuang dian ceng dian rong	2724
+双电层理论	shuang dian ceng li lun	3201
+双电层压缩	shuang dian ceng ya suo	2530
+双黄药	shuang huang yao	655
+双折射	shuang zhe she	1703
+水玻璃	shui bo li	3712
+水玻璃捕收作用	shui bo li bu shou zuo yong	1059
+水玻璃方铅矿浮选	shui bo li fang qian kuang fu xuan	19
+水玻璃方铅矿吸附	shui bo li fang qian kuang xi fu	20
+水玻璃方铅矿氧化	shui bo li fang qian kuang yang hua	17
+水玻璃方铅矿抑制	shui bo li fang qian kuang yi zhi	18
+水玻璃还原	shui bo li huan yuan	1064
+水玻璃黄铁矿浮选	shui bo li huang tie kuang fu xuan	7
+水玻璃黄铁矿吸附	shui bo li huang tie kuang xi fu	8
+水玻璃黄铁矿氧化	shui bo li huang tie kuang yang hua	5
+水玻璃黄铁矿抑制	shui bo li huang tie kuang yi zhi	6
+水玻璃黄铜矿浮选	shui bo li huang tong kuang fu xuan	11
+水玻璃黄铜矿吸附	shui bo li huang tong kuang xi fu	12
+水玻璃黄铜矿氧化	shui bo li huang tong kuang yang hua	9
+水玻璃黄铜矿抑制	shui bo li huang tong kuang yi zhi	10
+水玻璃辉钼矿浮选	shui bo li hui mu kuang fu xuan	15
+水玻璃辉钼矿吸附	shui bo li hui mu kuang xi fu	16
+水玻璃辉钼矿氧化	shui bo li hui mu kuang yang hua	13
+水玻璃辉钼矿抑制	shui bo li hui mu kuang yi zhi	14
+水玻璃降解	shui bo li jiang jie	1063
+水玻璃闪锌矿浮选	shui bo li shan xin kuang fu xuan	3
+水玻璃闪锌矿吸附	shui bo li shan xin kuang xi fu	4
+水玻璃闪锌矿氧化	shui bo li shan xin kuang yang hua	1
+水玻璃闪锌矿抑制	shui bo li shan xin kuang yi zhi	2
+水玻璃水解	shui bo li shui jie	1062
+水玻璃吸附	shui bo li xi fu	1066
+水玻璃选择性	shui bo li xuan ze xing	1060
+水玻璃氧化	shui bo li yang hua	1065
+水玻璃抑制	shui bo li yi zhi	2451
+水玻璃抑制作用	shui bo li yi zhi zuo yong	1058
+水玻璃作用	shui bo li zuo yong	1061
+水分子层	shui fen zi ceng	3214
+水分子竞争吸附	shui fen zi jing zheng xi fu	391
+水分子取向	shui fen zi qu xiang	742
+水分子吸附	shui fen zi xi fu	1883
+水耗	shui hao	1219
+水化半径	shui hua ban jing	1570
+水化表面	shui hua biao mian	2382
+水化层	shui hua ceng	3895
+水化层厚度	shui hua ceng hou du	739
+水化力	shui hua li	3896
+水化膜	shui hua mo	1569
+水化模型	shui hua mo xing	1261
+水化作用	shui hua zuo yong	3894
+水回收	shui hui shou	4001
+水回收率	shui hui shou lv	1495
+水夹带	shui jia dai	4000
+水解	shui jie	3865
+水解物种	shui jie wu zhong	1566
+水力分级	shui li fen ji	1448
+水力回收	shui li hui shou	2854
+水力夹带	shui li jia dai	2989
+水力夹带效应	shui li jia dai xiao ying	784
+水力旋流器	shui li xuan liu qi	3457
+水铝石	shui lv shi	3568
+水锰矿	shui meng kuang	1653
+水膜厚度	shui mo hou du	1568
+水膜破裂	shui mo po lie	1530
+水膜稳定性	shui mo wen ding xing	1531
+水锌矿	shui xin kuang	3516
+水杨羟肟酸	shui yang qiang wo suan	2673
+水杨酸	shui yang suan	3674
+水硬度	shui ying du	1575
+水质调控	shui zhi tiao kong	673
+水质效应	shui zhi xiao ying	3802
+水质影响	shui zhi ying xiang	2315
+水资源循环	shui zi yuan xun huan	1234
+瞬时回收率	shun shi hui shou lv	2830
+瞬态物种	shun tai wu zhong	454
+死区	si qu	2845
+斯特恩层	si te en ceng	3907
+斯托克斯定律	si tuo ke si ding lv	1426
+松醇油	song chun you	3731
+松油	song you	3730
+搜索过渡态	sou suo guo du tai	2376
+速率常数	su lv chang shu	2835
+速率控制步骤	su lv kong zhi bu zhou	714
+塑性黏度	su xing nian du	2277
+酸碱滴定	suan jian di ding	1552
+酸碱废液	suan jian fei ye	1192
+酸碱平衡	suan jian ping heng	3801
+酸消解	suan xiao jie	2331
+酸性矿山废水	suan xing kuang shan fei shui	3077
+酸性条件	suan xing tiao jian	1846
+随机森林	sui ji sen lin	2806
+随机试验	sui ji shi yan	1254
+随机误差	sui ji wu cha	3150
+碎矿流程	sui kuang liu cheng	1349
+缩分	suo fen	3329
+羧基	suo ji	607
+羧甲基壳聚糖	suo jia ji ke ju tang	3683
+羧甲基纤维素	suo jia ji xian wei su	3685
+羧甲基纤维素捕收作用	suo jia ji xian wei su bu shou zuo yong	996
+羧甲基纤维素还原	suo jia ji xian wei su huan yuan	1001
+羧甲基纤维素降解	suo jia ji xian wei su jiang jie	1000
+羧甲基纤维素水解	suo jia ji xian wei su shui jie	999
+羧甲基纤维素吸附	suo jia ji xian wei su xi fu	1003
+羧甲基纤维素选择性	suo jia ji xian wei su xuan ze xing	997
+羧甲基纤维素氧化	suo jia ji xian wei su yang hua	1002
+羧甲基纤维素抑制作用	suo jia ji xian wei su yi zhi zuo yong	995
+羧甲基纤维素作用	suo jia ji xian wei su zuo yong	998
+羧酸类捕收剂	suo suan lei bu shou ji	3752
+塔菲尔曲线	ta fei er qu xian	3271
+塔磨	ta mo	1460
+塔磨机	ta mo ji	3485
+台阶位点	tai jie wei dian	3826
+态密度	tai mi du	3234
+态密度重叠	tai mi du chong die	397
+态密度分析	tai mi du fen xi	2366
+态密度峰	tai mi du feng	720
+钛铁矿	tai tie kuang	3572
+碳糊电极	tan hu dian ji	1270
+碳链长度	tan lian chang du	614
+碳酸根离子	tan suan gen li zi	2301
+碳酸钠	tan suan na	3709
+碳酸铅	tan suan qian	3715
+碳酸盐浮选	tan suan yan fu xuan	2478
+碳酸盐矿物	tan suan yan kuang wu	3515
+碳酸盐脉石	tan suan yan mai shi	2452
+探索试验	tan suo shi yan	4122
+陶瓷过滤	tao ci guo lv	1359
+陶瓷过滤机	tao ci guo lv ji	3368
+陶瓷介质	tao ci jie zhi	2494
+陶瓷球	tao ci qiu	3480
+特异吸附	te yi xi fu	3890
+特征峰强度	te zheng feng qiang du	760
+特征峰位	te zheng feng wei	761
+特征离子	te zheng li zi	470
+特征振动	te zheng zhen dong	2418
+锑华	ti hua	1663
+体积浓度	ti ji nong du	4104
+天青石	tian qing shi	3543
+天然高分子抑制剂	tian ran gao fen zi yi zhi ji	627
+天然可浮性	tian ran ke fu xing	4029
+天然缺陷	tian ran que xian	1695
+天然疏水性	tian ran shu shui xing	4028
+条痕	tiao hen	1705
+条件化	tiao jian hua	850
+条件试验	tiao jian shi yan	4123
+条件稳定常数	tiao jian wen ding chang shu	1562
+条件优化	tiao jian you hua	1762
+调浆	tiao jiang	2340
+调浆槽	tiao jiang cao	3380
+调浆时间	tiao jiang shi jian	3981
+跳汰	tiao tai	3434
+跳汰机	tiao tai ji	3430
+跳汰脉动	tiao tai mai dong	1424
+跳汰周期	tiao tai zhou qi	1425
+调整剂	tiao zheng ji	3772
+调整剂效应	tiao zheng ji xiao ying	769
+调整作用	tiao zheng zuo yong	3765
+铁矿反浮选	tie kuang fan fu xuan	2464
+铁矿正浮选	tie kuang zheng fu xuan	2463
+铁离子	tie li zi	2309
+铁离子溶出	tie li zi rong chu	2754
+铁离子污染	tie li zi wu ran	2506
+萜烯醇	tie xi chun	636
+铁氧化物覆盖	tie yang hua wu fu gai	2505
+铁氧物种	tie yang wu zhong	2779
+烃链	ting lian	615
+停留时间	ting liu shi jian	3348
+停留时间分布	ting liu shi jian fen bu	2847
+停留时间模型	ting liu shi jian mo xing	2818
+烃油捕收剂	ting you bu shou ji	641
+同步辐射	tong bu fu she	2443
+通风橱	tong feng chu	1195
+铜富集	tong fu ji	1729
+统计显著性	tong ji xian zhu xing	323
+铜蓝	tong lan	3641
+铜离子	tong li zi	2307
+铜离子溶出	tong li zi rong chu	2755
+铜硫分离	tong liu fen li	2560
+铜硫矿石	tong liu kuang shi	3619
+铜钼分离	tong mu fen li	3938
+铜钼浮选	tong mu fu xuan	2583
+铜钼混合精矿	tong mu hun he jing kuang	2582
+铜钼矿石	tong mu kuang shi	3616
+铜钼硫化矿	tong mu liu hua kuang	3613
+铜铅分离	tong qian fen li	3937
+铜铅浮选	tong qian fu xuan	2575
+铜铅矿石	tong qian kuang shi	3617
+铜铅锌矿	tong qian xin kuang	3612
+筒式磁选机	tong shi ci xuan ji	1396
+铜损失	tong sun shi	1733
+铜污染	tong wu ran	3079
+同相矿泥罩盖	tong xiang kuang ni zhao gai	2541
+同相凝聚	tong xiang ning ju	3957
+同相团聚	tong xiang tuan ju	2537
+铜锌分离	tong xin fen li	3935
+铜氧物种	tong yang wu zhong	2780
+同质多象	tong zhi duo xiang	1674
+透锂长石	tou li chang shi	3537
+透明度	tou ming du	1704
+透射电镜	tou she dian jing	3319
+透射电子显微镜	tou she dian zi xian wei jing	1308
+湍动能	tuan dong neng	2889
+团聚	tuan ju	3953
+团聚体尺寸	tuan ju ti chi cun	1509
+湍流	tuan liu	1486
+湍流传质	tuan liu chuan zhi	696
+湍流耗散率	tuan liu hao san lv	2888
+湍流强度	tuan liu qiang du	2890
+湍流区	tuan liu qu	2848
+湍流调控	tuan liu tiao kong	668
+湍流效应	tuan liu xiao ying	782
+脱附	tuo fu	4019
+脱附力	tuo fu li	1527
+脱落	tuo luo	4018
+脱泥	tuo ni	3952
+脱泥粒度	tuo ni li du	2524
+脱泥效率	tuo ni xiao lv	2523
+脱水	tuo shui	3367
+脱水效率	tuo shui xiao lv	1352
+脱水作业	tuo shui zuo ye	3366
+脱药	tuo yao	3946
+脱药预处理	tuo yao yu chu li	3116
+脱药再浮	tuo yao zai fu	3945
+外标法	wai biao fa	1288
+外层络合	wai ceng luo he	1873
+外加电场	wai jia dian chang	3385
+外加电位	wai jia dian wei	681
+外控电位	wai kong dian wei	3846
+烷基	wan ji	611
+烷基黑药	wan ji hei yao	2687
+烷基磺酸盐	wan ji huang suan yan	2669
+烷基黄药	wan ji huang yao	659
+烷基链长	wan ji lian chang	2645
+烷基硫酸盐	wan ji liu suan yan	2670
+完全混合模型	wan quan hun he mo xing	2816
+烷氧基	wan yang ji	610
+网络结构	wang luo jie gou	1312
+微波处理	wei bo chu li	3113
+微波消解	wei bo xiao jie	1286
+微波预处理	wei bo yu chu li	856
+位错	wei cuo	1691
+微电池	wei dian chi	2707
+危废处置	wei fei chu zhi	1193
+微观尺度	wei guan chi du	312
+微观混合	wei guan hun he	2885
+尾矿	wei kuang	4168
+尾矿产量	wei kuang chan liang	1213
+尾矿产率	wei kuang chan lv	1782
+尾矿库	wei kuang ku	3097
+尾矿品位	wei kuang pin wei	4135
+尾矿收集	wei kuang shou ji	2335
+尾矿水	wei kuang shui	3096
+尾矿损失	wei kuang sun shi	1737
+尾矿质量	wei kuang zhi liang	830
+尾矿资源化	wei kuang zi yuan hua	1228
+尾矿综合利用	wei kuang zong he li yong	3094
+未来研究	wei lai yan jiu	3032
+微纳米气泡	wei na mi qi pao	3990
+微泡发生器	wei pao fa sheng qi	3971
+微泡浮选	wei pao fu xuan	4059
+微泡强化	wei pao qiang hua	2514
+微细粒	wei xi li	2991
+微细粒浮选	wei xi li fu xuan	3968
+微细粒回收	wei xi li hui shou	2521
+微细粒矿物	wei xi li kuang wu	3965
+微细粒嵌布	wei xi li qian bu	1742
+微细粒强化浮选	wei xi li qiang hua fu xuan	1748
+微细气泡	wei xi qi pao	3991
+卫星峰	wei xing feng	2428
+稳定概率	wen ding gai lv	4013
+稳定亲水层	wen ding qin shui ceng	1802
+稳定疏水层	wen ding shu shui ceng	1800
+温度效应	wen du xiao ying	846
+文献计量	wen xian ji liang	281
+文献检索	wen xian jian suo	295
+文献筛选	wen xian shai xuan	284
+文献综述	wen xian zong shu	289
+沃堡阻抗	wo bao zu kang	442
+误差	wu cha	3191
+误差棒	wu cha bang	3187
+误差传播	wu cha chuan bo	3149
+误差分析	wu cha fen xi	2208
+无毒药剂	wu du yao ji	3072
+戊黄药	wu huang yao	1633
+戊基黄药	wu ji huang yao	3742
+戊基黄原酸钾	wu ji huang yuan suan jia	2682
+无机活化剂	wu ji huo hua ji	632
+无机调整剂	wu ji tiao zheng ji	634
+无机抑制剂	wu ji yi zhi ji	2660
+物理吸附	wu li xi fu	3892
+物理性质	wu li xing zhi	4089
+物料平衡	wu liao ping heng	4110
+钨锰铁矿	wu meng tie kuang	1658
+钨铁矿	wu tie kuang	1657
+物相分析	wu xiang fen xi	4145
+物相鉴定	wu xiang jian ding	3311
+物种分布	wu zhong fen bu	1551
+洗涤	xi di	3325
+细度	xi du	3446
+吸附	xi fu	3893
+吸附饱和	xi fu bao he	1794
+吸附层	xi fu ceng	1596
+吸附层结构	xi fu ceng jie gou	593
+吸附差异	xi fu cha yi	2179
+吸附处理	xi fu chu li	3083
+吸附等温线	xi fu deng wen xian	3882
+吸附动力学	xi fu dong li xue	3881
+吸附峰位	xi fu feng wei	762
+吸附覆盖	xi fu fu gai	1594
+吸附构型	xi fu gou xing	3213
+吸附后结构	xi fu hou jie gou	412
+吸附机理	xi fu ji li	3143
+吸附竞争	xi fu jing zheng	580
+吸附距离	xi fu ju li	409
+吸附控制步骤	xi fu kong zhi bu zhou	712
+吸附量测试	xi fu liang ce shi	3288
+吸附密度	xi fu mi du	3903
+吸附膜	xi fu mo	1799
+吸附膜结构	xi fu mo jie gou	592
+吸附模型	xi fu mo xing	2386
+吸附能	xi fu neng	3242
+吸附能比较	xi fu neng bi jiao	402
+吸附平衡	xi fu ping heng	3883
+吸附前结构	xi fu qian jie gou	413
+吸附强度	xi fu qiang du	736
+吸附取向	xi fu qu xiang	738
+吸附容量	xi fu rong liang	3880
+吸附速率	xi fu su lv	1812
+吸附态	xi fu tai	485
+吸附位点	xi fu wei dian	3879
+吸附位点比较	xi fu wei dian bi jiao	403
+吸附稳定性	xi fu wen ding xing	737
+吸附自由能	xi fu zi you neng	2379
+吸光度	xi guang du	2416
+洗矿擦洗	xi kuang ca xi	3944
+细粒浮选	xi li fu xuan	3969
+细粒回收	xi li hui shou	2522
+细粒夹带	xi li jia dai	2544
+细粒聚集	xi li ju ji	2972
+细粒连生	xi li lian sheng	1741
+细粒难浮	xi li nan fu	1523
+细粒抛尾	xi li pao wei	1337
+细粒嵌布	xi li qian bu	1743
+细粒强化浮选	xi li qiang hua fu xuan	1749
+细粒团聚	xi li tuan ju	2973
+细粒效应	xi li xiao ying	2546
+细粒载体	xi li zai ti	1513
+细磨	xi mo	3498
+吸入区	xi ru qu	2850
+细筛	xi shai	1434
+稀释	xi shi	2325
+锡石	xi shi	3574
+稀释倍数	xi shi bei shu	1285
+吸收边	xi shou bian	2414
+吸收光谱	xi shou guang pu	3300
+吸收精细结构	xi shou jing xi jie gou	2442
+细碎	xi sui	3501
+系统误差	xi tong wu cha	3151
+系统综述	xi tong zong shu	288
+稀土矿	xi tu kuang	3540
+酰胺基	xian an ji	604
+先捕收后氧化	xian bu shou hou yang hua	2604
+线缺陷	xian que xian	1693
+线扫描	xian sao miao	3314
+显式溶剂	xian shi rong ji	3216
+显式水模型	xian shi shui mo xing	2381
+线性范围	xian xing fan wei	1284
+线性回归	xian xing hui gui	3181
+线性扫描	xian xing sao miao	1269
+先氧化后捕收	xian yang hua hou bu shou	2603
+显著差异	xian zhu cha yi	3184
+显著降低	xian zhu jiang di	3045
+显著提高	xian zhu ti gao	3046
+显著性	xian zhu xing	3185
+显著性检验	xian zhu xing jian yan	1253
+显著性水平	xian zhu xing shui ping	2229
+相边界	xiang bian jie	368
+相对标准偏差	xiang dui biao zhun pian cha	2232
+相对误差	xiang dui wu cha	3189
+相关分析	xiang guan fen xi	1252
+相关关系	xiang guan guan xi	303
+相关系数	xiang guan xi shu	2224
+相关性	xiang guan xing	3183
+响应变量	xiang ying bian liang	300
+响应面	xiang ying mian	3177
+响应面法	xiang ying mian fa	3176
+响应面分析	xiang ying mian fen xi	2217
+响应面试验	xiang ying mian shi yan	1257
+响应曲面模型	xiang ying qu mian mo xing	2808
+相组成	xiang zu cheng	920
+小分子抑制剂	xiao fen zi yi zhi ji	2657
+消解	xiao jie	2332
+小时处理量	xiao shi chu li liang	1226
+硝酸	xiao suan	1619
+小型浮选机	xiao xing fu xuan ji	2234
+协同机制	xie tong ji zhi	1247
+协同吸附	xie tong xi fu	579
+协同效应	xie tong xiao ying	3138
+协同验证	xie tong yan zheng	2190
+协同作用	xie tong zuo yong	3140
+锌富集	xin fu ji	1728
+锌离子	xin li zi	2306
+锌离子溶出	xin li zi rong chu	2753
+锌硫分离	xin liu fen li	2556
+新生表面	xin sheng biao mian	2512
+新生表面活性	xin sheng biao mian huo xing	2511
+锌损失	xin sun shi	1732
+锌污染	xin wu ran	3078
+新鲜配制	xin xian pei zhi	2320
+锌氧物种	xin yang wu zhong	2778
+性能差异	xing neng cha yi	2181
+絮凝	xu ning	3954
+絮凝沉降	xu ning chen jiang	1372
+絮凝浮选	xu ning fu xuan	4062
+絮凝剂	xu ning ji	3771
+絮凝剂吸附	xu ning ji xi fu	2534
+絮凝剂效应	xu ning ji xiao ying	767
+絮团结构	xu tuan jie gou	2258
+悬浮液密度	xuan fu ye mi du	1415
+悬浮状态	xuan fu zhuang tai	2883
+选矿	xuan kuang	4177
+选矿比	xuan kuang bi	4136
+选矿厂	xuan kuang chang	4175
+选矿成本	xuan kuang cheng ben	1222
+选矿废水	xuan kuang fei shui	3090
+选矿工艺	xuan kuang gong yi	4174
+选矿流程	xuan kuang liu cheng	4173
+选矿试验	xuan kuang shi yan	4172
+选矿学	xuan kuang xue	4176
+选矿指标	xuan kuang zhi biao	4171
+旋流静态微泡浮选柱	xuan liu jing tai wei pao fu xuan zhu	2250
+旋流器	xuan liu qi	3456
+旋流器直径	xuan liu qi zhi jing	1441
+选区电子衍射	xuan qu dian zi yan she	1302
+选冶联合	xuan ye lian he	1342
+选择性捕收	xuan ze xing bu shou	3764
+选择性沉淀	xuan ze xing chen dian	909
+选择性窗口	xuan ze xing chuang kou	1769
+选择性钝化	xuan ze xing dun hua	3102
+选择性分离	xuan ze xing fen li	3148
+选择性覆盖	xuan ze xing fu gai	1804
+选择性富集	xuan ze xing fu ji	1727
+选择性腐蚀	xuan ze xing fu shi	2745
+选择性浮选	xuan ze xing fu xuan	4069
+选择性还原	xuan ze xing huan yuan	906
+选择性活化	xuan ze xing huo hua	3762
+选择性夹带	xuan ze xing jia dai	1518
+选择性降低	xuan ze xing jiang di	3041
+选择性解离	xuan ze xing jie li	2482
+选择性来源	xuan ze xing lai yuan	2182
+选择性络合	xuan ze xing luo he	907
+选择性络合剂	xuan ze xing luo he ji	2653
+选择性磨矿	xuan ze xing mo kuang	3470
+选择性强化	xuan ze xing qiang hua	1755
+选择性亲水化	xuan ze xing qin shui hua	903
+选择性溶出	xuan ze xing rong chu	3101
+选择性溶解	xuan ze xing rong jie	910
+选择性润湿	xuan ze xing run shi	905
+选择性深度氧化	xuan ze xing shen du yang hua	3001
+选择性疏水化	xuan ze xing shu shui hua	904
+选择性调控	xuan ze xing tiao kong	661
+选择性团聚	xuan ze xing tuan ju	2535
+选择性脱附	xuan ze xing tuo fu	908
+选择性脱泥	xuan ze xing tuo ni	3949
+选择性吸附	xuan ze xing xi fu	3888
+选择性絮凝	xuan ze xing xu ning	3956
+选择性氧化	xuan ze xing yang hua	3856
+选择性氧化反应	xuan ze xing yang hua fan ying	2759
+选择性抑制	xuan ze xing yi zhi	3763
+选择性因子	xuan ze xing yin zi	823
+选择性增强	xuan ze xing zeng qiang	3042
+选择性指数	xuan ze xing zhi shu	1787
+循环伏安	xun huan fu an	3273
+循环负荷	xun huan fu he	3449
+循环孔	xun huan kong	2243
+循环流	xun huan liu	2851
+循环水	xun huan shui	3088
+循环水体系	xun huan shui ti xi	2282
+循环水影响	xun huan shui ying xiang	2314
+亚硫酸根	ya liu suan gen	2769
+亚硫酸钠	ya liu suan na	3700
+亚硫酸氢钠	ya liu suan qing na	3699
+亚硫酸盐	ya liu suan yan	3811
+压滤	ya lv	1362
+压滤机	ya lv ji	3371
+压缩区	ya suo qu	1370
+亚油酸	ya you suan	1631
+盐度	yan du	1576
+盐度效应	yan du xiao ying	2289
+研究背景	yan jiu bei jing	3063
+研究不足	yan jiu bu zu	1244
+研究对象	yan jiu dui xiang	2189
+研究方法	yan jiu fang fa	3060
+研究假设	yan jiu jia she	1251
+研究结果	yan jiu jie guo	3058
+研究结论	yan jiu jie lun	3057
+研究进展	yan jiu jin zhan	3061
+研究空白	yan jiu kong bai	287
+研究框架	yan jiu kuang jia	1249
+研究路线	yan jiu lu xian	2198
+研究论文	yan jiu lun wen	290
+研究目标	yan jiu mu biao	1250
+研究目的	yan jiu mu di	3064
+研究内容	yan jiu nei rong	3059
+研究前沿	yan jiu qian yan	276
+研究热点	yan jiu re dian	277
+研究体系	yan jiu ti xi	2188
+研究现状	yan jiu xian zhuang	3062
+研究意义	yan jiu yi yi	2206
+研究展望	yan jiu zhan wang	3031
+衍射峰	yan she feng	3307
+赝势	yan shi	2396
+盐酸	yan suan	3706
+验证试验	yan zheng shi yan	4121
+氧含量	yang han liang	1836
+氧化	yang hua	3860
+氧化表面	yang hua biao mian	2383
+氧化测试	yang hua ce shi	3286
+氧化层	yang hua ceng	2789
+氧化层厚度	yang hua ceng hou du	749
+氧化产物	yang hua chan wu	3817
+氧化处理	yang hua chu li	1231
+氧化催化	yang hua cui hua	858
+氧化电流	yang hua dian liu	437
+氧化电位	yang hua dian wei	3851
+氧化动力学	yang hua dong li xue	3852
+氧化反应	yang hua fan ying	3789
+氧化反应路径	yang hua fan ying lu jing	1826
+氧化峰	yang hua feng	2736
+氧化覆盖层	yang hua fu gai ceng	2787
+氧化还原	yang hua huan yuan	3858
+氧化还原电位	yang hua huan yuan dian wei	3844
+氧化还原环境	yang hua huan yuan huan jing	1574
+氧化还原调控	yang hua huan yuan tiao kong	678
+氧化还原效应	yang hua huan yuan xiao ying	841
+氧化剂后添加	yang hua ji hou tian jia	2605
+氧化机理	yang hua ji li	3142
+氧化剂浓度	yang hua ji nong du	419
+氧化剂添加顺序	yang hua ji tian jia shun xu	417
+氧化剂效应	yang hua ji xiao ying	775
+氧化剂用量	yang hua ji yong liang	418
+氧化矿捕收	yang hua kuang bu shou	2481
+氧化矿捕收剂	yang hua kuang bu shou ji	3756
+氧化矿浮选	yang hua kuang fu xuan	3933
+氧化矿抑制	yang hua kuang yi zhi	2480
+氧化老化	yang hua lao hua	869
+氧化膜	yang hua mo	2788
+氧化膜厚度	yang hua mo hou du	748
+氧化膜溶解	yang hua mo rong jie	555
+氧化膜形成	yang hua mo xing cheng	558
+氧化气氛	yang hua qi fen	1841
+氧化铅	yang hua qian	3713
+氧化铅矿	yang hua qian kuang	3528
+氧化强化	yang hua qiang hua	1751
+氧化溶出	yang hua rong chu	2757
+氧化溶解	yang hua rong jie	2758
+氧化速率	yang hua su lv	1810
+氧化态	yang hua tai	491
+氧化调控	yang hua tiao kong	3128
+氧化铜矿	yang hua tong kuang	3526
+氧化物	yang hua wu	3806
+氧化物层	yang hua wu ceng	2784
+氧化物浮选	yang hua wu fu xuan	2477
+氧化物矿物	yang hua wu kuang wu	3513
+氧化物态	yang hua wu tai	486
+氧化锌矿	yang hua xin kuang	3527
+氧化型抑制剂	yang hua xing yi zhi ji	630
+氧化抑制	yang hua yi zhi	2761
+氧化诱导钝化	yang hua you dao dun hua	3002
+氧化诱导活化	yang hua you dao huo hua	571
+氧化诱导亲水化	yang hua you dao qin shui hua	2763
+氧化诱导疏水化	yang hua you dao shu shui hua	2762
+氧化诱导抑制	yang hua you dao yi zhi	3003
+氧化预处理	yang hua yu chu li	3122
+氧化预处理分离	yang hua yu chu li fen li	2602
+氧还反应	yang huan fan ying	684
+阳极电流	yang ji dian liu	453
+阳极反应	yang ji fan ying	687
+阳极过程	yang ji guo cheng	689
+阳极极化	yang ji ji hua	2731
+阳极氧化	yang ji yang hua	2738
+阳离子表面活性剂	yang li zi biao mian huo xing ji	2667
+阳离子捕收剂	yang li zi bu shou ji	3760
+阳离子空位	yang li zi kong wei	1688
+样品	yang pin	3332
+样品编号	yang pin bian hao	1186
+样品标签	yang pin biao qian	1185
+摇床	yao chuang	3433
+摇床分选	yao chuang fen xuan	1421
+摇床选矿	yao chuang xuan kuang	3429
+药剂残留	yao ji can liu	3070
+药剂残留量	yao ji can liu liang	821
+药剂成本	yao ji cheng ben	1221
+药剂传质	yao ji chuan zhi	1818
+药剂单耗	yao ji dan hao	1215
+药剂毒性	yao ji du xing	1582
+药剂废液	yao ji fei ye	1187
+药剂分解	yao ji fen jie	3098
+药剂分子	yao ji fen zi	625
+药剂分子构型	yao ji fen zi gou xing	1584
+药剂分子结构	yao ji fen zi jie gou	2652
+药剂覆盖层	yao ji fu gai ceng	2637
+药剂复配	yao ji fu pei	1603
+药剂复配效应	yao ji fu pei xiao ying	1854
+药剂环境风险	yao ji huan jing feng xian	1581
+药剂降解	yao ji jiang jie	3653
+药剂搅拌槽	yao ji jiao ban cao	3379
+药剂拮抗	yao ji jie kang	1855
+药剂解吸	yao ji jie xi	3655
+药剂经济性	yao ji jing ji xing	1583
+药剂竞争	yao ji jing zheng	1599
+药剂竞争吸附	yao ji jing zheng xi fu	390
+药剂老化	yao ji lao hua	870
+药剂离解	yao ji li jie	2641
+药剂离子	yao ji li zi	624
+药剂浓度	yao ji nong du	3665
+药剂溶液	yao ji rong ye	2321
+药剂水解	yao ji shui jie	2640
+药剂损失	yao ji sun shi	1792
+药剂添加量	yao ji tian jia liang	3663
+药剂添加顺序	yao ji tian jia shun xu	3662
+药剂添加系统	yao ji tian jia xi tong	2245
+药剂条件化	yao ji tiao jian hua	848
+药剂调控	yao ji tiao kong	672
+药剂稳定性	yao ji wen ding xing	1773
+药剂吸附	yao ji xi fu	3656
+药剂吸附构型	yao ji xi fu gou xing	2638
+药剂吸附量	yao ji xi fu liang	822
+药剂稀释	yao ji xi shi	346
+药剂消耗	yao ji xiao hao	1793
+药剂协同	yao ji xie tong	1856
+药剂协同吸附	yao ji xie tong xi fu	1598
+药剂选择性	yao ji xuan ze xing	3132
+药剂氧化	yao ji yang hua	3654
+药剂氧化产物	yao ji yang hua chan wu	2639
+药剂阳离子	yao ji yang li zi	622
+药剂阴离子	yao ji yin li zi	623
+药剂用量	yao ji yong liang	3664
+药剂优化	yao ji you hua	1761
+药剂有效浓度	yao ji you xiao nong du	1593
+药剂预处理效应	yao ji yu chu li xiao ying	777
+药剂预吸附	yao ji yu xi fu	578
+药剂站	yao ji zhan	348
+药剂制备	yao ji zhi bei	347
+药剂制度	yao ji zhi du	4085
+药剂作用时间	yao ji zuo yong shi jian	3980
+液固比	ye gu bi	4102
+叶轮	ye lun	3356
+叶轮定子系统	ye lun ding zi xi tong	2248
+叶轮流场	ye lun liu chang	2852
+叶轮转速	ye lun zhuan su	3983
+叶轮转速效应	ye lun zhuan su xiao ying	781
+液膜传质	ye mo chuan zhi	698
+液膜扩散	ye mo kuo san	1815
+异丙基黄药	yi bing ji huang yao	3741
+异丙基黄原酸钠	yi bing ji huang yuan suan na	2683
+一次粗选	yi ci cu xuan	4050
+一次扫选	yi ci sao xuan	4047
+一粗二精	yi cu er jing	1327
+一粗两扫	yi cu liang sao	1325
+一粗三精	yi cu san jing	1326
+异丁基黄药	yi ding ji huang yao	3740
+异丁基黄原酸钠	yi ding ji huang yuan suan na	2684
+乙二胺四乙酸	yi er an si yi suan	3673
+乙黄药	yi huang yao	1634
+一级动力学	yi ji dong li xue	2840
+一级浮选动力学	yi ji fu xuan dong li xue	2839
+乙基黄药	yi ji huang yao	3743
+乙基黄原酸钾	yi ji huang yuan suan jia	2681
+异极矿	yi ji kuang	3519
+伊利石	yi li shi	3556
+溢流	yi liu	3455
+乙硫氮	yi liu dan	3747
+乙硫氮捕收作用	yi liu dan bu shou zuo yong	1077
+乙硫氮方铅矿浮选	yi liu dan fang qian kuang fu xuan	99
+乙硫氮方铅矿吸附	yi liu dan fang qian kuang xi fu	100
+乙硫氮方铅矿氧化	yi liu dan fang qian kuang yang hua	97
+乙硫氮方铅矿抑制	yi liu dan fang qian kuang yi zhi	98
+乙硫氮还原	yi liu dan huan yuan	1082
+乙硫氮黄铁矿浮选	yi liu dan huang tie kuang fu xuan	87
+乙硫氮黄铁矿吸附	yi liu dan huang tie kuang xi fu	88
+乙硫氮黄铁矿氧化	yi liu dan huang tie kuang yang hua	85
+乙硫氮黄铁矿抑制	yi liu dan huang tie kuang yi zhi	86
+乙硫氮黄铜矿浮选	yi liu dan huang tong kuang fu xuan	91
+乙硫氮黄铜矿吸附	yi liu dan huang tong kuang xi fu	92
+乙硫氮黄铜矿氧化	yi liu dan huang tong kuang yang hua	89
+乙硫氮黄铜矿抑制	yi liu dan huang tong kuang yi zhi	90
+乙硫氮辉钼矿浮选	yi liu dan hui mu kuang fu xuan	95
+乙硫氮辉钼矿吸附	yi liu dan hui mu kuang xi fu	96
+乙硫氮辉钼矿氧化	yi liu dan hui mu kuang yang hua	93
+乙硫氮辉钼矿抑制	yi liu dan hui mu kuang yi zhi	94
+乙硫氮降解	yi liu dan jiang jie	1081
+乙硫氮闪锌矿浮选	yi liu dan shan xin kuang fu xuan	83
+乙硫氮闪锌矿吸附	yi liu dan shan xin kuang xi fu	84
+乙硫氮闪锌矿氧化	yi liu dan shan xin kuang yang hua	81
+乙硫氮闪锌矿抑制	yi liu dan shan xin kuang yi zhi	82
+乙硫氮水解	yi liu dan shui jie	1080
+乙硫氮吸附	yi liu dan xi fu	1084
+乙硫氮选择性	yi liu dan xuan ze xing	1078
+乙硫氮氧化	yi liu dan yang hua	1083
+乙硫氮抑制作用	yi liu dan yi zhi zuo yong	1076
+乙硫氮作用	yi liu dan zuo yong	1079
+抑硫浮铜	yi liu fu tong	2558
+溢流管	yi liu guan	1440
+溢流粒度	yi liu li du	1443
+溢流浓度	yi liu nong du	1436
+溢流水	yi liu shui	1367
+溢流水质	yi liu shui zhi	1366
+抑钼浮铅	yi mu fu qian	3942
+抑钼浮铅体系	yi mu fu qian ti xi	512
+抑钼浮铜	yi mu fu tong	2578
+仪器校准	yi qi jiao zhun	1181
+抑铅浮钼	yi qian fu mu	3943
+抑铅浮钼体系	yi qian fu mu ti xi	513
+抑铅浮铜	yi qian fu tong	2572
+抑铅浮锌	yi qian fu xin	2566
+一水硬铝石	yi shui ying lv shi	3567
+抑铜浮钼	yi tong fu mu	2579
+抑铜浮铅	yi tong fu qian	2573
+异相表面反应	yi xiang biao mian fan ying	3006
+异相成核	yi xiang cheng he	707
+异相催化	yi xiang cui hua	859
+异相电子转移	yi xiang dian zi zhuan yi	895
+异相矿泥罩盖	yi xiang kuang ni zhao gai	2542
+异相凝聚	yi xiang ning ju	3958
+异相团聚	yi xiang tuan ju	2538
+异相氧化	yi xiang yang hua	2746
+抑锌浮铅	yi xin fu qian	2567
+抑制剂	yi zhi ji	3775
+抑制剂分子	yi zhi ji fen zi	619
+抑制机理	yi zhi ji li	3145
+抑制剂效应	yi zhi ji xiao ying	771
+抑制剂预吸附	yi zhi ji yu xi fu	577
+抑制能力	yi zhi neng li	1611
+抑制强化	yi zhi qiang hua	1754
+抑制效率	yi zhi xiao lv	1791
+抑制性能	yi zhi xing neng	1610
+抑制选择性	yi zhi xuan ze xing	1609
+抑制作用	yi zhi zuo yong	3768
+因果关系	yin guo guan xi	304
+阴极电流	yin ji dian liu	452
+阴极反应	yin ji fan ying	686
+阴极过程	yin ji guo cheng	688
+阴极还原	yin ji huan yuan	2737
+阴极极化	yin ji ji hua	2730
+阴离子表面活性剂	yin li zi biao mian huo xing ji	2668
+阴离子捕收剂	yin li zi bu shou ji	3761
+阴离子空位	yin li zi kong wei	1687
+银氯化银电极	yin lv hua yin dian ji	1274
+隐式溶剂	yin shi rong ji	3215
+因素水平	yin su shui ping	3171
+引文检索	yin wen jian suo	293
+因子分析	yin zi fen xi	2220
+硬度	ying du	1710
+硬度离子	ying du li zi	2312
+荧光光谱	ying guang guang pu	2413
+硬锰矿	ying meng kuang	3577
+萤石	ying shi	3546
+萤石表面电位	ying shi biao mian dian wei	2046
+萤石表面亲水性	ying shi biao mian qin shui xing	2038
+萤石表面疏水性	ying shi biao mian shu shui xing	2039
+萤石表面物种	ying shi biao mian wu zhong	2034
+萤石表面吸附	ying shi biao mian xi fu	2044
+萤石表面氧化	ying shi biao mian yang hua	2045
+萤石捕收	ying shi bu shou	1145
+萤石电化学行为	ying shi dian hua xue xing wei	2035
+萤石动电位	ying shi dong dian wei	2047
+萤石钝化	ying shi dun hua	1138
+萤石浮选	ying shi fu xuan	2474
+萤石浮选动力学	ying shi fu xuan dong li xue	2041
+萤石浮选回收率	ying shi fu xuan hui shou lv	2042
+萤石还原	ying shi huan yuan	1142
+萤石活化	ying shi huo hua	1144
+萤石接触角	ying shi jie chu jiao	2048
+萤石界面性质	ying shi jie mian xing zhi	2033
+萤石解吸	ying shi jie xi	1140
+萤石溶出	ying shi rong chu	1139
+萤石溶出行为	ying shi rong chu xing wei	2036
+萤石天然可浮性	ying shi tian ran ke fu xing	2040
+萤石吸附	ying shi xi fu	1141
+萤石氧化	ying shi yang hua	1143
+萤石氧化行为	ying shi yang hua xing wei	2037
+萤石药剂吸附	ying shi yao ji xi fu	2043
+萤石抑制	ying shi yi zhi	2459
+硬水	ying shui	2288
+影响规律	ying xiang gui lv	3050
+影响因素	ying xiang yin su	3051
+应用前景	ying yong qian jing	3027
+永磁磁选	yong ci ci xuan	1409
+永磁磁选机	yong ci ci xuan ji	3409
+泳动速度	yong dong su du	1381
+诱导时间	you dao shi jian	2976
+有害杂质	you hai za zhi	2942
+优化条件	you hua tiao jian	4077
+有机活化剂	you ji huo hua ji	631
+有机调整剂	you ji tiao zheng ji	633
+有机污染物	you ji wu ran wu	1232
+有机抑制剂	you ji yi zhi ji	2659
+有价金属	you jia jin shu	3065
+有价矿物	you jia kuang wu	2944
+有价元素	you jia yuan su	915
+优势晶面	you shi jing mian	1699
+优势物种	you shi wu zhong	1550
+油酸	you suan	3669
+油酸钠	you suan na	3668
+黝铜矿	you tong kuang	3640
+油团聚	you tuan ju	2517
+黝锡矿	you xi kuang	1656
+优先浮选	you xian fu xuan	4072
+有效容积	you xiao rong ji	3349
+有用矿物	you yong kuang wu	4163
+预测模型	yu ce mo xing	2810
+预测值	yu ce zhi	2210
+预处理	yu chu li	3123
+预富集	yu fu ji	1339
+玉髓	yu sui	1649
+预调浆	yu tiao jiang	849
+预脱泥	yu tuo ni	3951
+预吸附	yu xi fu	3004
+预吸附效应	yu xi fu xiao ying	776
+预选	yu xuan	1341
+原电池效应	yuan dian chi xiao ying	3781
+圆度	yuan du	930
+原矿	yuan kuang	4170
+原矿品位	yuan kuang pin wei	4133
+圆盘过滤机	yuan pan guo lv ji	3369
+原生矿泥	yuan sheng kuang ni	2547
+原始记录	yuan shi ji lu	1183
+原始数据	yuan shi shu ju	3155
+元素分布	yuan su fen bu	3312
+元素分配	yuan su fen pei	827
+元素分析	yuan su fen xi	3293
+元素峰	yuan su feng	501
+元素赋存	yuan su fu cun	2929
+元素赋存分析	yuan su fu cun fen xi	2913
+元素富集	yuan su fu ji	913
+元素化学成像	yuan su hua xue cheng xiang	464
+元素价态	yuan su jia tai	2422
+元素价态变化	yuan su jia tai bian hua	757
+元素硫	yuan su liu	3815
+元素面扫	yuan su mian sao	3313
+元素平衡	yuan su ping heng	4108
+元素迁移	yuan su qian yi	912
+元素线扫	yuan su xian sao	1306
+元素映射	yuan su ying she	921
+元素原子比	yuan su yuan zi bi	2424
+元素组成	yuan su zu cheng	4148
+原位表征	yuan wei biao zheng	3258
+原位测试	yuan wei ce shi	3257
+原位成像	yuan wei cheng xiang	2444
+原位电化学	yuan wei dian hua xue	2446
+原位钝化	yuan wei dun hua	3838
+原位反应	yuan wei fan ying	3105
+原位光谱	yuan wei guang pu	2449
+原位红外	yuan wei hong wai	2447
+原位机制	yuan wei ji zhi	309
+原位拉曼	yuan wei la man	2448
+原位冷冻	yuan wei leng dong	457
+原位显微	yuan wei xian wei	2445
+原位氧化	yuan wei yang hua	3106
+原子百分比	yuan zi bai fen bi	498
+原子比变化	yuan zi bi bian hua	756
+原子尺度	yuan zi chi du	314
+原子发射	yuan zi fa she	1294
+原子力显微镜	yuan zi li xian wei jing	3318
+原子配位	yuan zi pei wei	1718
+原子吸收	yuan zi xi shou	1295
+原子吸收表征	yuan zi xi shou biao zheng	943
+原子吸收测试	yuan zi xi shou ce shi	945
+原子吸收分析	yuan zi xi shou fen xi	944
+原子吸收光谱	yuan zi xi shou guang pu	3294
+原子吸收结果	yuan zi xi shou jie guo	941
+原子吸收数据	yuan zi xi shou shu ju	940
+原子吸收研究	yuan zi xi shou yan jiu	942
+云母	yun mu	3561
+杂质矿物	za zhi kuang wu	2941
+杂质替位	za zhi ti wei	1685
+杂质元素	za zhi yuan su	914
+再浮选	zai fu xuan	3947
+再磨	zai mo	3948
+再磨解离	zai mo jie li	2484
+再磨调控	zai mo tiao kong	663
+再磨脱药	zai mo tuo yao	2997
+再磨氧化	zai mo yang hua	2483
+再磨优化	zai mo you hua	1757
+再磨预处理	zai mo yu chu li	854
+载体浮选	zai ti fu xuan	4063
+载体颗粒	zai ti ke li	2519
+在线分析	zai xian fen xi	3343
+在线加药	zai xian jia yao	345
+在线监测	zai xian jian ce	3344
+在线粒度	zai xian li du	341
+在线流量	zai xian liu liang	339
+在线浓度	zai xian nong du	340
+在线泡沫监测	zai xian pao mo jian ce	337
+在线品位	zai xian pin wei	342
+再现性	zai xian xing	3193
+在线液位	zai xian ye wei	338
+泽塔电位	ze ta dian wei	3912
+渣浆泵	zha jiang beng	3376
+窄谱	zhai pu	507
+振动峰	zhen dong feng	2417
+振动筛	zhen dong shai	3459
+真空层	zhen kong ceng	2389
+真空干燥	zhen kong gan zao	2345
+真空过滤	zhen kong guo lv	1361
+真空过滤机	zhen kong guo lv ji	3370
+针镍矿	zhen nie kuang	3635
+针铁矿	zhen tie kuang	3579
+针锌矿	zhen xin kuang	3517
+正浮选	zheng fu xuan	4074
+正交设计	zheng jiao she ji	3175
+正交试验	zheng jiao shi yan	4124
+正累积	zheng lei ji	3444
+正离子模式	zheng li zi mo shi	474
+蒸馏水	zheng liu shui	2285
+正态分布	zheng tai fen bu	2227
+脂肪胺	zhi fang an	3666
+脂肪酸	zhi fang suan	3667
+脂肪酸捕收剂	zhi fang suan bu shou ji	2672
+脂肪酸浮选	zhi fang suan fu xuan	2458
+脂肪酸盐	zhi fang suan yan	1629
+脂肪酸皂	zhi fang suan zao	648
+支化程度	zhi hua cheng du	613
+直接证据	zhi jie zheng ju	319
+支链效应	zhi lian xiao ying	1588
+质量保证	zhi liang bao zheng	1178
+质量回收率	zhi liang hui shou lv	4129
+质量控制	zhi liang kong zhi	3165
+质量浓度	zhi liang nong du	4105
+质量平衡	zhi liang ping heng	1210
+直流电场	zhi liu dian chang	3384
+智能浮选	zhi neng fu xuan	333
+质谱分析	zhi pu fen xi	1293
+知识空白	zhi shi kong bai	286
+置信区间	zhi xin qu jian	3186
+置信水平	zhi xin shui ping	2226
+制样	zhi yang	3330
+质子化	zhi zi hua	3862
+质子交换	zhi zi jiao huan	1556
+质子耦合电子转移	zhi zi ou he dian zi zhuan yi	682
+质子转移	zhi zi zhuan yi	3785
+仲胺	zhong an	644
+重柴油	zhong chai you	1622
+中度氧化	zhong du yang hua	573
+终端沉降速度	zhong duan chen jiang su du	1429
+重铬酸钾	zhong ge suan jia	3701
+重铬酸钾捕收作用	zhong ge suan jia bu shou zuo yong	1014
+重铬酸钾还原	zhong ge suan jia huan yuan	1019
+重铬酸钾降解	zhong ge suan jia jiang jie	1018
+重铬酸钾水解	zhong ge suan jia shui jie	1017
+重铬酸钾吸附	zhong ge suan jia xi fu	1021
+重铬酸钾选择性	zhong ge suan jia xuan ze xing	1015
+重铬酸钾氧化	zhong ge suan jia yang hua	1020
+重铬酸钾抑制作用	zhong ge suan jia yi zhi zuo yong	1013
+重铬酸钾作用	zhong ge suan jia zuo yong	1016
+中间产物	zhong jian chan wu	1829
+重介质	zhong jie zhi	3427
+重介质分选	zhong jie zhi fen xuan	3426
+重介质旋流器	zhong jie zhi xuan liu qi	3425
+重金属	zhong jin shu	3082
+重金属废液	zhong jin shu fei ye	1191
+重金属离子	zhong jin shu li zi	3081
+重金属去除	zhong jin shu qu chu	1233
+重晶石	zhong jing shi	3544
+中矿	zhong kuang	4167
+中矿槽	zhong kuang cao	349
+中矿返回	zhong kuang fan hui	4041
+中矿循环	zhong kuang xun huan	1779
+中矿再磨	zhong kuang zai mo	1332
+中矿再选	zhong kuang zai xuan	4040
+中矿质量	zhong kuang zhi liang	829
+重力分选	zhong li fen xuan	1433
+重力选矿	zhong li xuan kuang	3438
+中试验证	zhong shi yan zheng	1242
+中水回用	zhong shui hui yong	1235
+中碎	zhong sui	3502
+重碳酸根	zhong tan suan gen	2300
+中位粒径	zhong wei li jing	3467
+中心复合设计	zhong xin fu he she ji	2215
+中性条件	zhong xing tiao jian	1845
+主成分分析	zhu cheng fen fen xi	2222
+柱浮选	zhu fu xuan	4065
+主题词	zhu ti ci	297
+主效应	zhu xiao ying	3173
+主要结论	zhu yao jie lun	1246
+主要原因	zhu yao yuan yin	2185
+专家控制	zhuan jia kong zhi	331
+转子	zhuan zi	3354
+装球率	zhuang qiu lv	1474
+准确度	zhun que du	1280
+自动加药	zi dong jia yao	3338
+自动控制	zi dong kong zhi	3345
+自动矿物分析	zi dong kuang wu fen xi	2925
+自来水	zi lai shui	2284
+自磨	zi mo	3496
+自磨机	zi mo ji	3489
+自然铋	zi ran bi	1668
+自然铂	zi ran bo	1670
+自然金	zi ran jin	3531
+自然硫	zi ran liu	1669
+自然砷	zi ran shen	1667
+自然铜	zi ran tong	3529
+自然银	zi ran yin	3530
+紫外光谱	zi wai guang pu	3301
+紫外光谱表征	zi wai guang pu biao zheng	955
+紫外光谱测试	zi wai guang pu ce shi	957
+紫外光谱分析	zi wai guang pu fen xi	956
+紫外光谱结果	zi wai guang pu jie guo	953
+紫外光谱数据	zi wai guang pu shu ju	952
+紫外光谱研究	zi wai guang pu yan jiu	954
+紫外吸收峰	zi wai xi shou feng	2415
+紫外照射	zi wai zhao she	3111
+自吸浆浮选机	zi xi jiang fu xuan ji	2252
+自吸气浮选机	zi xi qi fu xuan ji	2253
+自旋捕获	zi xuan bu huo	2411
+自旋捕获剂	zi xuan bu huo ji	420
+自旋轨道分裂	zi xuan gui dao fen lie	2427
+自由沉降	zi you chen jiang	3422
+自由沉降区	zi you chen jiang qu	1371
+自由基捕获	zi you ji bu huo	864
+自由基猝灭	zi you ji cu mie	423
+自由基反应	zi you ji fan ying	1834
+自由基检测	zi you ji jian ce	2410
+自由基链反应	zi you ji lian fan ying	425
+自由基清除	zi you ji qing chu	422
+自由基生成	zi you ji sheng cheng	424
+自由基探针	zi you ji tan zhen	421
+自由基氧化	zi you ji yang hua	1835
+自由能曲线	zi you neng qu xian	2359
+资源回收	zi yuan hui shou	3066
+资源综合利用	zi yuan zong he li yong	3092
+总捕获概率	zong bu huo gai lv	4012
+综合分析	zong he fen xi	3034
+综合回收率	zong he hui shou lv	1211
+总回收率	zong hui shou lv	807
+综上所述	zong shang suo shu	3033
+综述论文	zong shu lun wen	291
+总有机碳	zong you ji tan	2407
+组合药剂	zu he yao ji	3658
+阻抗谱	zu kang pu	3270
+阻力系数	zu li xi shu	1428
+最大回收率	zui da hui shou lv	2833
+最大可浮回收率	zui da ke fu hui shou lv	801
+最低空轨道	zui di kong gui dao	3227
+最高占据轨道	zui gao zhan ju gui dao	3228
+最佳充气量	zui jia chong qi liang	1764
+最佳浮选时间	zui jia fu xuan shi jian	1768
+最佳搅拌时间	zui jia jiao ban shi jian	1765
+最佳矿浆浓度	zui jia kuang jiang nong du	1767
+最佳浓度	zui jia nong du	3048
+最佳条件	zui jia tiao jian	3047
+最佳药剂用量	zui jia yao ji yong liang	1766
+最佳叶轮转速	zui jia ye lun zhuan su	1763
+最佳用量	zui jia yong liang	3049
+最稳定构型	zui wen ding gou xing	411
+最小能量路径	zui xiao neng liang lu jing	3236
+最优条件	zui you tiao jian	4078
+最优吸附构型	zui you xi fu gou xing	410
+最终产物	zui zhong chan wu	1828
+作业回收率	zuo ye hui shou lv	4131
+作用差异	zuo yong cha yi	2180
+作用机理	zuo yong ji li	3055
+作用机制	zuo yong ji zhi	3056

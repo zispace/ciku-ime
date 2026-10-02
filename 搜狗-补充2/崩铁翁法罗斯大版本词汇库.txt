@@ -1,0 +1,610 @@
+# 词库名称: 崩铁翁法罗斯大版本词汇库
+# 词库分类: 回合游戏
+# 词库描述: 收集了一些3.0大版本较为常见的人名与词汇
+# 词条样例: 元老凯妮斯、诺杜斯、元老伊特罗、伊阿宋、西塔罗斯、克帖西芬
+# 解析词数: 603
+# 解析异常: 0
+
+阿波菲斯	a bo fei si	386
+阿波罗尼	a bo luo ni	336
+阿波罗尼娅	a bo luo ni ya	543
+阿尔科斯	a er ke si	453
+阿芙罗	a fu luo	584
+阿格莱雅	a ge lai ya	268
+阿克蒙	a ke meng	551
+阿里斯托芬	a li si tuo fen	494
+阿米库斯	a mi ku si	484
+阿淼菲斯	a miao fei si	384
+阿那克萨戈拉斯	a na ke sa ge la si	258
+阿普里斯	a pu li si	569
+阿水菲斯	a shui fei si	385
+阿斯忒利翁	a si tei li weng	444
+阿塔卡玛	a ta ka ma	410
+阿忒	a tei	568
+阿提卡斯	a ti ka si	354
+阿雅	a ya	267
+埃阿科	ai a ke	371
+哀悼月	ai dao yue	47
+埃德加	ai de jia	367
+埃赫那	ai he na	419
+埃基翁	ai ji weng	369
+埃拉	ai la	373
+埃雷	ai lei	540
+哀丽秘榭	ai li mi xie	202
+埃琳妮	ai lin ni	498
+挨骂狂	ai ma kuang	295
+艾犹卜	ai you bu	572
+安德里斯库斯	an de li si ku si	438
+安德烈亚斯	an de lie ya si	421
+安魂布丁	an hun bu ding	4
+安开俄斯	an kai e si	376
+安努斯	an nu si	324
+安森斯	an sen si	513
+安提西尼	an ti xi ni	329
+奥妲塔	ao da ta	342
+奥赫玛	ao he ma	224
+奥卢斯	ao lu si	530
+奥维德	ao wei de	485
+巴喀斯	ba ka si	400
+巴克斯	ba ke si	547
+巴门	ba men	510
+巴特鲁斯	ba te lu si	601
+白厄	bai e	251
+拜谒步道	bai ye bu dao	113
+宝库秘道	bao ku mi dao	167
+保卢斯	bao lu si	452
+绷带海豹	beng dai hai bao	286
+伯恩特	bo en te	519
+博莱斯	bo lai si	553
+波鲁克斯	bo lu ke si	320
+玻吕茜亚	bo lv qian ya	387
+波茉娜	bo mo na	480
+波瑟芬妮	bo se fen ni	446
+波塔莫斯	bo ta mo si	416
+播种之月	bo zhong zhi yue	74
+布鲁图斯	bu lu tu si	576
+卜伦	bu lun	465
+藏珍甬道	cang zhen yong dao	128
+长梦宸扉	chang meng chen fei	156
+长夜月	chang ye yue	83
+长昼月	chang zhou yue	69
+潮汐换热扇区	chao xi huan re shan qu	179
+晨昏之眼	chen hun zhi yan	216
+沉沦暮城	chen lun mu cheng	211
+沉思日的天平汤	chen si ri de tian ping tang	14
+赤陶学派	chi tao xue pai	22
+储备之月	chu bei zhi yue	48
+传奇侠盗	chuan qi xia dao	242
+创生季	chuang sheng ji	66
+创世涡心	chuang shi wo xin	203
+垂泪残庭	chui lei can ting	120
+垂星穹顶	chui xing qiong ding	98
+刺头海豹	ci tou hai bao	281
+达芙涅	da fu nie	515
+达格拉	da ge la	408
+达利安	da li an	578
+大力海豹	da li hai bao	289
+达罗	da luo	552
+达米亚诺斯	da mi ya nuo si	600
+达娜叶	da na ye	405
+大奇美拉	da qi mei la	271
+大撕垃	da si la	274
+大壮	da zhuang	321
+丹克西	dan ke xi	378
+悼神断崖	dao shen duan ya	164
+德拉斯	de la si	499
+德米特里	de mi te li	439
+德谬歌	de miu ge	244
+德谬歌矩阵	de miu ge ju zhen	181
+德墨忒尔	de mo tei er	582
+狄奥缇玛	di ao ti ma	327
+地宝	di bao	273
+地大地大	di da di da	269
+狄俄斯拉	di e si la	392
+狄俄斯里	di e si li	393
+狄摩西尼	di mo xi ni	554
+第欧根娜	di ou gen na	567
+蝶蜕余火	die tui yu huo	124
+丢卡利翁	diu ka li weng	525
+冬霖爵塞涅卡	dong lin jue sai nie ka	341
+断锋爵拉比努斯	duan feng jue la bi nu si	335
+多哆啦迷	duo duo la mi	318
+哆徕徕迷	duo lai lai mi	301
+哆徕迷	duo lai mi	309
+哆嗦迷	duo suo mi	310
+驮子	duo zi	276
+厄里倪厄斯	e li ni e si	532
+厄琉斯	e liu si	566
+俄诺涅	e nuo nie	474
+厄瓦德涅	e wa de nie	403
+恩贝多克利斯	en bei duo ke li si	380
+恩普莎	en pu sha	531
+恩维尔	en wei er	574
+法奥勒西斯	fa ao le xi si	456
+法吉娜	fa ji na	71
+法吉娜的笑声	fa ji na de xiao sheng	10
+翻飞之币	fan fei zhi bi	42
+废宕无序矩阵	fei dang wu xu ju zhen	182
+斐第斯	fei di si	348
+菲罗克	fei luo ke	473
+费纳瑞特	fei na rui te	523
+焚心创口	fen xin chuang kou	123
+纷争荒墟	fen zheng huang xu	210
+纷争月	fen zheng yue	51
+纷争正殿	fen zheng zheng dian	108
+风堇	feng jin	255
+丰收祭	feng shou ji	58
+封印地室	feng yin di shi	118
+福尔图娜	fu er tu na	561
+富人拉莱德	fu ren la lai de	591
+负世的塑像	fu shi de su xiang	192
+负世祭坛	fu shi ji tan	127
+芙缇尼	fu ti ni	326
+浮影海庭	fu ying hai ting	142
+盖亚	gai ya	557
+感恩之月	gan en zhi yue	44
+哥达	ge da	506
+戈尔狄克斯	ge er di ke si	17
+歌耳戈	ge er ge	436
+格拉缇翁	ge la ti weng	399
+格拉维塔斯	ge la wei ta si	411
+格劳刻	ge lao ke	404
+格奈乌斯	ge nai wu si	602
+耕耘月	geng yun yue	78
+公民大会	gong min da hui	93
+公正之秤	gong zheng zhi cheng	86
+古城正门	gu cheng zheng men	170
+关塞垂井	guan sai chui jing	137
+关塞颅顶	guan sai lu ding	136
+关塞悬廊	guan sai xuan lang	135
+规划之月	gui hua zhi yue	40
+桂娜	gui na	394
+归墟的迳庭	gui xu de jing ting	195
+果蔬摊的梅塔涅拉	guo shu tan de mei ta nie la	472
+哈德斯	ha de si	447
+哈基迷	ha ji mi	305
+哈托努斯	ha tuo nu si	603
+海列屈拉	hai lie qu la	248
+海伦	hai lun	470
+海瑟音	hai se yin	249
+海洋的歌者	hai yang de ge zhe	226
+酣歌海垠	han ge hai yin	215
+好运饼干	hao yun bing gan	2
+赫柏	he bai	418
+赫菲斯辛	he fei si xin	426
+赫格西娅	he ge xi ya	556
+赫卡忒	he ka tei	448
+赫克鲁斯	he ke lu si	533
+赫克士	he ke shi	398
+赫拉克勒斯	he la ke le si	319
+赫西娅	he xi ya	495
+黑化海豹	hei hua hai bao	283
+虹霓尽处	hong ni jin chu	132
+红温海豹	hong wen hai bao	284
+红月	hong yue	38
+护幼之月	hu you zhi yue	70
+花海爵	hua hai jue	237
+怀离浴池	huai li yu chi	143
+坏脾气	huai pi qi	294
+怀斯	huai si	521
+欢喜月	huan xi yue	73
+黄金替罪羊	huang jin ti zui yang	1
+黄金之茧	huang jin zhi jian	55
+灰黯之手	hui an zhi shou	46
+辉痕圣林	hui hen sheng lin	219
+灰烬王座	hui jin wang zuo	122
+毁灭共振终端	hui mie gong zhen zhong duan	183
+昏曦圣道	hun xi sheng dao	163
+吉奥刻勒斯	ji ao ke le si	330
+吉奥里亚	ji ao li ya	76
+吉奥里亚的七谷面包	ji ao li ya de qi gu mian bao	12
+基农	ji nong	516
+祭司门塔	ji si men ta	391
+寂夜市集	ji ye shi ji	145
+机缘月	ji yuan yue	43
+伽尔巴	jia er ba	347
+渐梦庭院	jian meng ting yuan	96
+剑旗爵	jian qi jue	243
+践行时	jian xing shi	33
+捷足爵	jie zu jue	235
+觐神祭台	jin shen ji tai	117
+觐神狭窒	jin shen xia zhi	157
+噤语黯地	jin yu an di	155
+金月	jin yue	37
+金织爵	jin zhi jue	241
+金枝堂奥	jin zhi tang ao	121
+金鳟	jin zun	233
+敬拜学派	jing bai xue pai	24
+静水主池	jing shui zhu chi	141
+经纬小径	jing wei xiao jing	158
+静域墓门	jing yu mu men	177
+沮泞烛坛	ju ning zhu tan	130
+掘石场	jue shi chang	109
+绝望的封牢	jue wang de feng lao	189
+卡厄斯兰那	ka e si lan na	250
+卡勒克提斯	ka le ke ti si	379
+卡利多托斯	ka li duo tuo si	424
+卡丽斯塔	ka li si ta	323
+卡莉斯塔	ka li si ta	493
+卡利斯托	ka li si tuo	487
+卡林尼库斯	ka lin ni ku si	412
+卡吕普索	ka lv pu suo	431
+卡戎	ka rong	483
+卡森德拉	ka sen de la	571
+卡斯托尔	ka si tuo er	442
+卡斯托莉丝	ka si tuo li si	260
+凯妮斯	kai ni si	594
+凯撒	kai sa	246
+开山者吉奥刻勒斯	kai shan zhe ji ao ke le si	331
+凯特	kai te	328
+开拓者二世	kai tuo zhe er shi	272
+抗压包	kang ya bao	296
+柯德克斯	ke de ke si	414
+柯德萨	ke de sa	457
+刻法勒	ke fa le	63
+刻法勒广场	ke fa le guang chang	99
+科可波三世	ke ke bo san shi	322
+柯库翁	ke ku weng	370
+克拉特鲁斯	ke la te lu si	434
+克莱门汀	ke lai men ting	432
+刻牢刻	ke lao ke	468
+克利克	ke li ke	467
+克里斯普斯	ke li si pu si	357
+克利托	ke li tuo	491
+科洛埃	ke luo ai	420
+克洛里斯	ke luo li si	401
+柯罗妮	ke luo ni	481
+刻律德拉	ke lv de la	247
+克吕缇	ke lv ti	374
+克米昂	ke mi ang	577
+柯珀丝	ke po si	546
+克瑞斯	ke rui si	583
+科萨忒尔	ke sa tei er	450
+克特西	ke te xi	559
+克帖西芬	ke tie xi fen	585
+库克诺斯	ku ke nuo si	479
+库娜涅	ku na nie	409
+拉比努斯	la bi nu si	334
+拉缇娜	la ti na	349
+啦嘻嘻迷	la xi xi mi	311
+莱昂	lai ang	429
+徕啦迷	lai la mi	317
+老费贝尔	lao fei bei er	425
+老提图斯	lao ti tu si	413
+勒法刻	le fa ke	477
+蕾莉亚	lei li ya	366
+冷照浴宫	leng zhao yu gong	138
+利波	li bo	596
+离愁时	li chou shi	31
+利衡币	li heng bi	18
+莉维娅	li wei ya	345
+莲食学派	lian shi xue pai	28
+裂分之枝	lie fen zhi zhi	60
+烈阳爵	lie yang jue	234
+零食商人尼刻	ling shi shang ren ni ke	599
+灵水	ling shui	140
+流憩大厅	liu qi da ting	102
+龙骸古城	long hai gu cheng	206
+卢克雷提娅	lu ke lei ti ya	558
+鲁克斯	lu ke si	440
+露奈比斯	lu nai bi si	359
+卢西达	lu xi da	455
+卢西亚	lu xi ya	486
+洛阿特	luo a te	520
+洛尔拉恩	luo er la en	458
+罗吉亚	luo ji ya	505
+绿海豚	lv hai tun	231
+马尔库斯	ma er ku si	575
+马耳叙阿斯	ma er xu a si	437
+玛格达莱娜	ma ge da lai na	406
+玛格什	ma ge shen	548
+迈德漠斯	mai de mo si	256
+满溢之杯	man yi zhi bei	72
+满溢主池	man yi zhu chi	103
+门扉时	men fei shi	36
+门关月	men guan yue	91
+门径终处	men jing zhong chu	112
+猛男海豹	meng nan hai bao	278
+咪哆哆迷	mi duo duo mi	304
+咪发迷	mi fa mi	312
+咪啦迷	mi la mi	308
+咪徕迷	mi lai mi	313
+弥利翁	mi li weng	517
+迷路迷境	mi lu mi jing	198
+弥斯	mi si	541
+秘思暗廊	mi si an lang	116
+米提丰	mi ti feng	544
+咪嘻啦迷	mi xi la mi	300
+明晰时	ming xi shi	35
+命运宸扉	ming yun chen fei	114
+命运荒途	ming yun huang tu	154
+命运季	ming yun ji	92
+命运爵	ming yun jue	240
+命运重渊	ming yun zhong yuan	209
+莫顿	mo dun	375
+墨兰珀斯	mo lan po si	402
+墨莉亚	mo li ya	351
+墨涅塔	mo nie ta	54
+末世祭坛	mo shi ji tan	165
+莫忒丝	mo tei si	415
+墨透斯	mo tou si	500
+摸鱼仔	mo yu zai	293
+幕匿时	mu ni shi	30
+那刻夏	na ke xia	259
+尼卡多利	ni ka duo li	49
+尼卡多利的胜利之盾	ni ka duo li de sheng li zhi dun	7
+尼刻	ni ke	598
+尼科马库斯	ni ke ma ku si	422
+尼科斯	ni ke si	496
+尼莎	ni sha	478
+涅赖德斯	nie lai de si	333
+涅柔娅	nie rou ya	362
+宁芙	ning fu	565
+诺杜斯	nuo du si	592
+欧斐摩斯	ou fei mo si	443
+欧洛尼斯	ou luo ni si	81
+欧弥利亚	ou mi li ya	549
+帕狄卡斯	pa di ka si	433
+帕里斯	pa li si	475
+帕门弥德	pa men mi de	563
+帕西提亚	pa xi ti ya	579
+派拉麦克	pai la mai ke	522
+派图特	pai tu te	507
+磐岩之脊	pan yan zhi ji	77
+泡泡	pao pao	290
+佩琉斯	pei liu si	555
+佩特拉	pei te la	573
+嘭嘭海豹	peng peng hai bao	285
+皮拉	pi la	524
+披索	pi suo	344
+皮提娅	pi ti ya	562
+皮西厄斯	pi xi e si	346
+平衡月	ping heng yue	87
+珀兰	po lan	461
+珀勒斯	po le si	514
+珀里法斯	po li fa si	423
+普赫斯	pu he si	382
+普鲁登蒂亚	pu lu deng di ya	332
+朴塞塔	pu sai ta	427
+普通灰豹	pu tong hui bao	279
+七谷面包	qi gu mian bao	11
+启蒙王座	qi meng wang zuo	161
+绮斯	qi si	395
+契西古恩	qi xi gu en	459
+泣夜残壁	qi ye can bi	171
+乔伯	qiao bo	509
+乔治	qiao zhi	529
+乔治斯波	qiao zhi si bo	441
+切拉	qie la	464
+请假狂	qing jia kuang	297
+擎空骨械	qing kong gu xie	134
+穹顶关塞	qiong ding guan sai	217
+求知静庭	qiu zhi jing ting	159
+全世矩阵	quan shi ju zhen	213
+全世之座	quan shi zhi zuo	64
+缺漏数据端口	que lou shu ju duan kou	185
+扰梦石陵	rao meng shi ling	153
+熔金奠池	rong jin dian chi	175
+熔金悬台	rong jin xuan tai	172
+闰日	run ri	39
+塞尔维乌斯	sai er wei wu si	527
+赛法莉娅	sai fa li ya	252
+赛飞儿	sai fei er	253
+塞拉	sai la	492
+塞纳托斯	sai na tuo si	45
+塞纳托斯的安魂布丁	sai na tuo si de an hun bu ding	5
+塞涅俄丝	sai nie e si	360
+塞涅卡	sai nie ka	340
+塞浦俄涅	sai pu e nie	503
+塞若涅斯	sai ruo nie si	364
+塞西涅尔	sai xi nie er	462
+三季海庭	san ji hai ting	104
+散雅	san ya	511
+瑟希斯	se xi si	59
+瑟希斯的智慧之叶	se xi si de zhi hui zhi ye	9
+山羊学派	shan yang xue pai	26
+上升时	shang sheng shi	34
+神话的罅隙	shen hua de xia xi	193
+神奇林地	shen qi lin di	199
+神悟树庭	shen wu shu ting	218
+神谕圣地	shen yu sheng di	221
+绳结学派	sheng jie xue pai	25
+胜利之盾	sheng li zhi dun	6
+生命花园	sheng ming hua yuan	106
+十敌	shi di	381
+时光归墟	shi guang gui xu	200
+拾线月	shi xian yue	56
+收成之月	shou cheng zhi yue	57
+收获月	shou huo yue	61
+守望之月	shou wang zhi yue	62
+收尾之月	shou wei zhi yue	53
+书店的卡拉培	shu dian de ka la pei	471
+数据平流区	shu ju ping liu qu	180
+戍卫克米昂	shu wei ke mi ang	476
+双面馅饼	shuang mian xian bing	15
+双色海豹	shuang se hai bao	280
+双月高塔	shuang yue gao ta	169
+说怪话	shuo guai hua	291
+斯塔基拉	si ta ji la	537
+斯缇科西亚	si ti ke xi ya	214
+斯缇科西亚女王	si ti ke xi ya nv wang	388
+苏克提瑞斯	su ke ti rui si	590
+苏拉	su la	451
+苏生祭	su sheng ji	75
+岁月彼岸	sui yue bi an	95
+岁月神殿	sui yue shen dian	168
+索菲娅	suo fei ya	497
+索芙洛尼娅	suo fu luo ni ya	325
+索拉比斯	suo la bi si	358
+嗦啦嘻迷	suo la xi mi	302
+嗦咪嗦迷	suo mi suo mi	307
+嗦嗦啦迷	suo suo la mi	316
+塔兰顿	ta lan dun	85
+塔利娅	ta li ya	372
+塔斯	ta si	466
+塔瓦纳安娜	ta wa na an na	538
+塔西乌斯	ta xi wu si	488
+泰奥弗斯	tai ao fu si	539
+泰坦断崖	tai tan duan ya	126
+太阳鱼	tai yang yu	227
+特克菈将军	te ke la jiang jun	356
+特拉戈	te la ge	463
+忒勒马科斯	tei le ma ke si	526
+忒瑞劳斯	tei rui lao si	502
+忒斯庇斯	tei si bi si	368
+忒坦拉图尔	tei tan la tu er	460
+缇安	ti an	264
+缇宝	ti bao	265
+缇里西庇俄丝	ti li xi bi e si	266
+提摩斯	ti mo si	383
+缇宁	ti ning	263
+缇宋	ti song	262
+天平汤	tian ping tang	13
+天谴之矛	tian qian zhi mao	50
+天使海豹	tian shi hai bao	288
+天象画壁	tian xiang hua bi	133
+图勒	tu le	545
+托勒密	tuo le mi	428
+万敌	wan di	257
+万壑岩心	wan he yan xin	119
+万径之门	wan jing zhi men	90
+万帷网	wan wei wang	19
+王宫废庭	wang gong fei ting	166
+维尔图斯	wei er tu si	593
+维吉妮娅	wei ji ni ya	338
+维普萨尼娅	wei pu sa ni ya	535
+乌戈丝	wu ge si	501
+无晖祈堂	wu hui qi tang	207
+乌拉尼娅	wu la ni ya	469
+乌拉诺斯	wu la nuo si	270
+无名泰坦大墓	wu ming tai tan da mu	212
+无念的枯家	wu nian de ku jia	194
+无念的枯冢	wu nian de ku zhong	187
+嘻哆啦迷	xi duo la mi	315
+希吉拉	xi ji la	581
+西克斯图斯	xi ke si tu si	489
+昔涟	xi lian	245
+希列斯	xi lie si	20
+希洛尼摩斯	xi luo ni mo si	343
+希洛诺美	xi luo nuo mei	21
+嘻咪啦迷	xi mi la mi	306
+西农	xi nong	560
+希诺	xi nuo	564
+希帕索斯	xi pa suo si	417
+希瑞雅	xi rui ya	445
+西塞罗	xi sai luo	570
+西斯刻耳	xi si ke er	504
+嘻嗦啦迷	xi suo la mi	314
+西塔罗斯	xi ta luo si	586
+希提恩斯	xi ti en si	397
+嘻嘻哆迷	xi xi duo mi	303
+夕照之路	xi zhao zhi lu	146
+遐蝶	xia die	261
+下降时	xia jiang shi	32
+献身拱心	xian shen gong xin	162
+先王欧利庞	xian wang ou li pang	435
+橡胶海豹	xiang jiao hai bao	287
+小地兽	xiao di shou	275
+小蝶鱼	xiao die yu	230
+小海狮	xiao hai shi	232
+小夸夸	xiao kua kua	292
+小猫鱼	xiao mao yu	228
+小医师鱼	xiao yi shi yu	229
+信徒丝西涅	xin tu si xi nie	390
+醒土之月	xing tu zhi yue	80
+休养之月	xiu yang zhi yue	88
+煦光圃园	xu guang pu yuan	97
+叙涅	xu nie	580
+悬锋城	xuan feng cheng	222
+悬锋斗技场	xuan feng dou ji chang	150
+悬锋王	xuan feng wang	239
+悬夜骨械	xuan ye gu xie	176
+学者帕拉滕	xue zhe pa la teng	589
+亚罗	ya luo	454
+雅努萨波利斯	ya nu sa bo li si	220
+雅努斯	ya nu si	89
+雅努斯的双面馅饼	ya nu si de shuang mian xian bing	16
+亚森	ya sen	350
+雅辛忒丝	ya xin tei si	254
+雅辛缇娅	ya xin ti ya	355
+阳雷骑士塞涅俄丝	yang lei qi shi sai nie e si	361
+摇光爵	yao guang jue	236
+夜色庭园	ye se ting yuan	144
+曳石爵阿波罗尼	ye shi jue a bo luo ni	337
+曳石学派	ye shi xue pai	23
+伊阿宋	yi a song	587
+遗堡垂井	yi bao chui jing	174
+遗堡之底	yi bao zhi di	173
+伊堤罗	yi di luo	377
+伊俄	yi e	365
+伊菲丝	yi fei si	482
+艾格勒	yi ge le	68
+伊格尼斯	yi ge ni si	449
+遗境残质渡台	yi jing can zhi du tai	184
+伊克西翁	yi ke xi weng	550
+伊来内	yi lai nei	352
+伊蕾	yi lei	512
+伊娜	yi na	508
+伊丝	yi si	396
+一页永恒	yi ye yong heng	94
+呓语密林	yi yu mi lin	208
+吟风爵维吉妮娅	yin feng jue wei ji ni ya	339
+喑声长厅	yin sheng chang ting	139
+吟游诗人利波	yin you shi ren li bo	597
+莹骨海床	ying gu hai chuang	131
+硬汉海豹	ying han hai bao	277
+英雄浴池	ying xiong yu chi	105
+永恒圣城	yong heng sheng cheng	225
+涌泉歌庭	yong quan ge ting	129
+永夜之帷	yong ye zhi wei	82
+友爱之馆	you ai zhi guan	160
+尤利克赛斯	you li ke sai si	534
+尤里萨	you li sa	363
+尤利乌斯	you li wu si	490
+尤利娅	you li ya	536
+幽灵海豹	you ling hai bao	282
+幽灵日的好运饼干	you ling ri de hao yun bing gan	3
+浴场侍者达罗	yu chang shi zhe da luo	430
+浴血战端	yu xue zhan duan	223
+预言书库	yu yan shu ku	115
+元老凯妮斯	yuan lao kai ni si	595
+元老伊特罗	yuan lao yi te luo	588
+远行渡口	yuan xing du kou	196
+云端遗堡	yun duan yi bao	205
+孕界心脉	yun jie xin mai	186
+云石市集	yun shi shi ji	100
+云石天宫	yun shi tian gong	101
+云崖圣道	yun ya sheng dao	125
+灾厄季	zai e ji	52
+灾梦余温	zai meng yu wen	204
+葬忆彼岸	zang yi bi an	201
+仄菲克	ze fei ke	518
+泽弗	ze fu	353
+泽洛	ze luo	407
+泽诺托斯	ze nuo tuo si	542
+贼星	zei xing	29
+扎格列斯	zha ge lie si	41
+长老阿蒙内特	zhang lao a meng nei te	389
+征伐陌地	zheng fa mo di	149
+征伐行道	zheng fa xing dao	107
+止戈残间	zhi ge can jian	148
+智慧之叶	zhi hui zhi ye	8
+职业经理	zhi ye jing li	298
+执愿的囚室	zhi yuan de qiu shi	190
+智哲爵	zhi zhe jue	238
+智种学派	zhi zhong xue pai	27
+支柱季	zhi zhu ji	79
+中央区渡台	zhong yang qu du tai	178
+逐魂隘口	zhu hun ai kou	147
+铸魂颓垣	zhu hun tui yuan	152
+铸魂仪门	zhu hun yi men	111
+祝祭庭院	zhu ji ting yuan	197
+朱诺	zhu nuo	528
+壮长之月	zhuang chang zhi yue	67
+坠锋的楼台	zhui feng de lou tai	188
+准备之月	zhun bei zhi yue	84
+斫念的圣所	zhuo nian de sheng suo	191
+琢石寂地	zhuo shi ji di	151
+琢石区	zhuo shi qu	110
+自由月	zi you yue	65
+自由之角	zi you zhi jiao	299
